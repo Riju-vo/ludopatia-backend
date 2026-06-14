@@ -1,0 +1,1222 @@
+2113189	Tracey Seamount	Tracey Seamount		13.6333	144.4107	U	SMU	GU		00				0	-738	-9999	Pacific/Guam	2011-06-09
+2113217	Santa Rosa Reef	Santa Rosa Reef		12.817	144.425	U	SMU	GU		00				0	-5	-9999	Pacific/Guam	2011-06-09
+2113335	Galvez Banks	Galvez Banks	Galvez Bank	13.06667	144.45	U	SMU	GU		00				0	-14	-9999	Pacific/Guam	2011-06-09
+2114227	Malaguana-Gadao Rise	Malaguana-Gadao Rise	Archaean Site - Fumarolic Activity,Malaguana-Gadao Ridge,Mariana Trench Marine National Monument - Vents Unit,Pika Site - Fumarolic Activity,South Back Arc Spreading Center - Fumarolic Activity	12.93972	143.63194	U	RISU	GU		00				0		-9999	Pacific/Guam	2011-06-09
+4038438	War in the Pacific National Historical Park - Piti Guns Unit	War in the Pacific National Historical Park - Piti Guns Unit	WW2	13.46135	144.69483	L	PRK	GU		PI				0	35	42	Pacific/Guam	2011-06-30
+4038440	Pelagi Islets	Pelagi Islets	Peladgi Islets	13.40153	144.66018	T	ISLET	GU		AT				0	2	26	Pacific/Guam	2011-07-05
+4038444	Perez Acres	Perez Acres		13.52431	144.8869	P	PPLX	GU		YG				0	134	134	Pacific/Guam	2011-06-22
+4038452	Outhouse Beach	Outhouse Beach		13.46417	144.65607	T	BCH	GU		PI				0	0	5	Pacific/Guam	2011-06-01
+4038454	old Seaplane Ramp - US built WW2	old Seaplane Ramp - US built WW2		13.46355	144.66009	S	HSTS	GU		PI				0	0	4	Pacific/Guam	2011-06-09
+4038456	Mobil Tanker Pier	Mobil Tanker Pier	Golf Pier G	13.46319	144.65851	S	PIER	GU		PI				0	-17	9	Pacific/Guam	2011-06-01
+4038458	Dog Leg Pier D	Dog Leg Pier D		13.46312	144.64854	S	PIER	GU		PI				0	0	4	Pacific/Guam	2011-06-01
+4038460	Piga	Piga		13.26409	144.67421	P	PPLX	GU		ME				0	3	8	Pacific/Guam	2011-06-14
+4038472	Pinay Point	Pinay Point		13.32211	144.65089	T	CAPE	GU		UM				0	43	15	Pacific/Guam	2011-06-03
+4038473	Piti Village	Piti Village	Petey,Piti Vilage,Piti Village	13.46256	144.69331	P	PPLA	GU		PI				1666	3	8	Pacific/Guam	2020-10-24
+4038475	Piti Bay	Piti Bay		13.46976	144.694	H	BAY	GU		PI				0	0	1	Pacific/Guam	2011-06-01
+4038476	Piti Canal	Piti Canal		13.4665	144.68515	H	CNL	GU		PI				0	0	9	Pacific/Guam	2011-06-01
+4038477	Piti Boat Channel - Spain built 1800s	Piti Boat Channel - Spain built 1800s		13.46121	144.67911	H	CHN	GU		PI				0	0	1	Pacific/Guam	2011-06-02
+4038478	Piti Municipality	Piti Municipality	Piti	13.46256	144.69282	A	ADM1	GU		PI				1666	318	10	Pacific/Guam	2013-10-15
+4038479	JP Piti Coastal Defense Guns WW2	JP Piti Coastal Defense Guns WW2	US National Register of Historic Places,War in the Pacific National Historical Park - Piti Guns Unit	13.46148	144.69465	S	RUIN	GU		PI				0	30	42	Pacific/Guam	2011-06-06
+4038481	Piti Heavy Fuel Diesel Powerplant 88 MW	Piti Heavy Fuel Diesel Powerplant 88 MW	MEC Plant - Marianas Energy Company,Piti Power Plant	13.4628	144.68862	S	PS	GU		PI				0	3	8	Pacific/Guam	2011-06-13
+4038483	Plaza de Espana	Plaza de Espana	Magellan Plaza,Plaza Espagna,Plaza Principal,Plaza de Espana *,Plaza de Magallanes,US National Register of Historic Places	13.47397	144.75123	L	CMN	GU		AN				0	3	7	Pacific/Guam	2011-07-03
+4038484	Cabras Heavy Fuel Steam Turbine Powerplant 132 MW	Cabras Heavy Fuel Steam Turbine Powerplant 132 MW		13.46409	144.68538	S	PS	GU		PI				0	3	7	Pacific/Guam	2011-06-13
+4038486	Polaris Point	Polaris Point		13.4458	144.66937	T	PT	GU		PI				0	3	4	Pacific/Guam	2013-07-24
+4038489	Potts Junction Route3 - Route3A - Route9	Potts Junction Route3 - Route3A - Route9		13.58973	144.86499	R	RDJCT	GU		DD				0	145	146	Pacific/Guam	2011-06-22
+4038492	Pugua Point	Pugua Point		13.5922	144.83967	T	CAPE	GU		DD				0	110	124	Pacific/Guam	2011-07-02
+4038495	Punlan Dos Amantes Park	Punlan Dos Amantes Park	Two Lovers Park	13.53496	144.80294	L	PRK	GU		TM				0	109	112	Pacific/Guam	2011-07-08
+4038497	US Assault Beach RED ONE - USMC 3rd Regiment WW2	US Assault Beach RED ONE - USMC 3rd Regiment WW2		13.47615	144.72069	S	HSTS	GU		AS				0	0	6	Pacific/Guam	2011-06-03
+4038498	US Assault Beach RED TWO - USMC 3rd Regiment WW2	US Assault Beach RED TWO - USMC 3rd Regiment WW2		13.47475	144.71831	S	HSTS	GU		AS				0	0	14	Pacific/Guam	2011-06-03
+4038500	Ritidian Beach	Ritidian Beach		13.65418	144.86227	T	BCH	GU		YG				0	0	1	Pacific/Guam	2011-06-08
+4038502	Ritidian Point	Ritidian Point		13.65429	144.85992	T	CAPE	GU		YG				0	175	5	Pacific/Guam	2019-03-08
+4038503	Ritidian National Wildlife Refuge	Ritidian National Wildlife Refuge	Ritidian Unit Guam National Wildlife Refuge	13.65237	144.86165	L	RESW	GU		YG				0	6	20	Pacific/Guam	2011-07-02
+4038509	Togcha Cliff	Togcha Cliff	Maleyuc Sabana,Sabana Maleyuc Hill	13.37874	144.76677	T	MT	GU		YN				0	112	90	Pacific/Guam	2011-07-02
+4038517	Sagua River	Sagua River		13.34631	144.64183	H	STM	GU		AT				0	0	7	Pacific/Guam	2011-06-10
+4038519	Saint Anthony and Saint Victor Catholic Church	Saint Anthony and Saint Victor Catholic Church		13.49857	144.78112	S	CH	GU		TM				0	20	27	Pacific/Guam	2011-06-21
+4038520	Saint Anthony Catholic Elementary School	Saint Anthony Catholic Elementary School		13.49881	144.78118	S	SCH	GU		TM				0	20	29	Pacific/Guam	2011-06-26
+4038521	Saint Francis Catholic School	Saint Francis Catholic School		13.40909	144.77716	S	SCH	GU		YN				0	88	90	Pacific/Guam	2011-06-07
+4038522	Saint John Episcopal Elementary School	Saint John Episcopal Elementary School	Saint John's School	13.5067	144.80892	S	SCH	GU		TM				0	56	59	Pacific/Guam	2011-06-07
+4038523	Saint Johns Episcopal Church	Saint Johns Episcopal Church	Saint John's Church	13.50776	144.80922	S	CH	GU		TM				0	57	54	Pacific/Guam	2011-06-07
+4038524	Saint Joseph Catholic Church	Saint Joseph Catholic Church	Saint Joseph's Church	13.27426	144.7486	S	CH	GU		IN				0	3	7	Pacific/Guam	2011-06-21
+4038525	Saint Jude Thaddeus Catholic Church	Saint Jude Thaddeus Catholic Church		13.46179	144.75489	S	CH	GU		SJ				0	55	56	Pacific/Guam	2011-06-29
+4038530	Salinas	Salinas		13.39144	144.66278	P	PPLX	GU		AT				0	3	5	Pacific/Guam	2011-06-18
+4038531	Salinas Beach	Salinas Beach		13.39001	144.66024	T	BCH	GU		AT				0	0	-6	Pacific/Guam	2011-06-17
+4038534	Salisbury Junction Route1 - Route9 - AFB	Salisbury Junction Route1 - Route9 - AFB		13.56437	144.89949	R	RDJCT	GU		YG				0	188	184	Pacific/Guam	2011-06-22
+4038537	San Antonio	San Antonio		13.46633	144.80286	P	PPLX	GU		BA				0	60	71	Pacific/Guam	2011-06-25
+4038539	San Dimas Catholic Church	San Dimas Catholic Church		13.26656	144.6686	S	CH	GU		ME				0	4	18	Pacific/Guam	2011-06-05
+4038540	San Francisco de Assis Catholic Church	San Francisco de Assis Catholic Church	San Francisco de Assisi	13.40928	144.77669	S	CH	GU		YN				0	89	92	Pacific/Guam	2011-06-18
+4038541	San Isidro Chapel	San Isidro Chapel		13.35729	144.65005	S	CH	GU		AT				0	10	12	Pacific/Guam	2011-06-08
+4038542	San Juan Bautista Catholic Church	San Juan Bautista Catholic Church		13.44666	144.75963	S	CH	GU		CP				0	38	42	Pacific/Guam	2011-06-21
+4038543	San Luis Point	San Luis Point		13.44223	144.64773	T	HLL	GU		SR				0	36	21	Pacific/Guam	2011-06-20
+4038544	San Miguel Catholic Church	San Miguel Catholic Church		13.35419	144.75613	S	CH	GU		TF				0	90	92	Pacific/Guam	2011-06-08
+4038546	Mount Lamlam	Mount Lamlam	Lamlam - Top of Guam,SW Mountain Chain	13.33986	144.6657	T	MT	GU		AT				0	406	386	Pacific/Guam	2011-06-10
+4038547	San Ramon Chapel	San Ramon Chapel		13.46041	144.78982	S	CH	GU		BA				0	42	43	Pacific/Guam	2011-06-25
+4038549	San Vicente	San Vicente		13.39273	144.66903	P	PPLX	GU		SR				0	3	15	Pacific/Guam	2011-06-18
+4038550	San Vicente Ferrer y San Roke Catholic Church	San Vicente Ferrer y San Roke Catholic Church		13.47	144.7985	S	CH	GU		BA				0	69	74	Pacific/Guam	2011-06-21
+4038551	San Vicente Catholic Elementary School	San Vicente Catholic Elementary School		13.46696	144.7928	S	SCH	GU		BA				0	62	66	Pacific/Guam	2011-06-06
+4038552	Santa Barbara Catholic Church	Santa Barbara Catholic Church		13.51723	144.83834	S	CH	GU		DD				0	98	103	Pacific/Guam	2011-06-07
+4038553	Santa Barbara Catholic Elementary School	Santa Barbara Catholic Elementary School		13.51624	144.83892	S	SCH	GU		DD				0	97	101	Pacific/Guam	2011-06-07
+4038554	Santa Rita Village	Santa Rita Village	Santa Rita	13.38608	144.67226	P	PPLA	GU		SR				7500	66	77	Pacific/Guam	2013-07-07
+4038555	Santa Rita Municipality	Santa Rita Municipality	Santa Rita	13.38609	144.67208	A	ADM1	GU		SR				6470	266	70	Pacific/Guam	2023-02-12
+4038557	Santa Rosa	Santa Rosa	Hyundai	13.39797	144.67311	P	PPLX	GU		SR				0	30	23	Pacific/Guam	2011-06-18
+4038559	Mount Santa Rosa	Mount Santa Rosa	Volcanic Outcrop through Limestone Plateau	13.53512	144.91348	T	HLL	GU		YG				0	253	232	Pacific/Guam	2011-06-13
+4038560	Santa Teresita Catholic Church	Santa Teresita Catholic Church		13.44796	144.80303	S	CH	GU		MA				0	63	58	Pacific/Guam	2011-06-07
+4038561	Santo Papa As Juan Pablo Dos Monument	Santo Papa As Juan Pablo Dos Monument	Pope John Paul II Guam Visit 1981 Monument	13.47471	144.75163	S	MNMT	GU		AN				0	2	5	Pacific/Guam	2018-12-21
+4038564	Apra Yacht Anchorages by Marianas Yacht Club	Apra Yacht Anchorages by Marianas Yacht Club		13.45132	144.67368	H	ANCH	GU		PI				0	0	-9999	Pacific/Guam	2011-06-19
+4038566	Mount Sasalaguan	Mount Sasalaguan	SW Mountain Chain	13.27889	144.69297	T	MT	GU		ME				0	337	321	Pacific/Guam	2011-06-10
+4038567	Dededo Flea Market	Dededo Flea Market		13.51355	144.8339	S	MKT	GU		DD				0	85	88	Pacific/Guam	2011-06-24
+4038568	Saupon Point	Saupon Point	Satpon Point,Saupon Point	13.50609	144.77505	T	CAPE	GU		TM				0	52	46	Pacific/Guam	2011-06-19
+4038569	Schroeder Junction	Schroeder Junction		13.4628	144.691	R	RDJCT	GU		PI				0	3	6	Pacific/Guam	2011-06-06
+4038570	Mount Schroeder	Mount Schroeder	Navol Governor Seaton Schroeder 1900	13.28414	144.67927	T	MT	GU		ME				0	322	287	Pacific/Guam	2018-04-08
+4038573	Sella	Sella		13.47156	144.73402	P	PPLX	GU		AS				0	40	48	Pacific/Guam	2011-06-29
+4038574	Sella Bay	Sella Bay		13.32734	144.65065	H	BAY	GU		UM				0	0	207	Pacific/Guam	2011-06-10
+4038575	Sella River	Sella River		13.32809	144.6525	H	STM	GU		UM				0	25	12	Pacific/Guam	2018-04-10
+4038579	Korean Seventh Day Adventist Church	Korean Seventh Day Adventist Church		13.51699	144.84015	S	CH	GU		DD				0	98	101	Pacific/Guam	2011-06-07
+4038580	Seventh Day Adventist Clinic	Seventh Day Adventist Clinic		13.49883	144.78967	S	HSP	GU		TM				0	27	31	Pacific/Guam	2011-06-12
+4038582	First Sigua Falls	First Sigua Falls		13.42773	144.71239	H	FLLS	GU		YN				0	180	169	Pacific/Guam	2011-06-17
+4038584	Sigua River	Sigua River		13.42427	144.7352	H	STM	GU		YN				0	30	44	Pacific/Guam	2011-06-17
+4038586	Simon A Sanchez High School	Simon A Sanchez High School		13.52765	144.87676	S	SCH	GU		YG				0	138	138	Pacific/Guam	2011-06-07
+4038588	Sinajana Village	Sinajana Village	Sinahanna,Sinajana	13.46334	144.75406	P	PPLA	GU		SJ				2853	55	51	Pacific/Guam	2018-02-23
+4038590	Sinajana Municipality	Sinajana Municipality	Sinahanna,Sinahånña,Sinajana	13.46334	144.75381	A	ADM1	GU		SJ				2611	63	51	Pacific/Guam	2023-02-12
+4038596	Skinner Plaza	Skinner Plaza		13.4753	144.75165	L	CMN	GU		AN				0	2	5	Pacific/Guam	2011-07-01
+4038597	Socio	Socio	Saucio	13.48946	144.78989	P	PPLX	GU		TM				0	25	27	Pacific/Guam	2011-06-27
+4038603	South Tipalao - DoD Naval Housing	South Tipalao - DoD Naval Housing	South Tipalao Housing Area	13.41734	144.65134	P	PPLX	GU		SR				0	6	11	Pacific/Guam	2011-06-20
+4038604	Southern High School	Southern High School		13.39676	144.67935	S	SCH	GU		SR				0	55	54	Pacific/Guam	2011-06-08
+4038606	Spanish Rocks	Spanish Rocks	Piedras de la Fragata Espanola,Rocks of the Spanish Frigate	13.4537	144.62439	H	RFC	GU		PI				0	-4	-9999	Pacific/Guam	2011-06-02
+4038607	Spring Hill	Spring Hill		13.54185	144.88674	P	PPLX	GU		YG				0	152	155	Pacific/Guam	2011-06-23
+4038608	Destroyed Sumay Village WW2	Destroyed Sumay Village WW2	Sumai,Sumay Villagers moved to new Santa Rita Village	13.43636	144.65306	P	PPLW	GU		SR				0	2	9	Pacific/Guam	2011-06-19
+4038610	old Sumay Village Cemetery pre-WW2	old Sumay Village Cemetery pre-WW2	Sumay Cemetary,US National Register of Historic Places	13.43598	144.65429	S	CMTY	GU		SR				0	3	8	Pacific/Guam	2011-06-06
+4038612	SE Cocos Barrier Reef Awash	SE Cocos Barrier Reef Awash	Sumay	13.24141	144.68513	H	RFC	GU		ME				0	0	-9999	Pacific/Guam	2011-06-09
+4038615	Unified Courts of Guam - Guam Judicial Center	Unified Courts of Guam - Guam Judicial Center	Drug Courts of Guam,Small Claims Court of Guam,Superior Court of Guam,Supreme Court of Guam,Traffic Court of Guam	13.47213	144.75287	S	CTHSE	GU		AN				0	4	7	Pacific/Guam	2011-06-28
+4038621	Taelayag Beach	Taelayag Beach		13.35277	144.64423	T	BCH	GU		AT				0	0	158	Pacific/Guam	2011-06-18
+4038623	Sagua Hill	Sagua Hill		13.34784	144.64238	T	HLL	GU		AT				0	53	22	Pacific/Guam	2011-06-10
+4038625	Mount Taene	Mount Taene	SW Mountain Chain	13.3686	144.66929	T	MT	GU		AT				0	311	293	Pacific/Guam	2011-06-10
+4038626	Tagachang	Tagachang		13.40828	144.78096	P	PPLX	GU		YN				0	36	41	Pacific/Guam	2011-06-17
+4038627	Tagachan Beach	Tagachan Beach	Tagachang Beach	13.40428	144.78145	T	BCH	GU		YN				0	0	1	Pacific/Guam	2018-04-07
+4038629	Tagachang Point	Tagachang Point	Taga`chang Point,Tagachan Point	13.40222	144.78188	T	CAPE	GU		YN				0	30	29	Pacific/Guam	2011-07-03
+4038630	Tagua Point	Tagua Point		13.60136	144.93186	T	PT	GU		YG				0	0	-9999	Pacific/Guam	2011-06-09
+4038631	Fern Terrace	Fern Terrace	Taguag,Tatguat,Toguag	13.56991	144.85019	P	PPLX	GU		DD				0	133	132	Pacific/Guam	2011-06-24
+4038633	Taguag Cemetery	Taguag Cemetery		13.45894	144.70325	S	CMTY	GU		PI				0	95	95	Pacific/Guam	2011-06-20
+4038635	Taguan Point	Taguan Point		13.46805	144.85328	T	CAPE	GU		MA				0	116	96	Pacific/Guam	2011-06-09
+4038642	Taleyfac Bay	Taleyfac Bay		13.36227	144.64707	H	BAY	GU		AT				0	0	95	Pacific/Guam	2011-06-10
+4038644	Talisay	Talisay		13.39098	144.71335	P	PPLX	GU		SR				0	150	139	Pacific/Guam	2011-06-18
+4038645	DoD Naval Reserve - Naval Magazine	DoD Naval Reserve - Naval Magazine	DoD Naval Reserve - Ordnance Annex	13.37538	144.69977	L	MILB	GU		SR				0	60	48	Pacific/Guam	2011-07-04
+4038647	Talofofo Village	Talofofo Village	Pre-WW2 Part of Inarajan,Talo'fo'fo,Talo`fo`fo	13.35513	144.75835	P	PPLA	GU		TF				3215	90	101	Pacific/Guam	2013-07-07
+4038649	Talofofo Bay	Talofofo Bay		13.33749	144.76745	H	BAY	GU		TF				0	0	-9999	Pacific/Guam	2011-06-01
+4038651	Talafofo River Talofofo-Inarajan Bridge	Talafofo River Talofofo-Inarajan Bridge		13.33882	144.76193	S	BDG	GU		TF				0	2	9	Pacific/Guam	2011-06-18
+4038652	Talofofo Municipality	Talofofo Municipality	Talo'fo'fo,Talofofo	13.35522	144.7588	A	ADM1	GU		TF				3550	391	103	Pacific/Guam	2023-02-12
+4038653	Talofofo Elementary School	Talofofo Elementary School		13.35396	144.75891	S	SCH	GU		TF				0	101	103	Pacific/Guam	2011-06-08
+4038654	Talofofo Falls	Talofofo Falls	Mahnao Umatan	13.32433	144.73727	H	FLLS	GU		TF				0	30	31	Pacific/Guam	2011-06-08
+4038655	Onward Talofofo Golf Club	Onward Talofofo Golf Club	Talofo Golf Resort	13.36206	144.74114	S	RECG	GU		TF				0	120	123	Pacific/Guam	2011-06-08
+4038656	Talofofo River	Talofofo River		13.33869	144.76207	H	STM	GU		TF				0	3	4	Pacific/Guam	2018-04-09
+4038659	Tamuning-Tumon-Harmon Village	Tamuning-Tumon-Harmon Village	Maria Christina,Timoneng	13.48773	144.78138	P	PPLA	GU		TM				19685	13	20	Pacific/Guam	2013-07-07
+4038661	Tamuning-Tumon-Harmon Municipality	Tamuning-Tumon-Harmon Municipality	Tamuneng,Tamuning,Tamuning-Tumon-Harmon,Tamuninq,tamuniga,tamunim,tamuningu,tamuniniግ,tamwnyng,Тамунинг,تامونينگ,تامونینگ,তামুনিং,ਤਾਮੁਨਿੰਗ,ታሙኒንግ,タムニング	13.48759	144.78094	A	ADM1	GU		TM				18489	107	19	Pacific/Guam	2026-04-16
+4038662	Tamuning Elementary School	Tamuning Elementary School	Tamuning School	13.49989	144.78223	S	SCH	GU		TM				0	23	31	Pacific/Guam	2011-06-06
+4038664	Tanguisson Beach	Tanguisson Beach		13.5435	144.80842	T	BCH	GU		DD				0	0	9	Pacific/Guam	2018-04-07
+4038665	Tanguisson Point	Tanguisson Point		13.55099	144.81283	T	CAPE	GU		DD				0	110	110	Pacific/Guam	2011-06-08
+4038666	Tanguisson Heavy Fuel Powerplant 53 MW	Tanguisson Heavy Fuel Powerplant 53 MW	Pruvient LLC Steam Turbine Power Plant	13.54175	144.80764	S	PS	GU		TM				0	9	11	Pacific/Guam	2011-06-13
+4038667	Tantapalo Point	Tantapalo Point	Tantapalao Point	13.41768	144.64383	T	CAPE	GU		SR				0	12	1	Pacific/Guam	2011-06-19
+4038669	Taogam Point	Taogam Point		13.42715	144.80056	T	CAPE	GU		MA				0	38	33	Pacific/Guam	2011-06-21
+4038671	Tarague Beach	Tarague Beach		13.625	144.8958	T	BCH	GU		YG				0	0	5	Pacific/Guam	2011-06-08
+4038675	Tartuguan Point	Tartuguan Point		13.36206	144.77176	T	PT	GU		TF				0	0	6	Pacific/Guam	2011-06-04
+4038676	Tarzan Falls	Tarzan Falls		13.39606	144.72071	H	FLLS	GU		YN				0	68	81	Pacific/Guam	2011-06-09
+4038677	Tarzan River	Tarzan River		13.39941	144.73412	H	STM	GU		YN				0	32	27	Pacific/Guam	2018-04-09
+4038679	Tenjo River	Tenjo River		13.41954	144.68088	H	STM	GU		PI				0	30	14	Pacific/Guam	2018-04-10
+4038681	Nimitz Hill	Nimitz Hill		13.46346	144.70518	P	PPLX	GU		PI				0	60	69	Pacific/Guam	2011-07-05
+4038682	Tepungan Channel - US built 1933	Tepungan Channel - US built 1933	Coal Barges Channel to Hagnata Powerplant	13.46697	144.69316	H	CHN	GU		PI				0	0	1	Pacific/Guam	2011-06-20
+4038683	San Luis Swamp	San Luis Swamp		13.44217	144.65195	H	SWMP	GU		SR				0	0	3	Pacific/Guam	2011-06-19
+4038685	Tinaga River	Tinaga River	Tinago River	13.28713	144.75443	H	STM	GU		IN				0	6	14	Pacific/Guam	2018-04-09
+4038688	Mount Tenjo	Mount Tenjo	SW Mountain Chain	13.42121	144.69961	T	MT	GU		PI				0	314	279	Pacific/Guam	2011-06-18
+4038689	Tipalao Bay	Tipalao Bay	Haputo Bay	13.41663	144.64617	H	BAY	GU		SR				0	0	1	Pacific/Guam	2011-06-19
+4038690	Tipalao Beach	Tipalao Beach		13.4172	144.64781	T	BCH	GU		SR				0	0	3	Pacific/Guam	2011-06-03
+4038692	Tipoco Catholic Cemetery	Tipoco Catholic Cemetery		13.26988	144.74329	S	CMTY	GU		IN				0	3	7	Pacific/Guam	2011-06-15
+4038695	Togcha Bay	Togcha Bay		13.36553	144.77474	H	BAY	GU		TF				0	0	-9999	Pacific/Guam	2011-06-04
+4038696	Togcha Beach	Togcha Beach	Togoha Beach	13.39752	144.66251	T	BCH	GU		AT				0	0	2	Pacific/Guam	2011-06-10
+4038697	Togcha Cemetery	Togcha Cemetery		13.38642	144.77386	S	CMTY	GU		YN				0	3	7	Pacific/Guam	2011-07-02
+4038698	Togcha Point	Togcha Point		13.37188	144.77234	T	PT	GU		YN				0	0	-9999	Pacific/Guam	2011-06-04
+4038699	Togcha River	Togcha River		13.36677	144.76928	H	STM	GU		YN				0	6	6	Pacific/Guam	2018-04-09
+4038703	Toguan Bay	Toguan Bay		13.28385	144.66067	H	BAY	GU		UM				0	0	41	Pacific/Guam	2011-06-14
+4038705	Municipal Tripoint Hill Talofofo - Agat - Santa Rita	Municipal Tripoint Hill Talofofo - Agat - Santa Rita		13.35213	144.70308	T	PT	GU		00				0	88	79	Pacific/Guam	2011-06-21
+4038710	Toto	Toto	To`to	13.46609	144.78257	P	PPLX	GU		MT				0	42	41	Pacific/Guam	2011-06-27
+4038711	Pulantat	Pulantat	Tres-Reyes	13.41283	144.75526	P	PPLX	GU		YN				0	90	77	Pacific/Guam	2011-06-17
+4038712	Trinchera Beach	Trinchera Beach		13.4796	144.76637	T	BCH	GU		AN				0	0	1	Pacific/Guam	2011-06-28
+4038713	Trinity Christian Church	Trinity Christian Church		13.53189	144.88582	S	CH	GU		YG				0	123	126	Pacific/Guam	2011-06-07
+4038714	Trinity Christian School	Trinity Christian School		13.53218	144.8859	S	SCH	GU		YG				0	123	127	Pacific/Guam	2011-06-07
+4038718	Tumon	Tumon	Tomhom	13.50694	144.80139	P	PPLX	GU		TM				0	5	7	Pacific/Guam	2011-06-27
+4038719	Tumon Bay	Tumon Bay		13.51389	144.79639	H	BAY	GU		TM				0	0	1	Pacific/Guam	2011-07-02
+4038720	Tinaga	Tinaga		13.28637	144.75363	P	PPLX	GU		IN				0	5	12	Pacific/Guam	2011-06-19
+4038722	Tumon Heights	Tumon Heights		13.49768	144.7874	P	PPLX	GU		TM				0	30	35	Pacific/Guam	2011-06-27
+4038723	Tumon Maui Well	Tumon Maui Well		13.51011	144.80917	H	WLL	GU		TM				0	30	50	Pacific/Guam	2011-06-06
+4038726	Taigigao	Taigigao		13.45902	144.7467	P	PPLX	GU		AH				0	60	40	Pacific/Guam	2011-06-29
+4038728	Ugum River	Ugum River		13.3376	144.75406	H	STM	GU		IN				0	1	7	Pacific/Guam	2018-04-09
+4038730	Ulomnia Beach	Ulomnia Beach		13.2846	144.76358	T	BCH	GU		IN				0	0	4	Pacific/Guam	2011-06-09
+4038733	Umatac Village	Umatac Village	Humatak,Humåtak,San Antonio de Umatag,Umatag,Ville D'Umata	13.29843	144.66314	P	PPLA	GU		UM				903	3	6	Pacific/Guam	2016-07-18
+4038735	Umatac Bay	Umatac Bay	Port D'Umata,Puerto de Umatac,Umata Bay,Umata Roads,Umatag Bay,Umatak Bay	13.2976	144.66	H	BAY	GU		UM				0	0	64	Pacific/Guam	2011-06-14
+4038736	Umatac School Architecture 1953	Umatac School Architecture 1953	Umatac School Architect Richard J Neutra	13.29928	144.66341	S	HSTS	GU		UM				0	10	12	Pacific/Guam	2016-07-18
+4038737	Umatac Bridge	Umatac Bridge		13.29796	144.66454	S	BDG	GU		UM				0	3	6	Pacific/Guam	2016-07-18
+4038738	Umatac Cemetery	Umatac Cemetery		13.29608	144.66133	S	CMTY	GU		UM				0	2	20	Pacific/Guam	2011-06-14
+4038739	Umatac Municipality	Umatac Municipality	Humatak,Humåtak,Umata,Umatac,Umatak,awmatak,umataka,umatakku,ʿumataki,Уматак,اوماتاک,উমাটাক,ਉਮਾਟਾਕ,ኡማታክ,ウマタック	13.30739	144.66909	A	ADM1	GU		UM				647	391	101	Pacific/Guam	2026-04-16
+4038741	Ungaguan	Ungaguan		13.471	144.80542	P	PPLX	GU		BA				0	68	72	Pacific/Guam	2011-06-25
+4038744	USAAF B-24 Bomber Airfield Agana WW2	USAAF B-24 Bomber Airfield Agana WW2	US Naval Air Station Agana post-WW2	13.48393	144.79968	S	HSTS	GU		BA				0	82	89	Pacific/Guam	2011-06-25
+4038746	US Naval Hospital	US Naval Hospital	United States Hospital	13.47461	144.73827	S	HSP	GU		AH				0	52	56	Pacific/Guam	2011-06-28
+4038748	Naval Hospital Chapel	Naval Hospital Chapel		13.47492	144.73527	S	CH	GU		AH				0	49	48	Pacific/Guam	2011-06-30
+4038749	University of Guam	University of Guam	College of Guam,Territorial College of Guam,Unibetsedat Guahan	13.43219	144.80288	S	UNIV	GU		MA				0	70	77	Pacific/Guam	2011-06-09
+4038750	University of Guam - Agricultural Experiment Station	University of Guam - Agricultural Experiment Station		13.28195	144.75608	S	UNIV	GU		IN				0	6	15	Pacific/Guam	2011-06-15
+4038751	University of Guam Marine Laboratory	University of Guam Marine Laboratory		13.42842	144.79899	S	UNIV	GU		MA				0	13	18	Pacific/Guam	2011-06-21
+4038753	Upi Elementary School	Upi Elementary School	Andersen Elementary School,Andersen School	13.55553	144.91788	S	SCH	GU		YG				0	162	168	Pacific/Guam	2011-06-07
+4038754	Kaiser	Kaiser		13.52593	144.84615	P	PPLX	GU		DD				0	120	116	Pacific/Guam	2011-06-24
+4038755	Uruno Beach	Uruno Beach	Coco Palm Garden Beach	13.63272	144.84362	T	BCH	GU		DD				0	0	1	Pacific/Guam	2011-06-14
+4038756	Uruno Point	Uruno Point		13.62497	144.84232	T	CAPE	GU		DD				0	177	160	Pacific/Guam	2011-06-08
+4038757	Utan	Utan		13.46841	144.76531	P	PPLX	GU		MT				0	9	12	Pacific/Guam	2011-06-27
+4038759	Vicente S.A. Benavente Middle School	Vicente S.A. Benavente Middle School	Dededo Middle School	13.52195	144.84032	S	SCH	GU		DD				0	109	112	Pacific/Guam	2011-06-24
+4038760	War Dog Cemetery - WW2 Military Dogs	War Dog Cemetery - WW2 Military Dogs		13.5161	144.85858	S	CMTY	GU		DD				0	117	113	Pacific/Guam	2011-06-14
+4038762	US Navy Anchorages	US Navy Anchorages		13.44769	144.64703	H	ANCH	GU		SR				0	0	1	Pacific/Guam	2011-06-01
+4038765	Western Shoal	Western Shoal	Western Shoals	13.45123	144.65539	H	RFC	GU		PI				0	0	-9999	Pacific/Guam	2011-06-01
+4038766	Wettengel Elementary School	Wettengel Elementary School	Naval Governor Captain Ivan Cyrus Wettengel 1920	13.52458	144.83463	S	SCH	GU		DD				0	99	102	Pacific/Guam	2011-07-03
+4038767	Wettengel Junction Route 1 - Route 3	Wettengel Junction Route 1 - Route 3		13.52363	144.82355	R	RDJCT	GU		DD				0	84	87	Pacific/Guam	2011-06-04
+4038769	USN Wharf A	USN Wharf A	Wharf Alfa	13.43729	144.6678	S	WHRF	GU		PI				0	2	7	Pacific/Guam	2013-07-24
+4038770	Polaris Point Landfill WW2 - before Coral Patches	Polaris Point Landfill WW2 - before Coral Patches		13.44411	144.6725	S	LNDF	GU		PI				0	3	4	Pacific/Guam	2013-07-24
+4038771	Navy Supply Ship Pier Delta	Navy Supply Ship Pier Delta		13.45784	144.66644	S	PIER	GU		PI				0	0	5	Pacific/Guam	2011-06-01
+4038772	Navy Supply Ship Pier Echo	Navy Supply Ship Pier Echo	Pier E Aircraft Carrier Dock	13.45834	144.66849	S	PIER	GU		PI				0	0	5	Pacific/Guam	2011-07-01
+4038773	Apra New Inner Harbor Channel	Apra New Inner Harbor Channel		13.44084	144.66603	H	CNL	GU		SR				0	0	1	Pacific/Guam	2019-03-08
+4038774	Inner Harbor pre-WW2 - Not Navigable Area of Coral Patches Awash	Inner Harbor pre-WW2 - Not Navigable Area of Coral Patches Awash		13.42932	144.66818	S	HSTS	GU		SR				0	0	48	Pacific/Guam	2011-07-01
+4038775	DoD Naval Reserve Outer Glass Breakwater	DoD Naval Reserve Outer Glass Breakwater		13.46438	144.64406	L	MILB	GU		PI				0	5	7	Pacific/Guam	2011-06-19
+4038776	Transpacific Telecom Cables Track to Manila and Midway Island pre-WW2	Transpacific Telecom Cables Track to Manila and Midway Island pre-WW2		13.45474	144.61776	S	HSTS	GU		SR				0		-9999	Pacific/Guam	2011-06-19
+4038777	USN Wharf B	USN Wharf B	Wharf Bravo	13.43807	144.66712	S	WHRF	GU		PI				0	2	1	Pacific/Guam	2013-07-24
+4038778	USN Wharf R	USN Wharf R	Wharf Romeo	13.436	144.66182	S	WHRF	GU		SR				0	2	12	Pacific/Guam	2013-07-24
+4038779	USN Wharf S	USN Wharf S	Wharf Sierra	13.43318	144.66147	S	WHRF	GU		SR				0	2	5	Pacific/Guam	2011-06-19
+4038780	USN Wharf T	USN Wharf T	Wharf Tango	13.43013	144.66209	S	WHRF	GU		SR				0	2	17	Pacific/Guam	2011-06-19
+4038781	USN Wharf U	USN Wharf U	Wharf Uniform	13.42809	144.6626	S	WHRF	GU		SR				0	2	4	Pacific/Guam	2011-06-19
+4038782	USN Wharf V	USN Wharf V	Wharf Victor	13.42362	144.66373	S	WHRF	GU		SR				0	2	7	Pacific/Guam	2013-07-24
+4038783	USN Wharf X	USN Wharf X	Wharf X-Ray	13.4226	144.67097	S	WHRF	GU		SR				0	2	4	Pacific/Guam	2011-06-29
+4038784	US Assault Beach WHITE ONE - USMC 4th Regiment WW2	US Assault Beach WHITE ONE - USMC 4th Regiment WW2		13.38561	144.65491	S	HSTS	GU		AT				0	0	5	Pacific/Guam	2011-06-03
+4038785	US Assault Beach WHITE TWO - USMC 4th Regiment WW2	US Assault Beach WHITE TWO - USMC 4th Regiment WW2		13.38321	144.65364	S	HSTS	GU		AT				0	0	39	Pacific/Guam	2011-06-03
+4038786	Aratama Maru - JP 134m-Frighter Vessel WW2	Aratama Maru - JP 134m-Frighter Vessel WW2	US Natioanal Register of Historic Places	13.33643	144.77015	S	WRCK	GU		TF				0	-18	-9999	Pacific/Guam	2011-06-16
+4038787	Windward Hills Country Club - 18 Holes Golfe Course	Windward Hills Country Club - 18 Holes Golfe Course	frmr Takayama Golf Club	13.37818	144.73972	S	RECG	GU		YN				0	111	109	Pacific/Guam	2011-06-16
+4038788	Windward Hills Memorial Park	Windward Hills Memorial Park	Our Lady of Peace Memorial Park Cemetery	13.37432	144.73513	S	MNMT	GU		YN				0	96	103	Pacific/Guam	2011-06-18
+4038789	Windward Hills	Windward Hills		13.37812	144.75085	P	PPLX	GU		YN				0	90	93	Pacific/Guam	2011-06-16
+4038790	Witek Junction - Routes 4-17	Witek Junction - Routes 4-17		13.38684	144.77237	R	RDJCT	GU		YN				0	20	24	Pacific/Guam	2011-06-04
+4038791	Malojloj	Malojloj		13.3064	144.76105	P	PPLX	GU		IN				0	103	95	Pacific/Guam	2011-06-15
+4038792	US Assault Beach YELLOW ONE - USMC 22nd Regiment WW2	US Assault Beach YELLOW ONE - USMC 22nd Regiment WW2		13.39248	144.66001	S	HSTS	GU		AT				0	0	31	Pacific/Guam	2011-06-03
+4038793	US Assault Beach YELLOW TWO - USMC 22nd Regiment WW2	US Assault Beach YELLOW TWO - USMC 22nd Regiment WW2		13.38938	144.65883	S	HSTS	GU		AT				0	0	4	Pacific/Guam	2011-06-03
+4038794	Yigo Village	Yigo Village	Yigu	13.53605	144.88855	P	PPLA	GU		YG				20539	140	132	Pacific/Guam	2013-07-07
+4038795	Yigo Baptist Church	Yigo Baptist Church		13.53352	144.88774	S	CH	GU		YG				0	125	128	Pacific/Guam	2011-06-07
+4038796	Yigo Municipality	Yigo Municipality	Jigo,Yigo,Yigu,Yiqo,igo,yiga,yigo,yygw,yyګw,Йиго,ییګو,ییگو,ইগো,ਯਿਗੋ,ይጋ,イーゴ	13.53603	144.88913	A	ADM1	GU		YG				19339	253	130	Pacific/Guam	2026-04-16
+4038801	Ylig Plateau	Ylig Plateau		13.38917	144.76694	T	PLAT	GU		YN				0	68	74	Pacific/Guam	2011-06-09
+4038802	Ylig Bay	Ylig Bay		13.39246	144.77586	H	BAY	GU		YN				0	0	-9999	Pacific/Guam	2011-06-01
+4038803	Ylig Bridge	Ylig Bridge		13.39377	144.77043	S	BDG	GU		YN				0	2	6	Pacific/Guam	2011-06-09
+4038804	Ylig Point	Ylig Point		13.38759	144.77748	T	CAPE	GU		YN				0	2	-9999	Pacific/Guam	2011-06-01
+4038807	Ylig River	Ylig River		13.39332	144.77146	H	STM	GU		YN				0	15	1	Pacific/Guam	2018-04-09
+4038809	Yona Village	Yona Village	Yo' na,Yo`na,Yo’ ña	13.40974	144.77697	P	PPLA	GU		YN				6484	90	92	Pacific/Guam	2013-07-07
+4038811	Yona Municipality	Yona Municipality	Jona,Yo' na,Yona,Yo’ ña,i'ona,yona,ywna,Йона,یونا,ইওনা,ਯੋਨਾ,ዮና,ヨーナ	13.40972	144.77714	A	ADM1	GU		YN				6298	328	90	Pacific/Guam	2026-04-16
+4038812	Yona Islet	Yona Islet		13.37972	144.6513	T	ISLET	GU		AT				0	2	39	Pacific/Guam	2011-06-03
+4038813	Ypan	Ypan		13.35363	144.76873	P	PPLX	GU		TF				0	9	26	Pacific/Guam	2011-06-16
+4038816	Ypao Beach	Ypao Beach	Ipao Beach	13.50428	144.78916	T	BCH	GU		TM				0	0	7	Pacific/Guam	2011-06-11
+4038817	Ypao Point	Ypao Point		13.507	144.78271	T	CAPE	GU		TM				0	64	51	Pacific/Guam	2011-06-04
+4038818	Ypaopao Estates	Ypaopao Estates		13.52501	144.86207	P	PPLX	GU		DD				0	120	123	Pacific/Guam	2011-06-24
+4041694	Perezville	Perezville		13.50403	144.77878	P	PPLX	GU		TM				0	40	41	Pacific/Guam	2011-06-26
+4041698	Harvest Baptist Church	Harvest Baptist Church		13.46969	144.78577	S	CH	GU		BA				0	53	60	Pacific/Guam	2011-06-12
+4042212	Guam Geomagnetic Observatory	Guam Geomagnetic Observatory		13.58923	144.86821	S	STNB	GU		DD				0	145	149	Pacific/Guam	2011-06-24
+4042218	Guam International Country Club	Guam International Country Club	Guam Municipal Golf Course	13.52589	144.85225	S	RECG	GU		DD				0	128	130	Pacific/Guam	2011-06-23
+4042232	Guam Bible Church	Guam Bible Church		13.44415	144.76241	S	CH	GU		CP				0	42	42	Pacific/Guam	2011-06-06
+4042273	Dry Dock Islands	Dry Dock Islands	Drydock Island	13.45587	144.67003	T	ISLF	GU		PI				0	2	9	Pacific/Guam	2011-07-02
+4042334	San Dionisio Catholic Church	San Dionisio Catholic Church		13.29962	144.66198	S	CH	GU		UM				0	6	22	Pacific/Guam	2011-06-21
+4042444	Cabras Island Channel	Cabras Island Channel	Cobras Island Channel	13.45783	144.66267	H	CHN	GU		PI				0	0	-9999	Pacific/Guam	2011-06-01
+4042475	Mount Carmel Cemetery	Mount Carmel Cemetery	Mount Carmel Cemetery	13.38502	144.65659	S	CMTY	GU		AT				0	3	6	Pacific/Guam	2011-06-17
+4042578	Pago Point	Pago Point		13.41375	144.78853	T	CAPE	GU		YN				0	30	14	Pacific/Guam	2011-06-01
+4042582	Pagat Point	Pagat Point		13.498	144.89064	T	CAPE	GU		YG				0	42	30	Pacific/Guam	2011-07-04
+4042590	Double Reef	Double Reef		13.59786	144.83272	H	RFC	GU		DD				0	0	1	Pacific/Guam	2011-07-03
+4042594	Assumption of Our Lady Catholic Church	Assumption of Our Lady Catholic Church		13.46211	144.69348	S	CH	GU		PI				0	4	8	Pacific/Guam	2011-06-21
+4042598	Our Lady of Guadalupe Catholic Church	Our Lady of Guadalupe Catholic Church		13.38635	144.67443	S	CH	GU		SR				0	81	80	Pacific/Guam	2011-06-21
+4042606	Ordot	Ordot	Otdot	13.44786	144.7612	P	PPLX	GU		CP				0	40	43	Pacific/Guam	2011-07-08
+4042614	Oka Point	Oka Point	Oca Point,Point Oca	13.49986	144.76949	T	CAPE	GU		TM				0	33	1	Pacific/Guam	2011-06-19
+4042622	USAAF Northwest Two Runways B-29B Bomber Airfield WW2	USAAF Northwest Two Runways B-29B Bomber Airfield WW2		13.62363	144.85847	S	AIRQ	GU		DD				0	150	146	Pacific/Guam	2011-06-22
+4042626	Nomna Point	Nomna Point		13.30494	144.77285	T	CAPE	GU		IN				0	0	9	Pacific/Guam	2011-06-01
+4043390	Mongmong	Mongmong		13.47429	144.76277	P	PPLX	GU		MT				0	21	24	Pacific/Guam	2011-07-08
+4043393	General Vessel Anchorages	General Vessel Anchorages		13.45891	144.64269	H	ANCH	GU		PI				0	0	-9999	Pacific/Guam	2011-07-04
+4043396	Merizo Municipality	Merizo Municipality	Malesso,Merizo	13.27125	144.67464	A	ADM1	GU		ME				1604	337	84	Pacific/Guam	2023-02-12
+4043397	Merizo Conbento - built 1856	Merizo Conbento - built 1856	Malesso Kombento,Merizo Kombento,Oldest Guaman Permanently Occupied House,Parishes Umatac and Merizo Rectory,US National Register of Historic Places	13.26594	144.66838	S	CTRR	GU		ME				0	4	8	Pacific/Guam	2011-06-14
+4043399	Merizo Village	Merizo Village	Maleso,Malesso,Merico	13.26584	144.66908	P	PPLA	GU		ME				2152	75	13	Pacific/Guam	2013-07-07
+4043400	Belen	Belen		13.2823	144.74805	P	PPLX	GU		IN				0	12	17	Pacific/Guam	2011-06-16
+4043402	Mati Point	Mati Point		13.53336	144.93168	T	PT	GU		YG				0	0	3	Pacific/Guam	2011-06-08
+4043406	Mataguac Hill	Mataguac Hill	Matagi,Mount Mataguac,Volcanic Outcrop through Limestone Plateau	13.5452	144.88215	T	HLL	GU		YG				0	192	184	Pacific/Guam	2011-06-13
+4043411	Marianas Baptist Church	Marianas Baptist Church		13.39472	144.66498	S	CH	GU		AT				0	12	8	Pacific/Guam	2011-06-08
+4043415	Manuel U Lujan Elementary School	Manuel U Lujan Elementary School	M U Lujan Elementary School	13.40709	144.77497	S	SCH	GU		YN				0	86	91	Pacific/Guam	2011-06-07
+4043416	Mangilao Municipality	Mangilao Municipality	Mangilao,Manqilao,mangila'o,mangirao,mangylayw,manigilawo,manګylaw,Мангилао,مانګیلاو,مانگیلائو,মাঙ্গিলাও,ਮਾਂਗਿਲਾਓ,ማንጊላዎ,マンギラオ	13.44766	144.80071	A	ADM1	GU		MA				13476	192	58	Pacific/Guam	2026-04-16
+4043417	Manengon River	Manengon River		13.40001	144.75273	H	STM	GU		YN				0	15	21	Pacific/Guam	2018-04-09
+4043418	Manell Point	Manell Point		13.25387	144.68361	T	PT	GU		ME				0	0	5	Pacific/Guam	2011-05-31
+4043419	Manell Channel	Manell Channel	Manello Channel,Usau Channel	13.24128	144.69217	H	CHN	GU		ME				0	-8	-9999	Pacific/Guam	2011-06-19
+4043421	Manaca	Manaca		13.45975	144.80285	P	PPLX	GU		BA				0	61	61	Pacific/Guam	2011-06-25
+4043422	Mamaon Channel	Mamaon Channel		13.27021	144.65894	H	CHN	GU		ME				0	-10	13	Pacific/Guam	2011-05-31
+4043425	Malilog Point	Malilog Point	Matilog Point	13.24617	144.72389	T	PT	GU		IN				0	0	1	Pacific/Guam	2011-06-09
+4043429	Maite	Maite		13.47798	144.76671	P	PPLX	GU		MT				0	45	43	Pacific/Guam	2011-07-08
+4043430	Mahlac River Municipal Tripoint Yona - Talafofo - Santa Rita	Mahlac River Municipal Tripoint Yona - Talafofo - Santa Rita		13.36761	144.72148	T	PT	GU		00				0	30	38	Pacific/Guam	2011-06-21
+4043434	Magellan Monument	Magellan Monument		13.29914	144.66253	S	MNMT	GU		UM				0	2	10	Pacific/Guam	2016-07-18
+4043437	Madog River	Madog River		13.29816	144.66682	H	STM	GU		UM				0	15	12	Pacific/Guam	2018-04-10
+4043438	Machaute	Machaute		13.46949	144.79047	P	PPLX	GU		BA				0	63	66	Pacific/Guam	2011-06-25
+4043439	Mount Machanao	Mount Machanao		13.64514	144.86167	T	HLL	GU		DD				0	184	180	Pacific/Guam	2018-04-08
+4043440	Machananao Elementary School	Machananao Elementary School	Mt Santa Rosa Elementary School	13.58364	144.88244	S	SCH	GU		YG				0	171	169	Pacific/Guam	2011-06-08
+4043442	Maanot Pass	Maanot Pass		13.38653	144.68517	T	GAP	GU		SR				0	116	114	Pacific/Guam	2011-07-02
+4043444	Lupog	Lupog		13.54825	144.91413	P	PPLX	GU		YG				0	179	181	Pacific/Guam	2011-06-23
+4043447	Lujuna Point	Lujuna Point	Lumuna Point	13.51475	144.91233	T	PT	GU		YG				0	0	-9999	Pacific/Guam	2011-06-08
+4043448	Luis P Untalan Middle School	Luis P Untalan Middle School		13.46528	144.80163	S	SCH	GU		BA				0	59	61	Pacific/Guam	2011-06-07
+4043455	Leyan	Leyan		13.45554	144.8041	P	PPLX	GU		MA				0	67	75	Pacific/Guam	2011-06-21
+4043457	Leary Junction Route1 - Route4	Leary Junction Route1 - Route4	Paseo Loop	13.47698	144.75446	R	RDJCT	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+4043458	Latte Point	Latte Point	Late Point	13.58359	144.94902	T	CAPE	GU		YG				0	170	158	Pacific/Guam	2011-06-08
+4043459	Latte Plantation	Latte Plantation		13.49501	144.85049	P	PPLX	GU		MA				0	126	136	Pacific/Guam	2011-06-21
+4043460	Lasodiac Rock - Bear Rock	Lasodiac Rock - Bear Rock		13.26683	144.74217	T	RK	GU		IN				0	18	9	Pacific/Guam	2011-06-08
+4043462	Lalas Rock	Lalas Rock	Fouha Rock,Laso Fua Rock,Magellan's Guidepost	13.30685	144.65532	T	ISLET	GU		UM				0	24	5	Pacific/Guam	2011-06-06
+4043468	Laelae River	Laelae River		13.29831	144.66683	H	STM	GU		UM				0	12	12	Pacific/Guam	2018-04-10
+4043472	Alutom Communication Antennas	Alutom Communication Antennas	KUAM-FM (Agana),KUAM-FM (Hagatna)	13.43285	144.71276	S	COMC	GU		YN				0	328	304	Pacific/Guam	2011-06-05
+4043476	Julog	Julog		13.25711	144.68865	P	PPLX	GU		ME				0	2	8	Pacific/Guam	2011-06-14
+4043479	Jose L G Rios Middle School	Jose L G Rios Middle School	New Piti School,Piti Middle School	13.45893	144.69174	S	SCH	GU		PI				0	8	12	Pacific/Guam	2011-06-08
+4043480	John F Kennedy High School	John F Kennedy High School		13.501	144.79714	S	SCH	GU		TM				0	41	44	Pacific/Guam	2011-06-06
+4043483	Mount Jinago	Mount Jinago		13.2833	144.6703	T	HLL	GU		ME				0	87	98	Pacific/Guam	2011-06-09
+4043484	Jaotan Point	Jaotan Point		13.2545	144.67797	T	PT	GU		ME				0	0	24	Pacific/Guam	2011-06-10
+4043489	Jade Shoals	Jade Shoals	Dry Dock Reef	13.4539	144.66183	H	RFC	GU		PI				0	0	-9999	Pacific/Guam	2011-06-01
+4043495	Inaso Hill	Inaso Hill		13.2866	144.6708	T	HLL	GU		UM				0	107	94	Pacific/Guam	2011-06-09
+4043496	Inarajan River	Inarajan River		13.27828	144.74745	H	STM	GU		IN				0	4	5	Pacific/Guam	2018-04-09
+4043497	Inarajan Public Health Center	Inarajan Public Health Center	Southern Public Help Center	13.28306	144.75544	S	HSP	GU		IN				0	20	29	Pacific/Guam	2011-06-15
+4043498	Inarajan Bay	Inarajan Bay		13.27466	144.75247	H	BAY	GU		IN				0	0	-9999	Pacific/Guam	2011-06-15
+4043499	Inarajan Village	Inarajan Village	Inalahan,Inalajan,Inalåhan,Inarajan	13.27363	144.74845	P	PPLA	GU		IN				3052	3	10	Pacific/Guam	2025-06-13
+4043501	Immaculate Heart of Mary Catholic Church	Immaculate Heart of Mary Catholic Church		13.46756	144.78212	S	CH	GU		MT				0	43	45	Pacific/Guam	2011-06-27
+4043504	Iates Point	Iates Point	Lates Point,Taogam Point	13.43048	144.8058	T	CLF	GU		MA				0	90	88	Pacific/Guam	2011-07-03
+4043505	Cape Iates	Cape Iates		13.42684	144.80446	T	CAPE	GU		MA				0	40	20	Pacific/Guam	2011-06-07
+4043508	Hill 40 - embattled hill WW2	Hill 40 - embattled hill WW2	US National Register of Historic Places	13.37644	144.65474	S	HSTS	GU		AT				0	20	12	Pacific/Guam	2011-06-04
+4043509	Hilaan Point	Hilaan Point		13.55811	144.81918	T	CAPE	GU		DD				0	112	109	Pacific/Guam	2011-06-08
+4043514	Harmon Loop Elementary School	Harmon Loop Elementary School	Juan M. Guerrero Elementary School	13.50967	144.82482	S	SCH	GU		DD				0	70	74	Pacific/Guam	2011-06-07
+4043515	Harmon Garden	Harmon Garden		13.50878	144.8236	P	PPLX	GU		DD				0	90	68	Pacific/Guam	2011-06-24
+4043516	USAAF B-29 Bomber Harmon Air Field WW2	USAAF B-29 Bomber Harmon Air Field WW2	Depot Field,Lieutenant General Millard Fillmore Harmon Jr. Airfield,frmr Harmon Runway along Industrial Park Road	13.50432	144.81478	S	AIRQ	GU		TM				0	49	58	Pacific/Guam	2011-06-27
+4043520	Hagåtña Swamp	Hagatna Swamp	Agana Swamp,Hagatna Swamp	13.46868	144.7582	H	SWMP	GU		AN				0	2	5	Pacific/Guam	2011-06-28
+4043521	Agana Springs	Agana Springs	Agana Springs,Hagatna Springs	13.46346	144.76043	H	SPNG	GU		SJ				0	2	10	Pacific/Guam	2011-07-07
+4043522	Hagåtña River	Hagatna River	Agana River,Hagatna River	13.47782	144.75466	H	STM	GU		AN				0	0	3	Pacific/Guam	2018-04-09
+4043523	Agana Historic District	Agana Historic District	Agana Post Office,Hagatna Post Office,US National Register of Historic Places	13.47522	144.74847	S	HSTS	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+4043524	Agana Heights Municipality	Agana Heights Municipality	Agana Hayts,Agana Heights,Agana Heights Election District,Agana Khajts,Hagatna Heights Election District,agana ha'itasa,agana hayts,aganahaitsu,aګana hayټs,ʿegana hayitisi,Агана Хайтс,آګانا هایټس,آگانا هایتس,আগানা হাইটস,ਅਗਾਨਾ ਹਾਈਟਸ,አጋና ሃይትስ,アガナハイツ	13.46559	144.74773	A	ADM1	GU		AH				3940	159	41	Pacific/Guam	2026-04-16
+4043525	Agana Heights Village	Agana Heights Village	Agana Heights,Hagatna Heights,Tutuhan	13.46559	144.74795	P	PPLA	GU		AH				3940	52	39	Pacific/Guam	2025-03-09
+4043527	Hagåtña Bay	Hagatna Bay	Agana Bay,Hagatna Bay	13.48667	144.75528	H	BAY	GU		AN				0	0	-9999	Pacific/Guam	2011-07-02
+4043529	ITC International Trade Center	ITC International Trade Center		13.48649	144.78268	S	BLDO	GU		TM				0	13	22	Pacific/Guam	2011-06-12
+4043531	Guijen Rock	Guijen Rock		13.25034	144.73181	T	ISLET	GU		IN				0	3	1	Pacific/Guam	2011-05-31
+4043534	Guam Premier Outlets	Guam Premier Outlets		13.48954	144.78176	S	MALL	GU		TM				0	21	25	Pacific/Guam	2011-06-25
+4043536	Guam Museum	Guam Museum		13.48072	144.72937	S	MUS	GU		AN				0	15	1	Pacific/Guam	2011-07-01
+4043538	Lujan House - Guam Institute	Lujan House - Guam Institute	US National Register of Historic Places	13.47525	144.74803	S	HSTS	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+4043540	Guam Congress	Guam Congress	Guam Legislature	13.47567	144.74872	S	ADMF	GU		AN				0	3	5	Pacific/Guam	2011-07-01
+4043541	Guam Community College	Guam Community College	Guam Trade and Tech School,Guam Trade and Technical School,Kulehon Kumunidat Guahan	13.44042	144.80909	S	SCHC	GU		MA				0	90	90	Pacific/Guam	2011-06-07
+4043542	Guam Island	Guam Island	Bacim,Baham,Bahan,Bam,Boan,Goam,Goan,Gua,Guahan,Guahon,Guajan,Guajano,Guakhan,Guam,Guam Island,Guama,Guamas,Guan,Guayan,Guxam,Guåhan,Gvam,Gvamo,Gwam,Huajan,Iguan,Iguana,Insula Guahan,Isla de Guaham,Isla de San Juan,Isla de las Velas Latinas,Isles des Larrons,Isola Di Guam,L'Isle de Guahan,L'Isle de Saint Jean,L'ile de Guam,Omi Jima,Omiya Jima,Omiya Jima - JP renamed WW2,Omiyajima,STEVEDORE WW2,San Juan,Stevedore,Uan,Uplifted Coral Limestone Island Guam North,Uplifted Limestone with Volcanic Core Guam South,Volin,Waghal,Ysla de Guham,ghwam,guamu,guan dao,gwam,kuvam,kwm,Гвам,Гуам,Ґуам,גואם,غوام,குவாம்,กวม,グアム,關島,괌	13.43103	144.75311	T	ISL	GU		00				159358	406	56	Pacific/Guam	2014-07-23
+4043543	Guaifan Point	Guaifan Point	Goal Point	13.27508	144.75459	T	PT	GU		IN				0	0	1	Pacific/Guam	2011-07-03
+4043546	US Assault Beach GREEN - USMC 21st Regiment WW2	US Assault Beach GREEN - USMC 21st Regiment WW2		13.474	144.71554	S	HSTS	GU		AS				0	0	3	Pacific/Guam	2011-06-03
+4043547	Guam Government House	Guam Government House	Designer Architect Richard Neutra	13.47191	144.74978	S	GOVL	GU		AN				0	49	46	Pacific/Guam	2025-03-21
+4043549	Gongna Beach	Gongna Beach	Gognga Beach,Gun Beach	13.51913	144.80611	T	BCH	GU		TM				0	0	3	Pacific/Guam	2011-06-09
+4043553	Gayloup Point	Gayloup Point		13.33797	144.7632	T	PT	GU		IN				0	0	0	Pacific/Guam	2011-07-03
+4043556	Gabgab Beach	Gabgab Beach	Gab Gab Beach	13.44193	144.64217	T	BCH	GU		SR				0	0	14	Pacific/Guam	2011-06-20
+4043557	Gaan River	Gaan River		13.37646	144.65585	H	STM	GU		AT				0	3	9	Pacific/Guam	2011-06-04
+4043560	Fouha Bay	Fouha Bay		13.30548	144.65621	H	BAY	GU		UM				0	0	39	Pacific/Guam	2011-06-01
+4043561	Fort Nuestra Senora de la Soledad	Fort Nuestra Senora de la Soledad	Fort Nuestra Senora de la Soledad	13.29509	144.65994	S	RUIN	GU		UM				0	46	36	Pacific/Guam	2016-07-18
+4043562	Spanish Fort Santa Cruz - Site	Spanish Fort Santa Cruz - Site		13.44178	144.66441	S	HSTS	GU		SR				0	2	2	Pacific/Guam	2013-07-24
+4043563	Spanish Fort Santa Agueda 1800	Spanish Fort Santa Agueda 1800	Fort Apugan,Fuerte de Santa Agueda,US National Register of Historic Places	13.47367	144.74773	S	RUIN	GU		AN				0	53	54	Pacific/Guam	2011-07-05
+4043564	War In the Pacific National Historical Park - Fonte Plateau Unit	War In the Pacific National Historical Park - Fonte Plateau Unit	WW2	13.46359	144.73301	L	PRK	GU		AS				0	188	188	Pacific/Guam	2011-06-30
+4043565	Fonte Plateau	Fonte Plateau		13.46357	144.73238	T	PLN	GU		AS				0	188	197	Pacific/Guam	2011-06-11
+4043569	Cape Orote Fringing Reef Awash	Cape Orote Fringing Reef Awash		13.44986	144.62231	H	RFC	GU		SR				0	0	1	Pacific/Guam	2011-05-30
+4043571	Mount Finansanta	Mount Finansanta	SW Mountain Chain	13.2762	144.6892	T	MT	GU		ME				0	272	211	Pacific/Guam	2011-06-10
+4043578	Family Beach	Family Beach	Hobie Beach	13.4638	144.64754	T	BCH	GU		PI				0	0	6	Pacific/Guam	2011-05-30
+4043579	Falcona Beach	Falcona Beach		13.61243	144.83552	T	BCH	GU		DD				0	0	16	Pacific/Guam	2011-06-08
+4043582	Facpi Island	Facpi Island		13.34166	144.63294	T	ISLET	GU		UM				0	13	8	Pacific/Guam	2011-05-31
+4043586	Evangelical Christian Academy	Evangelical Christian Academy		13.43482	144.77839	S	SCH	GU		CP				0	54	53	Pacific/Guam	2011-06-08
+4043590	Marianas Yacht Club	Marianas Yacht Club	Yacht Clearance Point	13.45409	144.67286	S	MAR	GU		PI				0	3	5	Pacific/Guam	2011-07-05
+4043592	Dominican Catholic School	Dominican Catholic School		13.53699	144.88733	S	SCH	GU		YG				0	133	135	Pacific/Guam	2011-06-07
+4043597	Dededo Quarry	Dededo Quarry		13.53036	144.8468	S	MNQR	GU		DD				0	118	103	Pacific/Guam	2011-06-14
+4043599	Dadi Beach	Dadi Beach		13.41335	144.65707	T	BCH	GU		SR				0	0	4	Pacific/Guam	2011-06-10
+4043600	Guam Cushing Zoo	Guam Cushing Zoo		13.50746	144.8001	S	ZOO	GU		TM				0	3	12	Pacific/Guam	2011-06-26
+4043601	Country Club of the Pacific - 18 Holes Golf Course	Country Club of the Pacific - 18 Holes Golf Course		13.37275	144.76882	S	RECG	GU		YN				0	24	18	Pacific/Guam	2011-06-08
+4043605	Commadores Cut - Reef Pass	Commadores Cut - Reef Pass	Commanders Cut	13.44844	144.65913	H	RFC	GU		PI				0	0	1	Pacific/Guam	2011-06-01
+4043606	Blessed Diego Luis de San Vitores Catholic Church	Blessed Diego Luis de San Vitores Catholic Church	Blessed Diego Luis De San Vitores Church	13.50696	144.80221	S	CH	GU		TM				0	5	8	Pacific/Guam	2011-06-21
+4043607	Yigo Church of God	Yigo Church of God		13.52391	144.87877	S	CH	GU		YG				0	121	126	Pacific/Guam	2011-06-07
+4043609	Chorrito Cliff	Chorrito Cliff	Chonito Cliff,Chorito Cliff	13.47685	144.72403	T	CLF	GU		AS				0	37	27	Pacific/Guam	2011-06-03
+4043610	Chief Quipuha Statue	Chief Quipuha Statue	Chief Kepuha Statue,First Catholic Chamorro Chief Quipuha 1669	13.47731	144.7539	S	MNMT	GU		AN				0	2	5	Pacific/Guam	2011-07-02
+4043611	Chief Brodie Memorial Elementary School	Chief Brodie Memorial Elementary School	Brodie School	13.49891	144.79599	S	SCH	GU		TM				0	34	40	Pacific/Guam	2011-06-06
+4043614	Chalan Pago-Ordot Municipality	Chalan Pago-Ordot Municipality	Chalan Pago-Ordot,calana pago-aradata,calana pago-oradota,calani ፓgo-ʿoridoti,chalan pagw-awrdwt,chalan paګw-awrdwt,charanpagoorudotto,Чалан Паго-Ордот,چالان پاګو-اوردوت,چالان پاگو-اوردوت,চালান পাগো-অরডট,ਚਾਲਾਨ ਪਾਗੋ-ਓਰਡੋਟ,ቻላን ፓጎ-ኦርዶት,チャランパゴオルドット	13.4474	144.75888	A	ADM1	GU		CP				7064	153	46	Pacific/Guam	2026-04-16
+4043615	Chalan Pago-Ordot Village	Chalan Pago-Ordot Village	Chalan Pagu,Chalan Pagu-Otdot,Chalan Pågu-Otdot	13.44741	144.75902	P	PPLA	GU		CP				6822	38	46	Pacific/Guam	2013-07-07
+4043618	Chagamin Lago	Chagamin Lago		13.27769	144.75377	P	PPLX	GU		IN				0	6	14	Pacific/Guam	2011-06-15
+4043620	Mount Chachao	Mount Chachao	SW Mountain Chain	13.43703	144.71077	T	MT	GU		AS				0	318	297	Pacific/Guam	2011-06-18
+4043621	Cetti River	Cetti River		13.31664	144.65761	H	STM	GU		UM				0	0	12	Pacific/Guam	2018-04-10
+4043627	Carlos L Taitano Elementary School	Carlos L Taitano Elementary School	C L Taitano Elementary School	13.46087	144.7539	S	SCH	GU		SJ				0	51	50	Pacific/Guam	2011-06-06
+4043629	Canada	Canada		13.45988	144.78887	P	PPLX	GU		BA				0	37	44	Pacific/Guam	2011-06-25
+4043631	Asan Memorial Beach Park WW2	Asan Memorial Beach Park WW2	US National Register of Historic Places	13.47348	144.7096	S	HSTS	GU		AS				0	2	9	Pacific/Guam	2011-07-09
+4043633	Calvary Baptist Church	Calvary Baptist Church		13.51676	144.8123	S	CH	GU		TM				0	71	73	Pacific/Guam	2011-06-12
+4043636	Bolanos Conservation Area	Bolanos Conservation Area		13.29805	144.68732	L	RES	GU		UM				0	350	358	Pacific/Guam	2011-07-02
+4043637	Ugum River	Ugum River		13.32052	144.73234	H	STM	GU		IN				0	57	64	Pacific/Guam	2011-06-13
+4043639	US Navy Ammo Storage Bunkers	US Navy Ammo Storage Bunkers		13.37555	144.70183	S	INSM	GU		SR				0	60	48	Pacific/Guam	2011-06-18
+4043641	Mount Bolanos	Mount Bolanos	SW Mountain Chain	13.2994	144.6875	T	MT	GU		UM				0	379	358	Pacific/Guam	2011-06-10
+4043642	US Assault Beach BLUE - USMC 9th Regiment WW2	US Assault Beach BLUE - USMC 9th Regiment WW2		13.47427	144.71168	S	HSTS	GU		AS				0	0	3	Pacific/Guam	2011-06-03
+4043643	Biyae	Biyae		13.35743	144.64806	P	PPLX	GU		AT				0	3	10	Pacific/Guam	2011-06-18
+4043644	Pigua	Pigua		13.27054	144.672	P	PPLX	GU		ME				0	75	73	Pacific/Guam	2011-06-14
+4043649	Hotel Pier H	Hotel Pier H	frmr USN Ammo Wharf	13.46362	144.65164	S	PIER	GU		PI				0	0	10	Pacific/Guam	2011-06-02
+4043651	Baza Gardens	Baza Gardens		13.37021	144.7519	P	PPLX	GU		YN				0	66	77	Pacific/Guam	2011-06-16
+4043652	Andersen Base Chapel Number 2	Andersen Base Chapel Number 2		13.56044	144.92123	S	CH	GU		YG				0	158	166	Pacific/Guam	2011-06-07
+4043653	Andersen Base Chapel Number 1	Andersen Base Chapel Number 1		13.57268	144.93079	S	CH	GU		YG				0	166	168	Pacific/Guam	2011-06-07
+4043655	Barrigada Heights	Barrigada Heights		13.48683	144.82508	P	PPLX	GU		BA				0	183	187	Pacific/Guam	2011-06-24
+4043656	Barrigada Village	Barrigada Village	Barigada,Barigåda,Barrigada	13.46913	144.79901	P	PPLA	GU		BA				8875	66	68	Pacific/Guam	2025-06-13
+4043657	Bangi Point	Bangi Point		13.37701	144.65154	T	PT	GU		AT				0	0	5	Pacific/Guam	2011-06-03
+4043662	Spanish Sella Bridge	Spanish Sella Bridge		13.32809	144.6526	S	HSTS	GU		UM				0	2	12	Pacific/Guam	2011-06-10
+4043663	Atantano River	Atantano River		13.42843	144.67603	H	STM	GU		SR				0	0	3	Pacific/Guam	2018-04-10
+4043664	Astumbo Elementary School	Astumbo Elementary School		13.55341	144.84746	S	SCH	GU		DD				0	121	123	Pacific/Guam	2011-06-07
+4043665	Astumbo	Astumbo		13.55422	144.84341	P	PPLX	GU		DD				0	110	115	Pacific/Guam	2011-06-24
+4043668	Asquiroga Cliff	Asquiroga Cliff		13.34135	144.76738	T	CLF	GU		YN				0	126	95	Pacific/Guam	2011-06-09
+4043671	Aspengo	Aspengo		13.46236	144.79708	P	PPLX	GU		BA				0	60	68	Pacific/Guam	2011-06-25
+4043673	Asmulato Hill	Asmulato Hill		13.3036	144.7383	T	HLL	GU		IN				0	96	91	Pacific/Guam	2011-06-09
+4043679	Asgon Point	Asgon Point		13.26876	144.74495	T	ISLET	GU		IN				0	7	-9999	Pacific/Guam	2011-06-01
+4043689	Asan River	Asan River		13.47082	144.71309	H	STM	GU		AS				0	2	7	Pacific/Guam	2011-07-04
+4043690	Asan Ridge Battle Area WW2	Asan Ridge Battle Area WW2	US National Register of Historic Places,War in the Pacific Historical Park - Asan Inland Unit	13.47102	144.72189	S	HSTS	GU		AS				0	60	116	Pacific/Guam	2011-06-03
+4043691	Asan-Maina Municipality	Asan-Maina Municipality	Asan,Assan-Ma'Ina,asan,asana,ʿesani,Асан,آسان,আসান,ਅਸਾਨ,አሳን,アサン	13.47214	144.7164	A	ADM1	GU		AS				2137	318	5	Pacific/Guam	2026-04-16
+4043693	Asan Bay	Asan Bay		13.47567	144.71533	H	BAY	GU		AS				0	0	1	Pacific/Guam	2011-06-03
+4043695	Sese	Sese	As-Agas	13.28731	144.74509	P	PPLX	GU		IN				0	66	72	Pacific/Guam	2011-06-16
+4043696	Oka Towers Condominium	Oka Towers Condominium		13.49961	144.77006	S	HSE	GU		TM				0	30	31	Pacific/Guam	2011-06-26
+4043700	Apra Inner Harbor	Apra Inner Harbor	Inner Apra Harbor,Inner Harbor,La Caldera Chica,New Inner Harbor	13.43102	144.66844	H	HBR	GU		SR				0	0	48	Pacific/Guam	2019-03-08
+4043702	Apaca Point	Apaca Point	Apoaca Point	13.40232	144.6622	T	PT	GU		SR				0	0	2	Pacific/Guam	2011-07-02
+4043704	Anao Point	Anao Point		13.55272	144.93806	T	CAPE	GU		YG				0	150	133	Pacific/Guam	2011-06-08
+4043705	Anao Conservation Area	Anao Conservation Area		13.55155	144.93713	L	RES	GU		YG				0	50	129	Pacific/Guam	2011-07-02
+4043707	Anae	Anae	Anae Island	13.35794	144.63725	T	ISLET	GU		AT				0	15	45	Pacific/Guam	2011-05-31
+4043708	Mount Alutom	Mount Alutom	Mount Reconnaissance,SW Mountain Chain	13.43267	144.71274	T	MT	GU		YN				0	328	304	Pacific/Guam	2011-06-19
+4043709	Alutom Island	Alutom Island	Alutom Island,Aluton Island	13.38089	144.64731	T	ISLET	GU		AT				0	6	5	Pacific/Guam	2011-06-03
+4043711	Mount Alifan	Mount Alifan	SW Mountain Chain	13.37967	144.67096	T	MT	GU		AT				0	266	236	Pacific/Guam	2018-04-09
+4043713	Mount Assale	Mount Assale		13.3106	144.6877	T	MT	GU		TF				0	350	325	Pacific/Guam	2018-04-08
+4043717	Agueda Johnston Middle School	Agueda Johnston Middle School	Agueda Middle School,Washington High School,Washington Junior High School	13.44599	144.75856	S	SCH	GU		CP				0	44	48	Pacific/Guam	2011-06-21
+4043719	Agrigan Islet	Agrigan Islet		13.24762	144.71703	T	ISLET	GU		ME				0	5	1	Pacific/Guam	2011-06-08
+4043720	Agfayan Point	Agfayan Point		13.26489	144.74378	T	CAPE	GU		IN				0	0	-9999	Pacific/Guam	2011-06-01
+4043721	Agfayan Bay	Agfayan Bay		13.26754	144.74112	H	BAY	GU		IN				0	0	1	Pacific/Guam	2011-06-01
+4043722	Agat Boat Channel	Agat Boat Channel		13.36599	144.64617	H	CHN	GU		AT				0	0	95	Pacific/Guam	2011-07-02
+4043723	Agat-Santa Rita Wastewater Treatment Plant	Agat-Santa Rita Wastewater Treatment Plant		13.38619	144.65734	S	SWT	GU		AT				0	2	4	Pacific/Guam	2011-06-13
+4043724	Marcial A Sablan Elementary School	Marcial A Sablan Elementary School		13.38511	144.65873	S	SCH	GU		AT				0	5	6	Pacific/Guam	2011-06-08
+4043725	Agat Municipality	Agat Municipality	Agat,Aqat,Hagat,Hågat,agat,agata,agatto,aګat,ʿegati,Агат,آګات,آگات,আগাত,ਅਗਾਤ,አጋት,アガット	13.35619	144.66938	A	ADM1	GU		AT				5656	406	286	Pacific/Guam	2026-04-16
+4043726	Agafo Gumas	Agafo Gumas		13.58315	144.87881	P	PPLX	GU		YG				0	163	164	Pacific/Guam	2011-06-23
+4043728	Aga Bay	Aga Bay		13.2469	144.72541	H	BAY	GU		IN				0	0	-9999	Pacific/Guam	2011-06-09
+4043730	Adotgan Point	Adotgan Point		13.44696	144.62722	T	CAPE	GU		SR				0	63	47	Pacific/Guam	2011-06-18
+4043731	Admiral William E Leahy Sports Complex	Admiral William E Leahy Sports Complex	Leahy Field	13.47661	144.80665	L	CMN	GU		BA				0	79	87	Pacific/Guam	2011-06-25
+4043732	Adjoulan Point	Adjoulan Point		13.3381	144.77128	T	CAPE	GU		TF				0	0	-9999	Pacific/Guam	2011-06-01
+4043738	Acho Point	Acho Point		13.25901	144.73771	T	PT	GU		IN				0	0	1	Pacific/Guam	2011-06-09
+4043740	Achang Bay	Achang Bay		13.25264	144.68612	H	BAY	GU		ME				0	0	50	Pacific/Guam	2011-05-31
+4043741	Achae Point	Achae Point		13.64121	144.85215	T	CAPE	GU		DD				0	168	153	Pacific/Guam	2011-06-08
+4043780	Agat Bay	Agat Bay		13.39693	144.65475	H	BAY	GU		AT				0	0	1	Pacific/Guam	2011-06-03
+4043789	Academy of Our Lady of Guam Catholic High School	Academy of Our Lady of Guam Catholic High School		13.47341	144.75247	S	SCH	GU		AN				0	4	8	Pacific/Guam	2011-06-29
+4043794	Lotnon Hill	Lotnon Hill		13.26183	144.67938	T	HLL	GU		ME				0	69	48	Pacific/Guam	2011-06-10
+4043799	Achang Fringing Reef Awash	Achang Fringing Reef Awash		13.24254	144.69488	H	RFC	GU		ME				0	0	1	Pacific/Guam	2011-05-31
+4043800	Achugao Point	Achugao Point	Achugas Point	13.33679	144.64495	T	CAPE	GU		UM				0	51	13	Pacific/Guam	2011-06-10
+4043801	Adelup Point	Adelup Point	Adelup Point,Missionary Point,Point Adelup,Vybezek Adelup,Výběžek Adelup,a de lu pu jiao,阿德盧普角	13.48092	144.72908	T	CAPE	GU		AN				0	15	1	Pacific/Guam	2011-07-01
+4043803	Adelup Park	Adelup Park		13.47874	144.72985	L	CMN	GU		AN				0	3	3	Pacific/Guam	2011-07-01
+4043804	Agat Village	Agat Village	Hagat,Hågat	13.383	144.66003	P	PPLA	GU		AT				3292	3	87	Pacific/Guam	2025-03-09
+4043806	Admiral Nimitz Golf Course - restricted DoD	Admiral Nimitz Golf Course - restricted DoD		13.47064	144.82367	S	RECG	GU		BA				0	90	92	Pacific/Guam	2011-06-25
+4043807	Afami	Afami	Afame	13.4571	144.76285	P	PPLX	GU		SJ				0	60	49	Pacific/Guam	2011-06-28
+4043809	Aga Point	Aga Point	Ajayan Point	13.24636	144.72717	T	CAPE	GU		IN				0	1	-9999	Pacific/Guam	2011-07-03
+4043812	Asan-Maina Village	Asan-Maina Village	Assan	13.47215	144.71654	P	PPLA	GU		AS				2137	3	5	Pacific/Guam	2013-07-07
+4043813	Alupat Island	Alupat Island		13.49291	144.77023	T	ISL	GU		TM				0	9	1	Pacific/Guam	2011-06-01
+4043814	Ague Point	Ague Point		13.56755	144.82455	T	CAPE	GU		DD				0	107	103	Pacific/Guam	2011-06-08
+4043817	Agat US Assault Beaches - 1st Provisional Marine Brigade WW2	Agat US Assault Beaches - 1st Provisional Marine Brigade WW2	Agat Invasion Beach,US National Register of Historic Places,War in the Pacific National Historical Park - Agat Unit	13.38841	144.65608	S	HSTS	GU		AT				0	0	5	Pacific/Guam	2011-06-03
+4043819	Agfayan River	Agfayan River		13.26841	144.73813	H	STM	GU		IN				0	6	3	Pacific/Guam	2018-04-09
+4043820	Aguada River	Aguada River		13.43869	144.68565	H	STM	GU		PI				0	0	17	Pacific/Guam	2011-07-02
+4043821	Starts Guam Golf Resort - 27 Holes	Starts Guam Golf Resort - 27 Holes	frmr Alte Guam Golf Resort,frmr Hatsuho Golf Course	13.57685	144.86654	S	RECG	GU		DD				0	150	143	Pacific/Guam	2011-06-23
+4043823	Ajayan Bay	Ajayan Bay	Port Ajayan	13.24892	144.71918	H	BAY	GU		IN				0	0	1	Pacific/Guam	2011-06-08
+4043825	Mount Almagosa	Mount Almagosa		13.34578	144.67257	T	MT	GU		AT				0	381	363	Pacific/Guam	2018-04-09
+4043829	Apra Heights - DoD Naval Housing	Apra Heights - DoD Naval Housing		13.40306	144.68475	P	PPLX	GU		SR				0	75	73	Pacific/Guam	2011-06-18
+4043831	Amantes Point	Amantes Point	Puntan de los dos Amantes,Puntan dos Amantes,Two Lovers Point	13.53528	144.80255	T	CAPE	GU		TM				0	104	81	Pacific/Guam	2011-06-04
+4043833	Apra Outer Harbor	Apra Outer Harbor	Apra Hafen,Apura-wan,Bai San Luis de Apra,Caldera de Apra,Harbor of Apra,Harbor of San Luis D'Apra,La Caldera Bay,La Caldera de Apra Harbour,La Calderona de Apra,Luis Harbor,Outer Harbor,Port Apra,Port San Louis D'Apra,Port de la Caldera de Apra,Puerto de Apra,Puerto de San Luis de Apra,San Luis D'Apra,San Luis d'Apra Bay	13.45328	144.64106	H	HBR	GU		PI				0	0	-9999	Pacific/Guam	2020-10-24
+4043838	Apra Junction - Routes 4-5-17	Apra Junction - Routes 4-5-17		13.41049	144.67587	R	RDJCT	GU		SR				0	35	28	Pacific/Guam	2011-06-04
+4043839	Apuntua Point	Apuntua Point	Haputo Point	13.42134	144.63988	T	CAPE	GU		SR				0	46	29	Pacific/Guam	2011-06-19
+4043846	Asan Point	Asan Point		13.47671	144.70727	T	CAPE	GU		AS				0	0	1	Pacific/Guam	2011-06-29
+4043848	War in the Pacific National Historical Park - Asan Beach Unit	War in the Pacific National Historical Park - Asan Beach Unit	WW2	13.47343	144.71007	L	PRK	GU		AS				0	2	9	Pacific/Guam	2011-06-30
+4043854	Asdonao Hill	Asdonao Hill		13.2764	144.7297	T	HLL	GU		IN				0	103	84	Pacific/Guam	2011-06-09
+4043856	Asiga Point	Asiga Point		13.3244	144.77251	T	PT	GU		IN				0	36	12	Pacific/Guam	2011-06-09
+4043857	Asgadao Islet	Asgadao Islet	As-Gadao Island	13.24443	144.70623	T	ISLET	GU		ME				0	4	1	Pacific/Guam	2011-05-31
+4043858	Asiga Beach	Asiga Beach		13.31492	144.77135	T	BCH	GU		IN				0	0	7	Pacific/Guam	2011-06-09
+4043861	Manenggon	Manenggon	As-Misen,Manengon	13.39866	144.7535	P	PPLX	GU		YN				0	6	19	Pacific/Guam	2011-06-17
+4043862	Asan US Assault Beaches - 3rd Marine Division Reinforced WW2	Asan US Assault Beaches - 3rd Marine Division Reinforced WW2	Asan Invasion Beach,US National Register of Historic Places,War in the Pacific National Historical Park - Asan Beach Unit	13.47529	144.71651	S	HSTS	GU		AS				0	0	1	Pacific/Guam	2011-06-03
+4043871	Atao Beach	Atao Beach		13.25769	144.73532	T	BCH	GU		IN				0	0	5	Pacific/Guam	2011-06-15
+4043875	Matgue River Piti-Asan Bridge	Matgue River Piti-Asan Bridge	Nidual River	13.47125	144.70686	S	BDG	GU		PI				0	2	12	Pacific/Guam	2011-06-20
+4043877	Dededo Municipality	Dededo Municipality	Dededo,Dededu,ddadw,dededo,Дедедо,ددادو,ডেডেডো,ਡੇਡੇਡੋ,ደደዶ,デデド	13.51776	144.83898	A	ADM1	GU		DD				44908	184	100	Pacific/Guam	2026-04-16
+4043879	Bile	Bile		13.27616	144.66471	P	PPLX	GU		ME				0	3	10	Pacific/Guam	2011-06-14
+4043880	Mount Barrigada	Mount Barrigada	Barrigada Hill,Barrigada Vulcanic Outcrop through Limestone Plateau	13.48961	144.83109	T	HLL	GU		BA				0	200	204	Pacific/Guam	2011-07-05
+4043881	Bangi Island	Bangi Island		13.37741	144.65052	T	ISLET	GU		AT				0	2	39	Pacific/Guam	2011-06-03
+4043882	Babe Island	Babe Island		13.24004	144.67438	T	ISLET	GU		ME				0	2	-9999	Pacific/Guam	2011-05-31
+4043883	Balang Point	Balang Point		13.25112	144.6891	T	PT	GU		ME				0	0	50	Pacific/Guam	2011-05-31
+4043884	Barrigada War Memorial Park	Barrigada War Memorial Park	Guam Memorial Park	13.45689	144.79496	S	CMTY	GU		BA				0	54	47	Pacific/Guam	2018-04-11
+4043885	Barrigada Municipality	Barrigada Municipality	Barrigada,barigada,barygada,baryګada,Барригада,باریګادا,باریگادا,বারিগাডা,ਬਾਰਿਗਾਡਾ,ባሪጋዳ,バリガダ	13.46906	144.7988	A	ADM1	GU		BA				7956	200	68	Pacific/Guam	2026-04-16
+4043887	Bijia Point	Bijia Point	Gognga	13.52616	144.80435	T	CAPE	GU		TM				0	75	31	Pacific/Guam	2011-06-19
+4043888	GIROCO Tanker Pier	GIROCO Tanker Pier	Shell Pier F-1	13.45931	144.66191	S	PIER	GU		PI				0	-20	-9999	Pacific/Guam	2011-06-01
+4043889	Bayview Baptist Church	Bayview Baptist Church		13.47827	144.76597	S	CH	GU		MT				0	44	38	Pacific/Guam	2011-06-27
+4043891	Bijia Peak	Bijia Peak		13.45452	144.73313	T	HLL	GU		AS				0	206	203	Pacific/Guam	2018-04-08
+4043892	Family Baptist Church	Family Baptist Church		13.51539	144.84057	S	CH	GU		DD				0	97	100	Pacific/Guam	2011-06-07
+4043893	B P Carbullido Elementary School	B P Carbullido Elementary School	Carbullido School	13.47082	144.79372	S	SCH	GU		BA				0	61	67	Pacific/Guam	2011-06-06
+4043894	Camp Witek	Camp Witek		13.38423	144.76208	P	PPLX	GU		YN				0	77	96	Pacific/Guam	2011-06-17
+4043897	Bishop Baumgartner Memorial Catholic Elementary School	Bishop Baumgartner Memorial Catholic Elementary School	Bishop Baumgartner Junior High School,Saint Thaddeus School	13.46173	144.75117	S	SCH	GU		SJ				0	54	50	Pacific/Guam	2011-06-28
+4043898	Boaga Hill	Boaga Hill		13.2536	144.725	T	HLL	GU		IN				0	64	54	Pacific/Guam	2011-06-09
+4043904	Cabras Island	Cabras Island	Anapa,Apapas,Appapa,Isla Apapa	13.46216	144.67699	T	ISL	GU		PI				0	19	8	Pacific/Guam	2011-06-01
+4043905	Calalan Bank	Calalan Bank	Banco de Calalan,Kalalan Bank	13.45981	144.62992	H	RFC	GU		PI				0	0	-9999	Pacific/Guam	2011-07-10
+4043907	Camel Rock	Camel Rock	Gapan Islet,Gapang Islet	13.48027	144.70546	T	RK	GU		AS				0	6	1	Pacific/Guam	2011-06-19
+4043909	Dededo Village	Dededo Village	Dedidu	13.51777	144.8391	P	PPLA	GU		DD				44943	98	100	Pacific/Guam	2013-07-07
+4043911	Cetti Falls	Cetti Falls		13.32401	144.66675	H	FLLS	GU		UM				0	170	108	Pacific/Guam	2011-06-03
+4043912	Catalina Point	Catalina Point		13.52727	144.92332	T	CAPE	GU		YG				0	175	172	Pacific/Guam	2011-06-08
+4043913	Carlos Heights	Carlos Heights		13.51586	144.81301	P	PPLX	GU		TM				0	70	74	Pacific/Guam	2011-06-27
+4043915	Cetti Bay	Cetti Bay		13.31578	144.65484	H	BAY	GU		UM				0	0	79	Pacific/Guam	2011-06-01
+4043916	Dededo Central Park	Dededo Central Park		13.51779	144.83949	L	CMN	GU		DD				0	98	100	Pacific/Guam	2011-06-24
+4043917	Cerain	Cerain		13.39838	144.66361	P	PPLX	GU		AT				0	3	4	Pacific/Guam	2011-06-18
+4043918	Chamorro Village - Tourist Office Village	Chamorro Village - Tourist Office Village		13.47743	144.75219	S	MALL	GU		AN				0	2	4	Pacific/Guam	2011-07-01
+4043923	Chalan Mamajanao	Chalan Mamajanao		13.49975	144.78738	P	PPLX	GU		TM				0	30	36	Pacific/Guam	2011-06-27
+4043926	Cocos Lagoon	Cocos Lagoon		13.25348	144.66166	H	LGN	GU		ME				0	10	-9999	Pacific/Guam	2011-05-31
+4043927	Chocolate House	Chocolate House		13.47364	144.75141	S	HSTS	GU		AN				0	3	9	Pacific/Guam	2011-07-02
+4043929	Chii Point	Chii Point		13.32987	144.64984	T	CAPE	GU		UM				0	48	25	Pacific/Guam	2011-06-10
+4043930	Cocos Island	Cocos Island	Dano Island,Dano Isle,Isla de Cocos,Ysla de Cocos,Yurajano	13.23721	144.65001	T	ISL	GU		ME				0	3	10	Pacific/Guam	2011-06-09
+4043931	Church of Christ	Church of Christ		13.47601	144.72284	S	CH	GU		AS				0	3	13	Pacific/Guam	2011-06-30
+4043932	Guam First Church of the Nazarene	Guam First Church of the Nazarene		13.51148	144.84198	S	CH	GU		DD				0	98	103	Pacific/Guam	2011-06-24
+4043933	Public Dano Park on Cocos Island West Tip	Public Dano Park on Cocos Island West Tip		13.23575	144.6469	L	CMN	GU		ME				0	3	11	Pacific/Guam	2011-06-09
+4043935	Coontz Junction - Route1-Route6	Coontz Junction - Route1-Route6		13.47805	144.72977	R	RDJCT	GU		AS				0	3	3	Pacific/Guam	2011-06-29
+4043936	Cotal Conservation Area	Cotal Conservation Area		13.3963	144.71243	L	RES	GU		SR				0	160	119	Pacific/Guam	2011-07-02
+4043937	Daniel L Perez Elementary School	Daniel L Perez Elementary School	Yigo Elementary School,Yigo School	13.53438	144.89471	S	SCH	GU		YG				0	122	130	Pacific/Guam	2011-06-07
+4043947	Dungcas Beach	Dungcas Beach	Recreation Beach	13.4902	144.775	T	BCH	GU		TM				0	0	12	Pacific/Guam	2011-06-03
+4043949	Cathedral-Basilica Dulce Nombre de Maria	Cathedral-Basilica Dulce Nombre de Maria	Dulce Nombre De Maria Cathedral *,The Roman Catholic Archdiocese of Agana	13.4743	144.75235	S	CH	GU		AN				0	3	8	Pacific/Guam	2011-06-29
+4043951	Francisco B Leon Guerrero Middle School	Francisco B Leon Guerrero Middle School		13.52656	144.87558	S	SCH	GU		YG				0	138	137	Pacific/Guam	2011-06-07
+4043953	Evangelical Church	Evangelical Church		13.44289	144.76822	S	CH	GU		CP				0	45	47	Pacific/Guam	2011-06-06
+4043954	Fadian Point	Fadian Point		13.44259	144.82446	T	CAPE	GU		MA				0	55	23	Pacific/Guam	2011-06-09
+4043956	Facpi Point	Facpi Point		13.34063	144.63795	T	CAPE	GU		UM				0	66	60	Pacific/Guam	2011-05-31
+4043957	Fotos Islet	Fotos Islet		13.24372	144.70847	T	ISLET	GU		ME				0	5	1	Pacific/Guam	2011-06-08
+4043958	USN Fena Lake Water Treatment Plant	USN Fena Lake Water Treatment Plant	Fena Filtration Plant	13.38773	144.68536	S	WTRW	GU		SR				0	110	111	Pacific/Guam	2011-06-13
+4043962	Fena Valley Fresh Water Reservoir	Fena Valley Fresh Water Reservoir		13.36	144.70202	H	RSV	GU		AT				0	34	39	Pacific/Guam	2011-06-08
+4043963	Father Duenas Memorial Catholic High School	Father Duenas Memorial Catholic High School	Father Duenas School,Father Jesus Baza Duenas Memorial School	13.43883	144.78761	S	SCH	GU		CP				0	49	51	Pacific/Guam	2011-06-21
+4043964	Fena Pumping Station	Fena Pumping Station		13.36	144.70747	S	PMPW	GU		SR				0	19	20	Pacific/Guam	2011-06-08
+4043965	Chalan Pago	Chalan Pago		13.43857	144.77607	P	PPLX	GU		CP				0	49	45	Pacific/Guam	2012-05-22
+4043968	Finegayan Elementary School	Finegayan Elementary School		13.5682	144.8485	S	SCH	GU		DD				0	134	136	Pacific/Guam	2011-06-07
+4043973	Explosives Anchorage	Explosives Anchorage		13.4486	144.63213	H	ANCH	GU		SR				0	-45	1	Pacific/Guam	2011-05-30
+4043974	Gaan Point	Gaan Point		13.38613	144.65596	T	PT	GU		AT				0	0	6	Pacific/Guam	2011-06-03
+4043975	Fort Santo Angel	Fort Santo Angel	Fort Santo Angel	13.29892	144.6582	S	INSM	GU		UM				0	13	6	Pacific/Guam	2016-07-18
+4043976	Pigo Catholic Cemetery	Pigo Catholic Cemetery	Pigo River	13.47719	144.73235	S	CMTY	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+4043979	Fouha Point	Fouha Point		13.30718	144.65574	T	CAPE	GU		UM				0	45	14	Pacific/Guam	2018-04-08
+4043980	Francisco Q Sanchez Elementary School Umatac	Francisco Q Sanchez Elementary School Umatac	F Q Sanchez School,Sanchez School	13.29924	144.66344	S	SCH	GU		UM				0	10	12	Pacific/Guam	2011-07-02
+4043984	Gayinero	Gayinero		13.53036	144.90441	P	PPLX	GU		YG				0	178	182	Pacific/Guam	2011-06-23
+4043986	George Washington High School	George Washington High School	Washington High School	13.43795	144.80578	S	SCH	GU		MA				0	77	83	Pacific/Guam	2011-06-07
+4043988	Guam	Guam	GU,GUM,Guaam,Guahan,Guam,Guam - US Unincorporated Organized Territory,Guam nutome,Guama,Guamas,Guamu,Guwam,Guâm,Guåhan,Gvam,Gvamo,Gwam,Gwamu,Gwamɛ,Islan Guahan,Islan Guåhan,Kuamu,Ngwame,Nkouam,Quam,Territory of Guam,ghwam,gu'am,gu'ama,guam,guami,guamu,guan dao,guraama,guvam,guvama,guyama,gvam,gvama,gwam,gwwʼam,gۇyam,i-Guam,kuvam,kwm,Γκουάμ,Гуам,Գուամ,גואם,גוואַם,غوام,ګwam,ګوام,گوام,گُوام,گۇئام,गुआम,गुवाम,গুয়াম,গুৱাম,ਗੁਆਮ,ગ્વામ,ଗୁଆମ୍,குவாம்,గ్వామ్,ಗುವಾಮ್,ഗ്വാം,ගවාම,ගුවාම්,กวม,ກວາມ,ག་འམ་ མཚ་གང,གུ་འམ་ མཚོ་གླིང,ဂူအမ်,გუამი,ጉዋም,ហគា,ហ្គាំ,グアム,关岛,關島,괌	13.47861	144.81834	A	PCLD	GU	US	00				165768	406	111	Pacific/Guam	2024-11-04
+4043989	Guam Passenger Terminal	Guam Passenger Terminal		13.49241	144.80543	S	FCL	GU		BA				0	90	86	Pacific/Guam	2011-06-25
+4043993	Guam Adventist Academy	Guam Adventist Academy	Guam Mission Academy	13.37506	144.74783	S	SCH	GU		YN				0	120	95	Pacific/Guam	2011-06-07
+4043995	Guam Adult Correctional Facility	Guam Adult Correctional Facility	Guam Penitentiary	13.44926	144.78761	S	PRN	GU		MA				0	45	48	Pacific/Guam	2011-06-21
+4043996	Guam Veterans Cemetery	Guam Veterans Cemetery	United States Naval Cemetery	13.45711	144.68992	S	CMTY	GU		PI				0	13	12	Pacific/Guam	2011-06-20
+4043997	Guam Memorial Hospital	Guam Memorial Hospital		13.50496	144.77459	S	HSP	GU		TM				0	39	48	Pacific/Guam	2011-06-12
+4043998	frmr DoD Guam High School	frmr DoD Guam High School		13.46375	144.72846	S	INSM	GU		AS				0	189	186	Pacific/Guam	2011-06-28
+4043999	Antonio B. Won Pat International Airport	Antonio B. Won Pat International Airport	Aeroporto Internazionale Antonio B. Won Pat,Aeroportul International Antonio B. Won Pat,Aeroportul Internațional Antonio B. Won Pat,Aeropuerto Internacional Antonio B. Won Pat,Antonio B Won Pat International Airport,Antonio B. Won Pat International Airport,Antonio B. Won Pat internasjonale lufthavn,Antonio B. Won Patin kansainvaelinen lentoasema,Antonio B. Won Patin kansainvälinen lentoasema,Bandar Udara Internasional Antonio B. Won Pat,Flughafen Antonio B. Won Pat,GUM,Guam,Guam International Airport,Lapangan Terbang Antarabangsa Guam,Luchthaven Antonio B. Won Pat,Maes Awyr Rhyngwladol Antonio B. Won Pat,Megunarodni aerodrom Antonio B. Won Pat,Međunarodni aerodrom Antonio B. Won Pat,PGUM,Port lotniczy Antonio B. Won Pat,San bay quoc te Antonio B. Won Pat,Sân bay quốc tế Antonio B. Won Pat,U.S. Naval Air Station Agana,aeroport international Antonio-B.-Won-Pat de Guam,antonio bi won paes gugjegonghang,aéroport international Antonio-B.-Won-Pat de Guam,guamu guo ji kong gang,mtar antwnyw by wan bat aldwly,Гуам,Фурудгоҳи бин‌алмилалӣ онтуню бе уон пт,נמל התעופה הבינלאומי של גואם,انتونیو بی وان پټ هوایی ډګر,فرودگاه بین‌المللی انتونیو بی وان پت,مطار أنتونيو بي وان بات الدولي,مطار انتونيو بى وان بات الدولى,グアム国際空港,安东尼奥·汪帕特国际机场,安東尼奧·汪帕特國際機場,안토니오 비 원 팻 국제공항	13.48299	144.79772	S	AIRP	GU		BA				0	82	84	Pacific/Guam	2011-06-25
+4044000	frmr NASA Apollo Tracking and Communication Station	frmr NASA Apollo Tracking and Communication Station	NASA Tracking Station MSFN GWM	13.31039	144.7376	S	COMC	GU		IN				0	83	85	Pacific/Guam	2011-06-14
+4044002	Guam Territorial Law Library	Guam Territorial Law Library		13.47106	144.75327	S	LIBR	GU		AN				0	3	10	Pacific/Guam	2011-07-01
+4044004	Gaan Islet	Gaan Islet		13.38673	144.65513	T	ISLET	GU		AT				0	2	5	Pacific/Guam	2011-06-03
+4044007	Guam Youth Detention Facility	Guam Youth Detention Facility	Guam Detention Home,Hagatna Detention Facility	13.45059	144.79787	S	PRN	GU		MA				0	49	62	Pacific/Guam	2011-06-21
+4044011	Hagatna Boat Channel	Hagatna Boat Channel	Agana Channel,Hagatna Channel	13.48343	144.75238	H	CHN	GU		AN				0	0	-9999	Pacific/Guam	2011-07-04
+4044012	Hagåtña	Hagatna	Agadna,Agana,Agana -1998,Agania,Aganija,Aganja,Agano,Agaña,Aguana,Akashi,Akashi - JP renamed WW2,Ankana,City of Ignacio de Agana,City of Saint Ignacio de Agana,Ciudad de San Ignacio de Agana,Hagadna,Hagatna,Hagåtña,Haqatna,Jagatna,Khagatna,San Ignacio de Agana *,Ville d'Agana,Vjoska Agan'ja,a jia ni ya,akatna,ha katya,hagania,hagasnya,hagatna,hagatnya,haghatnya,hegatn'ya,Αγκάνα,Вёска Аганья,Хагатна,Хагатња,Հագատնա,هاغاتنيا,هاگاتنا,هاگاتنیا,हेगात्न्या,அகாத்ன,ฮากาตญา,ჰაგატნა,ハガニア,阿加尼亚,하갓냐	13.47567	144.74886	P	PPLC	GU		AN				1051	3	5	Pacific/Guam	2011-10-19
+4044013	American Red Cross Guam	American Red Cross Guam	Agana Central Park,Hagatna Central Park	13.47144	144.75392	S	ADMF	GU		AN				0	3	7	Pacific/Guam	2011-07-01
+4044014	Haputo Point	Haputo Point		13.5819	144.8328	T	CAPE	GU		DD				0	120	116	Pacific/Guam	2011-06-08
+4044015	Hagåtña Shopping Center	Hagatna Shopping Center	Agana Shopping Center,Hagatna Shopping Center	13.47074	144.75578	S	MALL	GU		AN				0	3	8	Pacific/Guam	2011-07-01
+4044016	Agana Heights Elementary School	Agana Heights Elementary School	Agana Heights Elementary School,Hagatna Heights Elementary School	13.46497	144.74683	S	SCH	GU		AH				0	52	41	Pacific/Guam	2011-06-06
+4044018	Haputo National Ecological Reserve Area	Haputo National Ecological Reserve Area		13.58234	144.83139	L	RES	GU		DD				0	0	25	Pacific/Guam	2011-07-02
+4044019	Hagåtña Municipality	Hagatna Municipality	Agana,Agana Municipality,Hagatna,Khagatna,Municipality of Hagatna,hagannya,hagatana,hagatina,hagatna,haګatna,Хагатна,هاګاتنا,هاگاتنا,হাগাতনা,ਹਾਗਾਤਨਾ,ሃጋትና,ハガッニャ	13.47279	144.75788	A	ADM1	GU		AN				943	30	5	Pacific/Guam	2026-04-16
+4044020	Haputo Beach	Haputo Beach		13.57754	144.83126	T	BCH	GU		DD				0	0	18	Pacific/Guam	2011-06-08
+4044021	Mount Ilicho	Mount Ilicho	Ilicho Peak,Mount Llicho	13.29514	144.68636	T	MT	GU		UM				0	371	364	Pacific/Guam	2018-04-08
+4044022	Captain Henry B Price Elementary School	Captain Henry B Price Elementary School		13.44929	144.80216	S	SCH	GU		MA				0	61	60	Pacific/Guam	2011-06-07
+4044023	Harmon Power Substation	Harmon Power Substation		13.52307	144.8194	S	PS	GU		DD				0	81	82	Pacific/Guam	2011-06-07
+4044026	Harvest Christian Academy	Harvest Christian Academy	Harvest Baptist School	13.46951	144.78523	S	SCH	GU		BA				0	53	55	Pacific/Guam	2011-06-06
+4044028	Harry S Truman Elementary School	Harry S Truman Elementary School	Agat-Santa Rita School	13.39437	144.67681	S	SCH	GU		SR				0	45	48	Pacific/Guam	2011-06-08
+4044035	Iglesia Ni Christo	Iglesia Ni Christo		13.51336	144.81877	S	CH	GU		DD				0	60	66	Pacific/Guam	2011-06-12
+4044041	Inarajan Municipality	Inarajan Municipality	Inalahan,Inalåhan,Inarajan,Inarazhan,aynarzhan,inarajan,inarajana,İnarajan,ʿinarajani,Инаражан,اینارژان,ইনারাজান,ਇਨਾਰਾਜਾਨ,ኢናራጃን,イナラジャン	13.29414	144.73479	A	ADM1	GU		IN				2317	379	90	Pacific/Guam	2026-04-16
+4044043	Inarajan Middle School	Inarajan Middle School	Inarajan High School	13.2871	144.74422	S	SCH	GU		IN				0	66	72	Pacific/Guam	2011-06-08
+4044045	Janum Point	Janum Point		13.52393	144.91962	T	CAPE	GU		YG				0	186	185	Pacific/Guam	2011-06-08
+4044046	Joaquin P Torres Elementary School	Joaquin P Torres Elementary School	Torres School	13.38509	144.67003	S	SCH	GU		SR				0	84	82	Pacific/Guam	2011-06-08
+4044047	Spanish Fort San Jose 1805	Spanish Fort San Jose 1805	US National Register of  Historic Places	13.30474	144.65998	S	RUIN	GU		UM				0	70	38	Pacific/Guam	2011-06-06
+4044050	Jalaihai Point	Jalaihai Point	Jalaigai Point	13.29717	144.77067	T	PT	GU		IN				0	0	-9999	Pacific/Guam	2011-07-03
+4044052	Ladae Hill	Ladae Hill		13.29821	144.67114	T	HLL	GU		UM				0	104	65	Pacific/Guam	2011-06-14
+4044053	Juan Q San Miguel Elementary School	Juan Q San Miguel Elementary School	San Miguel Elementary School	13.46167	144.77419	S	SCH	GU		MT				0	26	26	Pacific/Guam	2011-06-06
+4044057	Ypao Beach Park	Ypao Beach Park	Governor Joseph F. Flores Beach Park,Ypao Beach Park	13.50308	144.78821	L	CMN	GU		TM				0	3	6	Pacific/Guam	2011-06-27
+4044058	Ipan Beach Resort	Ipan Beach Resort		13.35613	144.77149	S	RSRT	GU		YN				0	0	-9999	Pacific/Guam	2011-06-16
+4044062	Mount Jumullong Manglo	Mount Jumullong Manglo	Humuong Manglo,Humuyung Manglu,Jumullong Manglo Mountain,Jumulong Manglo,Jumulong Manglo Mountain,Jumuyong Manglo,Mount Jumullong Manglo,Mount Jumullung Manglo	13.32972	144.67228	T	MT	GU		UM				0	391	379	Pacific/Guam	2011-06-10
+4044072	Lafac Point	Lafac Point		13.57137	144.94473	T	CAPE	GU		YG				0	30	29	Pacific/Guam	2011-06-08
+4044077	Lingae	Lingae		13.25557	144.68282	P	PPLX	GU		ME				0	3	5	Pacific/Guam	2011-06-14
+4044079	Latte Heights	Latte Heights		13.49055	144.84169	P	PPLX	GU		MA				0	120	125	Pacific/Guam	2011-06-21
+4044080	Latte Stone Park	Latte Stone Park	Senator Angel Leon Guerrero Santos Memorial Park	13.47235	144.7517	S	MUS	GU		AN				0	4	9	Pacific/Guam	2011-06-29
+4044082	Leo Palace Resort	Leo Palace Resort		13.41817	144.73434	S	HTL	GU		YN				0	105	149	Pacific/Guam	2011-06-07
+4044083	Liguan Point	Liguan Point		13.24633	144.70679	T	PT	GU		ME				0	0	6	Pacific/Guam	2011-05-31
+4044085	Luminao Barrier Reef Awash	Luminao Barrier Reef Awash		13.46626	144.64505	H	RFC	GU		PI				0	0	-9999	Pacific/Guam	2011-05-31
+4044087	Lockwood Terrace - DoD Naval Housing	Lockwood Terrace - DoD Naval Housing	Lockwood Terrace Housing Area	13.43272	144.65031	P	PPLX	GU		SR				0	22	24	Pacific/Guam	2011-06-20
+4044093	Machadgan Point	Machadgan Point	Tougouene,Tougouénè	13.29387	144.65672	T	PT	GU		UM				0	0	10	Pacific/Guam	2011-07-03
+4044094	Lyndon B Johnson Elementary School	Lyndon B Johnson Elementary School		13.50221	144.78169	S	SCH	GU		TM				0	23	28	Pacific/Guam	2011-06-06
+4044095	Mount Macajna	Mount Macajna		13.45454	144.73745	T	HLL	GU		AS				0	216	199	Pacific/Guam	2018-04-08
+4044096	Macheche	Macheche		13.50386	144.8351	P	PPLX	GU		DD				0	87	87	Pacific/Guam	2011-06-24
+4044102	Magpogugae	Magpogugae		13.26367	144.7032	T	HLL	GU		ME				0	176	177	Pacific/Guam	2011-06-09
+4044105	Maina	Maina	Ma`ina	13.46764	144.73702	P	PPLX	GU		AS				0	60	49	Pacific/Guam	2011-06-29
+4044113	Malojloj Falls	Malojloj Falls		13.2969	144.75273	H	FLLS	GU		IN				0	60	61	Pacific/Guam	2011-06-16
+4044114	Mamatgun Point	Mamatgun Point		13.28991	144.65795	T	CAPE	GU		UM				0	30	27	Pacific/Guam	2011-06-01
+4044115	Matala Point	Matala Point		13.33421	144.77152	T	CAPE	GU		IN				0	0	-9999	Pacific/Guam	2011-06-01
+4044121	Mangilao Mayor's Office	Mangilao Mayor's Office	Mangilao Mayor's Baseball Field	13.44689	144.80144	S	ADMF	GU		MA				0	57	59	Pacific/Guam	2012-07-25
+4044125	Maria A Ulloa Elementary School	Maria A Ulloa Elementary School	Maria Ulloa Elementary School	13.51994	144.84373	S	SCH	GU		DD				0	109	107	Pacific/Guam	2011-06-07
+4044126	Marianas Terrace	Marianas Terrace		13.5331	144.89905	P	PPLX	GU		YG				0	135	141	Pacific/Guam	2011-07-05
+4044129	Mataguac Spring	Mataguac Spring		13.54524	144.88461	H	SPNG	GU		YG				0	148	155	Pacific/Guam	2011-06-05
+4044130	Neye Island	Neye Island		13.41362	144.64669	T	ISL	GU		SR				0	21	12	Pacific/Guam	2011-06-01
+4044132	Orote Airfield - dormant	Orote Airfield - dormant	Guam West Field,Orote Field,Orote Naval Air Station WW2,Sumay Airfield,US National Register of Historic Places	13.43713	144.63941	S	AIRF	GU		SR				0	30	34	Pacific/Guam	2011-06-05
+4044133	Naton Beach	Naton Beach		13.51279	144.80302	T	BCH	GU		TM				0	0	6	Pacific/Guam	2011-06-09
+4044134	Our Lady of Mount Carmel Catholic Elementary School	Our Lady of Mount Carmel Catholic Elementary School	Carmel School	13.38349	144.65939	S	SCH	GU		AT				0	12	16	Pacific/Guam	2011-06-08
+4044139	SW Cocos Barrier Reef Awash	SW Cocos Barrier Reef Awash		13.23355	144.64115	H	RFC	GU		ME				0	0	-9999	Pacific/Guam	2011-06-09
+4044140	Mergagan Point	Mergagan Point		13.62764	144.89151	T	CAPE	GU		YG				0	168	153	Pacific/Guam	2011-06-08
+4044141	Merizo Catholic Cemetery	Merizo Catholic Cemetery	Malesso Catholic Cemetery	13.27149	144.66339	S	CMTY	GU		ME				0	3	14	Pacific/Guam	2011-06-14
+4044142	War In the Pacific National Historical Park - Mount Alifan Unit	War In the Pacific National Historical Park - Mount Alifan Unit	WW2	13.38046	144.67166	L	PRK	GU		AT				0	266	207	Pacific/Guam	2011-06-30
+4044143	Micronesia Mall	Micronesia Mall	Micronesia Mall Shopping Center	13.5201	144.81753	S	MALL	GU		DD				0	68	86	Pacific/Guam	2011-06-07
+4044144	Merizo Martyrs Memorial Elementary School	Merizo Martyrs Memorial Elementary School	Merizo Martyrs Memorial School	13.27263	144.67311	S	SCH	GU		ME				0	75	80	Pacific/Guam	2011-06-08
+4044145	frmr Merlyn G Cook School 1931	frmr Merlyn G Cook School 1931	Merizo School,US Natioanl Register of Historic Places	13.26876	144.66436	S	HSTS	GU		ME				0	3	11	Pacific/Guam	2011-06-14
+4044148	Mongmong-Toto-Maite Municipality	Mongmong-Toto-Maite Municipality	Mongmong-Toto-Maite	13.46857	144.78191	A	ADM1	GU		MT				6380	67	47	Pacific/Guam	2023-02-12
+4044150	Namo River	Namo River	Ayuja River	13.39786	144.66741	H	STM	GU		SR				0	1	12	Pacific/Guam	2011-06-17
+4044152	War in the Pacific National Historical Park - Mt Chachao and Mt Tenjo Unit	War in the Pacific National Historical Park - Mt Chachao and Mt Tenjo Unit	WW2	13.43007	144.705	L	PRK	GU		AS				0	295	287	Pacific/Guam	2011-06-30
+4044153	NCS Beach	NCS Beach	Naval Communications Station Beach,Tanguisson Beach	13.54326	144.8083	T	BCH	GU		DD				0	0	9	Pacific/Guam	2018-04-07
+4044154	Namo Hill	Namo Hill		13.27478	144.70393	T	HLL	GU		IN				0	167	176	Pacific/Guam	2011-06-09
+4044155	Rizal Beach	Rizal Beach		13.40573	144.66119	T	BCH	GU		SR				0	0	26	Pacific/Guam	2011-07-02
+4044395	Palii Hill	Palii Hill		13.55097	144.87336	T	HLL	GU		DD				0	183	184	Pacific/Guam	2011-06-08
+4044398	Paicpouc Point	Paicpouc Point		13.33595	144.76855	T	PT	GU		IN				0	7	9	Pacific/Guam	2011-06-09
+4044406	Pado	Pado		13.46784	144.77528	P	PPLX	GU		MT				0	12	20	Pacific/Guam	2011-06-27
+4044408	Our Lady of the Blessed Sacrament Catholic Church	Our Lady of the Blessed Sacrament Catholic Church		13.46546	144.74514	S	CH	GU		AH				0	46	47	Pacific/Guam	2011-06-29
+4044410	Our Lady of Lourdes Catholic Church	Our Lady of Lourdes Catholic Church		13.53698	144.88938	S	CH	GU		YG				0	140	137	Pacific/Guam	2011-06-21
+4044411	DoD Orote Diesel Backup Power Plant 20 MW	DoD Orote Diesel Backup Power Plant 20 MW	Orote Power Plant	13.42197	144.66155	S	PS	GU		SR				0	3	8	Pacific/Guam	2011-06-13
+4044419	Oka	Oka	Jonestown,Oca	13.50086	144.77252	P	PPLX	GU		TM				0	24	26	Pacific/Guam	2011-06-26
+4044420	Oceanview Middle School	Oceanview Middle School	Agat Junior High School	13.38777	144.66257	S	SCH	GU		AT				0	19	23	Pacific/Guam	2011-06-08
+4044422	Notre Dame Catholic Coeducational High School	Notre Dame Catholic Coeducational High School	Notre Dame School	13.34453	144.76102	S	SCH	GU		TF				0	118	114	Pacific/Guam	2011-06-08
+4044423	Northern Region Health Center	Northern Region Health Center		13.52227	144.83428	S	HSP	GU		DD				0	93	99	Pacific/Guam	2011-06-24
+4044897	Pedro C Lujan Elementary School	Pedro C Lujan Elementary School	East Barrigada School,P C Lujan Elementary School	13.47036	144.80824	S	SCH	GU		BA				0	72	77	Pacific/Guam	2011-06-07
+4045122	JP Fonte Communication Bunker WW2	JP Fonte Communication Bunker WW2		13.46114	144.73056	S	HSTS	GU		AS				0	180	175	Pacific/Guam	2011-07-06
+4045138	Nimitz Hill Fire Station	Nimitz Hill Fire Station		13.46388	144.72475	S	INSM	GU		AS				0	150	174	Pacific/Guam	2011-06-30
+4045146	Nimitz Hill	Nimitz Hill	Bundschu Ridge,Fleet Admiral Chester W. Nimitz Hill	13.46012	144.72423	T	HLL	GU		AS				0	180	153	Pacific/Guam	2011-06-30
+4045150	Nimitz Beach Park	Nimitz Beach Park	Fleet Admiral Chester W. Nimitz Park	13.36501	144.64953	L	CMN	GU		AT				0	2	95	Pacific/Guam	2011-06-30
+4045152	Nieves M Flores Memorial Library	Nieves M Flores Memorial Library		13.47283	144.75384	S	LIBR	GU		AN				0	3	7	Pacific/Guam	2011-06-29
+4045154	Peca	Peca	Y-Peca	13.28143	144.75321	P	PPLX	GU		IN				0	21	26	Pacific/Guam	2011-06-15
+4045157	Orote Peninsula National Ecological Reserve Area	Orote Peninsula National Ecological Reserve Area		13.43834	144.62392	L	RES	GU		SR				0	0	35	Pacific/Guam	2011-07-02
+4045162	Nuestra Senora de las Aguas Catholic Church	Nuestra Senora de las Aguas Catholic Church		13.47402	144.76202	S	CH	GU		MT				0	21	22	Pacific/Guam	2011-06-21
+4045163	North Tipalao - DoD Naval Housing	North Tipalao - DoD Naval Housing	North Tipalao Housing Area	13.42074	144.64422	P	PPLX	GU		SR				0	25	24	Pacific/Guam	2011-06-20
+4045165	Orote Peninsula	Orote Peninsula		13.44	144.63	T	PEN	GU		SR				0	64	45	Pacific/Guam	2018-04-08
+4045169	Orote Island	Orote Island		13.44759	144.61991	T	ISLET	GU		SR				0	44	15	Pacific/Guam	2019-03-08
+4045171	Chalan Pago-Ordot Elementary School	Chalan Pago-Ordot Elementary School	Ordot-Chalan Pago School	13.44076	144.76024	S	SCH	GU		CP				0	44	48	Pacific/Guam	2011-06-06
+4045174	Nuestra Señora de la Paz y Buen Viaje Church	Nuestra Senora de la Paz y Buen Viaje Church	Our Lady of Peace and Safe Journey Catholic Church	13.43869	144.77679	S	CH	GU		CP				0	49	47	Pacific/Guam	2011-06-21
+4045175	Point Udall	Point Udall	Cape Orote,Cape San Carlos de Orote,Orote Point,Point Orote	13.44633	144.6184	T	CAPE	GU		SR				0	64	8	Pacific/Guam	2019-03-08
+4045176	Our Lady of Mount Carmel Catholic Church	Our Lady of Mount Carmel Catholic Church		13.38378	144.65975	S	CH	GU		AT				0	13	16	Pacific/Guam	2011-06-08
+4045182	Pagachao	Pagachao		13.36478	144.65569	P	PPLX	GU		AT				0	20	23	Pacific/Guam	2011-06-18
+4045183	Pago Bay	Pago Bay		13.42034	144.78792	H	BAY	GU		CP				0	0	-9999	Pacific/Guam	2011-06-01
+4045185	Pago River	Pago River		13.42193	144.78371	H	STM	GU		CP				0	5	6	Pacific/Guam	2018-04-09
+4045186	Pajon Point	Pajon Point		13.64328	144.87658	T	CAPE	GU		YG				0	165	143	Pacific/Guam	2011-06-08
+4045187	Pauliluc River	Pauliluc River	Pauliluc Creek	13.28324	144.758	H	STM	GU		IN				0	2	8	Pacific/Guam	2018-04-09
+4045188	Pauliluc Bay	Pauliluc Bay		13.28108	144.76012	H	BAY	GU		IN				0	0	-9999	Pacific/Guam	2011-06-01
+4045189	DoD Naval Reserve - Apra Heights Housing	DoD Naval Reserve - Apra Heights Housing		13.40302	144.6817	L	MILB	GU		SR				0	70	61	Pacific/Guam	2011-06-18
+4045190	Paseo de Susana Park	Paseo de Susana Park		13.47955	144.75386	L	CMN	GU		AN				0	2	6	Pacific/Guam	2011-07-03
+4045193	Mount Patsud	Mount Patsud		13.2959	144.75532	T	HLL	GU		IN				0	90	91	Pacific/Guam	2011-06-09
+4045194	Pati Point	Pati Point		13.59881	144.95632	T	PT	GU		YG				0	0	-9999	Pacific/Guam	2011-06-08
+5856693	Merizo Boat Piers	Merizo Boat Piers		13.26737	144.66495	S	PIER	GU		ME				0	0	7	Pacific/Guam	2011-06-14
+6269450	Mariana Islands - Guam	Mariana Islands - Guam	Islas Marianas,Islas de las Velas Latinas,Islas de los Ladrones,Jardines,Ladrone Islands,Las Marianas,Mariana Islands,Marianas,Marianerna,Marianeroearna,Marianeröarna,Marianoj,Prazeres,San Lazarus archipelago,Tjuvoearna,Tjuvöarna,the Marianas	13.481	144.736	T	ISLS	GU		00				159358	406	1	Pacific/Guam	2018-06-08
+6302085	Mariana Trench - SE Bend	Mariana Trench - SE Bend	Mariaani Suvik,Mariaani Süvik,Mariaanien Hauta,Mariana Trench,Mariana Trench Marine National Monument - Trench Unit,Mariana-kaiko,Mariana-kaikō,Marianas Trench,Marianergraven,Marianskaja vpadina,Marianskij Zhelob,Marianskiy Zhelob,mariana hai gou,marianakaikou,Марианская впадина,Марианский Желоб,まりあなかいこう,マリアナ海溝	12.87607	146.31592	U	TRNU	GU		00				0		-9999	Pacific/Guam	2019-12-19
+6464573	Hotel Santa Fe	Hotel Santa Fe		13.48875	144.7751	S	HTL	GU		TM				0	4	10	Pacific/Guam	2011-06-12
+6466626	Outrigger Guam Resort	Outrigger Guam Resort		13.51512	144.80559	S	HTL	GU		TM				0	4	16	Pacific/Guam	2011-06-11
+6468269	Grand Plaza Hotel	Grand Plaza Hotel		13.50819	144.80448	S	HTL	GU		TM				0	6	11	Pacific/Guam	2011-06-12
+6470105	Marriott Guam Resort and Spa	Marriott Guam Resort and Spa		13.50419	144.79462	S	HTL	GU		TM				0	4	14	Pacific/Guam	2011-06-11
+6477659	Hotel Nikko - Guam	Hotel Nikko - Guam		13.52196	144.80442	S	HTL	GU		TM				0	12	23	Pacific/Guam	2011-06-11
+6481070	Sheraton Laguna Guam Resort	Sheraton Laguna Guam Resort		13.49664	144.77097	S	HTL	GU		TM				0	12	27	Pacific/Guam	2011-06-12
+6492648	Days Inn Guam-Tamuning	Days Inn Guam-Tamuning		13.4927	144.79006	S	HTL	GU		TM				0	30	40	Pacific/Guam	2011-06-11
+6492755	Hilton Guam Resort And Spa	Hilton Guam Resort And Spa		13.50615	144.78567	S	HTL	GU		TM				0	6	18	Pacific/Guam	2022-03-21
+6492901	Guam Holiday Resort and Spa	Guam Holiday Resort and Spa		13.50703	144.80058	S	HTL	GU		TM				0	4	9	Pacific/Guam	2011-06-11
+6493569	Days Inn Guam Airport South	Days Inn Guam Airport South		13.47418	144.78443	S	HTL	GU		BA				0	67	71	Pacific/Guam	2011-06-13
+6495841	Fiesta Resort Guam	Fiesta Resort Guam		13.50636	144.79836	S	HTL	GU		TM				0	3	8	Pacific/Guam	2011-06-11
+6498868	PIC Pacific Islands Club	PIC Pacific Islands Club		13.50314	144.7929	S	HTL	GU		TM				0	4	16	Pacific/Guam	2011-06-12
+6505902	Ohana Oceanview Hotel	Ohana Oceanview Hotel		13.51849	144.81017	S	HTL	GU		TM				0	54	63	Pacific/Guam	2011-06-11
+6514274	The Westin Resort Guam	The Westin Resort Guam		13.51799	144.80667	S	HTL	GU		TM				0	4	14	Pacific/Guam	2011-06-11
+6526294	Royal Orchid Guam Hotel	Royal Orchid Guam Hotel		13.50235	144.7949	S	HTL	GU		TM				0	5	38	Pacific/Guam	2011-06-12
+7267913	Andersen AFB Housing Areas	Andersen AFB Housing Areas	Andersen Air Force Base,Andersen Air Force Base CDP	13.55691	144.92231	P	PPLX	GU		YG				0	158	153	Pacific/Guam	2026-04-16
+7267944	Nimitz Hill Navy Housing	Nimitz Hill Navy Housing	Nimitz Hill Annex CDP	13.4572	144.71749	P	PPLX	GU		AS				0	170	177	Pacific/Guam	2011-06-30
+7267953	Santa Rita - Replacement for Destroyed Sumai Village WW2	Santa Rita - Replacement for Destroyed Sumai Village WW2	Santa Rosa CDP	13.38608	144.67245	S	HSTS	GU		SR				0	66	77	Pacific/Guam	2011-06-18
+7267954	Sinajana Mayor's Office	Sinajana Mayor's Office	Sinajana CDP	13.46274	144.75461	S	ADMF	GU		SJ				0	55	53	Pacific/Guam	2012-07-25
+7267960	Tiyan	Tiyan	Tillan,Tiyan CDP,Tiyen	13.48466	144.78719	P	PPLX	GU		BA				0	66	68	Pacific/Guam	2011-06-25
+7267962	Umatac Mayor's Office	Umatac Mayor's Office	Umatac CDP,Unatac	13.29851	144.6633	S	ADMF	GU		UM				0	3	6	Pacific/Guam	2012-07-25
+7268049	Mangilao Village	Mangilao Village	Manguilao,Manguuao	13.44761	144.80109	P	PPLA	GU		MA				15191	62	58	Pacific/Guam	2013-06-30
+7269455	USN Ordnance Annex	USN Ordnance Annex		13.3605	144.6878	S	INSM	GU		AT				0	150	134	Pacific/Guam	2011-06-18
+7269457	USAF Andersen Air Force Base	USAF Andersen Air Force Base	Andersen Afb,Brigadier General James Roy Andersen AFB,North Field,North Guam Air Force Base,Northwest Field,Northwest Guam Air Force Base,PGUA,UAM	13.58311	144.92825	S	AIRB	GU		YG				0	180	166	Pacific/Guam	2012-08-20
+7269465	Naval Computer and Telecommunications Station Barrigada	Naval Computer and Telecommunications Station Barrigada		13.47844	144.83839	S	INSM	GU		MA				0	116	123	Pacific/Guam	2011-06-25
+7269466	DoD Naval Computer and Telecommunications Finegayan	DoD Naval Computer and Telecommunications Finegayan	DoD NCS Naval Communication Station Finegayan	13.5828	144.84502	L	MILB	GU		DD				0	138	141	Pacific/Guam	2011-06-24
+7269467	DoD Naval Hospital	DoD Naval Hospital		13.47396	144.74198	L	MILB	GU		AH				0	52	55	Pacific/Guam	2011-06-28
+7269471	Naval Base Guam	Naval Base Guam		13.42694	144.659	S	INSM	GU		SR				0	2	5	Pacific/Guam	2011-07-06
+7280473	NCTAMS Westpac	NCTAMS Westpac	NavCams Westpac,Naval Communication Area Master Station - Western Pacific,Naval Computer and Telecommunications Area Master Station	13.57283	144.84538	S	INSM	GU		DD				0	133	128	Pacific/Guam	2011-06-23
+7533652	Sasa Bay	Sasa Bay		13.45052	144.6775	H	BAY	GU		PI				0	0	17	Pacific/Guam	2018-04-08
+7702625	USN Libugon Radio Station pre-WW2 - 180m Tower	USN Libugon Radio Station pre-WW2 - 180m Tower		13.45327	144.71936	S	HSTS	GU		AS				0	171	170	Pacific/Guam	2011-06-19
+7733172	Seamount X - Active Hydrothermal Discharge	Seamount X - Active Hydrothermal Discharge	Mariana Trench Marine National Monument - Vents Unit	13.24262	144.01428	U	SMU	GU		00				0	-1230	-9999	Pacific/Guam	2011-06-09
+7733173	NW Guam Seamount	NW Guam Seamount		14.0167	144.6375	U	SMU	GU		00				0	-1170	-9999	Pacific/Guam	2011-06-09
+7733217	Forecast Seamount - Hydrothermal Activity	Forecast Seamount - Hydrothermal Activity	Mariana Trench Marine National Monument - Vents Unit	13.37092	143.9209	U	SMU	GU		00				0	-1456	-9999	Pacific/Guam	2011-06-09
+7733256	South Santa Rosa Reef	South Santa Rosa Reef		12.667	144.358	U	SMU	GU		00				0	-18	-9999	Pacific/Guam	2011-06-09
+7778679	Mariana Trench - HMRG Deep	Mariana Trench - HMRG Deep	HMRG Hawaii Mapping Research Group,Mariana Trench Marine National Monument - Trench Unit	12.0654	144.58113	U	DEPU	GU		00				0	-10732	-9999	Pacific/Guam	2011-07-08
+7778733	Toto Seamount - Fumarolic Activity	Toto Seamount - Fumarolic Activity	Mariana Trench Marine National Monument - Vents Unit	12.7133	143.5283	U	SMU	GU		00				0		-9999	Pacific/Guam	2011-06-09
+7778735	Mariana Trench Marine National Monument - Vents Unit	Mariana Trench Marine National Monument - Vents Unit	Toto - Southernmost Active Seamount	12.7133	143.5293	L	RES	GU		00				0		-9999	Pacific/Guam	2011-06-28
+7778741	Mariana Trench Marine National Monument - Trench Unit	Mariana Trench Marine National Monument - Trench Unit	Mariana Trench National Monument - Southwestern Limit	10.9583	143.65	L	RES	GU		00				0		-9999	Pacific/Guam	2011-06-28
+7839022	Mariana Trough	Mariana Trough		13.13833	143.21228	U	TRGU	GU		00				0		-9999	Pacific/Guam	2011-06-09
+7839023	West Mariana Ridge	West Mariana Ridge		13.18112	142.31689	U	RDGU	GU		00				0		-9999	Pacific/Guam	2011-06-09
+7839024	Parece Vela Basin	Parece Vela Basin		13.26133	140.89966	U	BSNU	GU		00				0		-9999	Pacific/Guam	2011-06-09
+7839066	Ritidian Point Light 9NM	Ritidian Point Light 9NM		13.65003	144.86184	S	LTHSE	GU		YG				0	175	140	Pacific/Guam	2011-05-30
+7839067	Orote Point Light	Orote Point Light		13.4462	144.61956	S	LTHSE	GU		SR				0	69	47	Pacific/Guam	2019-03-08
+7839068	Communication Towers	Communication Towers		13.4458	144.61954	S	TOWR	GU		SR				0	64	47	Pacific/Guam	2019-03-08
+7839069	Glass Breakwater Entrance Light 5NM	Glass Breakwater Entrance Light 5NM		13.45485	144.62446	S	LTHSE	GU		PI				0	17	6	Pacific/Guam	2011-05-30
+7839070	Harbor Entrance Range - Front Light and Beacon	Harbor Entrance Range - Front Light and Beacon		13.45645	144.6666	S	BCN	GU		PI				0	11	4	Pacific/Guam	2011-05-30
+7839071	Harbor Entrance Range - Rear Light and Beacon	Harbor Entrance Range - Rear Light and Beacon		13.45702	144.6722	S	BCN	GU		PI				0	20	7	Pacific/Guam	2011-05-30
+7839072	2nd Leg Glass Breakwater - USN built WW2	2nd Leg Glass Breakwater - USN built WW2	Calalan Bank Breakwater,USN Captain Henry Glass Breakwater - Guam Captor 1898	13.45826	144.62851	S	BRKW	GU		PI				0	5	8	Pacific/Guam	2011-07-10
+7839073	1st Leg Glass Breakwater - USN built 1941	1st Leg Glass Breakwater - USN built 1941	Luminao Reef Breakwater	13.46448	144.65444	S	BRKW	GU		PI				0	5	9	Pacific/Guam	2011-07-10
+7839085	Gregorio D. Perez Marina	Gregorio D. Perez Marina	Agana Boat Basin,Hagatna Marina	13.4777	144.75	S	MAR	GU		AN				0	-3	3	Pacific/Guam	2011-06-29
+7839086	Statue of Liberty - Small NY Replica	Statue of Liberty - Small NY Replica		13.48129	144.7534	S	MNMT	GU		AN				0	2	1	Pacific/Guam	2011-05-30
+7839087	Agat Marina	Agat Marina		13.36896	144.64966	S	MAR	GU		AT				0	0	42	Pacific/Guam	2011-05-30
+7839088	Aquaworld Marina	Aquaworld Marina		13.46096	144.68288	S	MAR	GU		PI				0	0	5	Pacific/Guam	2011-05-30
+7839089	Harbor of Refuge	Harbor of Refuge	Boat Typhoon Hole	13.46102	144.68388	S	MAR	GU		PI				0	0	4	Pacific/Guam	2013-07-24
+7839096	Jose D. Leon Guerrero Commercial Port	Jose D. Leon Guerrero Commercial Port	Port of Guam	13.462	144.67057	L	PRT	GU		PI				0	3	5	Pacific/Guam	2018-04-04
+7839097	Mobil Tank Farm	Mobil Tank Farm		13.46428	144.66314	S	OILT	GU		PI				0	3	5	Pacific/Guam	2011-05-30
+7839098	USMC AMSEA Class Maritime Prepositioning Ship Mooring Buoy	USMC AMSEA Class Maritime Prepositioning Ship Mooring Buoy		13.45887	144.63809	H	ANCH	GU		PI				0	-40	-9999	Pacific/Guam	2011-05-30
+7839099	Harbor Entrance	Harbor Entrance		13.45171	144.61965	H	CHN	GU		SR				0	-36	-9999	Pacific/Guam	2011-05-30
+7839102	Guam Shipyard Floating Dry Dock - 210m	Guam Shipyard Floating Dry Dock - 210m	Big Blue	13.44452	144.65945	S	DCKD	GU		SR				0	0	1	Pacific/Guam	2011-06-19
+7839105	Asan Point Fringing Reef Awash	Asan Point Fringing Reef Awash		13.47932	144.70219	H	RFC	GU		AS				0	0	1	Pacific/Guam	2011-05-31
+7839106	Guam Governor's Office	Guam Governor's Office	Ricardo J. Bordallo Governor's Complex	13.47991	144.72978	S	ADMF	GU		AN				0	9	12	Pacific/Guam	2011-07-01
+7839107	Spanish Marianas Colony -1897	Spanish Marianas Colony -1897	European Discovery for Spain - Ferdinand Magellan 1921,Indias Orientales Espanolas,Spanish East Indies	13.4805	144.7315	S	HSTS	GU		00				0	0	1	Pacific/Guam	2011-06-06
+7839108	US Navy Administration -1950	US Navy Administration -1950		13.4805	144.732	S	HSTS	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839109	Japanese Occupation 1941-44 WW2	Japanese Occupation 1941-44 WW2		13.4805	144.7325	S	HSTS	GU		00				42500	0	1	Pacific/Guam	2011-07-07
+7839110	Battle of the Philippine Sea WW2	Battle of the Philippine Sea WW2	The Great Marianas Turkey Shot WW2	13.4805	144.733	L	BTL	GU		00				0	0	1	Pacific/Guam	2011-10-19
+7839111	First Battle of Guam 1941 WW2	First Battle of Guam 1941 WW2	Japanese Guam Invasion	13.4805	144.7335	L	BTL	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839112	Second Battle of Guam 1944 WW2	Second Battle of Guam 1944 WW2	Operation FORAGER Phase II WW2,US Recapture of Guam	13.4805	144.734	L	BTL	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839114	US Coaling and Water Station pre-WW2	US Coaling and Water Station pre-WW2		13.4805	144.7345	S	HSTS	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839115	East Mariana Ridge - Southern Islands Arc	East Mariana Ridge - Southern Islands Arc	Emerging Izu-Bonin-Mariana Arc IBM,Emerging Mariana Arc,Intra-Oceanic Mariana Arc	13.481	144.7325	U	RDGU	GU		00				0	406	1	Pacific/Guam	2011-05-31
+7839116	Uplifted Guam Seamounts	Uplifted Guam Seamounts	Two Old Volcanoes - Lower Guam North and Higher Guam South	13.481	144.733	U	SMU	GU		00				0	406	1	Pacific/Guam	2011-06-13
+7839117	North West Pacific Ocean - to the East	North West Pacific Ocean - to the East		13.481	144.7335	H	OCN	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839118	Philippine Sea - to the West	Philippine Sea - to the West		13.481	144.734	H	SEA	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839119	Micronesia - Guam	Micronesia - Guam	Guam - Largest Island of Micronesia	13.481	144.7345	L	RGN	GU		00				159358	406	1	Pacific/Guam	2011-10-19
+7839120	Marianas Tectonic Micro-Plate	Marianas Tectonic Micro-Plate	Mariana Plate	13.481	144.735	L	RGN	GU		00				0	406	1	Pacific/Guam	2011-05-31
+7839121	Mariana Islands - Guam	Mariana Islands - Guam	Islas de las Velas Latinas,Islas de los Ladrones,Jardines,Prazeres,San Lazarus Archipelago,gwam,괌	13.481	144.7355	L	RGN	GU		00				159358	406	1	Pacific/Guam	2017-06-29
+7839122	Transpacific Cable Station Honolulu-Manila 1906+	Transpacific Cable Station Honolulu-Manila 1906+		13.4805	144.735	S	HSTS	GU		00				0	0	1	Pacific/Guam	2011-05-31
+7839123	Anae Reef Flat Awash	Anae Reef Flat Awash		13.35785	144.6413	H	RFC	GU		AT				0	0	45	Pacific/Guam	2011-05-31
+7839133	Achang Small Boat Basin	Achang Small Boat Basin		13.25557	144.68453	H	DCK	GU		ME				0	0	5	Pacific/Guam	2011-06-08
+7839155	General Pier F-2	General Pier F-2		13.46146	144.66455	S	PIER	GU		PI				0	0	5	Pacific/Guam	2011-06-09
+7839156	Fishing Vessel Pier F-3	Fishing Vessel Pier F-3		13.46142	144.66593	S	PIER	GU		PI				0	0	4	Pacific/Guam	2011-06-01
+7839157	Commercial Piers - Berths F-4 - F-6	Commercial Piers - Berths F-4 - F-6		13.46044	144.67044	S	PIER	GU		PI				0	-12	6	Pacific/Guam	2011-06-09
+7839158	Port Authority of Guam	Port Authority of Guam	Apra Harbormaster,Yacht Clearance Point	13.46267	144.66728	S	ADMF	GU		PI				0	3	7	Pacific/Guam	2011-07-05
+7839159	Harbor Control Tower	Harbor Control Tower		13.46155	144.6692	S	PP	GU		PI				0	3	3	Pacific/Guam	2011-06-01
+7839165	Barge as Cement Vessels Pier - for draft reasons	Barge as Cement Vessels Pier - for draft reasons		13.46046	144.66353	S	PIER	GU		PI				0	0	6	Pacific/Guam	2011-06-20
+7839166	Landmark - 60m Hanson Cement Silo	Landmark - 60m Hanson Cement Silo		13.46142	144.66352	S	TOWR	GU		PI				0	3	5	Pacific/Guam	2011-06-02
+7839169	Hagatna Wastewater Treatment Plant	Hagatna Wastewater Treatment Plant		13.48087	144.74728	S	SWT	GU		AN				0	2	1	Pacific/Guam	2011-06-13
+7839195	Spanish Manila-Acapulco Galleons Fresh Water and Food Stopover -1815	Spanish Manila-Acapulco Galleons Fresh Water and Food Stopover -1815		13.4805	144.7355	S	HSTS	GU		00				0	0	1	Pacific/Guam	2011-06-02
+7839196	Landfill - Rubble of Destroyed Agana Village post-WW2	Landfill - Rubble of Destroyed Agana Village post-WW2		13.47889	144.75273	S	LNDF	GU		AN				0	2	4	Pacific/Guam	2011-07-03
+7839197	Hagatna Baseball Stadium	Hagatna Baseball Stadium		13.47865	144.7526	S	STDM	GU		AN				0	2	4	Pacific/Guam	2011-07-03
+7839198	Cabras-Piti Causeway - US built 1900s	Cabras-Piti Causeway - US built 1900s		13.46478	144.68736	R	CSWY	GU		PI				0	3	1	Pacific/Guam	2011-06-02
+7839199	Inner Harbor Anchorage (historical)	Inner Harbor Anchorage (historical)	Guam Harbor,PanAm Clipper Flying Boat Anchorage pre-WW2,Puerto San Luis d'Apra	13.4481	144.66449	H	ANCH	GU		PI				0	0	1	Pacific/Guam	2019-03-08
+7839200	Spanish and US Apra Boat Landing pre-WW2	Spanish and US Apra Boat Landing pre-WW2	US Navy Yard pre-WW2	13.46177	144.68523	S	HSTS	GU		PI				0	0	5	Pacific/Guam	2011-06-02
+7839201	US Navy Ammo Wharf	US Navy Ammo Wharf	Pier K,Pier Kilo	13.44572	144.63068	S	WHRF	GU		SR				0	2	1	Pacific/Guam	2011-06-19
+7839267	Bundschu Ridge	Bundschu Ridge	Marine Captain Geary R. Bundschu Ridge WW2	13.4701	144.72025	T	RDGE	GU		AS				0	86	88	Pacific/Guam	2011-07-07
+7839268	Spanish Agana River San Antonio Bridge 1800	Spanish Agana River San Antonio Bridge 1800	Sagon I Tolai Acho,US National Register of Historic Places	13.4768	144.75023	S	HSTS	GU		AN				0	3	6	Pacific/Guam	2011-07-03
+7839280	JP Faha Massacre Site 1944 WW2	JP Faha Massacre Site 1944 WW2	US National Register of Historic Places	13.27124	144.66829	S	HSTS	GU		ME				0	85	63	Pacific/Guam	2011-06-03
+7839320	Dungcas Beach JP Defense Guns WW2	Dungcas Beach JP Defense Guns WW2	US National Register of Historic Places	13.4917	144.7754	S	HSTS	GU		TM				0	3	4	Pacific/Guam	2011-07-09
+7839321	Cruz Water Catchment 1920	Cruz Water Catchment 1920	US National Register of Historic Places	13.58735	144.86893	S	WTRW	GU		DD				0	151	147	Pacific/Guam	2011-06-03
+7839322	Jati - Prehistoric and Spanish Settlement	Jati - Prehistoric and Spanish Settlement	Ati,Cetti Bay - US National Register of Historic Places	13.31588	144.65773	P	PPLW	GU		UM				0	3	11	Pacific/Guam	2011-06-04
+7839323	Marine Corps War Dogs Memorial WW2	Marine Corps War Dogs Memorial WW2		13.438	144.65037	S	MNMT	GU		SR				0	20	23	Pacific/Guam	2011-06-04
+7839326	Transpacific Telegraph-Telephone Relay Station 1903	Transpacific Telegraph-Telephone Relay Station 1903	Cable Liaisons 1903 - Midway and Manila,Cable Liaisons 1906 - Bonin-Yokohama and Yap-Shanghai,Cable Station Ruins - US National Register of Historic Places,The Commercial Pacific Cable Company	13.43891	144.65028	S	RUIN	GU		SR				0	20	23	Pacific/Guam	2011-06-20
+7839327	Atantano Shrine	Atantano Shrine		13.42381	144.67854	S	MNMT	GU		PI				0	2	8	Pacific/Guam	2018-04-10
+7839328	Bangi Hill	Bangi Hill		13.37623	144.65476	T	HLL	GU		AT				0	20	10	Pacific/Guam	2011-06-04
+7839330	Stranded JP Midget Attack Submarine Type C WW2	Stranded JP Midget Attack Submarine Type C WW2	JP Navy Ko-Hyoteki (Target A) Hei Gata (Type C) Midget Submarine,Submarine stranded at Togcha Point Guam,US National Register of Historic Places	13.42222	144.67551	S	HSTS	GU		SR				0	2	5	Pacific/Guam	2011-06-30
+7839331	JP Gongna Beach 200mm-Gun Emplacement WW2	JP Gongna Beach 200mm-Gun Emplacement WW2	Gongna Beach Gun Emplacement and Pillbox,US National Register of Historic Places	13.52579	144.80414	S	HSTS	GU		TM				0	10	31	Pacific/Guam	2011-06-04
+7839332	Umatac Anchorage	Umatac Anchorage		13.2976	144.6595	S	HSTS	GU		UM				0	0	64	Pacific/Guam	2016-07-18
+7839333	N-Cross Island Route 1 - Apra Harbor to Andersen AFB	N-Cross Island Route 1 - Apra Harbor to Andersen AFB	Marine Corps Drive	13.52259	144.82023	R	RD	GU		DD				0	81	84	Pacific/Guam	2011-07-04
+7839334	Northern Route 3 - Wettengel Junction to Ritidian Point	Northern Route 3 - Wettengel Junction to Ritidian Point		13.52587	144.82487	R	RD	GU		DD				0	86	82	Pacific/Guam	2011-07-04
+7839335	SW Route 2 - Apra Harbor to Unatac	SW Route 2 - Apra Harbor to Unatac		13.3724	144.6525	R	RD	GU		AT				0	3	6	Pacific/Guam	2011-06-18
+7839336	Central SE Route 4 - Hagatna to Unatac	Central SE Route 4 - Hagatna to Unatac		13.294	144.75354	R	RD	GU		IN				0	60	68	Pacific/Guam	2011-06-15
+7839337	S-Cross Island Route 17 - Apra Junction to Witek Junction	S-Cross Island Route 17 - Apra Junction to Witek Junction		13.38661	144.72277	R	RD	GU		YN				0	160	163	Pacific/Guam	2011-06-18
+7839338	JP Merizo Coastal Defense Pillbox WW2	JP Merizo Coastal Defense Pillbox WW2	US National Register of Historic Places	13.26006	144.67451	S	RUIN	GU		ME				0	3	6	Pacific/Guam	2011-06-04
+7839877	General Japanese Defense Fortifications on Guam WW2	General Japanese Defense Fortifications on Guam WW2	US National Register of Historic Places	13.4805	144.736	S	HSTS	GU		00				0	0	1	Pacific/Guam	2011-06-04
+7839878	JP Ypao Coastal Defense Pillbox WW2	JP Ypao Coastal Defense Pillbox WW2	Ipao Pillbox I,US National Register of Historic Places	13.50515	144.78679	S	RUIN	GU		TM				0	4	13	Pacific/Guam	2011-06-04
+7839880	Inarajan Village - Historic Architectural District	Inarajan Village - Historic Architectural District	US National Register of Historic Places	13.27464	144.74846	S	HSTS	GU		IN				0	4	5	Pacific/Guam	2011-06-04
+7839882	JP Ylig Fortification WW2	JP Ylig Fortification WW2	US National Register of Historic Places	13.39075	144.77403	S	RUIN	GU		YN				0	1	12	Pacific/Guam	2011-06-04
+7839890	USN Helipads	USN Helipads		13.43877	144.6355	S	AIRH	GU		SR				0	34	36	Pacific/Guam	2011-06-05
+7839891	Orote First Runway 7-25 - US prepared - JP finished WW2	Orote First Runway 7-25 - US prepared - JP finished WW2		13.43541	144.6434	S	AIRQ	GU		SR				0	26	32	Pacific/Guam	2011-07-09
+7839892	USMC Sumay Airfield - Runway 7-25 - 1922-1931	USMC Sumay Airfield - Runway 7-25 - 1922-1931	US National Register of Historic Places	13.43512	144.64408	S	HSTS	GU		SR				0	26	32	Pacific/Guam	2011-06-05
+7839893	JP Sumay Airfield - Runwa 7-25 - reopened 1941-1944 WW2	JP Sumay Airfield - Runwa 7-25 - reopened 1941-1944 WW2	US National Register of Historic Places	13.43487	144.6446	S	HSTS	GU		SR				0	26	31	Pacific/Guam	2011-06-05
+7839894	USN Orote Airfield Runway 7-25 - 1944-1946 WW2	USN Orote Airfield Runway 7-25 - 1944-1946 WW2	US National Register of Historic Places	13.43467	144.64503	S	HSTS	GU		SR				0	26	31	Pacific/Guam	2011-06-05
+7839895	USN Orote Airfield Runway 11-25 - dormant	USN Orote Airfield Runway 11-25 - dormant	Orote Touch-and-go Training Runway	13.43857	144.6432	S	AIRF	GU		SR				0	30	33	Pacific/Guam	2011-06-30
+7839896	Orote Airfield Runway11-29 - USN built WW2	Orote Airfield Runway11-29 - USN built WW2	US National Register of Historic Places	13.43868	144.64363	S	HSTS	GU		SR				0	30	33	Pacific/Guam	2011-06-05
+7839897	Sasa River	Sasa River		13.44748	144.69767	H	STM	GU		PI				0	12	51	Pacific/Guam	2011-07-02
+7839898	USN Sasa Valley Underground Tank Farm	USN Sasa Valley Underground Tank Farm		13.44512	144.70237	S	OILT	GU		PI				0	120	97	Pacific/Guam	2011-06-07
+7839899	DoD Naval Reserve Sasa Valley	DoD Naval Reserve Sasa Valley		13.44522	144.70136	L	MILB	GU		PI				0	120	96	Pacific/Guam	2011-06-05
+7839900	USN Tenjo Vista Underground Tank Farm	USN Tenjo Vista Underground Tank Farm		13.43354	144.68684	S	OILT	GU		PI				0	40	36	Pacific/Guam	2011-06-07
+7839901	DoD Naval Reserve Tenjo Vista	DoD Naval Reserve Tenjo Vista		13.43374	144.68762	L	MILB	GU		PI				0	40	37	Pacific/Guam	2011-06-09
+7839902	USMC Mount Tenjo Fortifications 1918-1931	USMC Mount Tenjo Fortifications 1918-1931	US National Register of Historic Places	13.4211	144.69961	S	HSTS	GU		PI				0	314	279	Pacific/Guam	2011-06-05
+7839903	Merizo Bell Tower 1919	Merizo Bell Tower 1919	Kampanayun Malesso,US National Register of Historic Places	13.26587	144.66818	S	RUIN	GU		ME				0	4	8	Pacific/Guam	2011-06-14
+7839904	Japanese South Pacific Memorial Park WW2	Japanese South Pacific Memorial Park WW2		13.5441	144.88421	S	MNMT	GU		YG				0	158	158	Pacific/Guam	2011-06-05
+7839905	JP Mataguac Hill Command Post WW2	JP Mataguac Hill Command Post WW2	Last HQ of LtGen Hideyshi Obata WW2,Last Organized JP Resistance on Guam WW2,US National Register of Historic Places	13.54478	144.88469	S	RUIN	GU		YG				0	150	155	Pacific/Guam	2011-07-06
+7839906	German Auxiliary Cruiser SMS Cormoran Wreck WW1	German Auxiliary Cruiser SMS Cormoran Wreck WW1	SMS Cormoran Scuttled 1917,US National Register of Historic Places	13.45888	144.6555	S	WRCK	GU		PI				0	-34	-9999	Pacific/Guam	2011-06-05
+7839907	JP Mixed Cargo Vessel Tokai Maru Wreck WW2	JP Mixed Cargo Vessel Tokai Maru Wreck WW2	Tokai Maru WW2 rests against Cormoran WW1,US National Register of Historic Places,US Submarine Snapper Hit 1943	13.45887	144.65533	S	WRCK	GU		PI				0	-34	-9999	Pacific/Guam	2011-06-05
+7839935	South Finegayan Latte Stone Park	South Finegayan Latte Stone Park	US National Register of Historic Places	13.55461	144.82856	S	ANS	GU		DD				0	102	105	Pacific/Guam	2011-06-05
+7839942	USN Royal Palms Housing	USN Royal Palms Housing	USN South Finegayan Housing	13.55168	144.83201	P	PPLX	GU		DD				0	102	105	Pacific/Guam	2011-06-24
+7839943	DoD Naval Reserve South Finegayan Housing	DoD Naval Reserve South Finegayan Housing		13.55168	144.8324	L	MILB	GU		DD				0	102	105	Pacific/Guam	2011-06-05
+7839944	Guam Reef Hotel	Guam Reef Hotel		13.5162	144.80651	S	HTL	GU		TM				0	18	16	Pacific/Guam	2011-06-05
+7839945	San Vitores Memorial Chapel	San Vitores Memorial Chapel	Father Diego Luis de Sanvitores martyred 1672,San Vitores Martyrdom Site,US National Register of Historic Places	13.5163	144.80608	S	CH	GU		TM				0	18	19	Pacific/Guam	2011-06-06
+7839946	San Vitores Beach Fortification WW2	San Vitores Beach Fortification WW2	US National Register of Historic Places	13.51644	144.80566	S	RUIN	GU		TM				0	5	19	Pacific/Guam	2011-06-05
+7839954	Umatac Outdoor Library	Umatac Outdoor Library		13.29975	144.66028	S	HSTS	GU		UM				0	3	15	Pacific/Guam	2016-07-18
+7839955	old San Dionisio Church Ruins	old San Dionisio Church Ruins	Church Earthquake Destroyed 1902,US National Register of Historic Places	13.29913	144.6634	S	RUIN	GU		UM				0	10	12	Pacific/Guam	2011-06-06
+7839956	JP Pago Pillbox 1 WW2	JP Pago Pillbox 1 WW2	US National Register of Historic Places	13.42268	144.78457	S	RUIN	GU		CP				0	2	5	Pacific/Guam	2011-06-06
+7839957	JP Pago Pillbox 2 WW2	JP Pago Pillbox 2 WW2	US Natioanl Register of Historic Places	13.41733	144.78512	S	RUIN	GU		CP				0	2	-9999	Pacific/Guam	2011-06-06
+7839958	Spanish Dikes	Spanish Dikes	US National Register of Historic Places	13.46524	144.76938	S	DIKE	GU		MT				0	2	10	Pacific/Guam	2011-06-06
+7839959	Taelayag Spanish Bridge 1800s	Taelayag Spanish Bridge 1800s	Taelayag Tolai Acho,US National Register of Historic Places	13.34493	144.65035	S	RUIN	GU		AT				0	78	78	Pacific/Guam	2011-06-10
+7839960	old Taleyfac Spanish Bridge 1870	old Taleyfac Spanish Bridge 1870	Taleyfac Tolai Acho,US National Register of Historic Places	13.36155	144.64937	S	BDG	GU		AT				0	3	6	Pacific/Guam	2011-06-06
+7839961	JP Talofofo Pillbox WW2	JP Talofofo Pillbox WW2	US National Register of Historic Places	13.33774	144.76188	S	HSTS	GU		IN				0	2	4	Pacific/Guam	2011-07-03
+7839970	JP Tinta Massacre Site WW2	JP Tinta Massacre Site WW2	US National Register of Historic Places	13.2658	144.67972	S	HSTS	GU		ME				0	10	25	Pacific/Guam	2011-06-06
+7839971	JP Togcha Point Pillbox WW2	JP Togcha Point Pillbox WW2	US National Register of Historic Places	13.38127	144.77442	S	RUIN	GU		YN				0	2	7	Pacific/Guam	2011-06-06
+7839972	JP Tumon Cliffline Fortification 1 WW2	JP Tumon Cliffline Fortification 1 WW2	US National Register of Historic Places	13.50737	144.80788	S	RUIN	GU		TM				0	60	32	Pacific/Guam	2011-06-07
+7839973	JP Tumon Cliffline Fortification II WW2	JP Tumon Cliffline Fortification II WW2	US National Register of Historic Places	13.51015	144.80957	S	RUIN	GU		TM				0	45	50	Pacific/Guam	2011-06-06
+7839974	DoD Nimitz Hill Reserve High School	DoD Nimitz Hill Reserve High School		13.46377	144.72919	L	MILB	GU		AS				0	189	187	Pacific/Guam	2011-06-06
+7840185	Andersen Middle School - DoD School	Andersen Middle School - DoD School		13.56057	144.92328	S	SCH	GU		YG				0	158	162	Pacific/Guam	2011-06-07
+7840186	Andersen Elementary School - DoD School	Andersen Elementary School - DoD School		13.55951	144.92192	S	SCH	GU		YG				0	158	163	Pacific/Guam	2011-06-07
+7840187	Yigo Borrow Pit	Yigo Borrow Pit		13.54054	144.90898	S	MNQR	GU		YG				0	180	183	Pacific/Guam	2011-06-07
+7840189	Sisters of Mercy Convent	Sisters of Mercy Convent		13.51647	144.83917	S	CVNT	GU		DD				0	98	101	Pacific/Guam	2011-06-07
+7840190	Dededo Public Library	Dededo Public Library		13.51692	144.83902	S	LIBR	GU		DD				0	98	101	Pacific/Guam	2011-06-07
+7840191	Dededo Mayor's Office	Dededo Mayor's Office		13.51744	144.83912	S	ADMF	GU		DD				0	98	100	Pacific/Guam	2012-07-25
+7840192	Saint Paul Christian Elementary School	Saint Paul Christian Elementary School		13.5048	144.82334	S	SCH	GU		DD				0	60	68	Pacific/Guam	2011-06-07
+7840193	Guam Drag Race Way	Guam Drag Race Way		13.50987	144.88552	S	RECR	GU		YG				0	170	163	Pacific/Guam	2011-06-07
+7840197	Iates Terrace	Iates Terrace		13.42935	144.80639	T	TRR	GU		MA				0	50	46	Pacific/Guam	2011-06-07
+7840198	old Santa Teresita Church - Typhoon-destroyed 2002	old Santa Teresita Church - Typhoon-destroyed 2002		13.44743	144.80269	S	HSTS	GU		MA				0	63	60	Pacific/Guam	2011-06-07
+7840199	Jehovah Witnesses Watchtower	Jehovah Witnesses Watchtower		13.48681	144.81822	S	RLG	GU		BA				0	120	121	Pacific/Guam	2011-06-07
+7840200	Grace Baptist Church	Grace Baptist Church		13.48538	144.81994	S	CH	GU		BA				0	120	131	Pacific/Guam	2011-06-07
+7840201	Ladera Tower Hotel and Apartments	Ladera Tower Hotel and Apartments		13.4455	144.80939	S	HTL	GU		MA				0	60	96	Pacific/Guam	2011-06-07
+7853671	Shell Overground Tank Farm	Shell Overground Tank Farm		13.41938	144.68913	S	OILT	GU		PI				0	30	25	Pacific/Guam	2011-06-07
+7854557	Yona Mayor's Office	Yona Mayor's Office		13.40983	144.77543	S	ADMF	GU		YN				0	90	91	Pacific/Guam	2012-07-25
+7855869	Leo Palace Lake	Leo Palace Lake		13.41622	144.73838	H	LK	GU		YN				0	100	139	Pacific/Guam	2011-06-17
+7856105	Leo Palace 36 Holes Golf Course	Leo Palace 36 Holes Golf Course	Course Designers Jack Nicklaus and Arnold Palmer	13.41233	144.74204	S	RECG	GU		YN				0	100	61	Pacific/Guam	2011-06-07
+7869842	Talofofo Mayor's Office	Talofofo Mayor's Office		13.3548	144.75589	S	ADMF	GU		TF				0	90	94	Pacific/Guam	2012-07-25
+7869843	Seventh Day Adventists Church	Seventh Day Adventists Church		13.35012	144.75635	S	CH	GU		TF				0	90	96	Pacific/Guam	2011-06-08
+7869844	Fena Lake	Fena Lake		13.35948	144.70206	H	LK	GU		AT				0	34	39	Pacific/Guam	2011-06-08
+7869845	Fena Lake Dam - 26m high	Fena Lake Dam - 26m high		13.3614	144.70616	S	DAM	GU		SR				0	37	39	Pacific/Guam	2011-06-13
+7869846	Yokoi's Cave - Last Guam JP Army WW2-Holdout 1972	Yokoi's Cave - Last Guam JP Army WW2-Holdout 1972	JP Army Sergeant Shoichi Yokoi - WW2 Holdout	13.3251	144.73859	S	HSTS	GU		IN				0	25	26	Pacific/Guam	2011-06-16
+7869847	Inarajan Elementary School	Inarajan Elementary School		13.27344	144.74655	S	SCH	GU		IN				0	21	24	Pacific/Guam	2011-06-08
+7869848	Natural Inarajan Swimming Pools	Natural Inarajan Swimming Pools	Salaglula Pools	13.27154	144.74779	H	POOL	GU		IN				0	0	3	Pacific/Guam	2011-06-09
+7869849	Gef Pa'go Cultural Village	Gef Pa'go Cultural Village	Old Chamorro Demonstration Village	13.27599	144.74828	L	PRK	GU		IN				0	2	0	Pacific/Guam	2011-06-08
+7869850	Merizo Mayor's Office	Merizo Mayor's Office		13.27126	144.6745	S	ADMF	GU		ME				0	75	81	Pacific/Guam	2012-07-25
+7869851	Merizo-Umatac Wastewater Primary Treatment	Merizo-Umatac Wastewater Primary Treatment		13.28643	144.66296	S	SWT	GU		UM				0	4	13	Pacific/Guam	2011-06-13
+7869852	Asan-Maina Mayor's Office	Asan-Maina Mayor's Office		13.47188	144.71657	S	ADMF	GU		AS				0	5	6	Pacific/Guam	2012-07-25
+7869853	Niño Perdido y Sagrada Familia Catholic Church	Nino Perdido y Sagrada Familia Catholic Church	Holy Family Catholic Church	13.47191	144.71728	S	CH	GU		AS				0	4	6	Pacific/Guam	2011-06-21
+7869873	Commander William C. McCool Elementary-Middle School - DoD School	Commander William C. McCool Elementary-Middle School - DoD School	South Guam Elementary-Middle School - DoD School,USN Commander William C. McCool -  Space Shuttle Columbia Victim	13.40079	144.67975	S	SCH	GU		SR				0	55	57	Pacific/Guam	2011-06-18
+7869880	Ritidian Terrace One	Ritidian Terrace One		13.64807	144.85341	T	TRR	GU		DD				0	6	13	Pacific/Guam	2011-06-08
+7869881	Ritidian Terrace Two	Ritidian Terrace Two		13.64776	144.85491	T	TRR	GU		DD				0	24	24	Pacific/Guam	2011-06-08
+7869882	Ritidian Terrace Three	Ritidian Terrace Three		13.6473	144.85674	T	TRR	GU		DD				0	54	42	Pacific/Guam	2011-06-08
+7869883	Ritidian Terrace Four	Ritidian Terrace Four		13.64686	144.85773	T	TRR	GU		DD				0	78	81	Pacific/Guam	2011-06-08
+7869884	Ritidian Terrace Five	Ritidian Terrace Five		13.64601	144.85954	T	TRR	GU		DD				0	132	119	Pacific/Guam	2011-06-08
+7869885	Ritidian Terrace Six - Ritidian Plateau	Ritidian Terrace Six - Ritidian Plateau		13.6453	144.86169	T	TRR	GU		DD				0	180	180	Pacific/Guam	2011-06-09
+7869890	Tanguisson Plant Channel	Tanguisson Plant Channel		13.54304	144.80648	H	CHN	GU		TM				0	0	1	Pacific/Guam	2011-06-08
+7869891	The Lost Pond	The Lost Pond		13.5561	144.81717	H	PND	GU		DD				0	18	34	Pacific/Guam	2011-06-08
+7869892	USAF Munition Storing Shelters	USAF Munition Storing Shelters		13.60883	144.88336	S	INSM	GU		YG				0	150	152	Pacific/Guam	2011-06-22
+7869894	USAF Borrow Pit	USAF Borrow Pit		13.59352	144.92357	S	MNQR	GU		YG				0	180	171	Pacific/Guam	2011-06-08
+7869895	Patti Point Cape	Patti Point Cape		13.59554	144.95351	T	CAPE	GU		YG				0	183	140	Pacific/Guam	2011-06-08
+7869902	North Santa Rosa Hill	North Santa Rosa Hill		13.54066	144.91163	T	HLL	GU		YG				0	232	215	Pacific/Guam	2011-06-09
+7869903	East Santa Rosa Hill	East Santa Rosa Hill		13.53545	144.92203	T	HLL	GU		YG				0	250	248	Pacific/Guam	2018-04-05
+7869908	Onward Mangilao Golf Club - 18 Holes	Onward Mangilao Golf Club - 18 Holes		13.46538	144.84094	S	RECG	GU		MA				0	65	110	Pacific/Guam	2011-06-09
+7869909	Hawaiian Limestone Quarries	Hawaiian Limestone Quarries		13.45836	144.83283	S	MNQR	GU		MA				0	90	89	Pacific/Guam	2011-06-09
+7869911	Pacific Islands University - Liebenzell Evangelical College	Pacific Islands University - Liebenzell Evangelical College		13.46505	144.83583	S	SCHC	GU		MA				0	113	116	Pacific/Guam	2011-06-09
+7869912	Onward Beach Resort	Onward Beach Resort		13.49505	144.77478	S	HTL	GU		TM				0	7	12	Pacific/Guam	2011-06-09
+7869913	Fadian Hill	Fadian Hill		13.44618	144.82455	T	HLL	GU		MA				0	99	85	Pacific/Guam	2011-06-09
+7869914	Togcha Yona-Talofofo Bridge	Togcha Yona-Talofofo Bridge		13.36587	144.7684	S	BDG	GU		YN				0	2	8	Pacific/Guam	2011-06-17
+7869915	Ajayan River Inarajan-Merizo Bridge	Ajayan River Inarajan-Merizo Bridge		13.25116	144.71914	S	BDG	GU		IN				0	2	8	Pacific/Guam	2011-06-09
+7869917	Perez Beach	Perez Beach		13.29007	144.76367	T	BCH	GU		IN				0	0	3	Pacific/Guam	2011-06-09
+7869918	Mulona Hill	Mulona Hill		13.28812	144.75736	T	HLL	GU		IN				0	33	23	Pacific/Guam	2011-06-09
+7869921	Southernmost Land Point of Guam	Southernmost Land Point of Guam		13.23409	144.64438	T	PT	GU		ME				0	0	-9999	Pacific/Guam	2011-06-09
+7869922	Private Day Resort on Central and East Cocos	Private Day Resort on Central and East Cocos		13.23867	144.6527	L	CNS	GU		ME				0	3	10	Pacific/Guam	2011-06-09
+7869923	Cocos Island Boat Pier	Cocos Island Boat Pier		13.24136	144.65308	S	PIER	GU		ME				0	1	-9999	Pacific/Guam	2011-06-09
+7869925	Merizo Pier - Boats to Cocos Island	Merizo Pier - Boats to Cocos Island		13.26677	144.6653	S	PIER	GU		ME				0	1	13	Pacific/Guam	2011-06-09
+7869928	Merizo Fringing Reef Awash	Merizo Fringing Reef Awash		13.27065	144.66067	H	RFC	GU		ME				0	0	13	Pacific/Guam	2011-06-09
+7869929	North Cocos Barrier Reef Awash	North Cocos Barrier Reef Awash		13.26827	144.65863	H	RFC	GU		ME				0	0	13	Pacific/Guam	2011-06-09
+7869938	Sasalaguan Municipal Tripoint Inarajan - Merizo - Umatac	Sasalaguan Municipal Tripoint Inarajan - Merizo - Umatac		13.27888	144.69305	T	PT	GU		00				0	337	321	Pacific/Guam	2011-06-21
+7869949	Toguan River Merizo-Umatac Bridge	Toguan River Merizo-Umatac Bridge		13.28569	144.6624	S	BDG	GU		ME				0	2	10	Pacific/Guam	2011-06-09
+7870050	Chief Gadao Statue	Chief Gadao Statue	Inarjan - Home of Legendary Chief Gadao	13.2766	144.74759	S	MNMT	GU		IN				0	2	3	Pacific/Guam	2011-06-10
+7870054	Palalo Hill	Palalo Hill		13.26179	144.68835	T	HLL	GU		ME				0	76	51	Pacific/Guam	2011-06-10
+7870055	Bolanos Municipal Tripoint Inarajan - Umatac - Talofofo	Bolanos Municipal Tripoint Inarajan - Umatac - Talofofo	SW Mountain Chain	13.29938	144.68768	T	PT	GU		00				0	379	358	Pacific/Guam	2011-06-21
+7870056	Jumullong Municipal Tripoint Talafofo - Umatac - Agat	Jumullong Municipal Tripoint Talafofo - Umatac - Agat	SW Mountain Chain	13.32971	144.67225	T	PT	GU		00				0	391	379	Pacific/Guam	2011-06-21
+7870058	Ogasan Hill	Ogasan Hill		13.34215	144.65148	T	HLL	GU		AT				0	137	126	Pacific/Guam	2011-06-10
+7870059	Almagosa Plateau	Almagosa Plateau	SW Mountain Chain	13.35538	144.67072	T	PLAT	GU		AT				0	300	279	Pacific/Guam	2011-06-10
+7870060	Chachao Municipal Tripoint Asan - Yona - Piti	Chachao Municipal Tripoint Asan - Yona - Piti		13.43599	144.7111	T	PT	GU		00				0	308	294	Pacific/Guam	2011-06-29
+7870117	Airport Hotel Mai'Ana	Airport Hotel Mai'Ana		13.49343	144.79821	S	HTL	GU		TM				0	44	50	Pacific/Guam	2011-06-11
+7870118	Guam Aurora Resort Villa & Spa	Guam Aurora Resort Villa & Spa	frmr Okura Hutel	13.52071	144.80687	S	HTL	GU		TM				0	12	25	Pacific/Guam	2011-06-12
+7870119	Guam Plaza Hotel	Guam Plaza Hotel		13.51553	144.80833	S	HTL	GU		TM				0	30	27	Pacific/Guam	2011-06-11
+7870120	Tarza Water Park	Tarza Water Park		13.51588	144.80932	L	PRK	GU		TM				0	33	36	Pacific/Guam	2011-06-11
+7870124	Guam Tumon Bay Capital Hotel	Guam Tumon Bay Capital Hotel		13.51498	144.80946	S	HTL	GU		TM				0	40	35	Pacific/Guam	2011-06-11
+7870125	Hyatt Regency Guam	Hyatt Regency Guam		13.5128	144.80493	S	HTL	GU		TM				0	4	16	Pacific/Guam	2011-06-11
+7870137	Abundant Life Christian Church	Abundant Life Christian Church		13.53605	144.82944	S	CH	GU		DD				0	94	96	Pacific/Guam	2011-06-12
+7870138	Pia Resort Hotel	Pia Resort Hotel		13.51153	144.80824	S	HTL	GU		TM				0	12	26	Pacific/Guam	2011-06-12
+7870139	Pia Marine Hotel and Condo	Pia Marine Hotel and Condo		13.51123	144.81263	S	HTL	GU		TM				0	60	71	Pacific/Guam	2011-06-12
+7870140	Golf Driving Range	Golf Driving Range		13.51069	144.81477	S	RECG	GU		TM				0	62	64	Pacific/Guam	2011-06-12
+7870141	Saint Andrew Kim - Korean Catholic Church	Saint Andrew Kim - Korean Catholic Church		13.51326	144.82429	S	CH	GU		DD				0	39	76	Pacific/Guam	2011-06-21
+7870142	Garden Villa Hotel	Garden Villa Hotel		13.50412	144.79882	S	HTL	GU		TM				0	12	18	Pacific/Guam	2011-06-12
+7870143	Tamuning Plaza Hotel	Tamuning Plaza Hotel		13.4833	144.77288	S	HTL	GU		TM				0	5	7	Pacific/Guam	2011-06-12
+7870144	Curch of Jesus Christ of Latter Day Saints	Curch of Jesus Christ of Latter Day Saints		13.47394	144.78763	S	CH	GU		BA				0	67	75	Pacific/Guam	2011-06-12
+7870145	Inn On The Bay Hotel	Inn On The Bay Hotel		13.40004	144.66345	S	HTL	GU		AT				0	4	8	Pacific/Guam	2011-06-17
+7870146	Ramada Hotel and Suites	Ramada Hotel and Suites		13.49489	144.79053	S	HTL	GU		TM				0	30	38	Pacific/Guam	2011-06-12
+7870147	Consulate General of Japan	Consulate General of Japan		13.48696	144.78386	S	DIP	GU	JP	TM				0	13	19	Pacific/Guam	2011-06-12
+7870148	Consulate General of the Federated States of Micronesia	Consulate General of the Federated States of Micronesia		13.4869	144.78378	S	DIP	GU	FM	TM				0	13	19	Pacific/Guam	2011-06-12
+7870149	Consulate of Palau	Consulate of Palau		13.48685	144.78371	S	DIP	GU	PW	TM				0	13	27	Pacific/Guam	2011-06-12
+7870150	Consulate General of the Philippines	Consulate General of the Philippines		13.48681	144.78365	S	DIP	GU	PH	TM				0	13	27	Pacific/Guam	2011-06-13
+7870151	Bank of Guam	Bank of Guam		13.47507	144.75468	S	BANK	GU		AN				0	4	4	Pacific/Guam	2011-06-12
+7870152	Taipei Economic and Cultural Office	Taipei Economic and Cultural Office		13.4749	144.7547	S	DIP	GU	TW	AN				0	5	4	Pacific/Guam	2011-06-12
+7870156	Bank of Hawaii	Bank of Hawaii		13.47652	144.75332	S	BANK	GU		AN				0	4	8	Pacific/Guam	2011-06-12
+7870157	Harmon Loop Hotel	Harmon Loop Hotel		13.51012	144.8201	S	HTL	GU		DD				0	60	63	Pacific/Guam	2011-06-12
+7870212	Giant visitable concrete Latte Stone - part of museum	Giant visitable concrete Latte Stone - part of museum	Latte of Freedom	13.48076	144.72915	S	MNMT	GU		AN				0	15	1	Pacific/Guam	2011-07-05
+7870213	USN Submarine Tender Frank Cable - permanent station	USN Submarine Tender Frank Cable - permanent station		13.43693	144.66862	S	INSM	GU		PI				0	0	26	Pacific/Guam	2013-07-24
+7870214	Admin and Research Building - National Wildlife Refuge	Admin and Research Building - National Wildlife Refuge	US Fish and Wildlife Services	13.65337	144.86197	S	ITTR	GU		YG				0	5	7	Pacific/Guam	2011-06-13
+7870215	Visitors Center	Visitors Center		13.65261	144.86005	S	ADMF	GU		DD				0	9	7	Pacific/Guam	2011-06-13
+7870216	Northern District Wastewater Treatment Plant	Northern District Wastewater Treatment Plant		13.54092	144.8162	S	SWT	GU		DD				0	120	94	Pacific/Guam	2011-06-13
+7870217	USN Apra Harbor Wastewater Treatment Plant	USN Apra Harbor Wastewater Treatment Plant		13.4223	144.65473	S	SWT	GU		SR				0	3	6	Pacific/Guam	2011-06-14
+7870218	Baza Gardens Wastewater Treatment Plant	Baza Gardens Wastewater Treatment Plant		13.36913	144.75353	S	SWT	GU		YN				0	60	64	Pacific/Guam	2011-06-16
+7870219	Inarajan Wastewater Treatment Plant	Inarajan Wastewater Treatment Plant		13.28116	144.75757	S	SWT	GU		IN				0	6	11	Pacific/Guam	2011-06-15
+7870220	Grass Terraces Overflow Wastewater Secondary Treatment	Grass Terraces Overflow Wastewater Secondary Treatment		13.28318	144.66533	S	SWT	GU		ME				0	48	43	Pacific/Guam	2011-06-13
+7870222	Ugum Water Treatment Plant	Ugum Water Treatment Plant		13.32168	144.73692	S	WTRW	GU		IN				0	78	81	Pacific/Guam	2011-06-13
+7870223	Pulantat Diesel Power Plant 10 MW	Pulantat Diesel Power Plant 10 MW	Manenggon Power Plant,Manengon Power Plant	13.41438	144.75354	S	PS	GU		YN				0	90	92	Pacific/Guam	2011-06-14
+7870224	Piti 7 Diesel Combustion Turbine Power Plant 40 MW	Piti 7 Diesel Combustion Turbine Power Plant 40 MW	TEMES Plant - Taiwan Electrical and Mechanical Engineering Service	13.46234	144.68967	S	PS	GU		PI				0	3	7	Pacific/Guam	2011-06-13
+7870225	Cabras Heavy Fuel Diesel Power Plant 80 MW	Cabras Heavy Fuel Diesel Power Plant 80 MW		13.46432	144.68604	S	PS	GU		PI				0	3	11	Pacific/Guam	2011-06-14
+7870226	PSCC Guam Power System Control Center	PSCC Guam Power System Control Center	Cabras Piti Tanguisson Plants Base Load - others Peak Load	13.46409	144.687	S	PS	GU		PI				0	3	5	Pacific/Guam	2011-06-14
+7870258	Mount Tenjo 1-6 Diesel Power Plant 26 MW	Mount Tenjo 1-6 Diesel Power Plant 26 MW		13.41693	144.68698	S	PS	GU		PI				0	24	32	Pacific/Guam	2011-06-14
+7870262	Talofofo 1-2 Diesel Power Plant 9 MW	Talofofo 1-2 Diesel Power Plant 9 MW		13.35308	144.75247	S	PS	GU		TF				0	90	90	Pacific/Guam	2011-06-13
+7870264	GPA Guam Power Authority	GPA Guam Power Authority		13.51001	144.81911	S	ADMF	GU		DD				0	60	61	Pacific/Guam	2011-06-13
+7870265	Macheche Diesel Combustion Turbine Power Plant 21 MW	Macheche Diesel Combustion Turbine Power Plant 21 MW		13.51081	144.82689	S	PS	GU		DD				0	72	79	Pacific/Guam	2011-06-14
+7870282	Dededo 1-4 Diesel Power Plant 10 MW	Dededo 1-4 Diesel Power Plant 10 MW		13.51556	144.85236	S	PS	GU		DD				0	105	112	Pacific/Guam	2011-06-13
+7870291	Marbo Diesel Combustion Turbine Power Plant 16 MW	Marbo Diesel Combustion Turbine Power Plant 16 MW		13.51253	144.87237	S	PS	GU		YG				0	112	114	Pacific/Guam	2011-06-13
+7870296	Yigo Diesel Combustion Turbine Power Plant 21 MW	Yigo Diesel Combustion Turbine Power Plant 21 MW		13.54472	144.89275	S	PS	GU		YG				0	180	153	Pacific/Guam	2011-06-13
+7870335	Dededo Diesel Combustion Turbine Power Plant 46 MW	Dededo Diesel Combustion Turbine Power Plant 46 MW		13.51609	144.85184	S	PS	GU		DD				0	105	114	Pacific/Guam	2011-06-14
+7870336	Coco Palm Garden Beach - Day Resort	Coco Palm Garden Beach - Day Resort		13.62806	144.84017	S	RSRT	GU		DD				0	5	11	Pacific/Guam	2011-06-14
+7870337	Christian Transworld Radio - Large Shortwave Antenna Array	Christian Transworld Radio - Large Shortwave Antenna Array		13.34154	144.65284	S	STNR	GU		AT				0	90	98	Pacific/Guam	2011-06-14
+7870338	Guam Vietnam War Memorial	Guam Vietnam War Memorial		13.30277	144.66849	S	MNMT	GU		UM				0	106	91	Pacific/Guam	2011-06-14
+7870377	Christian Transworld Radio Shortwave Antenna Array	Christian Transworld Radio Shortwave Antenna Array		13.27787	144.67314	S	STNR	GU		ME				0	110	107	Pacific/Guam	2011-07-09
+7870381	Youth Recreation Center in frmr Merlyn Cook School	Youth Recreation Center in frmr Merlyn Cook School		13.26864	144.66443	S	CTRCM	GU		ME				0	3	6	Pacific/Guam	2011-06-14
+7870383	Ajayan River	Ajayan River		13.25132	144.71898	H	STM	GU		IN				0	6	7	Pacific/Guam	2018-04-09
+7870384	Ajayan Aquaculture Ponds	Ajayan Aquaculture Ponds		13.25352	144.71889	S	AQC	GU		IN				0	2	7	Pacific/Guam	2011-06-16
+7870386	Merizo Senior Citizens Center	Merizo Senior Citizens Center		13.27135	144.67417	S	COMC	GU		ME				0	75	81	Pacific/Guam	2011-06-14
+7870387	Merizo Public Library	Merizo Public Library		13.27118	144.67288	S	LIBR	GU		ME				0	75	75	Pacific/Guam	2011-06-14
+7870392	USCG Cocos LORAN A Slave Station WW2 1944-64	USCG Cocos LORAN A Slave Station WW2 1944-64	LORAN Chain Saipan-Cocos-Ulithi	13.23522	144.64655	S	TRIG	GU		ME				0	3	6	Pacific/Guam	2011-06-14
+7870420	USCG Orote LORAN A Slave Station 1964-77	USCG Orote LORAN A Slave Station 1964-77	LORAN Chain Saipan-Orote-Yap	13.44115	144.62505	S	TRIG	GU		SR				0	41	44	Pacific/Guam	2011-06-14
+7870491	Inarajan Village Hill	Inarajan Village Hill		13.275	144.74669	T	HLL	GU		IN				0	33	31	Pacific/Guam	2011-06-15
+7870492	Inarajan Mayor's Office	Inarajan Mayor's Office		13.29987	144.76207	S	ADMF	GU		IN				0	107	100	Pacific/Guam	2012-07-25
+7870494	Ruins of Baptist Church	Ruins of Baptist Church		13.27646	144.74762	S	RUIN	GU		IN				0	2	3	Pacific/Guam	2011-06-15
+7870495	Lada	Lada		13.26538	144.73934	P	PPLX	GU		IN				0	20	19	Pacific/Guam	2011-06-15
+7870496	Agfayan Aquaculture Basins	Agfayan Aquaculture Basins		13.26979	144.73354	S	AQC	GU		IN				0	2	6	Pacific/Guam	2011-06-15
+7870497	Agfayan Boat Slipway	Agfayan Boat Slipway		13.26784	144.74001	S	PIER	GU		IN				0	0	1	Pacific/Guam	2011-06-15
+7870498	Inarajan Garden House - JP Corporate Resort	Inarajan Garden House - JP Corporate Resort		13.25628	144.73436	S	RSRT	GU		IN				0	4	7	Pacific/Guam	2011-06-16
+7870499	frmr USN Circularly Disposed Antenna Array	frmr USN Circularly Disposed Antenna Array	CDAA or Wullenweber Direction Finder	13.59358	144.85253	S	INSM	GU		DD				0	146	152	Pacific/Guam	2011-06-15
+7870565	Catholic Redemptoris Mater Archdiocesan Seminary	Catholic Redemptoris Mater Archdiocesan Seminary	The Blessed Diego Luis de San Vitores Catholic Theological Institute for Oceania,frmr Accion Hotel	13.39169	144.77295	S	UNIV	GU		YN				0	27	15	Pacific/Guam	2011-06-16
+7870566	San Isidro Catholic Church - Malojloj	San Isidro Catholic Church - Malojloj		13.2996	144.76193	S	CH	GU		IN				0	107	100	Pacific/Guam	2011-06-21
+7870567	Atao	Atao		13.25526	144.73303	P	PPLX	GU		IN				0	3	4	Pacific/Guam	2011-06-16
+7870568	Gadao's Cave	Gadao's Cave		13.27622	144.75324	S	ANS	GU		IN				0	7	7	Pacific/Guam	2018-04-10
+7870569	Inara	Inara		13.27888	144.73148	P	PPLX	GU		IN				0	55	69	Pacific/Guam	2011-06-16
+7870570	Asalonso	Asalonso		13.33438	144.7614	P	PPLX	GU		IN				0	4	37	Pacific/Guam	2011-06-16
+7870571	Jeff’s Pirates Cove - Day Resort	Jeff's Pirates Cove - Day Resort		13.36439	144.76988	S	RSRT	GU		TF				0	4	10	Pacific/Guam	2011-06-16
+7870572	Talofofo Gym	Talofofo Gym		13.35279	144.75985	S	STDM	GU		TF				0	327	101	Pacific/Guam	2011-06-16
+7870573	Talofofo Aquaculture Ponds	Talofofo Aquaculture Ponds		13.33907	144.75929	S	AQC	GU		TF				0	1	2	Pacific/Guam	2011-06-16
+7870574	JP Eastern Landing Site 1941 WW2	JP Eastern Landing Site 1941 WW2	False Site - Landing planned at Ylig Bay	13.33789	144.7647	S	HSTS	GU		TF				0	0	1	Pacific/Guam	2011-06-16
+7870575	Talofofo Caves - Pictographs	Talofofo Caves - Pictographs		13.34154	144.76691	S	ANS	GU		TF				0	100	115	Pacific/Guam	2011-06-16
+7870622	Pago River Yona - Chalan Pago-Ordot Bridge	Pago River Yona - Chalan Pago-Ordot Bridge		13.42289	144.78195	S	BDG	GU		CP				0	2	4	Pacific/Guam	2011-06-17
+7870623	Ylig	Ylig		13.39014	144.77139	P	PPLX	GU		YN				0	30	26	Pacific/Guam	2011-06-17
+7870624	Second Sigua Falls	Second Sigua Falls		13.42982	144.72759	H	FLLS	GU		YN				0	66	84	Pacific/Guam	2011-06-17
+7870625	Sigua Hill	Sigua Hill		13.4305	144.7334	T	HLL	GU		YN				0	174	167	Pacific/Guam	2011-06-17
+7870626	Namo River Agat-Santa Rita Bridge	Namo River Agat-Santa Rita Bridge		13.40084	144.66427	S	BDG	GU		AT				0	2	6	Pacific/Guam	2011-06-17
+7870639	Agat Mayor's Office	Agat Mayor's Office		13.38801	144.65929	S	ADMF	GU		AT				0	3	4	Pacific/Guam	2012-07-25
+7870682	Paicpouc Cove	Paicpouc Cove		13.33459	144.76826	H	COVE	GU		IN				0	0	-9999	Pacific/Guam	2011-06-18
+7870683	Acapulco Hill	Acapulco Hill		13.34301	144.73363	T	HLL	GU		TF				0	63	52	Pacific/Guam	2011-06-18
+7870684	DoD Naval Reserve - Fena Valley Watershed	DoD Naval Reserve - Fena Valley Watershed		13.35555	144.7011	L	MILB	GU		AT				0	34	39	Pacific/Guam	2011-06-18
+7870685	Christian Life Center	Christian Life Center		13.39519	144.66168	S	CH	GU		AT				0	3	2	Pacific/Guam	2011-06-18
+7870686	Southern Christian Academy	Southern Christian Academy		13.39507	144.66189	S	SCH	GU		AT				0	3	2	Pacific/Guam	2011-06-18
+7870687	War in the Pacific National Historical Park - Agat Beach Unit	War in the Pacific National Historical Park - Agat Beach Unit	WW2	13.38737	144.65747	L	PRK	GU		AT				0	3	-1	Pacific/Guam	2011-06-30
+7870688	Atantano River Piti-Santa Rita Bridge	Atantano River Piti-Santa Rita Bridge		13.42421	144.67778	S	BDG	GU		SR				0	2	4	Pacific/Guam	2011-06-18
+7870689	Lower Talisay	Lower Talisay		13.39983	144.6917	P	PPLX	GU		SR				0	120	107	Pacific/Guam	2011-06-18
+7870690	Curch of Jesus Christ of Latter Day Saints	Curch of Jesus Christ of Latter Day Saints		13.39803	144.68646	S	CH	GU		SR				0	105	107	Pacific/Guam	2011-06-19
+7870691	Spanish Well	Spanish Well		13.44676	144.62291	H	WLL	GU		SR				0	6	27	Pacific/Guam	2011-06-18
+7870692	Spanish Steps to the Well	Spanish Steps to the Well		13.44653	144.62421	S	HSTS	GU		SR				0	50	34	Pacific/Guam	2011-06-18
+7870693	Spanish Fort Santiago	Spanish Fort Santiago		13.4468	144.62723	S	HSTS	GU		SR				0	63	47	Pacific/Guam	2011-06-18
+7870734	Sabana Batea	Sabana Batea		13.42361	144.74845	T	HLL	GU		YN				0	147	144	Pacific/Guam	2011-06-19
+7870735	Blasted Reef Boat Channel pre-WW2	Blasted Reef Boat Channel pre-WW2		13.44268	144.65462	H	CNL	GU		SR				0	0	6	Pacific/Guam	2011-06-19
+7870736	Only South Apra Boat Landing pre-WW2	Only South Apra Boat Landing pre-WW2		13.44115	144.65385	S	LDNG	GU		SR				0	0	4	Pacific/Guam	2011-06-19
+7870737	PanAm Clipper Flying Boat Stopover 1935+	PanAm Clipper Flying Boat Stopover 1935+	PanAm Small Seaplane Ramp and Station Facilities,PanAm Transpacific Flights San Francisco-Honolulu-Midway-Wake-Guam-Manila-Hong Kong	13.44019	144.65317	S	HSTS	GU		SR				0	2	5	Pacific/Guam	2011-06-20
+7870738	Roof Cross of destroyed Sumay Nuestra Senora de Guadalupe Church	Roof Cross of destroyed Sumay Nuestra Senora de Guadalupe Church		13.43769	144.6521	S	MNMT	GU		SR				0	2	3	Pacific/Guam	2011-06-19
+7870739	Fleet Landing Channel - US Blasted 1944	Fleet Landing Channel - US Blasted 1944		13.44199	144.65587	H	DCK	GU		SR				0	0	6	Pacific/Guam	2011-06-22
+7870740	Landfill WW2 - before Coral Patches	Landfill WW2 - before Coral Patches		13.45582	144.67114	S	LNDF	GU		PI				0	2	6	Pacific/Guam	2011-06-19
+7870741	Napa Islet before Landfill	Napa Islet before Landfill		13.44307	144.6611	S	HSTS	GU		SR				0	2	-2	Pacific/Guam	2011-06-19
+7870742	South Apra Continuous Coral Reef Awash pre-WW2	South Apra Continuous Coral Reef Awash pre-WW2		13.44349	144.66451	S	HSTS	GU		SR				0	0	1	Pacific/Guam	2013-07-24
+7870743	US Coast Gard Sector Guam	US Coast Gard Sector Guam		13.42246	144.66349	S	STNC	GU		SR				0	2	7	Pacific/Guam	2011-06-29
+7870744	USN Wharf L	USN Wharf L	Wharf Lima	13.43958	144.66457	S	WHRF	GU		SR				0	2	2	Pacific/Guam	2013-07-24
+7870745	USN Wharf M	USN Wharf M	Wharf Mike	13.43893	144.66436	S	WHRF	GU		SR				0	2	2	Pacific/Guam	2013-07-24
+7870746	USN Wharf N	USN Wharf N	Wharf November	13.43859	144.66324	S	WHRF	GU		SR				0	2	9	Pacific/Guam	2013-07-24
+7870747	USN Wharf O	USN Wharf O	Wharf Oscar	13.43796	144.66217	S	WHRF	GU		SR				0	2	7	Pacific/Guam	2013-07-24
+7870748	USN Wharf P	USN Wharf P	Wharf Papa	13.43723	144.66116	S	WHRF	GU		SR				0	2	6	Pacific/Guam	2013-07-24
+7870749	USN Wharf Q	USN Wharf Q	Wharf Quebec	13.43663	144.6603	S	WHRF	GU		SR				0	2	5	Pacific/Guam	2011-06-19
+7870750	Ammo Wharf Extension	Ammo Wharf Extension		13.44633	144.62942	S	WHRF	GU		SR				0	2	1	Pacific/Guam	2011-06-19
+7870751	USN Orote Quarry	USN Orote Quarry		13.43909	144.64063	S	MNQR	GU		SR				0	30	29	Pacific/Guam	2011-06-19
+7870752	DoD Naval Reserve Apra Inner Harbor	DoD Naval Reserve Apra Inner Harbor		13.42736	144.66823	L	MILB	GU		SR				0	0	48	Pacific/Guam	2011-07-01
+7870762	Guam Shipyard Corp	Guam Shipyard Corp		13.4408	144.66167	S	DCKY	GU		SR				0	3	6	Pacific/Guam	2011-06-19
+7870763	Naval Base Chapel	Naval Base Chapel		13.42832	144.65201	S	CH	GU		SR				0	3	13	Pacific/Guam	2011-06-19
+7870769	DoD Naval Reserve Orote Peninsula	DoD Naval Reserve Orote Peninsula		13.43717	144.64505	L	MILB	GU		SR				0	0	32	Pacific/Guam	2011-06-20
+7870770	Command Submarin Squadron 15	Command Submarin Squadron 15		13.42519	144.66186	S	INSM	GU		SR				0	3	7	Pacific/Guam	2011-06-20
+7870771	Command Joint Region Marianas	Command Joint Region Marianas		13.42779	144.65901	S	INSM	GU		SR				0	3	6	Pacific/Guam	2011-07-04
+7870772	Naval Station Main Gate	Naval Station Main Gate		13.42027	144.67468	S	INSM	GU		SR				0	3	11	Pacific/Guam	2011-06-20
+7870773	Main Gate Hill	Main Gate Hill		13.42152	144.67417	T	HLL	GU		SR				0	15	17	Pacific/Guam	2011-06-20
+7870774	US Marines Garrison pre-WW2	US Marines Garrison pre-WW2		13.43516	144.6506	S	HSTS	GU		SR				0	22	25	Pacific/Guam	2011-06-20
+7870775	PanAm Transpacific Clipper Hotel 1935+	PanAm Transpacific Clipper Hotel 1935+	First Hotel on Guam	13.44087	144.65077	S	HSTS	GU		SR				0	6	17	Pacific/Guam	2011-06-20
+7870776	JP Seaplane Ramp and Hangar WW2	JP Seaplane Ramp and Hangar WW2		13.43986	144.65257	S	HSTS	GU		SR				0	2	6	Pacific/Guam	2011-06-20
+7870777	Tepungan Ridge	Tepungan Ridge		13.46935	144.70663	T	RDGE	GU		PI				0	51	31	Pacific/Guam	2011-06-20
+7870778	Fish Eye Marine Park and Bridge	Fish Eye Marine Park and Bridge		13.47218	144.70347	S	OBPT	GU		PI				0	3	1	Pacific/Guam	2011-06-29
+7870779	Asan Point Ridge	Asan Point Ridge		13.47202	144.70744	T	RDGE	GU		AS				0	36	17	Pacific/Guam	2011-06-20
+7870780	JP Asan Point Ridge Pillbox WW2	JP Asan Point Ridge Pillbox WW2		13.47188	144.70755	S	RUIN	GU		AS				0	36	17	Pacific/Guam	2011-06-20
+7870781	US Asan Point War Memorial WW2	US Asan Point War Memorial WW2		13.47604	144.70739	S	MNMT	GU		AS				0	2	9	Pacific/Guam	2011-06-29
+7870789	Heavy Fuel Oil Tanks for Piti and Tanguisson Power Plants	Heavy Fuel Oil Tanks for Piti and Tanguisson Power Plants		13.46115	144.68615	S	OILT	GU		PI				0	3	7	Pacific/Guam	2011-06-20
+7870806	Route 6 - Spruance Drive	Route 6 - Spruance Drive	Admiral Raymond A Spruance Drive	13.455	144.70854	R	RD	GU		PI				0	122	122	Pacific/Guam	2011-06-20
+7870811	Mahagony Forest - planted 1928	Mahagony Forest - planted 1928		13.46162	144.69524	V	FRST	GU		PI				0	60	42	Pacific/Guam	2011-06-20
+7870995	Municipal Tripoint Asan - Agana Heights - Chalan Pago	Municipal Tripoint Asan - Agana Heights - Chalan Pago		13.45602	144.7405	T	PT	GU		00				0	140	126	Pacific/Guam	2011-06-25
+7871053	Ordot Landfill	Ordot Landfill		13.43909	144.75032	S	LNDF	GU		CP				0	60	92	Pacific/Guam	2011-06-20
+7871056	Chaot River Municipal Tripoint Agana Heights - Sinajana - Chalan Pago	Chaot River Municipal Tripoint Agana Heights - Sinajana - Chalan Pago		13.45724	144.75215	T	PT	GU		00				0	15	35	Pacific/Guam	2011-06-25
+7871057	Municipal Tripoint Sinajana - Mongmong - Chalan Pago	Municipal Tripoint Sinajana - Mongmong - Chalan Pago		13.45992	144.77218	T	PT	GU		00				0	24	27	Pacific/Guam	2011-06-25
+7871058	Lonfit River Municipal Tripoint Yona - Asan - Chalan Pago	Lonfit River Municipal Tripoint Yona - Asan - Chalan Pago		13.43479	144.74837	T	PT	GU		00				0	12	25	Pacific/Guam	2011-06-25
+7871059	Municipal Tripoint Mongmong - Mangilao - Chalan Pago	Municipal Tripoint Mongmong - Mangilao - Chalan Pago		13.46097	144.78145	T	PT	GU		00				0	3	11	Pacific/Guam	2011-06-25
+7871060	Municipal Tripoint Mongmong - Barrigada - Mangilao	Municipal Tripoint Mongmong - Barrigada - Mangilao		13.46157	144.78427	T	PT	GU		00				0	12	22	Pacific/Guam	2011-06-25
+7871061	Dominican Child Development Center	Dominican Child Development Center		13.44689	144.76035	S	SCH	GU		CP				0	38	42	Pacific/Guam	2011-06-21
+7871062	Our Lady of Purification Catholic Church	Our Lady of Purification Catholic Church		13.46857	144.7347	S	CH	GU		AS				0	39	42	Pacific/Guam	2011-06-21
+7871063	Faith Presbyterian Christian Reformed Church	Faith Presbyterian Christian Reformed Church	Pohnpei United Church of Christ	13.43732	144.78618	S	CH	GU		CP				0	48	48	Pacific/Guam	2011-06-23
+7871064	Temple Baptist Church	Temple Baptist Church		13.45081	144.77751	S	CH	GU		CP				0	30	28	Pacific/Guam	2011-06-21
+7871065	Temple Baptist School	Temple Baptist School		13.45112	144.7774	S	SCH	GU		CP				0	30	28	Pacific/Guam	2011-06-21
+7871066	Maimai	Maimai		13.44627	144.77787	P	PPLX	GU		CP				0	30	38	Pacific/Guam	2011-06-21
+7871068	St. Thomas Aquinas Catholic High School	St. Thomas Aquinas Catholic High School		13.44577	144.75962	S	SCH	GU		CP				0	40	44	Pacific/Guam	2011-06-23
+7871069	Apusento Garden	Apusento Garden		13.44656	144.76964	P	PPLX	GU		CP				0	30	40	Pacific/Guam	2011-06-21
+7871070	Pago Bay	Pago Bay		13.42673	144.78929	P	PPLX	GU		CP				0	12	18	Pacific/Guam	2011-06-21
+7871071	Pago prehistoric and historic Village	Pago prehistoric and historic Village		13.42408	144.78328	S	ANS	GU		CP				0	4	6	Pacific/Guam	2011-07-04
+7871072	Municipal Tripoint Dededo - Yigo - Mangilao	Municipal Tripoint Dededo - Yigo - Mangilao		13.49973	144.87062	T	PT	GU		00				0	143	145	Pacific/Guam	2011-06-21
+7871073	Municipal Tripoint Barrigada - Dededo - Mangilao	Municipal Tripoint Barrigada - Dededo - Mangilao		13.49793	144.83463	T	PT	GU		00				0	142	142	Pacific/Guam	2011-06-21
+7871074	DoD Andersen AFB Marbo Annex	DoD Andersen AFB Marbo Annex		13.51083	144.87345	L	MILB	GU		YG				0	120	123	Pacific/Guam	2011-07-05
+7871075	Andersen AFB Andy South Housing	Andersen AFB Andy South Housing		13.49881	144.8686	P	PPLQ	GU		MA				0	145	143	Pacific/Guam	2011-07-05
+7871076	Campanaya Point	Campanaya Point	Sassayan Point	13.48872	144.87033	T	CAPE	GU		MA				0	143	111	Pacific/Guam	2011-07-03
+7871077	Marbo Cave	Marbo Cave		13.48715	144.86839	S	CAVE	GU		MA				0	12	30	Pacific/Guam	2011-06-21
+7871078	Marbo Spring	Marbo Spring		13.48706	144.86837	H	SPNG	GU		MA				0	12	18	Pacific/Guam	2011-06-21
+7871080	Guam Agriculture Development and Training Center	Guam Agriculture Development and Training Center		13.44303	144.82062	S	SCHA	GU		MA				0	12	19	Pacific/Guam	2011-06-21
+7871081	DoD Andersen AFB Communication South	DoD Andersen AFB Communication South		13.4539	144.81122	L	MILB	GU		MA				0	75	79	Pacific/Guam	2011-06-21
+7871082	Andersen AFB NEXRAD Weather Radar	Andersen AFB NEXRAD Weather Radar		13.45605	144.81126	S	INSM	GU		MA				0	75	81	Pacific/Guam	2011-06-21
+7871083	Andersen AFB frmr Shortwave Transmitter	Andersen AFB frmr Shortwave Transmitter		13.45391	144.81378	S	INSM	GU		MA				0	75	76	Pacific/Guam	2011-06-21
+7871084	Tai	Tai		13.4417	144.79124	P	PPLX	GU		MA				0	42	46	Pacific/Guam	2011-06-21
+7871220	Sasayan Terrace	Sasayan Terrace	Sassayan	13.48629	144.86195	T	TRR	GU		MA				0	50	59	Pacific/Guam	2011-07-03
+7871222	Guae Terrace	Guae Terrace		13.47577	144.85903	T	TRR	GU		MA				0	12	19	Pacific/Guam	2011-06-21
+7871225	Arc Light Memorial - B-52D Stratofortress	Arc Light Memorial - B-52D Stratofortress	Arc Light - Vietnam War B-52 Bombers	13.56924	144.92024	S	MNMT	GU		YG				0	161	161	Pacific/Guam	2011-06-22
+7871226	Andersen AFB Main Gate	Andersen AFB Main Gate		13.56509	144.90036	S	AIRB	GU		YG				0	188	191	Pacific/Guam	2011-06-22
+7871227	DoD USAF Andersen AFB	DoD USAF Andersen AFB		13.58346	144.92924	L	MILB	GU		YG				0	180	166	Pacific/Guam	2011-06-22
+7871228	USAAF North Field Four Runways B-29 Bomber Airbase WW2	USAAF North Field Four Runways B-29 Bomber Airbase WW2		13.5839	144.93027	S	HSTS	GU		YG				0	180	168	Pacific/Guam	2011-06-23
+7871229	Entire Airbase used as Special Forces Trainig Area	Entire Airbase used as Special Forces Trainig Area		13.62184	144.85911	L	MVA	GU		DD				0	150	148	Pacific/Guam	2011-06-22
+7871230	USAF GTS Guam Satellite Tracking Station	USAF GTS Guam Satellite Tracking Station		13.61567	144.85637	S	STNS	GU		DD				0	150	144	Pacific/Guam	2011-06-22
+7871231	Route 9 - Potts Junction to Salisbury Junction AFB	Route 9 - Potts Junction to Salisbury Junction AFB		13.58234	144.88898	R	RD	GU		YG				0	170	171	Pacific/Guam	2011-06-22
+7871232	DoD USAF All Land North of Route9	DoD USAF All Land North of Route9		13.59802	144.87199	L	MILB	GU		YG				0	0	150	Pacific/Guam	2011-06-22
+7871234	Tide Gauge - NOAA Station 1630000 Guam	Tide Gauge - NOAA Station 1630000 Guam		13.44362	144.65657	S	OBS	GU		SR				0	0	4	Pacific/Guam	2011-06-22
+7871235	Red Horse - USAF Engineering Facilitiy and HQ	Red Horse - USAF Engineering Facilitiy and HQ		13.63033	144.84854	S	INSM	GU		DD				0	146	162	Pacific/Guam	2011-06-22
+7871236	Strarts Golf Resort Hotel	Strarts Golf Resort Hotel		13.57979	144.8674	S	HTL	GU		DD				0	150	154	Pacific/Guam	2011-06-22
+7871237	Andersen AFB Back Gate	Andersen AFB Back Gate		13.55701	144.91652	S	INSM	GU		YG				0	162	165	Pacific/Guam	2011-07-09
+7871238	FAA ARSR-4 Air Route Surveillance Radar	FAA ARSR-4 Air Route Surveillance Radar	FAA US Federal Aviation Administration Radar	13.53553	144.91428	S	COMC	GU		YG				0	253	243	Pacific/Guam	2011-06-22
+7871239	Rain Water Collection Pool	Rain Water Collection Pool		13.55662	144.92593	T	DPR	GU		YG				0	141	146	Pacific/Guam	2011-06-22
+7871240	Andersen AFB Control Tower	Andersen AFB Control Tower		13.57541	144.93078	S	AIRB	GU		YG				0	168	169	Pacific/Guam	2011-06-22
+7871241	B-2 Stealth Bomber Takeoff Crash Site	B-2 Stealth Bomber Takeoff Crash Site		13.58746	144.93944	S	AIRB	GU		YG				0	183	180	Pacific/Guam	2011-06-22
+7871245	AFB Munitions Assembly Facilitiy	AFB Munitions Assembly Facilitiy		13.59644	144.90237	S	MFGM	GU		YG				0	150	147	Pacific/Guam	2011-06-22
+7871325	DoD Reservation Santa Rosa Communications Annex	DoD Reservation Santa Rosa Communications Annex		13.53528	144.91402	L	MILB	GU		YG				0	253	245	Pacific/Guam	2011-06-23
+7871326	DoD Andersen AFB Potts Junction Tank Farm	DoD Andersen AFB Potts Junction Tank Farm		13.58622	144.86212	L	MILB	GU		DD				0	147	145	Pacific/Guam	2011-06-23
+7871327	North Guam Overall - Wells into Northern Aquifer	North Guam Overall - Wells into Northern Aquifer	Ghyben-Herzberg Lens Wells	13.55247	144.86654	H	WLLS	GU		00				0	0	171	Pacific/Guam	2011-06-23
+7871329	Salisbury	Salisbury		13.55941	144.90136	P	PPLX	GU		YG				0	189	180	Pacific/Guam	2011-06-23
+7871330	Jesus Christ of the Latter Day Saints Church	Jesus Christ of the Latter Day Saints Church		13.54185	144.89017	S	CH	GU		YG				0	150	153	Pacific/Guam	2011-06-23
+7871331	Smithbridge Guam - Civil and Marine Engineering	Smithbridge Guam - Civil and Marine Engineering	Rocky Mountain Precast,Smithbridge International Brisbane-Australia	13.52511	144.90026	S	MFG	GU		YG				0	180	173	Pacific/Guam	2011-06-23
+7871332	Tanguisson Transpacific Fiber Optic Cable Station	Tanguisson Transpacific Fiber Optic Cable Station	Tanguisson CLS Cable Landing Station	13.54362	144.81253	S	COMC	GU		DD				0	37	50	Pacific/Guam	2011-06-27
+7871333	Submarine Communication Cables	Submarine Communication Cables		13.54535	144.80747	S	COMC	GU		DD				0	-4	1	Pacific/Guam	2011-06-23
+7871338	Way of Salvation Church	Way of Salvation Church		13.53587	144.89489	S	CH	GU		YG				0	120	128	Pacific/Guam	2011-06-23
+7871342	Yigo Mayor's Office	Yigo Mayor's Office		13.53565	144.89309	S	ADMF	GU		YG				0	120	126	Pacific/Guam	2012-07-25
+7871345	Municipal Tripoint Dededo - Barrigada - Tamuning	Municipal Tripoint Dededo - Barrigada - Tamuning		13.49871	144.82019	T	PT	GU		00				0	107	109	Pacific/Guam	2011-06-25
+7871346	Route 3A - Potts Junction to Ritidian Point	Route 3A - Potts Junction to Ritidian Point		13.60545	144.8568	R	RD	GU		DD				0	146	148	Pacific/Guam	2011-06-23
+7871353	NASA GRGT Remotely Controlled Satellite Ground Station	NASA GRGT Remotely Controlled Satellite Ground Station	GRGT Guam Remote Ground Terminal	13.58777	144.84112	S	STNS	GU		DD				0	128	130	Pacific/Guam	2011-06-23
+7871354	Mushroom Rock	Mushroom Rock		13.57702	144.82883	T	RK	GU		DD				0	10	11	Pacific/Guam	2011-06-23
+7871355	NASA Atmospheric Propagation Monitor	NASA Atmospheric Propagation Monitor		13.59157	144.84026	S	STNS	GU		DD				0	128	123	Pacific/Guam	2011-06-23
+7871378	Finegayan Satellite Communication Station	Finegayan Satellite Communication Station		13.58367	144.84978	S	STNS	GU		DD				0	146	147	Pacific/Guam	2011-06-24
+7871379	NRL MRC Midway Research Center	NRL MRC Midway Research Center	MRC Spacecraft Calibration Facility,MRC Worldwide Communication Test Range,NRL Naval Research Laboratory	13.58283	144.83534	S	STNB	GU		DD				0	108	111	Pacific/Guam	2011-06-24
+7871380	MRC Marlock 25m Satellite Calibration Antenna	MRC Marlock 25m Satellite Calibration Antenna		13.58001	144.8363	S	STNS	GU		DD				0	108	111	Pacific/Guam	2011-07-04
+7871381	Victory Christian Fellowship Chapel	Victory Christian Fellowship Chapel		13.51301	144.83725	S	CH	GU		DD				0	90	93	Pacific/Guam	2011-06-24
+7871382	Pacific Revival Center	Pacific Revival Center		13.50961	144.84122	S	CH	GU		DD				0	99	104	Pacific/Guam	2011-06-24
+7871383	Pacific Christian Academy	Pacific Christian Academy		13.50961	144.8414	S	SCH	GU		DD				0	99	104	Pacific/Guam	2011-06-24
+7871384	Dededo Skate Park	Dededo Skate Park		13.51499	144.83798	L	CMN	GU		DD				0	95	98	Pacific/Guam	2011-06-24
+7871385	Dededo Lencho Park	Dededo Lencho Park		13.51515	144.83688	L	CMN	GU		DD				0	95	93	Pacific/Guam	2011-06-24
+7871386	Central Dededo	Central Dededo		13.51709	144.83966	P	PPLX	GU		DD				0	98	101	Pacific/Guam	2011-06-24
+7871387	Okkodo High School	Okkodo High School		13.53491	144.83211	S	SCH	GU		DD				0	96	106	Pacific/Guam	2011-06-24
+7871389	Astumbo Middle School	Astumbo Middle School		13.55126	144.84722	S	SCH	GU		DD				0	121	123	Pacific/Guam	2011-06-24
+7871390	Santa Ana	Santa Ana		13.58666	144.8657	P	PPLX	GU		DD				0	146	146	Pacific/Guam	2011-06-24
+7871392	Astumbo Gardens	Astumbo Gardens		13.55117	144.84023	P	PPLX	GU		DD				0	120	120	Pacific/Guam	2011-06-24
+7871397	Liguan Terrace	Liguan Terrace		13.52103	144.82259	P	PPLX	GU		DD				0	76	84	Pacific/Guam	2011-06-24
+7871398	Ukudo	Ukudo		13.54091	144.84349	P	PPLX	GU		DD				0	106	117	Pacific/Guam	2011-06-25
+7871400	NCS Machanao	NCS Machanao		13.58038	144.8583	P	PPLX	GU		DD				0	137	145	Pacific/Guam	2011-06-24
+7871401	Ghura	Ghura		13.52748	144.86967	P	PPLX	GU		DD				0	126	130	Pacific/Guam	2011-06-24
+7871402	Dededo Police Station	Dededo Police Station		13.51533	144.83886	S	PP	GU		DD				0	95	99	Pacific/Guam	2011-06-24
+7871403	Las Palmas	Las Palmas		13.50261	144.84276	P	PPLX	GU		DD				0	85	86	Pacific/Guam	2011-06-25
+7871404	Mogfog	Mogfog		13.50282	144.85139	P	PPLQ	GU		DD				0	90	90	Pacific/Guam	2011-07-03
+7871405	Municipal Tripoint Barrigada - Tamuning - Mongmong	Municipal Tripoint Barrigada - Tamuning - Mongmong		13.48167	144.77923	T	PT	GU		00				0	55	57	Pacific/Guam	2011-06-25
+7871406	Barrigada Mayor's Office	Barrigada Mayor's Office		13.46912	144.79961	S	ADMF	GU		BA				0	65	69	Pacific/Guam	2012-07-25
+7871456	USPS Guam Main Post Office	USPS Guam Main Post Office		13.47805	144.80901	S	PO	GU		BA				0	85	88	Pacific/Guam	2011-06-25
+7871457	Guam National Guard Readiness Facility	Guam National Guard Readiness Facility		13.47458	144.80901	S	INSM	GU		BA				0	73	88	Pacific/Guam	2011-06-25
+7871458	Guam Army Reserve HQ	Guam Army Reserve HQ		13.47367	144.82141	S	INSM	GU		BA				0	90	97	Pacific/Guam	2011-06-25
+7871459	DoD Reserve Admiral Nimitz Golf Course	DoD Reserve Admiral Nimitz Golf Course		13.46947	144.82309	L	MILB	GU		BA				0	90	93	Pacific/Guam	2011-06-25
+7871460	Guam Trades Academy	Guam Trades Academy	Construction Professionals School	13.46908	144.80389	S	SCHT	GU		BA				0	67	72	Pacific/Guam	2011-06-26
+7871461	Fo Guang Shan Buddhist Temple	Fo Guang Shan Buddhist Temple		13.49477	144.8284	S	TMPL	GU		BA				0	137	137	Pacific/Guam	2011-06-25
+7871462	NOAA WFO Tiyan Weather Forecast Office	NOAA WFO Tiyan Weather Forecast Office	NOAA US National Oceanic and Atmospheric Administration	13.47753	144.79419	S	STNM	GU		BA				0	73	77	Pacific/Guam	2011-06-25
+7871463	Barrigada Public Library	Barrigada Public Library		13.46857	144.79913	S	LIBR	GU		BA				0	65	68	Pacific/Guam	2011-06-25
+7871464	DoD Naval Communication Station	DoD Naval Communication Station		13.48016	144.82839	L	MILB	GU		BA				0	107	122	Pacific/Guam	2011-06-25
+7871465	frmr Naval Air Station Brewer Field	frmr Naval Air Station Brewer Field		13.4779	144.80319	S	HSTS	GU		BA				0	79	82	Pacific/Guam	2011-07-02
+7871466	USN Radio Barrigada	USN Radio Barrigada		13.47859	144.81517	S	INSM	GU		BA				0	98	104	Pacific/Guam	2011-06-25
+7871467	JP Guamu Dai Ni Naval Airfield WW2	JP Guamu Dai Ni Naval Airfield WW2		13.48349	144.79884	S	HSTS	GU		BA				0	82	85	Pacific/Guam	2011-06-25
+7871468	Fort Juan Muna - Guam National Guard Facility	Fort Juan Muna - Guam National Guard Facility		13.50261	144.81815	S	INSM	GU		TM				0	60	61	Pacific/Guam	2011-06-25
+7871472	Airport South Ramp - Technical Facilities	Airport South Ramp - Technical Facilities		13.48048	144.80085	S	FCL	GU		BA				0	60	81	Pacific/Guam	2011-06-25
+7871473	Cliff Top Municipal Tripoint Hagatna - Tamuning - Mongmong	Cliff Top Municipal Tripoint Hagatna - Tamuning - Mongmong		13.47938	144.76754	T	PT	GU		00				0	46	33	Pacific/Guam	2011-06-25
+7871474	Tamuning-Tumon-Harmon Mayor's Office	Tamuning-Tumon-Harmon Mayor's Office		13.48715	144.78077	S	ADMF	GU		TM				0	13	19	Pacific/Guam	2012-07-25
+7873826	Guam Greyhound Dog Race Track	Guam Greyhound Dog Race Track		13.50057	144.77914	S	RECR	GU		TM				0	24	28	Pacific/Guam	2011-06-26
+7873827	Sisters of Mercy South Central Community on Guam	Sisters of Mercy South Central Community on Guam		13.503	144.77751	S	CVNT	GU		TM				0	33	38	Pacific/Guam	2011-06-26
+7873828	Mental Health and Substance Abuse	Mental Health and Substance Abuse		13.50336	144.77583	S	HSP	GU		TM				0	34	38	Pacific/Guam	2011-06-26
+7873829	St Probus Holy Chapel	St Probus Holy Chapel	Guam Hilton Hotel Second Wedding Chapel	13.50806	144.78323	S	CH	GU		TM				0	15	10	Pacific/Guam	2011-06-26
+7873830	Aqua Stella Chapel	Aqua Stella Chapel	New Hilton Hotel Wedding Chapel	13.50668	144.7845	S	CH	GU		TM				0	9	20	Pacific/Guam	2011-06-26
+7873831	Mercy Heights Nursery & Kindergarten	Mercy Heights Nursery & Kindergarten		13.50333	144.77787	S	SCH	GU		TM				0	33	38	Pacific/Guam	2011-06-26
+7873832	Doctors Clinic	Doctors Clinic		13.50445	144.77608	S	HSPC	GU		TM				0	36	40	Pacific/Guam	2011-06-26
+7873856	Harmon Industrial Park	Harmon Industrial Park	frmr Harmon Airbase	13.5039	144.81332	L	INDS	GU		TM				0	49	54	Pacific/Guam	2011-06-27
+7873857	Tumon Bay Transpacific Fiber Optic Cable Station	Tumon Bay Transpacific Fiber Optic Cable Station	Tumon Bay CLS Cable Landing Station	13.50355	144.80694	S	COMC	GU		TM				0	42	51	Pacific/Guam	2011-06-27
+7873858	TGA TeleGuam	TGA TeleGuam		13.50329	144.80476	S	COMC	GU		TM				0	42	49	Pacific/Guam	2011-06-27
+7873859	Piti Transpacific Fiber Optic Cable Station	Piti Transpacific Fiber Optic Cable Station	Piti CLS Cable Landing Station	13.46015	144.6906	S	COMC	GU		PI				0	4	10	Pacific/Guam	2011-06-27
+7873860	Palauan Evangelical Church of Guam	Palauan Evangelical Church of Guam		13.48634	144.77747	S	CH	GU		TM				0	7	10	Pacific/Guam	2011-06-27
+7873861	Harmon	Harmon		13.50688	144.81098	P	PPLX	GU		TM				0	60	60	Pacific/Guam	2011-06-27
+7873865	Mongmong-Toto-Maite Mayor's Office	Mongmong-Toto-Maite Mayor's Office		13.46796	144.78218	S	ADMF	GU		MT				0	43	46	Pacific/Guam	2012-07-25
+7873866	Mongmong-Toto-Maite Village	Mongmong-Toto-Maite Village		13.46857	144.78214	P	PPLA	GU		MT				6825	43	46	Pacific/Guam	2013-07-07
+7873867	Harvest Christian Academy Residence	Harvest Christian Academy Residence		13.47025	144.78035	S	SCH	GU		MT				0	48	46	Pacific/Guam	2011-06-27
+7873868	Hagatna Mayor's Office	Hagatna Mayor's Office		13.47215	144.75803	S	ADMF	GU		AN				0	3	8	Pacific/Guam	2012-07-25
+7873869	Life in the Son Christian Fellowship	Life in the Son Christian Fellowship		13.47656	144.76359	S	CH	GU		MT				0	37	41	Pacific/Guam	2011-06-27
+7873870	West Airport Terrace	West Airport Terrace		13.47984	144.77383	P	PPLX	GU		MT				0	54	55	Pacific/Guam	2011-06-27
+7873871	Municipal Tripoint Hagatna - Mongmong - Sinajana	Municipal Tripoint Hagatna - Mongmong - Sinajana		13.46612	144.76155	T	PT	GU		00				0	1	3	Pacific/Guam	2011-06-27
+7873872	Municipal Tripoint Agana Heights - Hagatna - Sinajana	Municipal Tripoint Agana Heights - Hagatna - Sinajana		13.46725	144.75222	T	PT	GU		00				0	58	52	Pacific/Guam	2011-06-27
+7873951	Agana Swamp	Agana Swamp		13.45983	144.76591	H	SWMP	GU		SJ				0	1	9	Pacific/Guam	2011-06-28
+7873952	Agana Heights Mayor's Office	Agana Heights Mayor's Office		13.46494	144.74758	S	ADMF	GU		AH				0	52	39	Pacific/Guam	2012-07-25
+7873953	Agana Heights Gym	Agana Heights Gym		13.46488	144.74798	S	STDM	GU		AH				0	52	40	Pacific/Guam	2011-06-28
+7873954	Fonte River Asan-Hagatna Bridge	Fonte River Asan-Hagatna Bridge		13.47807	144.73182	S	BDG	GU		AS				0	3	6	Pacific/Guam	2011-06-28
+7873955	Fonte River Municipal Tripoint Asan - Hagatna - Agana Heights	Fonte River Municipal Tripoint Asan - Hagatna - Agana Heights		13.47494	144.73235	T	PT	GU		00				0	3	15	Pacific/Guam	2011-06-28
+7873956	Apugan Hill	Apugan Hill		13.47348	144.74738	T	HLL	GU		AN				0	52	54	Pacific/Guam	2011-07-05
+7873957	Guam High School - DoD School	Guam High School - DoD School		13.47432	144.74374	S	SCH	GU		AH				0	52	52	Pacific/Guam	2011-06-28
+7873958	Agana Heights Baptist Church	Agana Heights Baptist Church		13.4715	144.74723	S	CH	GU		AH				0	56	57	Pacific/Guam	2011-06-29
+7873959	Agana Heights SDA Church	Agana Heights SDA Church		13.47119	144.74675	S	CH	GU		AH				0	56	56	Pacific/Guam	2011-06-28
+7873960	US District Court of Guam - Ninth Circuit San Francisco	US District Court of Guam - Ninth Circuit San Francisco		13.47687	144.74248	S	CTHSE	GU		AN				0	3	10	Pacific/Guam	2011-06-28
+7873961	Saint Fidelis Capuchins Friary	Saint Fidelis Capuchins Friary		13.46798	144.75152	S	MSTY	GU		AH				0	60	56	Pacific/Guam	2011-06-28
+7873966	San Ramon Hill	San Ramon Hill		13.47052	144.75231	T	HLL	GU		AN				0	27	21	Pacific/Guam	2011-07-06
+7873967	The Cliff - frmr Hotel now Condominium	The Cliff - frmr Hotel now Condominium		13.46986	144.74988	S	HSE	GU		AH				0	55	57	Pacific/Guam	2011-06-28
+7873970	Scottish Rite Masonic Center	Scottish Rite Masonic Center		13.47169	144.74544	S	CTRCM	GU		AH				0	55	57	Pacific/Guam	2011-06-28
+7873972	Maria Artero Catholic Pre-School and Kindergarten	Maria Artero Catholic Pre-School and Kindergarten		13.4672	144.7465	S	SCH	GU		AH				0	48	49	Pacific/Guam	2011-06-29
+7874004	Archdiocese Chancery Offices and Residence	Archdiocese Chancery Offices and Residence		13.47041	144.75255	S	CTRR	GU		AN				0	27	29	Pacific/Guam	2011-07-05
+7874005	Elks Club	Elks Club	Elks Lodge	13.47015	144.74605	S	CTRCM	GU		AH				0	56	49	Pacific/Guam	2011-06-29
+7874006	Tutujan Park	Tutujan Park	Triangle Park	13.47087	144.75126	S	RSRT	GU		AH				0	28	29	Pacific/Guam	2011-06-29
+7874007	Fonte	Fonte		13.46119	144.74211	P	PPLX	GU		AH				0	30	52	Pacific/Guam	2011-06-29
+7874008	Hagåtña Village	Hagatna Village	Agana -1998,Akashi WW2	13.47279	144.75802	P	PPL	GU		AN				1051	4	8	Pacific/Guam	2022-12-23
+7874009	DoD Nimitz Hill Reserve Officers Housing	DoD Nimitz Hill Reserve Officers Housing		13.4672	144.72374	L	MILB	GU		AS				0	180	179	Pacific/Guam	2011-06-29
+7874010	Flag Circle - USN Top Brass Housing	Flag Circle - USN Top Brass Housing		13.46713	144.72327	P	PPLX	GU		AS				0	180	179	Pacific/Guam	2011-06-29
+7874011	Inedo Ridge	Inedo Ridge		13.46757	144.70788	T	RDGE	GU		AS				0	45	30	Pacific/Guam	2011-06-29
+7874012	Matgue River Valley Battle Area WW2	Matgue River Valley Battle Area WW2	US National Register of Historic Places	13.46896	144.70704	S	HSTS	GU		AS				0	6	31	Pacific/Guam	2011-07-09
+7874013	Korean Air Flight KE801 1997-Crash Memorial	Korean Air Flight KE801 1997-Crash Memorial	Korean B747 Seoul-Guam Crash - 228 Killed - 26 Survivors	13.45541	144.73284	S	MNMT	GU		AS				0	206	186	Pacific/Guam	2011-06-29
+7874014	VORTAC civil-military Aircraft Radio Navigation Beacon	VORTAC civil-military Aircraft Radio Navigation Beacon		13.45454	144.73329	S	BCN	GU		AS				0	206	203	Pacific/Guam	2011-06-29
+7874023	War in the Pacific National Historical Park - T. Stell Newman Visitor Center	War in the Pacific National Historical Park - T. Stell Newman Visitor Center	First Park Superintendent Anthropologist Thomas Stell Newman,WW2	13.42251	144.67557	L	PRK	GU		SR				0	2	5	Pacific/Guam	2011-07-07
+7874053	War in the Pacific National Historical Park - Asan Inland Unit	War in the Pacific National Historical Park - Asan Inland Unit	WW2	13.46718	144.71779	L	PRK	GU		AS				0	60	63	Pacific/Guam	2011-06-30
+7874054	War in the Pacific National Historical Park - Asan Bay Overlook	War in the Pacific National Historical Park - Asan Bay Overlook	WW2	13.46001	144.71557	L	PRK	GU		AS				0	171	167	Pacific/Guam	2011-06-30
+7874055	Memorial Wall - 16142 Names of US Forces and Chamorro Casualties WW2	Memorial Wall - 16142 Names of US Forces and Chamorro Casualties WW2		13.45993	144.71532	S	MNMT	GU		AS				0	171	164	Pacific/Guam	2011-06-30
+7874056	Landing Memorial WW2	Landing Memorial WW2		13.47891	144.72932	S	MNMT	GU		AN				0	3	5	Pacific/Guam	2011-07-01
+7874057	Fonte River Dam - USN built 1910	Fonte River Dam - USN built 1910		13.45857	144.72872	S	DAM	GU		AS				0	75	128	Pacific/Guam	2011-06-30
+7874058	DoD Nimitz Hill Housing	DoD Nimitz Hill Housing		13.45822	144.71743	L	MILB	GU		AS				0	170	186	Pacific/Guam	2011-06-30
+7874064	DoD Naval Reserve NHC Reservoir	DoD Naval Reserve NHC Reservoir		13.44921	144.71286	L	MILB	GU		AS				0	200	220	Pacific/Guam	2011-07-01
+7874065	Overhead W-E PowerTransmission Line	Overhead W-E PowerTransmission Line		13.44983	144.72882	S	PS	GU		AS				0	180	153	Pacific/Guam	2011-06-30
+7874066	Underground Aviation Fuel Pipeline	Underground Aviation Fuel Pipeline		13.45288	144.72647	S	OILJ	GU		AS				0	180	185	Pacific/Guam	2011-06-30
+7874067	DoD Naval Reserve Nimitz Hill COMNAVMAR	DoD Naval Reserve Nimitz Hill COMNAVMAR		13.45549	144.72513	L	MILB	GU		AS				0	180	162	Pacific/Guam	2011-06-30
+7874089	Route 6 - Admiral Raymond A. Spruance Drive	Route 6 - Admiral Raymond A. Spruance Drive		13.4725	144.73258	R	RD	GU		AS				0	30	43	Pacific/Guam	2011-06-30
+7874094	frmr Adelup School by Architect Richard Neutra	frmr Adelup School by Architect Richard Neutra		13.47888	144.73021	S	HSTS	GU		AN				0	3	5	Pacific/Guam	2011-07-01
+7874128	Guam Insular Force Guard Monument WW2	Guam Insular Force Guard Monument WW2		13.47453	144.75166	S	MNMT	GU		AN				0	2	6	Pacific/Guam	2011-07-01
+7874129	Spanish and American pre-WW2 Kiosko	Spanish and American pre-WW2 Kiosko		13.4742	144.75164	S	HSTS	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+7874130	Battle of Wake Island Chamorro Victims Memorial WW2	Battle of Wake Island Chamorro Victims Memorial WW2		13.4765	144.7517	S	MNMT	GU		AN				0	3	5	Pacific/Guam	2011-07-06
+7874131	First Civilian Governor Carlton F. Skinner Memorial	First Civilian Governor Carlton F. Skinner Memorial		13.47492	144.75163	S	MNMT	GU		AN				0	3	5	Pacific/Guam	2011-07-01
+7874132	US Naval Cemetery pre-WW2	US Naval Cemetery pre-WW2		13.47741	144.75766	S	CMTY	GU		AN				0	2	7	Pacific/Guam	2011-07-03
+7874133	German SMS Cormoran Victims Tomb WW1	German SMS Cormoran Victims Tomb WW1		13.47742	144.75797	S	MNMT	GU		AN				0	2	8	Pacific/Guam	2011-07-01
+7874134	JP Pillbox WW2	JP Pillbox WW2		13.47849	144.75143	S	HSTS	GU		AN				0	1	4	Pacific/Guam	2011-07-01
+7874135	Very Rev. Monsignor Jose Bernardo Palomo y Torres Memorial	Very Rev. Monsignor Jose Bernardo Palomo y Torres Memorial	First Chamorro Priest Padre Palomo	13.47731	144.75707	S	MNMT	GU		AN				0	2	8	Pacific/Guam	2011-07-01
+7874136	Spanish American Japanese Governor's House -1944	Spanish American Japanese Governor's House -1944	Casa Gobierno	13.47365	144.75179	S	RUIN	GU		AN				0	3	9	Pacific/Guam	2011-07-04
+7874137	Spanish Almacen - Arsenal	Spanish Almacen - Arsenal		13.47358	144.7512	S	HSTS	GU		AN				0	3	9	Pacific/Guam	2011-07-01
+7874138	Governor's Complex Wall	Governor's Complex Wall		13.47377	144.75151	S	HSTS	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+7874139	JP Storage Caves WW2	JP Storage Caves WW2		13.47086	144.75302	S	HSTS	GU		AN				0	3	10	Pacific/Guam	2011-07-01
+7874140	JP Storage Caves WW2	JP Storage Caves WW2		13.47426	144.7484	S	HSTS	GU		AN				0	3	25	Pacific/Guam	2011-07-01
+7874141	Consulate of the Republic of Korea	Consulate of the Republic of Korea		13.50055	144.77656	S	DIP	GU	KR	TM				0	21	28	Pacific/Guam	2011-07-01
+7874142	Purple Heart Memorial WW2	Purple Heart Memorial WW2		13.47677	144.75152	S	MNMT	GU		AN				0	2	5	Pacific/Guam	2011-07-01
+7874143	Lutheran Church of Guam	Lutheran Church of Guam		13.47842	144.73504	S	CH	GU		AN				0	2	6	Pacific/Guam	2011-07-01
+7874144	Guam Chamber of Commerce	Guam Chamber of Commerce		13.47514	144.75033	S	ADMF	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+7874145	Hagatna Post Office	Hagatna Post Office		13.47515	144.75091	S	PO	GU		AN				0	3	4	Pacific/Guam	2011-07-01
+7874146	Hagatna Police Station	Hagatna Police Station		13.47424	144.7502	S	PP	GU		AN				0	3	6	Pacific/Guam	2011-07-01
+7874147	USMC Museum WW2	USMC Museum WW2		13.47562	144.73054	S	MUS	GU		AS				0	6	8	Pacific/Guam	2011-07-01
+7874191	Guam International Christian Academy	Guam International Christian Academy		13.47673	144.80453	S	SCH	GU		BA				0	79	85	Pacific/Guam	2011-07-02
+7874192	Achang Reef Flat Marine Preserve	Achang Reef Flat Marine Preserve		13.24613	144.69569	L	RES	GU		ME				0	0	1	Pacific/Guam	2011-07-02
+7874193	Pati Point Marine Preserve	Pati Point Marine Preserve		13.59994	144.94486	L	RES	GU		YG				0	0	10	Pacific/Guam	2011-07-02
+7874194	Piti Bomb Holes Marine Preserve	Piti Bomb Holes Marine Preserve	Piti Bomb Holes are Collapsed Coral Reef Caves	13.4711	144.70104	L	RES	GU		PI				0	0	1	Pacific/Guam	2011-07-02
+7874195	Piti Mangrove Swamp	Piti Mangrove Swamp		13.45048	144.6826	H	MGV	GU		PI				0	0	3	Pacific/Guam	2011-07-02
+7874196	Sasa Bay Marine Preserve	Sasa Bay Marine Preserve		13.45065	144.67966	L	RES	GU		PI				0	0	17	Pacific/Guam	2011-07-02
+7874197	Tumon Bay Marine Preserve	Tumon Bay Marine Preserve		13.51116	144.79693	L	RES	GU		TM				0	0	1	Pacific/Guam	2011-07-02
+7874198	Dry Dock Mangrove Rim	Dry Dock Mangrove Rim		13.45406	144.6714	H	MGV	GU		PI				0	0	5	Pacific/Guam	2011-07-02
+7874199	Dry Dock Causeway	Dry Dock Causeway		13.45719	144.67817	R	CSWY	GU		PI				0	2	7	Pacific/Guam	2011-07-02
+7874200	Inner Harbor Secuity Barrier Gate	Inner Harbor Secuity Barrier Gate		13.44248	144.66573	S	INSM	GU		SR				0	0	1	Pacific/Guam	2013-07-24
+7874201	Abo Cove	Abo Cove		13.41863	144.67069	H	COVE	GU		SR				0	0	7	Pacific/Guam	2011-07-02
+7874202	Lighthouse Baptist Church	Lighthouse Baptist Church		13.40957	144.67758	S	CH	GU		SR				0	3	34	Pacific/Guam	2011-07-02
+7874203	Santa Rita Mangrove Swamp	Santa Rita Mangrove Swamp		13.40899	144.66866	H	MGV	GU		SR				0	0	9	Pacific/Guam	2011-07-02
+7874204	Guam West Explosives Dumping Area WW2	Guam West Explosives Dumping Area WW2		13.25	144.267	S	INSM	GU		00				0	-3600	-9999	Pacific/Guam	2011-07-03
+7874205	Guam North Explosives Dumping Area WW2	Guam North Explosives Dumping Area WW2		13.833	144.833	S	INSM	GU		00				0	-900	-9999	Pacific/Guam	2011-07-03
+7874206	North Guam Shoals	North Guam Shoals		13.8	144.958	U	SHSU	GU		00				0	-57	-9999	Pacific/Guam	2011-07-03
+7874207	Very Bad Anchorage - on old charts	Very Bad Anchorage - on old charts		13.48475	144.75612	H	ANCH	GU		AN				0	-25	-9999	Pacific/Guam	2011-07-03
+7874208	Reef Flat with some Rocks pre-WW2	Reef Flat with some Rocks pre-WW2		13.47888	144.75295	S	HSTS	GU		AN				0	0	6	Pacific/Guam	2011-07-03
+7874209	Old Agana River Mouth	Old Agana River Mouth		13.47794	144.74697	S	HSTS	GU		AN				0	0	1	Pacific/Guam	2011-07-03
+7874210	Agana Boat Landing pre-WW2	Agana Boat Landing pre-WW2		13.47764	144.75084	S	HSTS	GU		AN				0	0	4	Pacific/Guam	2011-07-03
+7874211	Sewage Islet	Sewage Islet		13.48129	144.74762	T	ISLF	GU		AN				0	2	1	Pacific/Guam	2011-07-03
+7874212	Sewage Causeway	Sewage Causeway		13.47914	144.74835	R	CSWY	GU		AN				0	2	1	Pacific/Guam	2011-07-03
+7874213	Falcona Anchorage	Falcona Anchorage		13.60453	144.83474	H	ANCH	GU		DD				0	-8	1	Pacific/Guam	2011-07-04
+7874214	Tarague prehistoric and historic Village	Tarague prehistoric and historic Village		13.60803	144.90426	S	ANS	GU		YG				0	6	13	Pacific/Guam	2011-07-04
+7874215	Gayloup Cove	Gayloup Cove		13.33625	144.76453	H	COVE	GU		IN				0	0	24	Pacific/Guam	2011-07-03
+7874217	US Marines Seaplane Base 1920s	US Marines Seaplane Base 1920s		13.4399	144.65312	S	HSTS	GU		SR				0	2	5	Pacific/Guam	2011-07-03
+7874218	Bile Bay	Bile Bay		13.27637	144.66254	H	BAY	GU		ME				0	0	25	Pacific/Guam	2011-07-03
+7874219	JP Misled Main Landing for lack of Merizo-Agat Road WW2	JP Misled Main Landing for lack of Merizo-Agat Road WW2	JP Reembarkment to Agat Landing WW2	13.27735	144.66275	S	HSTS	GU		ME				0	0	25	Pacific/Guam	2011-07-05
+7874220	JP Infiltrations 1941 WW2	JP Infiltrations 1941 WW2		13.62438	144.89808	S	HSTS	GU		YG				0	0	1	Pacific/Guam	2011-07-03
+7874221	JP Landing Beach WW2	JP Landing Beach WW2		13.51919	144.80578	S	HSTS	GU		TM				0	0	3	Pacific/Guam	2011-07-03
+7874222	JP Landing Beach 1941 WW2	JP Landing Beach 1941 WW2		13.49099	144.77416	S	HSTS	GU		TM				0	0	1	Pacific/Guam	2011-07-05
+7874223	2nd JP Southern Landing WW2	2nd JP Southern Landing WW2		13.37359	144.65153	S	HSTS	GU		AT				0	0	100	Pacific/Guam	2011-07-03
+7874238	Pagat prehistoric and historic Village	Pagat prehistoric and historic Village		13.4976	144.88821	S	ANS	GU		YG				0	42	47	Pacific/Guam	2011-07-04
+7874239	Ritidian prehistoric and historic Village	Ritidian prehistoric and historic Village	Litekyan	13.65377	144.85953	S	ANS	GU		DD				0	5	1	Pacific/Guam	2011-07-04
+7874241	Camp Covington - USN SeaBees Guam Base	Camp Covington - USN SeaBees Guam Base	CAT Civil Action Team HQ West Pacific,NCF US Naval Construction Force,NMCB Naval Mobile Construction Battalion	13.41342	144.67256	S	INSM	GU		SR				0	12	15	Pacific/Guam	2011-07-05
+7874242	DoD Naval Reserve - Piers Delta-Echo and Drydock Peninsula	DoD Naval Reserve - Piers Delta-Echo and Drydock Peninsula		13.45541	144.6664	L	MILB	GU		PI				0	2	1	Pacific/Guam	2011-07-04
+7874275	DoD Andersen AFB Andy South	DoD Andersen AFB Andy South		13.49856	144.86774	L	MILB	GU		MA				0	141	141	Pacific/Guam	2011-07-05
+7874276	Upper Tumon	Upper Tumon		13.512	144.81367	P	PPLX	GU		TM				0	65	67	Pacific/Guam	2011-07-05
+7874277	Apotgan	Apotgan	Apurguan	13.48817	144.77644	P	PPLX	GU		TM				5224	7	12	Pacific/Guam	2025-03-09
+7874278	Sumay Yacht Club - DoD restricted	Sumay Yacht Club - DoD restricted		13.43859	144.65391	S	MAR	GU		SR				0	0	4	Pacific/Guam	2011-07-05
+7874392	Chalan Pago-Ordot Mayor's Office	Chalan Pago-Ordot Mayor's Office		13.44682	144.75898	S	ADMF	GU		CP				0	38	46	Pacific/Guam	2012-07-25
+7874393	Asan	Asan		13.47174	144.71581	P	PPLX	GU		AS				860	5	6	Pacific/Guam	2025-03-09
+7874615	Agana Pumping Station WW2	Agana Pumping Station WW2		13.46345	144.76084	S	HSTS	GU		SJ				0	2	10	Pacific/Guam	2011-07-07
+7874616	Orote Peninsula Battlefield - 1st Provisonal Marine Brigade WW2	Orote Peninsula Battlefield - 1st Provisonal Marine Brigade WW2		13.43424	144.64175	S	HSTS	GU		SR				0	25	31	Pacific/Guam	2011-07-07
+7874617	Fonte Plateau Battlefield WW2 - 3rd Marines Division	Fonte Plateau Battlefield WW2 - 3rd Marines Division		13.46313	144.73277	S	HSTS	GU		AS				0	188	197	Pacific/Guam	2011-07-09
+7874618	Mount Santa Rosa Battlefield WW2 - 77th Army Division	Mount Santa Rosa Battlefield WW2 - 77th Army Division		13.53558	144.91371	S	HSTS	GU		YG				0	253	222	Pacific/Guam	2011-07-09
+7874625	USN-USA-USAAF Advance Base 1945 WW2	USN-USA-USAAF Advance Base 1945 WW2		13.48	144.732	S	HSTS	GU		00				250000	0	1	Pacific/Guam	2011-07-07
+7874631	Tamuning	Tamuning	Maria Christina,Tamuneng,Tamuning,ta mu ning,tamunin,tamuning,tamwnyng,tamwnyng  gwam,Тамунинг,تامونینگ,تامونینگ، گوام,タムニン,塔穆宁,타무닝	13.48754	144.78143	P	PPLX	GU		TM				19685	13	20	Pacific/Guam	2025-03-09
+7874633	JP Airfield under construction - completed by Seabees WW2	JP Airfield under construction - completed by Seabees WW2	3rd JP Airfield then Depot Field then Harmon Field	13.50415	144.81452	S	HSTS	GU		TM				0	49	57	Pacific/Guam	2011-07-08
+7874714	First Hawaiian Bank	First Hawaiian Bank		13.47658	144.76426	S	BANK	GU		MT				0	37	49	Pacific/Guam	2011-07-09
+7874715	Citibank	Citibank		13.4778	144.76282	S	BANK	GU		AN				0	4	11	Pacific/Guam	2011-07-09
+7874716	GCIC Building	GCIC Building		13.4768	144.74534	S	BLDO	GU		AN				0	3	5	Pacific/Guam	2011-07-09
+7874717	PIDB Pacific Islands Development Bank	PIDB Pacific Islands Development Bank		13.47682	144.74547	S	BANK	GU		AN				0	3	6	Pacific/Guam	2011-07-09
+7874718	Oceanic Bank - Guam Branch	Oceanic Bank - Guam Branch		13.51992	144.81843	S	BANK	GU		DD				0	68	83	Pacific/Guam	2011-07-09
+7874719	Allied Banking Corp Guam Branch	Allied Banking Corp Guam Branch		13.4862	144.77968	S	BANK	GU		TM				0	10	15	Pacific/Guam	2011-07-09
+7874720	Metro Bank Guam Branch	Metro Bank Guam Branch		13.48661	144.78105	S	BANK	GU		TM				0	11	18	Pacific/Guam	2011-07-09
+7874721	ANZ Bank Guam	ANZ Bank Guam		13.47583	144.74604	S	BANK	GU		AN				0	3	3	Pacific/Guam	2011-07-09
+7874722	First Commercial Bank Guam	First Commercial Bank Guam		13.47686	144.74448	S	BANK	GU		AN				0	3	6	Pacific/Guam	2011-07-09
+7874723	Bank Pacific	Bank Pacific		13.47563	144.75029	S	BANK	GU		AN				0	3	7	Pacific/Guam	2011-07-09
+8030746	Barrigada LORAN-C Transmitter	Barrigada LORAN-C Transmitter		13.46409	144.82571	S	RUIN	GU		BA				0	90	95	Pacific/Guam	2011-10-19
+9862225	Apra Harbor	Apra Harbor	Guam Harbor,Port Apra,Port San Luis D'Apra,San Luis d'Apra	13.45098	144.66007	H	HBR	GU		PI				0		-9999	Pacific/Guam	2016-06-06
+9949544	Leopalace Resort	Leopalace Resort		13.40314	144.68133	S	HTL	GU		SR				0		61	Pacific/Guam	2015-01-10
+9949547	Pacific Islands Club Guam	Pacific Islands Club Guam		13.5032	144.79269	S	HTL	GU		TM				0		16	Pacific/Guam	2017-06-26
+9949548	Okura The Tower	Okura The Tower		13.52035	144.80672	S	HTL	GU		TM				0		17	Pacific/Guam	2015-01-10
+9949552	Palace (Guam)	Palace (Guam)		13.49643	144.84011	S	HTL	GU		MA				0		138	Pacific/Guam	2015-01-10
+9969935	Guam Reef And Olive	Guam Reef And Olive		13.51632	144.80618	S	HTL	GU		TM				0		19	Pacific/Guam	2015-01-23
+10098082	Verona Resort & Spa	Verona Resort & Spa		13.50284	144.79705	S	HTL	GU		TM				0		29	Pacific/Guam	2015-02-13
+10098083	Guam Reef & Olive Spa Resort	Guam Reef & Olive Spa Resort		13.5167	144.80624	S	HTL	GU		TM				0		19	Pacific/Guam	2015-02-13
+10098084	Bayview Hotel Guam	Bayview Hotel Guam		13.52274	144.81937	S	HTL	GU		DD				0		83	Pacific/Guam	2015-02-13
+10098085	Pacific Bay Guam	Pacific Bay Guam		13.50189	144.79173	S	HTL	GU		TM				0		22	Pacific/Guam	2015-02-13
+10176802	Leopalace Resort Guam	Leopalace Resort Guam		13.41663	144.73683	S	HTL	GU		YN				0		141	Pacific/Guam	2015-04-01
+10177276	Guam Reef And Olive Beach Twin	Guam Reef And Olive Beach Twin		13.51632	144.80618	S	HTL	GU		TM				0		19	Pacific/Guam	2015-04-06
+10177277	Guam Reef And Olive Ocean Deluxe	Guam Reef And Olive Ocean Deluxe		13.51632	144.80618	S	HTL	GU		TM				0		19	Pacific/Guam	2015-04-06
+10177278	Guam Reef And Olive Infinity Twin	Guam Reef And Olive Infinity Twin		13.51632	144.80618	S	HTL	GU		TM				0		19	Pacific/Guam	2015-04-06
+10252628	Tumon Bel Air Serviced Residence	Tumon Bel Air Serviced Residence		13.51076	144.81319	S	HTL	GU		TM				0		64	Pacific/Guam	2015-05-08
+10252630	Alupang Beach Tower	Alupang Beach Tower		13.48348	144.77217	S	HTL	GU		TM				0		7	Pacific/Guam	2015-05-08
+10288773	Imperial Suites	Imperial Suites		13.49438	144.79138	S	HTL	GU		TM				0		43	Pacific/Guam	2015-05-26
+13237018	Adacao	Adacao		13.49242	144.8447	P	PPL	GU		MA				3638		5	Pacific/Guam	2025-03-09
+13237019	Anao	Anao		13.5289	144.9182	P	PPL	GU		YG				2385		12	Pacific/Guam	2025-03-09
+13237020	Apra Harbor	Apra Harbor		13.42827	144.65252	P	PPL	GU		SR				2930		2	Pacific/Guam	2025-03-09
+13237021	Chaguian	Chaguian		13.57175	144.88058	P	PPL	GU		YG				2524		92	Pacific/Guam	2025-03-09
+13237022	Finegayan Station	Finegayan Station		13.57239	144.84433	P	PPL	GU		DD				0		27	Pacific/Guam	2025-03-10
+13609086	Ipan	Ipan		13.35374	144.76726	P	PPL	GU		TF				901		-9999	Pacific/Guam	2026-04-16

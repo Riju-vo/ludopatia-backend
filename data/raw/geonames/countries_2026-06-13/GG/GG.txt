@@ -1,0 +1,858 @@
+3042272	Vermerette	Vermerette	Vermerette	49.46667	-2.46667	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042273	Vazon Bay	Vazon Bay	Vazon Bay	49.47111	-2.6175	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042274	Torteval	Torteval	Saint Phillipe de Torteval,Torteval,Torteval Church	49.43333	-2.65	P	PPLA	GG	GB	6417214				0		50	Europe/Guernsey	2016-11-03
+3042275	Têtes d’Aval	Tetes d'Aval	Les Tetes d'Aval,Les Tétes d’Aval,Lower Heads,Tetes d'Aval,Têtes d’Aval	49.43333	-2.48333	T	RK	GG		00				0		-9999	Europe/Guernsey	2020-06-10
+3042276	The Swinge	The Swinge	Passe du Singe,The Swinge	49.73333	-2.23333	H	CHN	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042277	South Beach	South Beach	South Beach	49.45722	-2.53361	T	BCH	GG		00				0		3	Europe/Guernsey	2019-05-08
+3042278	Banc de la Schole	Banc de la Schole	Banc de la Schole	49.56667	-2.23333	H	BNK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042279	Point Sauzebourge	Point Sauzebourge	Point Sauzebourg,Point Sauzebourge	49.46667	-2.45	T	PT	GG		00				0		50	Europe/Guernsey	2012-01-18
+3042280	Saumarez Park	Saumarez Park	Saumarez Park	49.47028	-2.57917	L	PRK	GG		00				0		27	Europe/Guernsey	2012-01-18
+3042281	Saumarez	Saumarez	Saumarez	49.46667	-2.6	P	PPL	GG		6417229				0		5	Europe/Guernsey	2014-04-15
+3042282	Sark	Sark	An tSairc,Sark,Sarkas,Sarki saar,Ser,Sercq,Serq,Vostrau Sark,cark,sa ke dao,sakeu seom,saku dao,sarka,srq,Σαρκ,Востраў Сарк,Сарк,סרק,সার্ক,சார்க்,サーク島,薩克島,사크 섬	49.43306	-2.35889	T	ISL	GG		00				0		103	Europe/Guernsey	2012-01-18
+3042283	Saline Bay	Saline Bay	Saline Bay	49.48444	-2.59389	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042284	Saint’s Bay	Saint's Bay	Saint's Bay,Saint’s Bay	49.42194	-2.55639	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042285	Saint Sampson Harbour	Saint Sampson Harbour	Saint Sampson Harbour,Saint Samson Harbour,St. Sampson Harbour	49.48222	-2.51528	H	HBR	GG		00				0		-9999	Europe/Guernsey	2021-02-20
+3042286	Saint Sampson	Saint Sampson	Saint Sampson,Saint Sampson's,Saint Sampson’s,St. Sampson	49.48389	-2.52333	P	PPLA	GG	GB	6417233				8966		3	Europe/Guernsey	2022-08-16
+3042287	Saint Peter Port	Saint Peter Port	GCI,Saint Peter Port,Saint Pierre Port,Saint-Pierre-Port,Sanktapetrurbo,Sejnt Pitur Port,Sent Piter Port,Sent Piter Portas,Sent-Pitehr-Port,Sent-Piter-Port,Sentpiterporta,Sentpīterporta,St Peter Port,St. Peter Port,san bytr bwrt,seinteupiteopoteu,sent pi texr phxrt,sheng bi de gang,sn ptr pwrt,snt pytr pwrt,Сейнт Питър Порт,Сент Питер Порт,Сент-Питер-Порт,Сент-Пітер-Порт,Сент-Пітэр-Порт,סנט פיטר פורט,سان بيتر بورت,سن پتر پورت,سینٹ پیٹر پورٹ,เซนต์ปีเตอร์พอร์ต,სენტ-პიტერ-პორტი,セント・ピーター・ポート,圣彼得港,세인트피터포트	49.45981	-2.53527	P	PPLC	GG		6417228				16488		10	Europe/Guernsey	2019-09-05
+3042288	Saint Martin’s Point	Saint Martin's Point	Saint Martin Point,Saint Martin's Point,Saint Martin’s Point,St. Martin's Point,St. Martin’s Point	49.42139	-2.52806	T	PT	GG		00				0		2	Europe/Guernsey	2021-02-20
+3042289	St Anne	St Anne	Saint Anne,Saint Annes,St. Anne	49.71549	-2.20757	P	PPLA	GG	GB	8989934				0		65	Europe/Guernsey	2021-02-20
+3042290	Rousse Point	Rousse Point	Rousse Point	49.4975	-2.55333	T	PT	GG		00				0		5	Europe/Guernsey	2012-01-18
+3042291	Roque Tourgis	Roque Tourgis	Roque Tourgis	49.71667	-2.21667	P	PPL	GG		00	00			0		39	Europe/Guernsey	2012-01-18
+3042292	Rohais Manor	Rohais Manor	Rohais,Rohais Manor	49.45917	-2.56306	P	PPL	GG		00				0		41	Europe/Guernsey	2012-01-18
+3042293	Rocquaine Bay	Rocquaine Bay	Rocquaine Bay	49.44667	-2.67222	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042294	Point Robert	Point Robert	Point Robert	49.43667	-2.34528	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042295	Renonquet	Renonquet	Renonpuet,Renonquet	49.73333	-2.28333	T	ISL	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042296	Raz Island	Raz Island	Ile de Raz,Raz Island,Île de Raz	49.71833	-2.1675	T	ISL	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042297	Quesnard Point	Quesnard Point	Quenard Point	49.72942	-2.15952	T	PT	GG		8989934				0		-9999	Europe/Guernsey	2023-02-10
+3042298	Port Soif	Port Soif	Port Soif	49.48722	-2.58139	H	COVE	GG		00				0		9	Europe/Guernsey	2012-01-18
+3042299	Portinfer Bay	Portinfer Bay	Portinfer,Portinfer Bay	49.49111	-2.57639	H	BAY	GG		00				0		9	Europe/Guernsey	2012-01-18
+3042300	Baie de Port Grat	Baie de Port Grat	Baie de Port Grat,Port Grat	49.49639	-2.56028	H	BAY	GG		00				0		2	Europe/Guernsey	2012-01-18
+3042301	Port Gorey	Port Gorey	Port Gorey,Port Goury	49.41028	-2.37778	H	BAY	GG		00				0		4	Europe/Guernsey	2012-01-18
+3042302	La Pointe de Pleinmont	La Pointe de Pleinmont	La Pointe de Pleinmont,Pleinmont Point	49.43028	-2.67472	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042303	Saline Bay	Saline Bay	Bay Saline,Plat Saline Bay,Plate Saline Bay,Platte Saline Bay,Saline Bay	49.72194	-2.21222	H	BAY	GG		00				0		23	Europe/Guernsey	2012-01-18
+3042304	Petit Bot Bay	Petit Bot Bay	Petit Bot,Petit Bot Bay,Petit Bôt	49.42472	-2.58083	H	COVE	GG		00				0		9	Europe/Guernsey	2019-05-08
+3042305	Perelle Bay	Perelle Bay	Perelle Bay	49.4675	-2.64194	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042306	Baie des Pêqueries	Baie des Pequeries	Baie des Pequeries,Baie des Pêqueries,Pequeries,Pequeries Bay	49.49472	-2.57194	H	BAY	GG		00				0		0	Europe/Guernsey	2020-06-10
+3042307	Paradis	Paradis	Paradis,Paradise	49.5	-2.51667	P	PPL	GG		00				0		12	Europe/Guernsey	2012-01-18
+3042308	Ortac Channel	Ortac Channel	Ortac Channel,Ortac Pass	49.73333	-2.3	H	CHN	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042309	Ortac	Ortac	Ortac	49.72319	-2.29065	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2018-02-02
+3042310	North Beach	North Beach	North Beach	49.46056	-2.53278	T	BCH	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042311	Roque au Nord	Roque au Nord	Roque au Nord	49.51667	-2.53333	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042312	Noir Pute	Noir Pute	Noir Pute,Noire Pute	49.46667	-2.41667	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042313	Noir Houmet	Noir Houmet	Noir Hammet,Noir Houmet	49.72701	-2.25416	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2018-05-08
+3042314	The Noires Putes	The Noires Putes	The Noires Putes	49.69139	-2.22833	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042315	Nannels	Nannels	Nannels	49.73751	-2.24532	T	RKS	GG	GB	00	00			0		-9999	Europe/Guernsey	2018-05-08
+3042316	Mount Hubert	Mount Hubert	Mont Hubert,Mount Hubert	49.43333	-2.58333	T	CLF	GG		00				0		93	Europe/Guernsey	2012-01-18
+3042317	Moulin Huet Bay	Moulin Huet Bay	Moulin Huet Bay	49.4225	-2.545	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042319	Longis Bay	Longis Bay	Baie du Catel,Longis Bay,Longy Bay	49.72056	-2.17139	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042320	Longue Pierre	Longue Pierre	Longue Pierre	49.5	-2.43333	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042321	Long Port	Long Port	Long Port	49.48333	-2.6	H	BAY	GG		00				0		5	Europe/Guernsey	2012-01-18
+3042322	Little Sark	Little Sark	Little Sark	49.41472	-2.37278	T	PEN	GG		00				0		85	Europe/Guernsey	2012-01-18
+3042323	Little Russel	Little Russel	Little Russel	49.5	-2.48333	H	CHN	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042324	Little Nannel	Little Nannel	Little Nannel	49.73785	-2.24839	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2018-05-08
+3042325	Little Burhou	Little Burhou	Little Burhou	49.72804	-2.26615	T	ISL	GG		00	00			0		-9999	Europe/Guernsey	2018-05-08
+3042326	Lihou Island	Lihou Island	Lihou,Lihou Island	49.46056	-2.66722	T	ISL	GG		00				0		10	Europe/Guernsey	2021-05-07
+3042327	L’Etac	L'Etac	L'Etac,L'Etac de Sark,L'Etac de Sercq,L’Etac,L’Etac de Sercq	49.40111	-2.3675	T	ISL	GG		00				0		9	Europe/Guernsey	2020-06-10
+3042328	L’Etac de la Quoiré	L'Etac de la Quoire	L'Etac de la Quoire,L'Etart de la Quoire,L’Etac de la Quoiré,L’Etart de la Quoire	49.70583	-2.19056	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042329	Les Vingt Clos	Les Vingt Clos	Les Vingt Clos,Vingt Clos	49.40472	-2.35889	H	SHOL	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042330	Les Terres Point	Les Terres Point	Les Terres Point,Terres Point	49.44583	-2.52778	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042331	Les Nicolles	Les Nicolles	Les Nicolles,Nicolles	49.43056	-2.58139	P	PPL	GG		00				0		75	Europe/Guernsey	2012-01-18
+3042332	Les Homeaux Florains	Les Homeaux Florains	Les Homeaux Florains	49.73111	-2.16194	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042333	Les Hanois	Les Hanois	Hanoveaux,Les Hanois	49.43333	-2.7	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042334	Les Etacs	Les Etacs	Les Etacs,Les Etats	49.70444	-2.23972	T	RK	GG		00				0		4	Europe/Guernsey	2012-01-18
+3042335	L’Erée Bay	L'Eree Bay	L'Eree Bay,L’Erée Bay	49.45	-2.66667	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042336	L’Equêt	L'Equet	L'Equet,Le Quest,L’Equêt	49.71667	-2.35	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2020-06-10
+3042337	Le Puits Jervais	Le Puits Jervais	Le Puits Jervais,Les Puits Jervais	49.70194	-2.23167	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042338	Le Mont Durand	Le Mont Durand	Durand,Le Mont Durand	49.45028	-2.54917	P	PPL	GG		00				0		68	Europe/Guernsey	2012-01-18
+3042339	Le Gouffre	Le Gouffre	Le Gouffre	49.41639	-2.59778	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042340	La Ville Roussel	La Ville Roussel	La Ville Roussel,Roselle	49.43722	-2.35528	P	PPL	GG		00				0		95	Europe/Guernsey	2012-01-18
+3042341	La Tchue	La Tchue	La Ichue,La Tchue	49.71389	-2.18	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042342	La Ramée	La Ramee	La Ramee,La Ramée,Ramee	49.47139	-2.55611	P	PPL	GG		00				0		12	Europe/Guernsey	2020-06-10
+3042343	L’Ancresse Bay	L'Ancresse Bay	L'Ancresse Bay,L’Ancresse Bay	49.50667	-2.52583	H	BAY	GG		00				0		11	Europe/Guernsey	2012-01-18
+3042344	Pointe de la Moye	Pointe de la Moye	Moye Point,Point La Moye,Pointe de la Moye	49.41694	-2.59194	T	PT	GG		00				0		0	Europe/Guernsey	2012-01-18
+3042345	La Grosse Rock	La Grosse Rock	Grosse Roque,La Grosse Rock	49.43444	-2.67833	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042346	La Grêve de la Ville	La Greve de la Ville	La Greve de la Ville,La Grêve de la Ville	49.44	-2.35111	H	BAY	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042347	La Grande Grêve	La Grande Greve	Grand Greve,Grand Grêve,Grande Greve,Grande Grève,La Grand Greve,La Grand Grève,La Grande Greve,La Grande Grêve	49.42306	-2.38083	H	BAY	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042348	La Coupée	La Coupee	Coupee,La Coupee,La Coupée	49.42056	-2.36611	T	ISTH	GG		00				0		58	Europe/Guernsey	2020-06-10
+3042349	La Conchée	La Conchee	Conchee,Conchée,La Conchee,La Conchée	49.47139	-2.64556	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042350	King’s Mills	King's Mills	King's Mills,King’s Mills,Queux Kings Mill	49.45778	-2.60306	P	PPL	GG		00				0		26	Europe/Guernsey	2020-06-10
+3042351	Jethou	Jethou	Dzhetu,Jetho,Jethou,Jétho,Jéthou,Zhetu,gtw,jeso dao,Джету,Жету,גתו,ジェソー島	49.46667	-2.46667	T	ISL	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042352	Jerbourg Point	Jerbourg Point	Jerbourg Point	49.41833	-2.53889	T	PT	GG		00				0		10	Europe/Guernsey	2012-01-18
+3042353	Icart Point	Icart Point	Icart Point	49.41694	-2.56278	T	PT	GG		00				0		3	Europe/Guernsey	2012-01-18
+3042354	Icart Bay	Icart Bay	Icart Bay	49.4175	-2.565	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042355	Houmet Herbé	Houmet Herbe	Houmet Herbe,Houmet Herbé	49.72583	-2.15806	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042356	Houmets	Houmets	Hommet,Hommets,Houmet,Houmets	49.47667	-2.57472	P	PPL	GG		00				0		12	Europe/Guernsey	2012-01-18
+3042357	Homet	Homet	Homet	49.48333	-2.46667	T	ISL	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042358	Hermetier	Hermetier	Hermetier	49.47251	-2.45637	T	RK	GG		00				0		47	Europe/Guernsey	2018-05-08
+3042359	Herm	Herm	Cherm,Germ,Haerme,Herm,Hermas,Kherm,Khurm,hamu dao,he mu dao,heom seom,hrm,Χερμ,Герм,Херм,Хърм,Հերմ,הרם,هرم,ハーム島,赫姆島,험 섬	49.47214	-2.44832	T	ISL	GG		00				0		46	Europe/Guernsey	2014-01-12
+3042360	Hautnez	Hautnez	Hautnez	49.43333	-2.6	P	PPL	GG		00				0		98	Europe/Guernsey	2012-01-18
+3042361	Hannaine Bay	Hannaine Bay	Hannaine Bay	49.71139	-2.23278	H	BAY	GG		00				0		74	Europe/Guernsey	2012-01-18
+3042362	Bailiwick of Guernsey	Bailiwick of Guernsey	Bailliage de Guernesey,Geansai,Geansaí,Gearnsaidh,Gernase,Gernsej,Gernsi,Gernsija,Gernsis,Gernzi,Geàrnsaidh,Guernesey,Guernse nutome,Guernsei,Guernsey,Gurnzi,Guurnsey,Gwernenez,Gērnsija,I-Guernsey,Kuenisi,Kuenisī,Nkernzi,Yankin Guernsey,Ynys y Garn,ganji,garanaji,garnasi,garn‌si,gen xi,gen xi dao,geonji,gerinisi,gernsi,geൺsi,ghyrnzy,goraenaci,grnzy,gu'eranesi,gurn‌se,guyarnasi,gvernase,gwannje,gwrnsy,gwyrnsy,gyurnsi,gywanarsے,gʻrnzy,gۇrnsېy,keirn siy,kernci,Γκέρνζι,Гернзи,Гернси,Гернсі,Гърнзи,Գերնսի,גערנזי,גרנזי,غيرنزي,ګrnsy,ګرنسي,گرنزی,گوئرنسی,گورنسي,گۇرنسېي,گیوَنَرسے,गर्नसी,ग्यूर्न्सी,ग्वेर्नसे,গুয়ার্নসি,গোৰেনচি,ਗਰਨਜੀ,ગ્વેર્નસે,ଗୁଏରନେସି,கெர்ன்சி,గర్న్‌సీ,ಗುರ್ನ್‌ಸೆ,ഗേൺസി,ගරනසය,ගර්න්සිය,เกิร์นซีย์,ເກນຊ,ເກີນຊີ,ག་ཨར་ས,གུ་ཨེརྣ་སི,ဂွန်းဇီ,გერნსი,ገርንሲ,ጉርነሲ,ហគេនស,ហ្គេនស៊ី,ガーンジー,根息,根西岛,건지	49.45474	-2.57629	A	PCL	GG	GB	00				65228		76	Europe/Guernsey	2021-08-16
+3042363	Guernsey	Guernsey	GCI,Gernsi,Gernzi,Guernesei,Guernesey,Guerneseyi,Guernesi,Guernsey,Guernési,Guèrneseyi,Ile de Guernesey,Nkernseu,Ynys y Garn,ganji dao,gen xi dao,geonji seom,gernsi,grnsy,jzyrt jyrnzy,Île de Guernesey,Γκέρνσεϋ,Гернзи,Гернси,גרנסי,جزيرة جيرنزي,გერნსი,ガーンジー島,根西岛,건지 섬	49.45853	-2.5787	T	ISL	GG	GB	00				63000		76	Europe/Guernsey	2019-04-11
+3042364	Baie du Grounard	Baie du Grounard	Baie du Grounard	49.72444	-2.15889	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042365	Grosnez Point	Grosnez Point	Grosnez Point	49.72528	-2.20528	T	PT	GG		00				0		2	Europe/Guernsey	2012-01-18
+3042366	Great Russel	Great Russel	Great Russel	49.41667	-2.48333	H	CHN	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042367	Great Nannel	Great Nannel	Great Nannel	49.73742	-2.24618	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2018-05-08
+3042368	Grandes Rocques	Grandes Rocques	Grand Rocq,Grand Roques,Grande Roque,Grandes Rocques	49.48658	-2.58505	P	PPL	GG		00				0		5	Europe/Guernsey	2016-02-19
+3042369	Grand Havre	Grand Havre	Grand Havre	49.50111	-2.55056	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042370	Grande Fauconnière	Grande Fauconniere	Grande Fauconniere,Grande Fauconnière,Grande Fauconriere	49.45	-2.46667	T	ISL	GG		00				0		-9999	Europe/Guernsey	2020-06-10
+3042371	Grande Amfroque	Grande Amfroque	Grande Amfroque,Grande Anfroque	49.51667	-2.41667	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042372	Gouliot Passage	Gouliot Passage	Gouliot Pass,Gouliot Passage,Gulion Pass	49.43111	-2.38083	H	CHN	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042373	Goulet	Goulet	Goulet	49.42972	-2.34111	H	CHN	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042374	Goubinuere	Goubinuere	Goubiniere,Goubinuere	49.45	-2.45	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042375	Havre Gosselin	Havre Gosselin	Gosselin Harbor,Havre Gosselin	49.42917	-2.3775	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042376	Godin	Godin	Godin	49.48333	-2.43333	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042377	La Fregondée	La Fregondee	Fregondee,Fregondie,Fregondée,La Fregondee,La Fregondée	49.42972	-2.37	P	PPL	GG		00				0		97	Europe/Guernsey	2020-06-10
+3042378	Fourquie	Fourquie	Fourquie,Les Frouquies	49.71667	-2.36667	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042379	Fermain Bay	Fermain Bay	Fermain Bay,Fremain Bay	49.43444	-2.53444	H	COVE	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042380	Doyle Pass	Doyle Pass	Doyle Pass	49.50694	-2.50333	H	CHN	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042381	Fort Doyle	Fort Doyle	Fort Doyle	49.50528	-2.50556	S	FT	GG		00				0		6	Europe/Guernsey	2012-01-18
+3042382	Dixcart Bay	Dixcart Bay	Baleine Bay,Dixcard Bay,Dixcart Bay	49.42306	-2.35806	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042383	Derrible Bay	Derrible Bay	Derrible Bay,Terrible Bay	49.42417	-2.35083	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042384	Point Derrible	Point Derrible	Point Derrible,Point Terrible	49.42306	-2.34861	T	PT	GG		00				0		5	Europe/Guernsey	2012-01-18
+3042385	Delancey Park	Delancey Park	Delancey Park,Delancy	49.47833	-2.52556	L	PRK	GG		00				0		29	Europe/Guernsey	2012-01-18
+3042386	Cul de l’Autel	Cul de l'Autel	Cul de l'Autel,Cul de l'Hotel,Cul de l’Autel,Cul de l’Hotel	49.5	-2.43333	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042387	Crevichon	Crevichon	Crevichon	49.46667	-2.46667	T	ISL	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042388	Crève Coeur	Creve Coeur	Creve Coeur,Crève Coeur	49.51667	-2.53333	T	RK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042389	Creux Mahie	Creux Mahie	Creux Mahie,La Creux Mahe,Le Creux Mahie	49.41667	-2.63333	S	CAVE	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042390	Creux Harbour	Creux Harbour	Creux Harbour,Le Creux Harbour	49.43	-2.34333	H	HBR	GG		00				0		4	Europe/Guernsey	2012-01-18
+3042391	Corblets Bay	Corblets Bay	Corblets Bay	49.73056	-2.1725	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042392	Corbière Bay	Corbiere Bay	Corbiere Bay,Corbière Bay	49.41611	-2.60583	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042393	Corbet Rock	Corbet Rock	Corbet,Corbet Rock	49.71667	-2.23333	T	RK	GG		00	00			0		1	Europe/Guernsey	2012-01-18
+3042394	Courbée du Nez	Courbee du Nez	Corbee du Nez,Corbée du Nez,Courbee du Nez,Courbée du Nez	49.45056	-2.36889	T	RK	GG		00				0		2	Europe/Guernsey	2012-01-18
+3042395	Coque Lihou	Coque Lihou	Coque Lihou	49.69694	-2.20944	T	RK	GG		00				0		0	Europe/Guernsey	2019-05-08
+3042396	Convanche Chasm	Convanche Chasm	Convache Chasm,Convanche Chasm	49.42083	-2.36333	T	GRGE	GG		00				0		30	Europe/Guernsey	2012-01-18
+3042397	Côbo Bay	Cobo Bay	Cobo Bay,Côbo Bay	49.47694	-2.60194	H	BAY	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042398	Clonque Rock	Clonque Rock	Clanque Rock,Clonque Rock	49.71361	-2.23222	T	RK	GG		00				0		4	Europe/Guernsey	2012-01-18
+3042399	Clonque Bay	Clonque Bay	Clanque Bay,Clonque Bay	49.71722	-2.22917	H	BAY	GG		6417229				0		1	Europe/Guernsey	2015-02-13
+3042401	Casquets	Casquets	Caskets,Casquets	49.72226	-2.37515	T	ISLS	GG		8989934				0		-1	Europe/Guernsey	2018-02-02
+3042402	Caquorobert	Caquorobert	Caguerobert,Caquorobert,Kakorobert,Какороберт	49.46667	-2.45	T	ISL	GG		00				0		50	Europe/Guernsey	2012-01-18
+3042403	Calais	Calais	Calais	49.43361	-2.53972	P	PPL	GG		00				0		88	Europe/Guernsey	2012-01-18
+3042404	Les Burons	Les Burons	Burons,Les Burons	49.42972	-2.33944	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042406	Moie de Breniere	Moie de Breniere	Breniere,Brenière,Moie de Breniere	49.40944	-2.36833	T	RK	GG		00				0		2	Europe/Guernsey	2012-01-18
+3042407	Brecqhou	Brecqhou	Brechou,Brecqhou,Brecqhou Island,Breku,Isle des Marchants,brzw,buresshu dao,Бреку,ברצו,ブレッシュ島	49.43222	-2.38833	T	ISL	GG		00				0		50	Europe/Guernsey	2012-01-18
+3042408	Braye Bay	Braye Bay	Alderney Harbour,Braye Bay	49.72556	-2.19333	H	BAY	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042409	Braye	Braye	Braye	49.72215	-2.20212	P	PPL	GG		00				0		11	Europe/Guernsey	2015-02-03
+3042410	Braye	Braye	Braye,Braye du Val	49.46667	-2.55	P	PPL	GG		00				0		20	Europe/Guernsey	2012-01-18
+3042411	Bordeaux Harbour	Bordeaux Harbour	Bordeaux Harbour	49.48944	-2.50667	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042412	Hâvre de Bon Repos	Havre de Bon Repos	Bon Repos Boat Harbour,Bon Repos Harbour,Havre de Bon Repos,Hâvre de Bon Repos	49.41722	-2.61583	H	BAY	GG		00				0		-9999	Europe/Guernsey	2020-06-10
+3042413	Bibette Head	Bibette Head	Bibette,Bibette Head,Bibette Point	49.73	-2.185	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-18
+3042414	Belle Grève Bay	Belle Greve Bay	Belgrave Bay,Belle Greve Bay,Belle Grève Bay	49.46722	-2.52333	H	BAY	GG		00				0		-9999	Europe/Guernsey	2020-06-10
+3042415	Bec du Nez	Bec du Nez	Bec du Nez,Oystercatcher's Rock,Oystercatcher’s Rock	49.45083	-2.36917	T	RK	GG		00				0		2	Europe/Guernsey	2012-01-18
+3042416	Bec du Nez	Bec du Nez	Bec du Nez	49.43333	-2.53333	H	HBR	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042417	Beauregard	Beauregard	Beauregard	49.43028	-2.36944	P	PPL	GG		00				0		99	Europe/Guernsey	2012-01-18
+3042418	Banquette Bay	Banquette Bay	Banquette Bay	49.44306	-2.37917	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-18
+3042419	Point Banquette	Point Banquette	Blanquette,Point Banquette	49.4425	-2.35333	T	PT	GG		00				0		9	Europe/Guernsey	2012-01-18
+3042420	Bailiffs Cross	Bailiffs Cross	Bailiffs Cross	49.44917	-2.56333	P	PPL	GG		00				0		79	Europe/Guernsey	2012-01-18
+3042421	Alderney South Banks	Alderney South Banks	Alderney South Banks	48.68333	-2.2	H	BNK	GG		00	00			0		-9999	Europe/Guernsey	2012-01-18
+3042422	Alderney	Alderney	ACI,Alderney,Aldernez,Alnternei,Aorgny,Aurigny,Olderni,Oldernija,Oldernis,Riduna,aldrny,alterni,ao er de ni dao,oldeoni seom,orudani dao,xalde xr niy,Âorgny,Άλντερνεϊ,Олдерни,Олдерні,אולדרני,الدرنی,அல்டேர்னி,อัลเดอร์นีย์,オルダニー島,奧爾德尼島,올더니 섬	49.71582	-2.19816	T	ISL	GG	GB	8989934				0		-9999	Europe/Guernsey	2023-02-10
+6296593	Alderney Airport	Alderney Airport	ACI,Aeroportul Alderney,Aeropuerto de Alderney,Aeropuertu d'Alderney,Alderney / Channel Island,Alderney Airport,Alderney lufthavn,EGJA,Flughafen Alderney,Flughaveno Aldernejo,Lapangan Terbang Alderney,Olderni,Port lotniczy Alderney,aeroport d'Aurigny,aeroporto di Aurigny,aldyrny ayrpwrt,ao er de ni ji chang,aéroport d'Aurigny,frwdgah aldrny,orudani kong gang,Олдерни,Олдерні,Фурудгоҳи олдрни,الديرنى ايرپورت,فرودگاه الدرنی,オルダニー空港,奧爾德尼機場	49.70662	-2.21553	S	AIRP	GG	GB	8989934				0	88	83	Europe/Guernsey	2020-10-25
+6296594	Guernsey Airport	Guernsey Airport	Aeroport de Guernesey,Aeroporto di Guernsey,Aeropuerto de Guernsey,Aéroport de Guernesey,EGJB,Flughafen Guernsey,GCI,Gernsi,Gernsio oro uostas,Guernsey Airport,Lapangan Terbang Guernsey,Port lotniczy Guernsey,frwdgah gwyrnzy,Гернси,Фурудгоҳи гуеҳрнзи,فرودگاه گوئرنزی	49.43496	-2.60197	S	AIRP	GG	GB	6417223				0	102	96	Europe/Guernsey	2015-03-14
+6417163	Herpin Rock	Herpin Rock	Herpin Rock	49.42333	-2.67194	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6417164	Tas de Pois d’Aval	Tas de Pois d'Aval	Gull Rock,Tas de Pois d'Aval,Tas de Pois d’Aval	49.42278	-2.66556	T	RK	GG		00				0		-9999	Europe/Guernsey	2020-06-12
+6417213	Saint Pierre du Bois	Saint Pierre du Bois	Saint Pierre,Saint Pierre du Bois,Saint-Pierre-du-Bois,Sent-P'er-dju-Bua,Sint-Per-du-Bua,St Pierre du Bois,St. Peter in the Wood,St. Pierre du Bois,sainta pi'ara du bu'a,san・pieru・deyu・bowa,seniti ፒyeri du bowa,senta piyera du boya,snt pyr dw bwa,Сент-Пьер-дю-Буа,سنت پیر دو بوا,সেন্ট পিয়ের দু বোয়া,ਸੈਂਟ ਪਿਅਰ ਦੂ ਬੁਆ,ሴንት ፒየር ዱ ቦዋ,サン・ピエール・デュ・ボワ	49.44556	-2.64361	A	ADM1	GG	GB	6417213				2036		11	Europe/Guernsey	2026-04-16
+6417214	Torteval	Torteval	Torteval,Tortevalo parapija,Tortevas,Tortévas,tartebhala,toratevala,toritevaል,torutovuaru,twrtwal,Тортевал,تورتوال,টর্টেভাল,ਟੋਰਟੇਵਾਲ,ቶርተቫል,トルトヴァル	49.43	-2.64889	A	ADM1	GG	GB	6417214				1017		71	Europe/Guernsey	2026-04-16
+6417215	Saint Saviour	Saint Saviour	Saint Sauveux,Saint Saviour,Saint Saviours,Saint Savoir,Saint-Sauveur,Sent-Sover,St Saviour,St Saviours,St. Saviour,sainta sevi'ara,seniti saviyuri,senta sebhiyara,sento・savuia,snt sywyr,Сент-Совер,سنت سیویر,সেন্ট সেভিয়ার,ਸੈਂਟ ਸੇਵੀਅਰ,ሴንት ሳቪዩር,セント・サヴィア	49.44972	-2.62389	A	ADM1	GG	GB	6417215				2765		51	Europe/Guernsey	2026-04-16
+6417223	Forest	Forest	Forest,Foresto parapija,La Foret,La Forêt,La Fouaret,La Fouarêt,farst,foresuto,pharesta,phauresata,Форест,فارست,ফরেস্ট,ਫੌਰੇਸਟ,ፎresiti,ፎረስት,フォレスト	49.42583	-2.59194	A	ADM1	GG	GB	6417223				1546		99	Europe/Guernsey	2026-04-16
+6417224	Saint Martin	Saint Martin	Saint Martin,Saint Martins,Saint-Martin,Saint-Martin-de-la-Bellouse,Sent-Marten,Sint Martin,St Martin,St Martins,St. Martin,sainta maratina,seniti maritini,senta martina,sento・matin,snt martn,Сент-Мартен,سنت مارتن,সেন্ট মার্টিন,ਸੈਂਟ ਮਾਰਟਿਨ,ሴንት ማርቲን,セント・マーティン	49.43333	-2.55722	A	ADM1	GG	GB	6417224				6593		101	Europe/Guernsey	2026-04-16
+6417226	Saint Andrew	Saint Andrew	Saint Andrew,Saint Andrews,Saint Andri,Saint-Andre-de-la-Pommeraye,Saint-André-de-la-Pommeraye,Sent-Andru,Sent-Ehndrju,St Andrew,St. Andrew,sainta aindari'u,seniti ʿenidiru,senta ayandru,sento・andoryu,snt andrw,Сент-Андру,Сент-Эндрю,سنت اندرو,সেন্ট অ্যান্ড্রু,ਸੈਂਟ ਐਂਡਰਿਊ,ሴንት አንድሩ,セント・アンドリュー	49.44778	-2.57361	A	ADM1	GG	GB	6417226				2295		67	Europe/Guernsey	2026-04-16
+6417228	Saint Peter Port	Saint Peter Port	Saint Peter Port,Saint-Pierre-Port,Sent-Piter-Port,Sint-Peter-Port,St Peter Port,St. Peter Port,sainta pitara porata,seniti ፒteri ፖriti,senta pitara porta,sento・pita・poto,snt pytr pwrt,Сент-Питер-Порт,سنت پیتر پورت,সেন্ট পিটার পোর্ট,ਸੈਂਟ ਪੀਟਰ ਪੋਰਟ,ሴንት ፒተር ፖርት,セント・ピーター・ポート	49.46	-2.55194	A	ADM1	GG	GB	6417228				18958		53	Europe/Guernsey	2026-04-16
+6417229	Castel	Castel	Castel,Kastel,Kastelo parapija,Le Caste,Lé Casté,Sainte-Marie-du-Catel,Sainte-Marie-du-Câtel,kasatala,kasiteል,kastela,kastl,kasuteru,Кастел,کاستل,কাস্টেল,ਕਾਸਟਲ,ካስተል,カステル	49.465	-2.59361	A	ADM1	GG	GB	6417229				8975		33	Europe/Guernsey	2026-04-16
+6417230	Vale	Vale	Le Vale,Le Valle,Lé Vale,Vale,Vejl,Veyl,bhe'ila,vela,veል,vueiru,wyl,Вейл,ویل,ভেইল,ਵੇਲ,ቬል,ヴェイル	49.49361	-2.52833	A	ADM1	GG	GB	6417230				9514		8	Europe/Guernsey	2026-04-16
+6417233	Saint Sampson	Saint Sampson	Saint Sampson,Saint Samsaon,Saint-Sampson,Sent-Sehmpson,Sint Samson,St Sampson,St. Sampson,sainta saimpasana,seniti saምsani,senta syampasana,sento・sanpuson,snt smpsn,Сент-Сэмпсон,سنت سمپسن,সেন্ট স্যাম্পসন,ਸੈਂਟ ਸੈਂਪਸਨ,ሴንት ሳምሳን,セント・サンプソン	49.48194	-2.53722	A	ADM1	GG	GB	6417233				8966		6	Europe/Guernsey	2026-04-16
+6417248	Red Rock	Red Rock	Red Rock	49.43583	-2.68	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6417251	Roustel Rock	Roustel Rock	Roustel Rock	49.43611	-2.67778	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6417252	La Tour	La Tour	La Tour	49.43944	-2.67528	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6417275	Fort Pezeries	Fort Pezeries	Fort Pezeries	49.43694	-2.67167	S	FT	GG		00				0		4	Europe/Guernsey	2012-01-20
+6417279	Les Pezeries	Les Pezeries	Les Pezeries	49.43611	-2.67111	L	LCTY	GG		6417214				0		16	Europe/Guernsey	2014-04-15
+6417282	Pleinmont	Pleinmont	Pleinmont	49.43194	-2.66722	P	PPL	GG		6417214				0		63	Europe/Guernsey	2014-04-15
+6420068	La Genouinne	La Genouinne	La Genouinne,Nipple Rock	49.445	-2.6825	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420069	Braye Rocks	Braye Rocks	Braye Rocks	49.44389	-2.6675	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420070	Pezeries Point	Pezeries Point	Pezeries Point	49.43806	-2.67	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420071	Baie de la Forge	Baie de la Forge	Baie de la Forge	49.42306	-2.66	H	COVE	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420072	Moliére	Moliere	Moliere,Moliére	49.42083	-2.65917	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420074	Les Crêtes	Les Cretes	Les Cretes,Les Crêtes	49.42306	-2.65639	T	PT	GG		00				0		6	Europe/Guernsey	2012-01-20
+6420075	Belle Elizabeth	Belle Elizabeth	Belle Elizabeth	49.42389	-2.65361	H	COVE	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420076	Les Kaines d’Aval	Les Kaines d'Aval	Les Kaines d'Aval,Les Kaines d’Aval	49.42167	-2.65222	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420096	Hougue Anthan	Hougue Anthan	Hougue Anthan	49.42861	-2.65139	P	PPL	GG		00				0		77	Europe/Guernsey	2012-01-20
+6420097	Les Fontaines	Les Fontaines	Les Fontaines	49.43083	-2.65806	P	PPL	GG		6417214				0		40	Europe/Guernsey	2014-04-15
+6420098	Mont Herault	Mont Herault	Mont Herault	49.42583	-2.65694	T	HLL	GG		6417214				0		70	Europe/Guernsey	2014-04-15
+6420099	Les Bouffeures	Les Bouffeures	Les Bouffeures	49.42444	-2.64417	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420101	Les Tielles	Les Tielles	Les Tielles	49.42139	-2.63944	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420102	Les Kaines d’Amont	Les Kaines d'Amont	Les Kaines d'Amont,Les Kaines d’Amont	49.41722	-2.64139	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420105	Les Simons	Les Simons	Les Simons	49.4275	-2.63861	P	PPL	GG		00				0		78	Europe/Guernsey	2012-01-20
+6420107	Le Planel	Le Planel	Le Planel	49.42778	-2.63222	P	PPL	GG		00				0		81	Europe/Guernsey	2012-01-20
+6420109	Les Sages	Les Sages	Les Sages	49.43417	-2.63944	P	PPL	GG		00				0		71	Europe/Guernsey	2012-01-20
+6420114	Le Coudré	Le Coudre	Le Coudre,Le Coudré	49.43667	-2.64333	P	PPL	GG		00				0		59	Europe/Guernsey	2012-01-20
+6420115	Les Clercs	Les Clercs	Les Clercs	49.43611	-2.65	P	PPL	GG		00				0		37	Europe/Guernsey	2012-01-20
+6420116	La Lague	La Lague	La Lague	49.43361	-2.65972	P	PPL	GG		00				0		20	Europe/Guernsey	2012-01-20
+6420118	Fort Grey	Fort Grey	Chateau de Rocquaine,Fort Grey	49.43917	-2.65528	S	FT	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420119	Les Galliennes	Les Galliennes	Les Galliennes	49.43139	-2.65111	P	PPL	GG		6417214				0		71	Europe/Guernsey	2014-04-15
+6420129	Les Jehans	Les Jehans	Les Jehans	49.43028	-2.63389	P	PPL	GG		6417214				0		82	Europe/Guernsey	2014-04-16
+6420130	Les Falles	Les Falles	Les Falles	49.43278	-2.63111	P	PPL	GG		6417214				0		69	Europe/Guernsey	2014-04-15
+6420133	Les Ecrilleurs	Les Ecrilleurs	Les Ecrilleurs	49.42028	-2.62778	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420134	Toulette	Toulette	Toulette	49.41972	-2.62944	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420135	Les Laurens	Les Laurens	Les Laurens	49.42528	-2.62528	P	PPL	GG		6417213				0		85	Europe/Guernsey	2014-04-15
+6420136	Les Haises	Les Haises	Les Haises	49.41806	-2.62111	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420137	La Prevôte	La Prevote	La Prevote,La Prevôte	49.42167	-2.62139	L	LCTY	GG		6417213				0		53	Europe/Guernsey	2014-04-16
+6420138	Les Bruliaux	Les Bruliaux	Les Bruliaux	49.425	-2.61611	P	PPL	GG		6417223				0		92	Europe/Guernsey	2014-04-16
+6420139	La Corbière	La Corbiere	La Corbiere,La Corbière	49.42417	-2.6125	P	PPL	GG		00				0		92	Europe/Guernsey	2012-01-20
+6420140	Les Marchez	Les Marchez	Les Marchez	49.42806	-2.6175	P	PPL	GG		00				0		90	Europe/Guernsey	2012-01-20
+6420141	La Croix	La Croix	La Croix	49.42889	-2.61444	P	PPL	GG		00				0		91	Europe/Guernsey	2012-01-20
+6420142	Les Heches	Les Heches	Les Heches	49.43	-2.61722	P	PPL	GG		00				0		88	Europe/Guernsey	2012-01-20
+6420143	Le Manoir	Le Manoir	Le Manoir	49.42611	-2.61083	P	PPL	GG		00				0		95	Europe/Guernsey	2012-01-20
+6420145	Hâvre de Bon Repos	Havre de Bon Repos	Havre de Bon Repos,Hâvre de Bon Repos	49.41806	-2.61611	H	COVE	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420150	La Corbière	La Corbiere	La Corbiere,La Corbière	49.4175	-2.60694	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420151	Le Fond du Val	Le Fond du Val	Le Fond du Val	49.42083	-2.60417	L	LCTY	GG		00				0		46	Europe/Guernsey	2012-01-20
+6420152	La Roberge	La Roberge	La Roberge	49.42361	-2.60389	P	PPL	GG		00				0		83	Europe/Guernsey	2012-01-20
+6420198	Le Gouffre	Le Gouffre	Le Gouffre	49.42139	-2.59556	P	PPL	GG		00				0		78	Europe/Guernsey	2012-01-20
+6420199	La Vrangue	La Vrangue	La Vrangue	49.42472	-2.60056	P	PPL	GG		6417223				0		97	Europe/Guernsey	2019-05-09
+6420200	Les Villets	Les Villets	Les Villets	49.42472	-2.59667	P	PPL	GG		6417223				0		91	Europe/Guernsey	2019-05-09
+6420201	L’Epinel	L'Epinel	L'Epinel,L’Epinel	49.42611	-2.60194	P	PPL	GG		00				0		98	Europe/Guernsey	2012-01-20
+6420202	Le Bigard	Le Bigard	Le Bigard	49.42472	-2.60528	P	PPL	GG		6417223				0		90	Europe/Guernsey	2019-05-09
+6420203	La Villiaze	La Villiaze	La Villiaze	49.42722	-2.60583	P	PPL	GG		00				0		96	Europe/Guernsey	2012-01-20
+6420204	Le Landes	Le Landes	Le Landes	49.42972	-2.59861	P	PPL	GG		6417223				0		101	Europe/Guernsey	2014-04-15
+6420209	La Planque	La Planque	La Planque	49.43111	-2.60056	P	PPL	GG		00				0		98	Europe/Guernsey	2012-01-20
+6420210	Mont Plaisir	Mont Plaisir	Mont Plaisir	49.43028	-2.60361	P	PPL	GG		6417223				0		97	Europe/Guernsey	2014-04-16
+6420211	Les Nouettes	Les Nouettes	Les Nouettes	49.43111	-2.60611	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6420212	Le Gron	Le Gron	Le Gron	49.43889	-2.60861	P	PPL	GG		00				0		86	Europe/Guernsey	2012-01-20
+6420214	Les Bas Courtils	Les Bas Courtils	Les Bas Courtils	49.43944	-2.60194	P	PPL	GG		00				0		89	Europe/Guernsey	2012-01-20
+6420216	La Villiaze	La Villiaze	La Villiaze	49.4375	-2.59167	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6420217	Le Bouillon	Le Bouillon	Le Bouillon	49.44139	-2.59083	P	PPL	GG		00				0		78	Europe/Guernsey	2012-01-20
+6420218	Les Vauxbelets	Les Vauxbelets	Les Vauxbelets	49.44222	-2.5875	P	PPL	GG		00				0		69	Europe/Guernsey	2012-01-20
+6420219	Le Roussel	Le Roussel	Le Roussel	49.43611	-2.58556	P	PPL	GG		6417223				0		85	Europe/Guernsey	2014-04-21
+6420224	Les Pieces	Les Pieces	Les Pieces	49.43333	-2.58306	P	PPL	GG		6417224				0		93	Europe/Guernsey	2014-04-15
+6420226	La Tourgie	La Tourgie	La Tourgie	49.43306	-2.58861	P	PPL	GG		00				0		100	Europe/Guernsey	2012-01-20
+6420227	Le Chéne	Le Chene	Le Chene,Le Chéne	49.43222	-2.58583	P	PPL	GG		00				0		95	Europe/Guernsey	2012-01-20
+6420228	Le Bourg	Le Bourg	Le Bourg	49.43139	-2.5925	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6420229	Les Houards	Les Houards	Les Houards	49.42167	-2.59444	P	PPL	GG		00				0		91	Europe/Guernsey	2012-01-20
+6420230	Le Bordage	Le Bordage	Le Bordage	49.42861	-2.58944	P	PPL	GG		00				0		78	Europe/Guernsey	2012-01-20
+6420232	Le Variouf	Le Variouf	Le Variouf	49.42694	-2.58778	P	PPL	GG		00				0		89	Europe/Guernsey	2012-01-20
+6420234	Les Fontenelles	Les Fontenelles	Les Fontenelles	49.42361	-2.59139	P	PPL	GG		6417223				0		95	Europe/Guernsey	2014-04-21
+6420235	Les Sommeilleuses	Les Sommeilleuses	Les Sommeilleuses	49.42083	-2.59	T	CLF	GG		00				0		28	Europe/Guernsey	2012-01-20
+6420236	Vieux Poulain	Vieux Poulain	Vieux Poulain	49.41861	-2.58556	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420237	Portelet Bay	Portelet Bay	Portelet Bay	49.42333	-2.5825	H	COVE	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420238	Le Jaonnet Bay	Le Jaonnet Bay	Le Jaonnet Bay	49.42417	-2.57056	H	COVE	GG		00				0		9	Europe/Guernsey	2012-01-20
+6420239	La Bétte Bay	La Bette Bay	La Bette Bay,La Bétte Bay	49.4225	-2.56722	H	COVE	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420240	Le Creux au Chien	Le Creux au Chien	Le Creux au Chien	49.42	-2.56639	S	CAVE	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420243	Icart	Icart	Icart	49.42194	-2.56083	P	PPL	GG		00				0		92	Europe/Guernsey	2012-01-20
+6420244	Etocré	Etocre	Etocre,Etocré	49.41694	-2.55611	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420245	Trepied	Trepied	Trepied	49.41778	-2.55778	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420246	Etocré-little	Etocre-little	Etocre-little,Etocré-little	49.41806	-2.55556	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420248	Val au Bourg	Val au Bourg	Val au Bourg	49.42611	-2.55806	P	PPL	GG		00				0		70	Europe/Guernsey	2012-01-20
+6420249	La Fosse	La Fosse	La Fosse	49.42972	-2.55472	P	PPL	GG		00				0		93	Europe/Guernsey	2012-01-20
+6420251	Mouillière	Mouilliere	Mouilliere,Mouillière	49.42111	-2.54778	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420252	Cradle Rock	Cradle Rock	Cradle Rock,La Surtout	49.42472	-2.54694	T	RK	GG		00				0		-9999	Europe/Guernsey	2019-05-09
+6420351	Dog and Lion Rocks	Dog and Lion Rocks	Dog and Lion Rocks	49.42361	-2.55	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420352	Moulin Huet	Moulin Huet	Moulin Huet	49.42583	-2.54667	H	COVE	GG		00				0		82	Europe/Guernsey	2012-01-20
+6420353	Petit Port	Petit Port	Petit Port	49.42472	-2.54	H	COVE	GG		00				0		-9999	Europe/Guernsey	2019-05-09
+6420354	Le Mont Durand	Le Mont Durand	Le Mont Durand	49.42722	-2.54417	T	CLF	GG		00				0		62	Europe/Guernsey	2012-01-20
+6420355	Le Vallon	Le Vallon	Le Vallon	49.43028	-2.545	P	PPL	GG		00				0		86	Europe/Guernsey	2012-01-20
+6420356	Jerbourg	Jerbourg	Jerbourg	49.42472	-2.53361	P	PPL	GG		6417224				0		83	Europe/Guernsey	2019-05-09
+6420357	Doyle Column	Doyle Column	Doyle Column	49.42694	-2.53417	S	MNMT	GG		00				0		89	Europe/Guernsey	2012-01-20
+6420359	La Bouvée	La Bouvee	La Bouvee,La Bouvée	49.42889	-2.53694	P	PPL	GG		00				0		83	Europe/Guernsey	2012-01-20
+6420360	Fourquie	Fourquie	Fourquie	49.41694	-2.53111	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420361	Les Grunes de Jerbourg	Les Grunes de Jerbourg	Les Grunes de Jerbourg	49.41611	-2.53694	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420363	Longue Pierre	Longue Pierre	Longue Pierre	49.4225	-2.52472	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420364	Telegraph Bay	Telegraph Bay	Telegraph Bay,Vaux Betes,Vaux Bêtes	49.42139	-2.53028	H	COVE	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420365	Fermain Point	Fermain Point	Fermain Point	49.43556	-2.53167	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420366	Gold Fisher Rock	Gold Fisher Rock	Gold Fisher Rock,Le Gouficher	49.43611	-2.53083	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420368	Village de Putron	Village de Putron	Village de Putron	49.43833	-2.54278	P	PPL	GG		00				0		87	Europe/Guernsey	2012-01-20
+6420369	Ozanne Steps	Ozanne Steps	Ozanne Steps	49.43972	-2.53361	T	RKS	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420370	Anfré Beacon	Anfre Beacon	Anfre Beacon,Anfré Beacon	49.44083	-2.525	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420371	Soldiers’ Bay	Soldiers' Bay	Soldiers' Bay,Soldiers’ Bay	49.44417	-2.53111	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420372	Havelet Bay	Havelet Bay	Havelet Bay	49.45111	-2.52944	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420373	La Valette	La Valette	La Valette	49.44889	-2.5325	L	LCTY	GG		00				0		12	Europe/Guernsey	2012-01-20
+6420374	Les Terres	Les Terres	Les Terres	49.44972	-2.53667	P	PPL	GG		00				0		29	Europe/Guernsey	2012-01-20
+6420376	Oyster Rock	Oyster Rock	Huitriere,Huitrière,Oyster Rock	49.45167	-2.52417	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420377	Castle Cornet	Castle Cornet	Castle Cornet,Cornet Rock,Kornet,Kornet qalʼasi,chateau Cornet,château Cornet,ke nai te cheng bao,konetto cheng,Корнет,コーネット城,柯奈特城堡	49.45306	-2.52667	S	CSTL	GG		00				0		11	Europe/Guernsey	2012-01-20
+6420378	Castle Pier	Castle Pier	Castle Pier	49.45333	-2.52972	S	PIER	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420379	The Harbour	The Harbour	The Harbour	49.45583	-2.53111	H	HBR	GG		6417228				0		-9999	Europe/Guernsey	2025-08-19
+6420380	White Rock	White Rock	White Rock	49.45639	-2.52694	S	PIER	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420381	Sardette Beacon	Sardette Beacon	Sardette Beacon	49.45917	-2.525	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420401	Conger Rock	Conger Rock	Conger Rock	49.46417	-2.52806	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420402	Les Brayes	Les Brayes	Les Brayes	49.46639	-2.52611	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420403	Quaine Rock	Quaine Rock	Quaine Rock	49.46389	-2.52639	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420404	Salerie	Salerie	Salerie	49.46167	-2.53417	P	PPL	GG		00				0		16	Europe/Guernsey	2012-01-20
+6420405	Longstore	Longstore	Longstore	49.465	-2.53667	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420406	Kempt Rock	Kempt Rock	Kempt Rock	49.47306	-2.52667	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420407	Demie Flieroque	Demie Flieroque	Demie Flieroque	49.46861	-2.52306	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420408	Flieroque	Flieroque	Flieroque	49.47083	-2.52111	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420410	Vieille Jetteure	Vieille Jetteure	Vieille Jetteure	49.47389	-2.51778	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420411	Vivian	Vivian	Vivian	49.47417	-2.51111	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420412	Hommes	Hommes	Hommes	49.47694	-2.51111	T	RK	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420413	Richmond Corner	Richmond Corner	Richmond Corner	49.47528	-2.52417	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420414	Spur Point	Spur Point	Spur Point	49.47556	-2.52	T	PT	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420417	Mont Crevett	Mont Crevett	Mont Crevett	49.48028	-2.51306	T	HLL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420419	Black Rock	Black Rock	Black Rock	49.48222	-2.50833	T	RK	GG		00				0		0	Europe/Guernsey	2012-01-20
+6420420	Grande Demie	Grande Demie	Grande Demie	49.47806	-2.50861	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420421	Torode	Torode	Torode	49.4775	-2.50444	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420422	Morvilliere	Morvilliere	Morvilliere	49.47528	-2.50472	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420423	Vale Castle	Vale Castle	Le Chateau St. Michel,Vale Castle	49.485	-2.50917	S	RUIN	GG		00				0		16	Europe/Guernsey	2012-01-20
+6420425	Southwest Platte	Southwest Platte	Southwest Platte	49.48194	-2.49944	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420426	La Platte	La Platte	La Platte	49.48472	-2.49333	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420427	Le Gros Rocher	Le Gros Rocher	Le Gros Rocher	49.48667	-2.50444	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420428	Bectondu	Bectondu	Bectondu	49.49056	-2.49778	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420429	La Vieille	La Vieille	La Vieille	49.49028	-2.50194	T	RK	GG		00				0		-1	Europe/Guernsey	2012-01-20
+6420430	Les Jumelles	Les Jumelles	Les Jumelles	49.48944	-2.49944	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420432	Béquets	Bequets	Bequets,Béquets	49.48861	-2.50056	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420433	Hommet Benes	Hommet Benes	Hommet Benes	49.48889	-2.50278	T	RKS	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420434	Hommet	Hommet	Hommet	49.48806	-2.505	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420435	Le Poincon	Le Poincon	Le Poincon	49.48778	-2.50611	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420436	Pêtils Bay	Petils Bay	Petils Bay,Pêtils Bay	49.49306	-2.50167	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420437	Hommet Paradis	Hommet Paradis	Hommet Paradis	49.495	-2.4975	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420438	Cocagne	Cocagne	Cocagne	49.49222	-2.50861	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420440	Port de Noirment	Port de Noirment	Port de Noirment	49.49694	-2.50194	T	PT	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420441	Miellette Bay	Miellette Bay	Miellette Bay	49.49889	-2.50083	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420442	Omptollé	Omptolle	Homptole,Omptolle,Omptollé	49.50139	-2.49889	T	RK	GG		00				0		1	Europe/Guernsey	2020-06-12
+6420445	Petit Omptollé	Petit Omptolle	Homptole,Petit Omptolle,Petit Omptollé	49.49917	-2.49833	T	RK	GG		00				0		-9999	Europe/Guernsey	2020-06-12
+6420446	Mares a Fils	Mares a Fils	Mares a Fils	49.50083	-2.50222	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420447	La Miellette	La Miellette	La Miellette	49.49889	-2.50444	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420449	Croix Besnard	Croix Besnard	Croix Besnard	49.49972	-2.50278	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420450	La Turquie	La Turquie	La Turquie	49.49417	-2.50556	P	PPL	GG		00				0		9	Europe/Guernsey	2012-01-20
+6420451	Fontenelle	Fontenelle	Fontenelle	49.50167	-2.515	P	PPL	GG		6417230				0		11	Europe/Guernsey	2014-04-15
+6420452	La Moye	La Moye	La Moye	49.49972	-2.51389	P	PPL	GG		6417230				0		9	Europe/Guernsey	2014-04-15
+6420453	La Rochelle	La Rochelle	La Rochelle	49.49944	-2.50889	P	PPL	GG		6417230				0		13	Europe/Guernsey	2014-07-16
+6420456	Les Fourquies	Les Fourquies	Les Fourquies	49.51028	-2.495	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420457	Rocque Vieille	Rocque Vieille	Rocque Vieille	49.51361	-2.50028	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420458	Vieille du Nord	Vieille du Nord	Vieille du Nord	49.50639	-2.50611	T	PT	GG		00				0		0	Europe/Guernsey	2012-01-20
+6420459	Banque Mouton	Banque Mouton	Banque Mouton	49.50583	-2.50861	T	RK	GG		00				0		-1	Europe/Guernsey	2012-01-20
+6420460	La Lande	La Lande	La Lande	49.50306	-2.50833	P	PPL	GG		6417230				0		10	Europe/Guernsey	2014-04-15
+6420461	Fontaine ès Boeufs	Fontaine es Boeufs	Fontaine es Boeufs,Fontaine ès Boeufs	49.505	-2.50472	T	RK	GG		00				0		0	Europe/Guernsey	2012-01-20
+6420590	Le Plomb	Le Plomb	Le Plomb	49.50972	-2.51806	T	PT	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420592	Fort LeMarchant	Fort LeMarchant	Fort LeMarchant	49.50861	-2.51861	S	FT	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420593	Banque Barque	Banque Barque	Banque Barque	49.50389	-2.52167	T	RKS	GG		00				0		0	Europe/Guernsey	2012-01-20
+6420599	Hougue Patris	Hougue Patris	Hougue Patris	49.50417	-2.51444	S	HSE	GG		00				0		13	Europe/Guernsey	2012-01-20
+6420612	Les Mielles	Les Mielles	Les Mielles	49.49889	-2.52028	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420613	Clos du Valle	Clos du Valle	Clos du Valle	49.49667	-2.51806	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6420614	L’Ancresse Common	L'Ancresse Common	L'Ancresse Common,L’Ancresse Common	49.50028	-2.52639	L	CMN	GG	GB	00				0		10	Europe/Guernsey	2015-01-03
+6420618	L’Ancresse	L'Ancresse	L'Ancresse,L’Ancresse	49.49806	-2.52611	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420619	Le Marais	Le Marais	Le Marais	49.49667	-2.52778	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420620	Closios	Closios	Closios	49.49611	-2.53417	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6420621	Les Hautgards	Les Hautgards	Les Hautgards	49.49444	-2.525	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420624	Le Hurel	Le Hurel	Le Hurel	49.495	-2.52972	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420626	Les Laudes	Les Laudes	Les Laudes	49.49583	-2.52	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6420627	Hougue Moulin	Hougue Moulin	Hougue Moulin	49.49306	-2.51444	P	PPL	GG		00				0		18	Europe/Guernsey	2012-01-20
+6420629	Bordeaux	Bordeaux	Bordeaux	49.48972	-2.50944	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420633	Rocques Barrées	Rocques Barrees	Rocques Barrees,Rocques Barrées	49.48722	-2.50944	L	LCTY	GG		00				0		6	Europe/Guernsey	2012-01-20
+6420634	Fortebrie	Fortebrie	Fortebrie	49.48889	-2.51472	P	PPL	GG		00				0		13	Europe/Guernsey	2012-01-20
+6420635	Maresquet	Maresquet	Maresquet	49.48694	-2.51528	P	PPL	GG		6417230				0		6	Europe/Guernsey	2014-04-15
+6420636	North Side	North Side	North Side	49.48528	-2.51611	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420637	Les Monmains	Les Monmains	Les Monmains	49.48333	-2.51417	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6420639	Le Tertre	Le Tertre	Le Tertre	49.48806	-2.5225	P	PPL	GG		00				0		10	Europe/Guernsey	2012-01-20
+6420652	The Bridge	The Bridge	The Bridge	49.48306	-2.52167	P	PPL	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420653	South Side	South Side	South Side	49.48167	-2.51583	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420654	La Robergerie	La Robergerie	La Robergerie	49.48111	-2.52639	P	PPL	GG		00				0		21	Europe/Guernsey	2012-01-20
+6420657	Bailloterie	Bailloterie	Bailloterie	49.48944	-2.53194	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6420658	Maraitaine	Maraitaine	Maraitaine	49.49028	-2.52694	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420660	Baugy	Baugy	Baugy	49.49083	-2.52556	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420661	Hall	Hall	Hall	49.49028	-2.52278	P	PPL	GG		00				0		12	Europe/Guernsey	2012-01-20
+6420663	Friquet	Friquet	Friquet	49.49083	-2.53139	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420664	La Grève	La Greve	La Greve,La Grève	49.49333	-2.53361	P	PPL	GG		00				0		10	Europe/Guernsey	2012-01-20
+6420666	Ivy Gate	Ivy Gate	Ivy Gate	49.49278	-2.53694	P	PPL	GG		00				0		3	Europe/Guernsey	2012-01-20
+6420668	Braye du Valle	Braye du Valle	Braye du Valle	49.48722	-2.53528	P	PPL	GG		6417233				0		2	Europe/Guernsey	2014-04-16
+6420671	Les Sauvagees	Les Sauvagees	Les Sauvagees	49.48361	-2.53556	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6420673	Marais Farm	Marais Farm	Marais Farm	49.47889	-2.53778	S	FRM	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420675	La Tonelle	La Tonelle	La Tonelle	49.47417	-2.53056	P	PPL	GG		6417233				0		6	Europe/Guernsey	2014-04-15
+6420677	Chateau des Marais	Chateau des Marais	Chateau d'Orgueil,Chateau des Marais,Chateau d’Orgueil,Ivy Castle,Marais d'Orgeuil,Marais d’Orgeuil	49.47167	-2.53833	S	FT	GG		00				0		7	Europe/Guernsey	2014-10-02
+6420687	Bouet	Bouet	Bouet	49.46806	-2.54111	P	PPL	GG		6417228				0		13	Europe/Guernsey	2014-04-21
+6420689	Saint Johns	Saint Johns	Saint Johns,St. Johns	49.465	-2.54	P	PPL	GG		6417228				0		16	Europe/Guernsey	2021-02-20
+6420691	Amherst	Amherst	Amherst	49.46361	-2.54361	P	PPL	GG		00				0		49	Europe/Guernsey	2012-01-20
+6420695	Beau Séjour	Beau Sejour	Beau Sejour,Beau Séjour	49.46222	-2.54056	S	CTRCM	GG		00				0		59	Europe/Guernsey	2012-01-20
+6420696	Cambridge Park	Cambridge Park	Cambridge Park	49.46028	-2.54056	L	PRK	GG		00				0		54	Europe/Guernsey	2012-01-20
+6420698	La Colombelle	La Colombelle	La Colombelle	49.44611	-2.5475	P	PPL	GG		00				0		75	Europe/Guernsey	2012-01-20
+6420756	Rozel	Rozel	Rozel	49.45083	-2.54167	P	PPL	GG		00				0		35	Europe/Guernsey	2012-01-20
+6420759	Fort George	Fort George	Fort George	49.44639	-2.54	P	PPL	GG		00				0		82	Europe/Guernsey	2012-01-20
+6420764	Clarence Battery	Clarence Battery	Clarence Battery	49.44611	-2.53083	S	MNMT	GG		00				0		9	Europe/Guernsey	2012-01-20
+6420782	Les Camps du Moulin	Les Camps du Moulin	Les Camps du Moulin	49.43361	-2.55	P	PPL	GG		00				0		102	Europe/Guernsey	2012-01-20
+6420784	Courtes Fallaizes	Courtes Fallaizes	Courtes Fallaizes	49.43111	-2.5425	P	PPL	GG		00				0		93	Europe/Guernsey	2012-01-20
+6420786	Sausmarez Manor	Sausmarez Manor	Sausmarez Manor	49.43556	-2.54722	S	HSE	GG	GB	6417224				0		95	Europe/Guernsey	2016-04-20
+6420788	La Beilleuse	La Beilleuse	La Beilleuse	49.4375	-2.555	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6420791	Statue Menhir	Statue Menhir	Statue Menhir	49.43778	-2.54861	S	ANS	GG		00				0		97	Europe/Guernsey	2012-01-20
+6420794	Les Hubits	Les Hubits	Les Hubits	49.44222	-2.54833	P	PPL	GG		00				0		91	Europe/Guernsey	2012-01-20
+6420796	Ville au Roi	Ville au Roi	Ville au Roi	49.44639	-2.55389	P	PPL	GG		00				0		80	Europe/Guernsey	2012-01-20
+6420797	Choisi	Choisi	Choisi	49.45556	-2.54806	P	PPL	GG		00				0		67	Europe/Guernsey	2012-01-20
+6420798	Les Quartiers	Les Quartiers	Les Quartiers	49.47306	-2.55167	P	PPL	GG		00				0		12	Europe/Guernsey	2016-05-12
+6420800	Sainte Catherine’s Farm	Sainte Catherine's Farm	Sainte Catherine's Farm,Sainte Catherine’s Farm,St. Catherine's Farm,St. Catherine’s Farm	49.46917	-2.55111	S	FRM	GG		00				0		13	Europe/Guernsey	2012-01-20
+6420801	Coutanchez	Coutanchez	Coutanchez	49.47167	-2.54917	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420858	Jerbourg Earthworks	Jerbourg Earthworks	Jerbourg Castle,Jerbourg Earthworks	49.42444	-2.53694	S	FT	GG		00				0		83	Europe/Guernsey	2012-01-20
+6420867	Rocquerais	Rocquerais	Rocquerais	49.50306	-2.52833	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420869	Pembroke Bay	Pembroke Bay	Pembroke Bay	49.50444	-2.5325	H	BAY	GG		00				0		11	Europe/Guernsey	2012-01-20
+6420879	Fort Pembroke	Fort Pembroke	Fort Pembroke	49.5075	-2.53139	S	FT	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420882	Star Fort	Star Fort	Star Fort	49.50639	-2.53222	S	FT	GG		00				0		5	Europe/Guernsey	2012-01-20
+6420883	Crève Coeur	Creve Coeur	Creve Coeur,Crève Coeur	49.50833	-2.53333	T	RKS	GG		00				0		0	Europe/Guernsey	2012-01-20
+6420884	Baie de la Jaonneuse	Baie de la Jaonneuse	Baie de la Jaonneuse	49.5075	-2.53472	H	COVE	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420886	L’Aunoné	L'Aunone	L'Aunone,L’Aunoné	49.51306	-2.53111	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420887	La Bennette	La Bennette	La Bennette	49.50917	-2.54333	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420888	Surtaut	Surtaut	Surtaut	49.51139	-2.54139	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6420890	Mont Cuet	Mont Cuet	Mont Cuet	49.50611	-2.54194	T	HLL	GG		00				0		-5	Europe/Guernsey	2012-01-20
+6420901	Ninepin	Ninepin	Ninepin	49.51222	-2.54333	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420905	Boue La Grève	Boue La Greve	Boue La Greve,Boue La Grève	49.51111	-2.55056	T	RKS	GG		00				0		-9999	Europe/Guernsey	2019-05-09
+6420906	Chouet	Chouet	Chouet	49.50528	-2.54667	T	HDLD	GG		00				0		13	Europe/Guernsey	2012-01-20
+6420912	Fontaine Marches	Fontaine Marches	Fontaine Marches	49.50222	-2.54806	T	RK	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420913	Champ Rouget	Champ Rouget	Champ Rouget	49.50361	-2.54306	T	PT	GG		00				0		3	Europe/Guernsey	2012-01-20
+6420914	Chouet Bay	Chouet Bay	Chouet Bay	49.5025	-2.54167	H	BAY	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420915	Ladies Bay	Ladies Bay	Ladies Bay	49.49889	-2.54194	H	BAY	GG		00				0		2	Europe/Guernsey	2012-01-20
+6420916	Hommet de Grève	Hommet de Greve	Hommet de Greve,Hommet de Grève	49.50111	-2.54583	T	RKS	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420917	La Garenne	La Garenne	La Garenne	49.49444	-2.54	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420918	Les Fouaillages	Les Fouaillages	Les Fouaillages	49.49667	-2.53806	S	ANS	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420919	Pont St. Michel	Pont St. Michel	Pont St. Michel	49.49194	-2.54139	S	BDG	GG		00				0		3	Europe/Guernsey	2012-01-20
+6420920	Picquerel Point	Picquerel Point	Picquerel Point	49.49333	-2.54806	T	PT	GG		00				0		3	Europe/Guernsey	2012-01-20
+6420922	Le Picquerel	Le Picquerel	Le Picquerel	49.49139	-2.54944	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6420923	L’Islet	L'Islet	L'Islet,L’Islet	49.48778	-2.545	P	PPL	GG		00				0		3	Europe/Guernsey	2012-01-20
+6420925	Oatlands	Oatlands	Oatlands	49.48528	-2.53944	S	MUS	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420930	Les Gigands	Les Gigands	Les Gigands	49.4825	-2.54083	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420931	Baubigny	Baubigny	Baubigny	49.48194	-2.54306	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6420932	Braeside	Braeside	Braeside	49.48583	-2.54444	P	PPL	GG		00				0		1	Europe/Guernsey	2012-01-20
+6420933	Grand Fort	Grand Fort	Grand Fort	49.48417	-2.54444	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6420935	Hougue Nicolle	Hougue Nicolle	Hougue Nicolle	49.47694	-2.54667	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6420936	Grandes Capelles	Grandes Capelles	Grandes Capelles	49.47917	-2.5525	P	PPL	GG		00				0		14	Europe/Guernsey	2012-01-20
+6420937	Hougues Magues	Hougues Magues	Hougues Magues	49.48139	-2.54917	P	PPL	GG		00				0		11	Europe/Guernsey	2012-01-20
+6420938	Les Capelles	Les Capelles	Les Capelles	49.48081	-2.55273	P	PPL	GG		00				0		17	Europe/Guernsey	2016-02-19
+6420942	Les Salines	Les Salines	Les Salines	49.485	-2.55611	P	PPL	GG		00				0		4	Europe/Guernsey	2012-01-20
+6420943	Les Martins	Les Martins	Les Martins	49.48778	-2.55639	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6421796	Les Ancreois	Les Ancreois	Les Ancreois	49.50194	-2.55417	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421812	La Platte Jetteuse	La Platte Jetteuse	La Platte Jetteuse	49.5025	-2.55389	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421813	Blanche Boue	Blanche Boue	Blanche Boue	49.50417	-2.55472	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421814	Roque-Rousse	Roque-Rousse	Roque-Rousse	49.49861	-2.5525	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421815	La Lochante	La Lochante	La Lochante	49.50556	-2.55028	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421818	Grand Moulinets	Grand Moulinets	Grand Moulinets	49.50556	-2.55806	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421819	Les Anes	Les Anes	Les Anes	49.50306	-2.56222	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421820	The Knife	The Knife	The Knife	49.50222	-2.5625	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421822	Petits Moulinets	Petits Moulinets	Petits Moulinets	49.50444	-2.55944	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421823	Col du Pont	Col du Pont	Col du Pont	49.50222	-2.5575	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421824	Baie du Pont	Baie du Pont	Baie du Pont	49.49972	-2.56167	H	BAY	GG		00				0		2	Europe/Guernsey	2012-01-20
+6421825	Boue de Port Grat	Boue de Port Grat	Boue de Port Grat	49.49833	-2.56028	T	RKS	GG		00				0		2	Europe/Guernsey	2012-01-20
+6421827	L’œil de Boeuf	L'oeil de Boeuf	L'oeil de Boeuf,L’œil de Boeuf	49.50472	-2.56167	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421828	Les Menues Marquies	Les Menues Marquies	Les Menues Marquies	49.50417	-2.56917	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421829	La Pierre à Ballais	La Pierre a Ballais	La Pierre a Ballais,La Pierre à Ballais	49.50333	-2.56583	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421830	La Marquie	La Marquie	La Marquie	49.50194	-2.56972	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421831	Roque Noire	Roque Noire	Roque Noire	49.50667	-2.57333	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421832	Quenon	Quenon	Quenon	49.50833	-2.56444	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421833	Perron	Perron	Perron	49.51028	-2.565	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421834	Moulière	Mouliere	Mouliere,Moulière	49.5125	-2.57583	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421835	Boue Corneille	Boue Corneille	Boue Corneille	49.50611	-2.58083	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421836	L’Etaca	L'Etaca	L'Etaca,L’Etaca	49.50389	-2.58694	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421837	Petit Saut Roquier	Petit Saut Roquier	Petit Saut Roquier	49.50222	-2.58694	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421838	Grand Saut Roquier	Grand Saut Roquier	Grand Saut Roquier	49.50083	-2.59056	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421839	Le Nez	Le Nez	Le Nez	49.49611	-2.57194	T	PT	GG		00				0		-2	Europe/Guernsey	2012-01-20
+6421840	La Pêquèrie de L’Ouest	La Pequerie de L'Ouest	La Pequerie de L'Ouest,La Pêquèrie de L’Ouest	49.49694	-2.57722	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421841	Le Noir Houmet	Le Noir Houmet	Le Noir Houmet	49.49444	-2.57778	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421842	Le Fougnet	Le Fougnet	Le Fougnet	49.49417	-2.5825	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421843	La Vieille de Portinfer	La Vieille de Portinfer	La Vieille de Portinfer	49.49278	-2.5825	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421844	Le Houmet	Le Houmet	Le Houmet	49.4925	-2.55389	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6421845	Les Dicas	Les Dicas	Les Dicas	49.49444	-2.55556	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6421846	Rousse	Rousse	Rousse	49.49694	-2.555	P	PPL	GG		6417233				0		3	Europe/Guernsey	2014-04-21
+6421847	Le Vaugrat	Le Vaugrat	Le Vaugrat	49.49056	-2.56111	P	PPL	GG		6417233				0		22	Europe/Guernsey	2014-04-15
+6421848	Les Vardes	Les Vardes	Les Vardes	49.49417	-2.56306	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6421849	Baie de Pulais	Baie de Pulais	Baie de Pulais	49.49639	-2.56694	H	COVE	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421850	Pulais	Pulais	Pulais	49.49528	-2.56806	P	PPL	GG		00				0		3	Europe/Guernsey	2012-01-20
+6421851	La Passèe	La Passee	La Passee,La Passèe	49.49167	-2.56833	P	PPL	GG		00				0		9	Europe/Guernsey	2012-01-20
+6421852	Pleinheaume	Pleinheaume	Pleinheaume	49.48611	-2.56361	P	PPL	GG		00				0		13	Europe/Guernsey	2012-01-20
+6421853	Barras Farm	Barras Farm	Barras Farm	49.48583	-2.5675	S	FRM	GG		00				0		10	Europe/Guernsey	2012-01-20
+6421854	Goubeys	Goubeys	Goubeys	49.48417	-2.57278	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6421855	Les Maingys	Les Maingys	Les Maingys	49.48333	-2.57	P	PPL	GG		00				0		9	Europe/Guernsey	2012-01-20
+6421904	Vingtaine de l’Epine	Vingtaine de l'Epine	Vingtaine de l'Epine,Vingtaine de l’Epine	49.48168	-2.57449	P	PPL	GG		00				0		2	Europe/Guernsey	2016-02-19
+6421905	Grandes Mielles	Grandes Mielles	Grandes Mielles	49.48333	-2.57639	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6421907	Les Rouvets	Les Rouvets	Les Rouvets	49.48084	-2.56501	P	PPLL	GG	GB	6417215				0		9	Europe/Guernsey	2016-02-19
+6421908	Les Genâts	Les Genats	Les Genats,Les Genâts	49.47674	-2.57853	P	PPL	GG		00				0		12	Europe/Guernsey	2016-02-19
+6421909	Mare de Carteret	Mare de Carteret	Mare de Carteret	49.48139	-2.58111	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6421911	Le Port aux Malades	Le Port aux Malades	Le Port aux Malades	49.48944	-2.58806	H	COVE	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421913	Grande Rocque Battery	Grande Rocque Battery	Grande Rocque Battery	49.48806	-2.58861	S	FT	GG		00				0		4	Europe/Guernsey	2012-01-20
+6421915	Dents d’Herches	Dents d'Herches	Dents d'Herches,Dents d’Herches	49.49	-2.59444	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6421916	Houmet Jerbe	Houmet Jerbe	Houmet Jerbe	49.48806	-2.59639	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421917	Boue de Saline	Boue de Saline	Boue de Saline	49.4875	-2.59778	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421918	Le Mont Devaloir	Le Mont Devaloir	Le Mont Devaloir	49.48556	-2.59806	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421919	Moulière	Mouliere	Mouliere,Moulière	49.485	-2.615	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421920	Petit Etat	Petit Etat	Petit Etat	49.47778	-2.6175	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6421921	Gros Etat	Gros Etat	Gros Etat	49.47611	-2.61472	T	RKS	GG		00				0		0	Europe/Guernsey	2012-01-20
+6421922	Fort Homme	Fort Homme	Fort Homme	49.47444	-2.61222	S	FT	GG		00				0		2	Europe/Guernsey	2012-01-20
+6421927	Albècq	Albecq	Albecq,Albècq	49.47102	-2.60239	P	PPL	GG		00				0		4	Europe/Guernsey	2016-02-19
+6421928	Lion Rock	Lion Rock	Lion Rock	49.47528	-2.60167	T	RKS	GG		00				0		0	Europe/Guernsey	2012-01-20
+6421929	La Grande Mare	La Grande Mare	La Grande Mare	49.46583	-2.6075	S	RSRT	GG		00				0		3	Europe/Guernsey	2012-01-20
+6421930	Saint Germain	Saint Germain	Saint Germain,St. Germain	49.4675	-2.59583	P	PPL	GG		6417229				0		26	Europe/Guernsey	2021-02-20
+6422021	Les Annevilles	Les Annevilles	Les Annevilles	49.47889	-2.56222	P	PPL	GG		00				0		17	Europe/Guernsey	2012-01-20
+6422022	Camp du Roi	Camp du Roi	Camp du Roi	49.47667	-2.56167	P	PPL	GG		00				0		15	Europe/Guernsey	2012-01-20
+6422023	Les Baissieres	Les Baissieres	Les Baissieres	49.46694	-2.56306	P	PPL	GG		00				0		23	Europe/Guernsey	2012-01-20
+6422024	Les Varendes	Les Varendes	Les Varendes	49.46194	-2.56667	P	PPL	GG		00				0		37	Europe/Guernsey	2012-01-20
+6422025	L’Aumone	L'Aumone	L'Aumone,L’Aumone	49.46333	-2.57	P	PPL	GG		00				0		31	Europe/Guernsey	2012-01-20
+6422026	La Sergentee	La Sergentee	La Sergentee	49.46583	-2.57389	P	PPL	GG		00				0		28	Europe/Guernsey	2012-01-20
+6422027	La Chaumière	La Chaumiere	La Chaumiere,La Chaumière	49.45722	-2.57306	P	PPL	GG		6417226				0		74	Europe/Guernsey	2019-05-09
+6422028	Les Touillets	Les Touillets	Les Touillets	49.45694	-2.57778	P	PPL	GG		00				0		76	Europe/Guernsey	2012-01-20
+6422029	Le Preel	Le Preel	Le Preel	49.45806	-2.58167	P	PPL	GG		00				0		71	Europe/Guernsey	2012-01-20
+6422030	Beaucamps	Beaucamps	Beaucamps	49.46222	-2.58028	P	PPL	GG		00				0		60	Europe/Guernsey	2012-01-20
+6422031	Beaucamps de Bas	Beaucamps de Bas	Beaucamps de Bas	49.46389	-2.58083	P	PPL	GG		00				0		56	Europe/Guernsey	2012-01-20
+6422032	Saint George	Saint George	Saint George,St. George	49.46556	-2.58944	P	PPL	GG		00				0		46	Europe/Guernsey	2021-02-20
+6422033	La Haye du Puits	La Haye du Puits	La Haye du Puits	49.46722	-2.58167	S	HSE	GG		00				0		35	Europe/Guernsey	2012-01-20
+6422036	Mont Plaisant	Mont Plaisant	Mont Plaisant	49.4675	-2.58917	P	PPL	GG		6417229				0		50	Europe/Guernsey	2014-04-15
+6422037	Le Villocq	Le Villocq	Le Villocq	49.46806	-2.57583	P	PPL	GG		00				0		22	Europe/Guernsey	2012-01-20
+6422038	La Planque	La Planque	La Planque	49.4675	-2.57917	P	PPL	GG		00				0		30	Europe/Guernsey	2012-01-20
+6422041	Les Blancs Bois	Les Blancs Bois	Les Blancs Bois,White Woods	49.47278	-2.575	S	EST	GG		00				0		21	Europe/Guernsey	2012-01-20
+6422044	Home Farm	Home Farm	Home Farm	49.47556	-2.57944	S	FRM	GG		00				0		23	Europe/Guernsey	2012-01-20
+6422046	Les Mourains	Les Mourains	Les Mourains	49.46972	-2.5825	P	PPL	GG		00				0		30	Europe/Guernsey	2012-01-20
+6424022	Côbo	Cobo	Cobo,Côbo	49.47426	-2.59273	P	PPL	GG		00				0		11	Europe/Guernsey	2016-02-19
+6424023	Blanches Rocques	Blanches Rocques	Blanches Rocques	49.46917	-2.59111	P	PPL	GG		00				0		41	Europe/Guernsey	2012-01-20
+6424024	Le Tertre	Le Tertre	Le Tertre	49.46889	-2.59389	P	PPL	GG		00				0		28	Europe/Guernsey	2012-01-20
+6424025	Le Huet	Le Huet	Le Huet	49.47389	-2.59444	V	FRST	GG		00				0		37	Europe/Guernsey	2012-01-20
+6424039	Château d’Albècq	Chateau d'Albecq	Chateau d'Albecq,Château d’Albècq	49.47583	-2.60694	T	RK	GG		00				0		-1	Europe/Guernsey	2012-01-20
+6424041	Albècq	Albecq	Albecq,Albècq	49.47417	-2.60472	T	RK	GG		00				0		0	Europe/Guernsey	2012-01-20
+6424048	Vazon	Vazon	Vazon	49.46278	-2.6125	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6424049	Le Gele	Le Gele	Le Gele	49.46056	-2.61278	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6424051	Hall	Hall	Hall	49.45889	-2.61139	P	PPL	GG		00				0		17	Europe/Guernsey	2012-01-20
+6424052	Mont Saint	Mont Saint	Mont Saint,Mont St	49.45694	-2.62361	P	PPL	GG		00				0		39	Europe/Guernsey	2014-03-08
+6424053	Les Choffins Farm	Les Choffins Farm	Les Choffins Farm	49.45222	-2.61222	S	FRM	GG		00				0		54	Europe/Guernsey	2012-01-20
+6424054	Les Lohiers	Les Lohiers	Les Lohiers	49.44889	-2.61083	P	PPL	GG		00				0		73	Europe/Guernsey	2012-01-20
+6424055	Neuf Chemin	Neuf Chemin	Neuf Chemin	49.44889	-2.61528	P	PPL	GG		00				0		68	Europe/Guernsey	2012-01-20
+6424060	Les Caches	Les Caches	Les Caches	49.44889	-2.60583	S	FRM	GG		00				0		75	Europe/Guernsey	2012-01-20
+6424066	Les Buttes	Les Buttes	Les Buttes	49.44417	-2.61167	P	PPL	GG		00				0		75	Europe/Guernsey	2012-01-20
+6424077	Sous l’Eglise	Sous l'Eglise	Sous l'Eglise,Sous l’Eglise	49.44417	-2.61667	P	PPL	GG		00				0		69	Europe/Guernsey	2012-01-20
+6424078	Les Brehauts	Les Brehauts	Les Brehauts	49.43556	-2.62167	P	PPL	GG		00				0		83	Europe/Guernsey	2012-01-20
+6424079	Les Islets	Les Islets	Les Islets	49.44	-2.62833	P	PPL	GG		00				0		80	Europe/Guernsey	2012-01-20
+6424080	L’Eclet	L'Eclet	L'Eclet,L’Eclet	49.44278	-2.63194	P	PPL	GG		00				0		63	Europe/Guernsey	2012-01-20
+6424081	Les Clos Landais	Les Clos Landais	Les Clos Landais	49.4475	-2.63056	P	PPL	GG		00				0		58	Europe/Guernsey	2012-01-20
+6424082	Les Padins	Les Padins	Les Padins	49.4475	-2.62417	P	PPL	GG		00				0		53	Europe/Guernsey	2012-01-20
+6424083	Les Vinaires	Les Vinaires	Les Vinaires	49.44111	-2.63472	P	PPL	GG		00				0		46	Europe/Guernsey	2012-01-20
+6424091	La Longue Rocque	La Longue Rocque	La Longue Rocque,Longue Rocque	49.44333	-2.63694	T	RK	GG		00				0		47	Europe/Guernsey	2012-01-20
+6424092	Le Déhus	Le Dehus	Le Dehus,Le Déhus	49.49667	-2.50833	S	GRVE	GG		00				0		10	Europe/Guernsey	2012-01-20
+6424094	La Varde	La Varde	La Varde	49.50194	-2.53694	S	GRVE	GG		00				0		14	Europe/Guernsey	2012-01-20
+6424097	Le Creux és Faies	Le Creux es Faies	Creux es Fees,Creux ès Fees,Le Creux es Faies,Le Creux és Faies	49.45528	-2.65472	S	GRVE	GG		00				0		9	Europe/Guernsey	2012-01-20
+6424109	L’Erée	L'Eree	L'Eree,L’Erée	49.45417	-2.65167	P	PPL	GG		6417213				0		6	Europe/Guernsey	2014-04-15
+6424121	Fort Saumarez	Fort Saumarez	Fort Saumarez	49.4575	-2.65583	S	FT	GG		00				0		19	Europe/Guernsey	2012-01-20
+6424136	Le Trepièd	Le Trepied	Le Trepied,Le Trepièd	49.46	-2.64194	S	GRVE	GG		00				0		6	Europe/Guernsey	2012-01-20
+6424146	L’Erée Hotel	L'Eree Hotel	L'Eree Hotel,L’Erée Hotel	49.45389	-2.65167	S	HTL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6424147	Rocque Poisson	Rocque Poisson	Rocque Poisson	49.45083	-2.64972	P	PPL	GG		00				0		4	Europe/Guernsey	2012-01-20
+6424149	Les Marais	Les Marais	Les Marais	49.45083	-2.64611	P	PPL	GG		00				0		9	Europe/Guernsey	2012-01-20
+6424150	Claire Mare	Claire Mare	Claire Mare	49.45611	-2.64611	P	PPL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6424153	Les Adams	Les Adams	Les Adams	49.45361	-2.64611	P	PPL	GG		6417213				0		10	Europe/Guernsey	2014-04-16
+6424154	La Rocque	La Rocque	La Rocque	49.45972	-2.64639	P	PPL	GG		00				0		3	Europe/Guernsey	2012-01-20
+6424155	La Capelle	La Capelle	Chapelle Dom Hue,La Capelle	49.46333	-2.6475	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6424157	Beacon Staff	Beacon Staff	Beacon Staff	49.46472	-2.64	T	PT	GG		00				0		5	Europe/Guernsey	2012-01-20
+6424158	Le Catioroc	Le Catioroc	Le Catioroc	49.45778	-2.64111	P	PPL	GG		00				0		9	Europe/Guernsey	2012-01-20
+6424159	Le Jaune Pont	Le Jaune Pont	Le Jaune Pont	49.47056	-2.63583	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6424160	Gros Pont	Gros Pont	Gros Pont	49.46833	-2.63472	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6424164	Fort Richmond	Fort Richmond	Fort Richmond	49.46389	-2.63028	S	FT	GG		00				0		16	Europe/Guernsey	2012-01-20
+6424165	Richmond	Richmond	Richmond	49.46222	-2.62806	P	PPL	GG		00				0		6	Europe/Guernsey	2012-05-06
+6424167	Menhirs	Menhirs	Menhirs	49.46667	-2.62889	S	ANS	GG		00				0		3	Europe/Guernsey	2012-01-20
+6424169	Perelle	Perelle	Perelle	49.45806	-2.63583	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6424170	Fort Le Crocq	Fort Le Crocq	Fort Le Crocq	49.46639	-2.62694	S	FT	GG		00				0		6	Europe/Guernsey	2012-01-20
+6424171	Le Perron	Le Perron	Le Perron	49.47139	-2.62389	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6424172	Les Fourquies	Les Fourquies	Les Fourquies	49.47472	-2.6275	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6424173	Le Marais	Le Marais	Le Marais	49.46	-2.62222	P	PPL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6424174	Saint Saviour Reservoir	Saint Saviour Reservoir	Saint Saviour Reservoir,St. Saviour Reservoir	49.45278	-2.62167	H	RSV	GG		00				0		42	Europe/Guernsey	2021-02-20
+6424175	Les Martins	Les Martins	Les Martins	49.42972	-2.62667	P	PPL	GG		6417214				0		87	Europe/Guernsey	2014-04-16
+6424176	Le Pont	Le Pont	Le Pont	49.43333	-2.62639	P	PPL	GG		6417213				0		73	Europe/Guernsey	2014-04-21
+6424177	Les Buttes	Les Buttes	Les Buttes	49.43528	-2.62694	P	PPL	GG		00				0		76	Europe/Guernsey	2012-01-20
+6424178	Les Reveaux	Les Reveaux	Les Reveaux	49.43833	-2.63167	P	PPL	GG		00				0		70	Europe/Guernsey	2012-01-20
+6424179	La Hougue Falle	La Hougue Falle	La Hougue Falle	49.43639	-2.63389	P	PPL	GG		00				0		62	Europe/Guernsey	2012-01-20
+6424180	Le Douit	Le Douit	Le Douit	49.44389	-2.64056	P	PPL	GG		00				0		33	Europe/Guernsey	2012-01-20
+6424181	Les Arquets	Les Arquets	Les Arquets	49.4425	-2.64333	P	PPL	GG		00				0		27	Europe/Guernsey	2012-01-20
+6424182	La Pomare	La Pomare	La Pomare	49.44722	-2.64472	P	PPL	GG		00				0		11	Europe/Guernsey	2012-01-20
+6424183	La Saline	La Saline	La Saline	49.44639	-2.64861	P	PPL	GG		00				0		5	Europe/Guernsey	2012-01-20
+6424184	Le Câtillion	Le Catillion	Le Catillion,Le Câtillion	49.44167	-2.65	P	PPL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6424185	La Houguette	La Houguette	La Houguette	49.45	-2.63917	P	PPL	GG		00				0		38	Europe/Guernsey	2012-01-20
+6424186	Les Paysans	Les Paysans	Les Paysans	49.44611	-2.63583	P	PPL	GG		00				0		52	Europe/Guernsey	2012-01-20
+6424187	Frie Baton	Frie Baton	Frie Baton	49.45139	-2.63028	P	PPL	GG		00				0		50	Europe/Guernsey	2012-01-20
+6424190	Hurel Farm	Hurel Farm	Hurel Farm	49.45417	-2.62944	S	FRM	GG		00				0		35	Europe/Guernsey	2012-01-20
+6424192	Girouette	Girouette	Girouette	49.45444	-2.63361	P	PPL	GG		00				0		32	Europe/Guernsey	2012-01-20
+6424194	Saint Saviour	Saint Saviour	Saint Saviour,St. Saviour	49.45694	-2.63583	P	PPLA	GG	GB	6417215				0		12	Europe/Guernsey	2016-11-03
+6424195	Sainte Apolline’s Chapel	Sainte Apolline's Chapel	Sainte Apolline's Chapel,Sainte Apolline’s Chapel,St. Apolline's Chapel,St. Apolline’s Chapel	49.45694	-2.63333	S	CH	GG		00				0		15	Europe/Guernsey	2012-01-20
+6424199	Groignêt	Groignet	Groignet,Groignêt	49.45667	-2.59556	P	PPL	GG		00				0		22	Europe/Guernsey	2012-01-20
+6424200	La Porte	La Porte	La Porte	49.45944	-2.59722	P	PPL	GG		00				0		15	Europe/Guernsey	2012-01-20
+6424202	Moulin de Haut	Moulin de Haut	Moulin de Haut	49.45472	-2.59639	S	ML	GG		00				0		35	Europe/Guernsey	2012-01-20
+6424207	Les Grantez	Les Grantez	Les Grantez	49.45167	-2.59833	P	PPL	GG		00				0		80	Europe/Guernsey	2012-01-20
+6424208	Les Jaonnets	Les Jaonnets	Les Jaonnets	49.44889	-2.59667	P	PPL	GG		00				0		75	Europe/Guernsey	2012-01-20
+6424209	Fauxquets	Fauxquets	Fauxquets	49.44917	-2.5925	P	PPL	GG		00				0		47	Europe/Guernsey	2012-01-20
+6424210	Camptréhard	Camptrehard	Camptrehard,Camptréhard	49.44889	-2.58	P	PPL	GG		6417226				0		71	Europe/Guernsey	2014-04-15
+6424211	Les Niaux	Les Niaux	Les Niaux	49.45111	-2.58194	P	PPL	GG		6417226				0		52	Europe/Guernsey	2014-04-15
+6424213	Les Gouies	Les Gouies	Les Gouies	49.44167	-2.57556	P	PPL	GG		00				0		84	Europe/Guernsey	2012-01-20
+6424215	Four Cabot	Four Cabot	Four Cabot	49.44583	-2.57389	P	PPL	GG		00				0		75	Europe/Guernsey	2012-01-20
+6424216	Les Eperons	Les Eperons	Les Eperons	49.44056	-2.57833	S	FRM	GG		00				0		94	Europe/Guernsey	2012-01-20
+6424218	Les Pages	Les Pages	Les Pages	49.4325	-2.57194	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6424219	Hatnez	Hatnez	Hatnez	49.43417	-2.57861	P	PPL	GG		00				0		96	Europe/Guernsey	2012-01-20
+6424220	La Villette	La Villette	La Villette	49.43139	-2.56833	P	PPL	GG		00				0		99	Europe/Guernsey	2012-01-20
+6424221	Mouilpied	Mouilpied	Mouilpied	49.43667	-2.56806	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6424222	Les Câches	Les Caches	Les Caches,Les Câches	49.43778	-2.5625	S	FRM	GG		00				0		95	Europe/Guernsey	2012-01-20
+6424223	Carmel	Carmel	Carmel	49.44	-2.55972	P	PPL	GG		00				0		98	Europe/Guernsey	2012-01-20
+6424224	Les Hurlaux	Les Hurlaux	Les Hurlaux	49.44389	-2.56194	P	PPL	GG		00				0		88	Europe/Guernsey	2012-01-20
+6424225	Les Galliennes Chapel	Les Galliennes Chapel	Les Galliennes Chapel	49.45028	-2.57361	S	CH	GG		00				0		79	Europe/Guernsey	2012-01-20
+6424226	La Monnaie	La Monnaie	La Monnaie	49.45278	-2.57167	P	PPL	GG		00				0		83	Europe/Guernsey	2012-01-20
+6424227	Statue Menhir	Statue Menhir	Statue Menhir	49.45861	-2.57306	S	ANS	GG		00				0		73	Europe/Guernsey	2012-01-20
+6424228	Castel Hospital	Castel Hospital	Castel Hospital	49.4625	-2.57583	S	HSP	GG		00				0		41	Europe/Guernsey	2012-01-20
+6424229	Foulon Cemetery	Foulon Cemetery	Foulon Cemetery	49.45583	-2.55861	S	CMTY	GG		00				0		53	Europe/Guernsey	2012-01-20
+6424230	Le Foulon	Le Foulon	Le Foulon	49.45889	-2.55722	P	PPL	GG		00				0		48	Europe/Guernsey	2012-01-20
+6424241	Woodlands	Woodlands	Woodlands	49.45778	-2.5875	P	PPL	GG		00				0		67	Europe/Guernsey	2012-01-20
+6607961	Eperquerie	Eperquerie	Eperquerie,L'Eperquerie	49.44722	-2.36417	S	LDNG	GG		00				0		11	Europe/Guernsey	2019-12-04
+6607962	La Grune	La Grune	La Grune	49.45	-2.36778	T	ISL	GG		00				0		6	Europe/Guernsey	2012-01-20
+6608051	Boutiques	Boutiques	Boutiques	49.44806	-2.36694	S	CAVE	GG		00				0		25	Europe/Guernsey	2012-01-20
+6608065	Congrière	Congriere	Congriere,Congrière	49.44889	-2.36528	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608082	Le Platon	Le Platon	Le Platon	49.44639	-2.36639	T	PT	GG		00				0		10	Europe/Guernsey	2012-01-20
+6608094	Les Sept Moies	Les Sept Moies	Les Sept Moies	49.44472	-2.36778	T	RKS	GG		00				0		7	Europe/Guernsey	2012-01-20
+6608098	Guillaumesse	Guillaumesse	Guillaumesse	49.44528	-2.36917	T	RK	GG		00				0		34	Europe/Guernsey	2012-01-20
+6608100	Saignie Bay	Saignie Bay	La Saignee,Saignie Bay	49.44167	-2.36722	H	BAY	GG		00				0		34	Europe/Guernsey	2012-01-20
+6608101	Les Autelets	Les Autelets	Les Autelets	49.44083	-2.36917	T	RKS	GG		00				0		99	Europe/Guernsey	2012-01-20
+6608116	Port du Moulin	Port du Moulin	Port du Moulin	49.43861	-2.37	H	BAY	GG		00				0		5	Europe/Guernsey	2012-01-20
+6608117	Tintageu	Tintageu	Tintageu	49.43806	-2.37083	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608118	Platte Rock	Platte Rock	Platte Rock	49.43944	-2.37139	T	RK	GG		00				0		99	Europe/Guernsey	2012-01-20
+6608119	Port à la Jument	Port a la Jument	Port a la Jument,Port à la Jument	49.43528	-2.37194	H	BAY	GG		00				0		99	Europe/Guernsey	2012-01-20
+6608123	Banquette	Banquette	Banquette	49.44194	-2.35389	S	LDNG	GG		00				0		30	Europe/Guernsey	2012-01-20
+6608125	Huitriere	Huitriere	Huitriere	49.445	-2.35444	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608129	Le Fort	Le Fort	Le Fort	49.44222	-2.35833	P	PPL	GG		00				0		92	Europe/Guernsey	2012-01-20
+6608130	Le Grand Fort	Le Grand Fort	Le Grand Fort	49.44139	-2.35917	P	PPL	GG		00				0		95	Europe/Guernsey	2012-01-20
+6608131	La Tour	La Tour	La Tour	49.44167	-2.35972	P	PPL	GG		00				0		94	Europe/Guernsey	2012-01-20
+6608133	La Génétière	La Genetiere	La Genetiere,La Génétière	49.43944	-2.3575	P	PPL	GG		00				0		99	Europe/Guernsey	2012-01-20
+6608158	Maison Pommier Lodge	Maison Pommier Lodge	Maison Pommier,Maison Pommier Lodge	49.44139	-2.35861	S	GHSE	GG		00				0		94	Europe/Guernsey	2012-01-20
+6608162	Clos de Menage	Clos de Menage	Clos de Menage	49.43639	-2.355	S	GHSE	GG		00				0		95	Europe/Guernsey	2012-01-20
+6608166	La Marguerite	La Marguerite	La Marguerite	49.43278	-2.35333	S	GHSE	GG		00				0		98	Europe/Guernsey	2012-01-20
+6608169	Le Petit Beauregard	Le Petit Beauregard	Le Petit Beauregard	49.43083	-2.36917	S	GHSE	GG		00				0		97	Europe/Guernsey	2012-01-20
+6608174	Venus Pool	Venus Pool	Venus Pool	49.40806	-2.37333	H	POOL	GG		00				0		8	Europe/Guernsey	2012-01-20
+6608175	Pierre du Cours	Pierre du Cours	Pierre du Cours	49.40639	-2.37028	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608176	Duval	Duval	Duval	49.41389	-2.37722	P	PPL	GG		00				0		69	Europe/Guernsey	2012-01-20
+6608180	Rouge Terrier	Rouge Terrier	Rouge Terrier	49.41111	-2.36889	S	LDNG	GG		00				0		26	Europe/Guernsey	2012-01-20
+6608189	Hotel Petit Champ	Hotel Petit Champ	Hotel Petit Champ,Hotel Petit Champs	49.43222	-2.36889	S	HTL	GG		00				0		93	Europe/Guernsey	2012-01-20
+6608190	Hotel Le Grand Beauregard	Hotel Le Grand Beauregard	Hotel Le Grand Beauregard	49.42972	-2.36889	S	HTL	GG		00				0		99	Europe/Guernsey	2012-01-20
+6608191	Dixcart Bay Hotel	Dixcart Bay Hotel	Dixcart Bay Hotel,Dixcart Hotel	49.42778	-2.36	S	HTL	GG		00				0		81	Europe/Guernsey	2012-01-20
+6608192	Stocks Island Hotel	Stocks Island Hotel	Stocks Hotel,Stocks Island Hotel	49.42833	-2.36083	S	HTL	GG		00				0		79	Europe/Guernsey	2019-05-09
+6608193	Aval du Creux Hotel	Aval du Creux Hotel	Aval du Creux,Aval du Creux Hotel	49.43222	-2.35167	S	HTL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6608194	La Sablonnerie Hotel	La Sablonnerie Hotel	La Sablonnerie,La Sablonnerie Hotel	49.41417	-2.37556	S	HTL	GG		00				0		74	Europe/Guernsey	2012-01-20
+6608195	Beau Sejour	Beau Sejour	Beau Sejour	49.43583	-2.35944	S	GHSE	GG		00				0		100	Europe/Guernsey	2012-01-20
+6608196	Clos Princess	Clos Princess	Clos Princess	49.43611	-2.36	S	GHSE	GG		00				0		101	Europe/Guernsey	2012-01-20
+6608197	Le Clos des Camps	Le Clos des Camps	Clos des Camps,Le Clos des Camps	49.43944	-2.36139	S	GHSE	GG		00				0		98	Europe/Guernsey	2012-01-20
+6608198	Petit Coin	Petit Coin	Petit Coin	49.44222	-2.35778	S	GHSE	GG		00				0		91	Europe/Guernsey	2012-01-20
+6608199	Notre Desir	Notre Desir	Notre Desir	49.43472	-2.34917	S	GHSE	GG		00				0		90	Europe/Guernsey	2012-01-20
+6608200	The Dower Cottage	The Dower Cottage	The Dower Cottage	49.43333	-2.36944	S	GHSE	GG		00				0		88	Europe/Guernsey	2012-01-20
+6608201	L’Ecluse	L'Ecluse	L'Ecluse,L’Ecluse	49.43833	-2.36556	S	GHSE	GG		00				0		84	Europe/Guernsey	2012-01-20
+6608202	La Carrière	La Carriere	La Carriere,La Carrière	49.42611	-2.36528	S	GHSE	GG		00				0		89	Europe/Guernsey	2012-01-20
+6608203	La Valette	La Valette	La Valette	49.435	-2.34861	S	GHSE	GG		00				0		90	Europe/Guernsey	2012-01-20
+6608204	Petit Plaisance	Petit Plaisance	Petit Plaisance	49.42306	-2.36528	S	GHSE	GG		00				0		99	Europe/Guernsey	2012-01-20
+6608205	Port es Saies	Port es Saies	Port es Saies	49.42694	-2.365	S	GHSE	GG		00				0		92	Europe/Guernsey	2012-01-20
+6608206	Stable Cottage	Stable Cottage	Stable Cottage	49.43778	-2.35611	S	GHSE	GG		00				0		97	Europe/Guernsey	2012-01-20
+6608207	Port és Saies	Port es Saies	Port es Saies,Port és Saies	49.42417	-2.36972	H	BAY	GG		00				0		5	Europe/Guernsey	2012-01-20
+6608208	Moie des Orgeries	Moie des Orgeries	Moie des Orgeries	49.42528	-2.37333	T	RK	GG		00				0		95	Europe/Guernsey	2012-01-20
+6608209	La Pointe de la Joue	La Pointe de la Joue	La Pointe de la Joue	49.42	-2.37361	T	PT	GG		00				0		2	Europe/Guernsey	2012-01-20
+6608210	Vermandaye Bay	Vermandaye Bay	Vermandaye Bay	49.41889	-2.37472	H	BAY	GG		00				0		-9999	Europe/Guernsey	2019-05-09
+6608211	Moie Fano	Moie Fano	Moie Fano	49.41722	-2.36611	T	RK	GG		00				0		6	Europe/Guernsey	2012-01-20
+6608383	The Pot	The Pot	The Pot	49.41389	-2.36917	T	CLF	GG		00				0		42	Europe/Guernsey	2012-01-20
+6608384	Bretagne Uset	Bretagne Uset	Bretagne Uset	49.40583	-2.37861	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608386	Sercul	Sercul	Sercul	49.40528	-2.38111	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608388	Moie à Charbon	Moie a Charbon	Moie a Charbon,Moie à Charbon	49.40806	-2.37806	T	RK	GG		00				0		3	Europe/Guernsey	2012-01-20
+6608390	Moie de Port Gorey	Moie de Port Gorey	Moie de Port Gorey	49.40722	-2.38056	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608391	La Louge	La Louge	La Louge	49.40861	-2.37778	T	PT	GG		00				0		6	Europe/Guernsey	2012-01-20
+6608394	Les Têtes de la Conchée	Les Tetes de la Conchee	Les Tetes de la Conchee,Les Têtes de la Conchée	49.40972	-2.34444	H	SHOL	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608396	Petite Baveuse	Petite Baveuse	Petite Baveuse	49.41	-2.38444	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608397	Rouge Câne	Rouge Cane	Rouge Cane,Rouge Câne	49.41167	-2.38111	H	BAY	GG		00				0		5	Europe/Guernsey	2012-01-20
+6608398	Moie de la Bretagne	Moie de la Bretagne	Moie de la Bretagne	49.4125	-2.38472	T	RK	GG		00				0		2	Europe/Guernsey	2012-01-20
+6608399	Adonis Pool	Adonis Pool	Adonis Pool	49.4125	-2.38278	H	POOL	GG		00				0		7	Europe/Guernsey	2012-01-20
+6608400	Les Fontaines	Les Fontaines	Les Fontaines	49.41472	-2.38194	H	BAY	GG		00				0		3	Europe/Guernsey	2012-01-20
+6608401	Adonis Headland	Adonis Headland	Adonis Headland	49.4125	-2.38222	T	HDLD	GG		00				0		7	Europe/Guernsey	2012-01-20
+6608402	Moie de la Fontaine	Moie de la Fontaine	Moie de la Fontaine	49.41556	-2.38278	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608403	La Baveuse	La Baveuse	La Baveuse	49.41778	-2.38306	T	RK	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608552	Gouliot Headland	Gouliot Headland	Gouliot Headland	49.43139	-2.37833	T	HDLD	GG		00				0		0	Europe/Guernsey	2012-01-20
+6608553	Saut à Juan	Saut a Juan	Saut a Juan,Saut à Juan	49.43278	-2.37639	T	HDLD	GG		00				0		15	Europe/Guernsey	2012-01-20
+6608554	Moie du Mouton	Moie du Mouton	Moie du Mouton	49.43444	-2.37389	T	ISL	GG		00				0		32	Europe/Guernsey	2012-01-20
+6608555	Pierre Norman	Pierre Norman	Pierre Norman	49.42806	-2.38028	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608557	Moie du Gouliot	Moie du Gouliot	Moie du Gouliot	49.43111	-2.37944	T	RK	GG		00				0		5	Europe/Guernsey	2012-01-20
+6608581	Pot Bay	Pot Bay	Pot Bay	49.41361	-2.3675	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608586	La Donnellerie	La Donnellerie	La Donnellerie	49.41333	-2.37611	P	PPL	GG		00				0		73	Europe/Guernsey	2019-05-09
+6608589	Baleine	Baleine	Baleine	49.41528	-2.36167	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608590	Balmée	Balmee	Balmee,Balmée	49.41278	-2.35944	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608591	Le Clos Bourel	Le Clos Bourel	Le Clos Bourel	49.42472	-2.36306	P	PPL	GG		00				0		95	Europe/Guernsey	2019-05-09
+6608593	Le Dos d’Âne	Le Dos d'Ane	Le Dos d'Ane,Le Dos d’Âne	49.42583	-2.36583	P	PPL	GG		00				0		85	Europe/Guernsey	2012-01-20
+6608595	Baleine Bay	Baleine Bay	Baleine Bay	49.41806	-2.3575	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608598	Noir Bais	Noir Bais	Noir Bais	49.42194	-2.36028	T	PT	GG		00				0		4	Europe/Guernsey	2012-01-20
+6608600	Point Château	Point Chateau	Point Chateau,Point Château	49.4225	-2.35556	T	PT	GG		00				0		10	Europe/Guernsey	2012-01-20
+6608601	Hogsback	Hogsback	Hogsback	49.42417	-2.35472	T	RDGE	GG		00				0		61	Europe/Guernsey	2012-01-20
+6608609	Creux du Derrible	Creux du Derrible	Creux du Derrible	49.42611	-2.35167	S	CAVE	GG		00				0		25	Europe/Guernsey	2012-01-20
+6608612	La Forge	La Forge	La Forge	49.42917	-2.35083	P	PPL	GG		00				0		87	Europe/Guernsey	2012-01-20
+6608613	La Collinette	La Collinette	La Collinette	49.43167	-2.35333	P	PPL	GG		00				0		97	Europe/Guernsey	2012-01-20
+6608614	Petit Derrible Bay	Petit Derrible Bay	Petit Derrible Bay	49.42528	-2.34667	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608615	Derrible Headland	Derrible Headland	Derrible Headland	49.42417	-2.34778	T	HDLD	GG		00				0		15	Europe/Guernsey	2012-01-20
+6608616	Les Lâches	Les Laches	Les Laches,Les Lâches	49.42806	-2.34361	T	RK	GG		00				0		6	Europe/Guernsey	2012-01-20
+6608617	La Conchée	La Conchee	La Conchee,La Conchée	49.41917	-2.34	H	RF	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608618	La Maseline	La Maseline	La Maseline	49.43333	-2.34417	H	BAY	GG		00				0		3	Europe/Guernsey	2012-01-20
+6608619	Grande Moie	Grande Moie	Grande Moie	49.43778	-2.3425	T	RK	GG		00				0		4	Europe/Guernsey	2012-01-20
+6608620	Les Abîmes	Les Abimes	Les Abimes,Les Abîmes	49.4375	-2.34861	S	CAVE	GG		00				0		18	Europe/Guernsey	2012-01-20
+6608621	Gulls Chapel	Gulls Chapel	Gulls Chapel	49.43722	-2.35028	S	RKRY	GG		00				0		15	Europe/Guernsey	2012-01-20
+6608622	Noire Pierre	Noire Pierre	Noire Pierre	49.44444	-2.34861	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608623	Petite Moie	Petite Moie	Petite Moie	49.44222	-2.34333	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608624	Le Grand Creux	Le Grand Creux	Le Grand Creux	49.44417	-2.3575	H	RVN	GG		00				0		40	Europe/Guernsey	2012-01-20
+6608625	Creux Belet	Creux Belet	Creux Belet	49.44472	-2.36028	S	ARCH	GG		00				0		4	Europe/Guernsey	2012-01-20
+6608626	Les Fontaines	Les Fontaines	Les Fontaines	49.44556	-2.36139	H	BAY	GG		00				0		5	Europe/Guernsey	2012-01-20
+6608627	Pécheresse	Pecheresse	Pecheresse,Pécheresse	49.45028	-2.36167	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608628	Pegâne	Pegane	Pegane,Pegâne	49.43722	-2.37083	H	BAY	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608629	Prise de Bercevil	Prise de Bercevil	Prise de Bercevil	49.43611	-2.37028	T	HDLD	GG		00				0		19	Europe/Guernsey	2012-01-20
+6608630	La Givaude	La Givaude	La Givaude	49.43139	-2.39889	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608631	Les Dents	Les Dents	Les Dents	49.42639	-2.395	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608632	La Vaurocque	La Vaurocque	La Vaurocque	49.43054	-2.36558	P	PPL	GG		00				0		102	Europe/Guernsey	2014-07-12
+6608633	La Seigneurie	La Seigneurie	La Seigneurie,La-Seneri,Ла-Сенери	49.43778	-2.3625	P	PPL	GG		00				170		95	Europe/Guernsey	2012-01-20
+6608634	Pierre des Burons	Pierre des Burons	Pierre des Burons	49.42833	-2.33917	T	RK	GG		00				0		-9999	Europe/Guernsey	2019-05-09
+6608635	Boue de Grune Gouliot	Boue de Grune Gouliot	Boue de Grune Gouliot	49.43556	-2.38194	H	SHOL	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608820	Alderney Breakwater	Alderney Breakwater	Alderney Breakwater	49.72806	-2.19917	S	BRKW	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608821	Roselle Point	Roselle Point	Roselle Point	49.72722	-2.18833	T	PT	GG		00				0		0	Europe/Guernsey	2012-01-20
+6608822	Fort Albert	Fort Albert	Fort Albert	49.72639	-2.18389	S	FT	GG		00				0		50	Europe/Guernsey	2012-01-20
+6608823	Houmet des Pies	Houmet des Pies	Houmet des Pies	49.73139	-2.1825	T	RKS	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608825	Saye Bay	Saye Bay	Saye Bay	49.73083	-2.18111	H	BAY	GG		00				0		14	Europe/Guernsey	2012-01-20
+6608842	Château à L’Etoc	Chateau a L'Etoc	Chateau L'Etocq,Chateau L’Etocq,Chateau a L'Etoc,Château à L’Etoc	49.73167	-2.1775	S	FT	GG		00				0		5	Europe/Guernsey	2012-01-20
+6608844	Saye Farm	Saye Farm	Saye Farm	49.72861	-2.1798	P	PPL	GG	GB	00				0		6	Europe/Guernsey	2015-01-03
+6608846	Longis Common	Longis Common	Longis Common	49.72333	-2.17556	L	CMN	GG	GB	00				0		9	Europe/Guernsey	2015-01-03
+6608848	La Mare du Roe	La Mare du Roe	La Mare du Roe	49.72361	-2.17361	H	PND	GG		00				0		6	Europe/Guernsey	2012-01-20
+6608849	Berry’s Quarry	Berry's Quarry	Berry's Quarry,Berry’s Quarry	49.72667	-2.17083	S	MNQR	GG		00				0		15	Europe/Guernsey	2012-01-20
+6608851	Corblets Point	Corblets Point	Corblets Point	49.73028	-2.16972	T	PT	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608852	Veaux Trembliers Bay	Veaux Trembliers Bay	Veaux Trembliers Bay	49.73	-2.16833	H	BAY	GG		00				0		-1	Europe/Guernsey	2012-01-20
+6608853	Fort Corblets	Fort Corblets	Fort Corblets	49.72889	-2.17056	S	FT	GG		00				0		8	Europe/Guernsey	2012-01-20
+6608859	Mannez Pond	Mannez Pond	Mannez Pond	49.72667	-2.16444	H	PND	GG		00				0		15	Europe/Guernsey	2012-01-20
+6608864	Mannez Garenne	Mannez Garenne	Mannez Garenne	49.725	-2.17056	L	LCTY	GG		00				0		23	Europe/Guernsey	2012-01-20
+6608865	Mannez Lighthouse	Mannez Lighthouse	Alderney Lighthouse,Mannez Lighthouse	49.72913	-2.16426	S	LTHSE	GG		8989934				0		10	Europe/Guernsey	2018-02-02
+6608891	Fort Les Homeaux Florains	Fort Les Homeaux Florains	Fort Les Homeaux Florains	49.73111	-2.16194	S	RUIN	GG		00				0		1	Europe/Guernsey	2012-01-20
+6608893	Cats Bay	Cats Bay	Cats Bay	49.73028	-2.16111	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6608907	Saint Esquere Bay	Saint Esquere Bay	Saint Esquere Bay,St. Esquere Bay	49.72694	-2.15806	H	BAY	GG		00				0		1	Europe/Guernsey	2021-02-20
+6608940	La Petite Folie	La Petite Folie	La Petite Folie	49.72667	-2.16083	T	RK	GG		00				0		9	Europe/Guernsey	2012-01-20
+6608941	La Grande Folie	La Grande Folie	La Grande Folie	49.72472	-2.16389	T	RKS	GG		00				0		15	Europe/Guernsey	2012-01-20
+6608942	Fort Quesnard	Fort Quesnard	Fort Quesnard	49.72909	-2.16043	S	FT	GG		00				0		-9999	Europe/Guernsey	2023-02-10
+6608943	La Retrieve	La Retrieve	La Retrieve	49.72444	-2.16167	T	RK	GG		00				0		-1	Europe/Guernsey	2012-01-20
+6608944	Brinchetais Rocks	Brinchetais Rocks	Brinchetais Rocks	49.72417	-2.15556	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6609384	Platte Saline	Platte Saline	Platte Saline	49.72111	-2.2125	T	BCH	GG		00				0		4	Europe/Guernsey	2012-01-20
+6609385	Grosse Rock	Grosse Rock	Grosse Rock	49.72333	-2.22361	T	RK	GG		00				0		7	Europe/Guernsey	2012-01-20
+6609386	Trois Vaux Bay	Trois Vaux Bay	Trois Vaux Bay	49.705	-2.23278	H	BAY	GG		00				0		9	Europe/Guernsey	2012-01-20
+6609387	Telegraph Bay	Telegraph Bay	Telegraph Bay	49.70194	-2.22611	H	BAY	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6609388	La Nache	La Nache	La Nache	49.70028	-2.22139	T	RK	GG		00				0		3	Europe/Guernsey	2012-01-20
+6609389	Fourquie	Fourquie	Fourquie	49.70028	-2.22056	T	RK	GG		00				0		4	Europe/Guernsey	2012-01-20
+6609390	Noire Rogue	Noire Rogue	Noire Rogue	49.70194	-2.19861	T	RKS	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6609391	Cachalière Pier	Cachaliere Pier	Cachaliere Pier,Cachalière Pier	49.70639	-2.19444	S	PIER	GG		00				0		10	Europe/Guernsey	2012-01-20
+6609392	Les Becquets	Les Becquets	Les Becquets	49.70917	-2.1875	T	PT	GG		00				0		5	Europe/Guernsey	2012-01-20
+6609393	Rousset	Rousset	Rousset	49.71389	-2.17583	T	RK	GG		00				0		6	Europe/Guernsey	2012-01-20
+6609394	Queslingue	Queslingue	Queslingue	49.71556	-2.1725	T	RK	GG		00				0		-9999	Europe/Guernsey	2012-01-20
+6609396	Crabby Bay	Crabby Bay	Crabby Bay	49.7225	-2.20583	H	BAY	GG		00				0		9	Europe/Guernsey	2012-01-20
+6609397	Crabby	Crabby	Crabby	49.72058	-2.2089	P	PPL	GG		00				0		8	Europe/Guernsey	2015-02-03
+6609399	Newtown	Newtown	Newtown	49.71917	-2.19972	P	PPL	GG		00				0		18	Europe/Guernsey	2012-01-20
+6609400	Butes	Butes	Butes	49.7181	-2.20735	P	PPL	GG		00				0		38	Europe/Guernsey	2015-02-03
+6609401	Château de Longis	Chateau de Longis	Chateau de Longis,Château de Longis	49.72083	-2.17583	S	FT	GG		00				0		7	Europe/Guernsey	2012-01-20
+6609402	Essex Castle	Essex Castle	Essex Castle	49.7175	-2.17556	S	CSTL	GG		00				0		60	Europe/Guernsey	2012-01-20
+6609410	Les Huguettes	Les Huguettes	Les Huguettes	49.72056	-2.18139	L	LCTY	GG		00				0		36	Europe/Guernsey	2012-01-20
+6609412	Mount Hale Battery	Mount Hale Battery	Mount Hale Battery	49.72333	-2.185	S	FT	GG		00				0		17	Europe/Guernsey	2012-01-20
+6609413	Essex House	Essex House	Essex House	49.71694	-2.18389	S	HSE	GG		00				0		39	Europe/Guernsey	2012-01-20
+6609416	Essex Hill	Essex Hill	Essex Hill	49.71583	-2.17861	T	HLL	GG		00				0		63	Europe/Guernsey	2012-01-20
+6609417	La Roche Pendante	La Roche Pendante	La Roche Pendante	49.71472	-2.17583	T	RK	GG		00				0		30	Europe/Guernsey	2012-01-20
+6609418	Haize	Haize	Haize	49.71472	-2.18528	L	LCTY	GG		00				0		51	Europe/Guernsey	2012-01-20
+6609419	Cognons	Cognons	Cognons	49.71194	-2.1875	L	LCTY	GG		00				0		47	Europe/Guernsey	2012-01-20
+6609420	Cachalière	Cachaliere	Cachaliere,Cachalière	49.70778	-2.19528	L	LCTY	GG		00				0		50	Europe/Guernsey	2012-01-20
+6609421	Fosse Bassé	Fosse Basse	Fosse Basse,Fosse Bassé	49.71222	-2.19278	L	LCTY	GG		00				0		77	Europe/Guernsey	2012-01-20
+6609423	Quoire	Quoire	Quoire	49.70972	-2.19083	L	LCTY	GG		00				0		58	Europe/Guernsey	2012-01-20
+6609424	Vouême	Voueme	Voueme,Vouême	49.70861	-2.19806	L	LCTY	GG		00				0		82	Europe/Guernsey	2012-01-20
+6609425	Le Rond But	Le Rond But	Le Rond But	49.71028	-2.19833	L	LCTY	GG		00				0		86	Europe/Guernsey	2012-01-20
+6609426	Le Champ Grui	Le Champ Grui	Le Champ Grui	49.71139	-2.2	L	LCTY	GG		00				0		83	Europe/Guernsey	2012-01-20
+6609427	Vaindsaire	Vaindsaire	Vaindsaire	49.71194	-2.19694	L	LCTY	GG		00				0		82	Europe/Guernsey	2012-01-20
+6609428	Le Longue Pierre	Le Longue Pierre	Le Longue Pierre	49.70917	-2.20194	L	LCTY	GG		00				0		85	Europe/Guernsey	2012-01-20
+6609429	Le Callier	Le Callier	Le Callier	49.71056	-2.20167	L	LCTY	GG		00				0		86	Europe/Guernsey	2012-01-20
+6609430	La Corvée	La Corvee	La Corvee,La Corvée	49.71306	-2.19917	L	LCTY	GG		00				0		80	Europe/Guernsey	2012-01-20
+6609432	Les Couttes	Les Couttes	Les Couttes	49.71389	-2.19333	L	LCTY	GG		00				0		73	Europe/Guernsey	2012-01-20
+6609433	La Basse Corvée	La Basse Corvee	La Basse Corvee,La Basse Corvée	49.71306	-2.19306	L	LCTY	GG		00				0		77	Europe/Guernsey	2012-01-20
+6609434	Longis House	Longis House	Longis House	49.71556	-2.18889	S	HSE	GG		00				0		59	Europe/Guernsey	2012-01-20
+6609435	Les Rochers	Les Rochers	Les Rochers	49.71694	-2.19	L	LCTY	GG		00				0		66	Europe/Guernsey	2012-01-20
+6609436	Verdun Farm	Verdun Farm	Verdun Farm	49.71389	-2.19778	S	FRM	GG		00				0		76	Europe/Guernsey	2012-01-20
+6609437	Cotil du Val	Cotil du Val	Cotil du Val	49.71722	-2.19806	L	LCTY	GG		00				0		39	Europe/Guernsey	2012-01-20
+6609439	Valongis	Valongis	Valongis	49.71583	-2.19417	L	LCTY	GG		00				0		67	Europe/Guernsey	2012-01-20
+6609440	Val Longis	Val Longis	Val Longis	49.7175	-2.19528	L	LCTY	GG		00				0		42	Europe/Guernsey	2012-01-20
+6609441	Fort Doyle	Fort Doyle	Fort Doyle	49.72167	-2.20778	S	FT	GG		00				0		9	Europe/Guernsey	2012-01-20
+6609442	Ladysmith	Ladysmith	Ladysmith	49.71722	-2.20972	L	LCTY	GG		00				0		44	Europe/Guernsey	2012-01-20
+6609443	Clos Carré	Clos Carre	Clos Carre,Clos Carré	49.71639	-2.20639	L	LCTY	GG		00				0		61	Europe/Guernsey	2012-01-20
+6609444	Valley Gardens	Valley Gardens	Valley Gardens	49.71583	-2.20583	S	GDN	GG		00				0		59	Europe/Guernsey	2012-01-20
+6609445	La Picaterre	La Picaterre	La Picaterre	49.7191	-2.21164	P	PPL	GG	GB	00				0		14	Europe/Guernsey	2015-02-03
+6609489	Fort Platte Saline	Fort Platte Saline	Fort Platte Saline	49.72044	-2.21385	S	FT	GG		00				0		3	Europe/Guernsey	2015-02-03
+6609491	Fort Tourgis	Fort Tourgis	Fort Tourgis,Fuerte Tourgis,hsn twrjys,حصن تورجيس	49.71889	-2.21917	S	FT	GG		00				0		34	Europe/Guernsey	2012-01-20
+6609493	Vue de la Saline	Vue de la Saline	Vue de la Saline	49.71528	-2.21222	L	LCTY	GG		00				0		69	Europe/Guernsey	2012-01-20
+6609494	La Petite Blaye	La Petite Blaye	La Petite Blaye	49.71361	-2.21361	L	LCTY	GG		00				0		72	Europe/Guernsey	2012-01-20
+6609495	Le Genet	Le Genet	Le Genet	49.71278	-2.21306	L	LCTY	GG		00				0		73	Europe/Guernsey	2012-01-20
+6609496	La Bonne Terre	La Bonne Terre	La Bonne Terre	49.715	-2.21556	L	LCTY	GG		00				0		53	Europe/Guernsey	2012-01-20
+6609497	Fosse aux Chevaliers	Fosse aux Chevaliers	Fosse aux Chevaliers	49.71444	-2.21472	H	DTCH	GG		00				0		64	Europe/Guernsey	2012-01-20
+6609498	Sur la Ville	Sur la Ville	Sur la Ville	49.70944	-2.20861	L	LCTY	GG		00				0		84	Europe/Guernsey	2012-01-20
+6609499	Fosse Hervé	Fosse Herve	Fosse Herve,Fosse Hervé	49.70861	-2.20694	H	DTCH	GG		00				0		83	Europe/Guernsey	2012-01-20
+6609500	Courtil Liage	Courtil Liage	Courtil Liage	49.71083	-2.20444	L	LCTY	GG		00				0		84	Europe/Guernsey	2012-01-20
+6609501	Les Vaindifs	Les Vaindifs	Les Vaindifs	49.70972	-2.20417	L	LCTY	GG		00				0		85	Europe/Guernsey	2012-01-20
+6609502	La Vielle Terre	La Vielle Terre	La Vielle Terre	49.70833	-2.205	L	LCTY	GG		00				0		84	Europe/Guernsey	2012-01-20
+6609503	Vau Renier	Vau Renier	Vau Renier	49.70583	-2.21167	L	LCTY	GG		00				0		82	Europe/Guernsey	2012-01-20
+6609505	Platte Cotil	Platte Cotil	Platte Cotil	49.70583	-2.20944	L	LCTY	GG		00				0		84	Europe/Guernsey	2012-01-20
+6609507	La Grande Blaye	La Grande Blaye	La Grande Blaye	49.70639	-2.21472	L	LCTY	GG		00				0		83	Europe/Guernsey	2012-01-20
+6609508	Sur la Hogue	Sur la Hogue	Sur la Hogue	49.70833	-2.21306	L	LCTY	GG		00				0		83	Europe/Guernsey	2012-01-20
+6609513	Landettes	Landettes	Landettes	49.70639	-2.22028	L	LCTY	GG		00				0		80	Europe/Guernsey	2012-01-20
+6609514	Rocquettes	Rocquettes	Rocquettes	49.70833	-2.21806	L	LCTY	GG		00				0		80	Europe/Guernsey	2012-01-20
+6609515	Clos des Cables	Clos des Cables	Clos des Cables	49.70806	-2.22278	L	LCTY	GG		00				0		79	Europe/Guernsey	2012-01-20
+6609517	Le Bigard	Le Bigard	Le Bigard	49.70917	-2.21972	L	LCTY	GG		00				0		78	Europe/Guernsey	2012-01-20
+6609518	Rose Farm	Rose Farm	Rose Farm	49.71066	-2.21958	P	PPL	GG	GB	00				0		69	Europe/Guernsey	2015-02-03
+6609519	Langevin	Langevin	Langevin	49.7125	-2.21639	L	LCTY	GG		00				0		67	Europe/Guernsey	2012-01-20
+6609520	Les Coutûres	Les Coutures	Les Coutures,Les Coutûres	49.71111	-2.21528	L	LCTY	GG		00				0		69	Europe/Guernsey	2012-01-20
+6609521	L’Aie	L'Aie	L'Aie,L’Aie	49.70972	-2.21361	L	LCTY	GG		00				0		75	Europe/Guernsey	2012-01-20
+6609522	L’Emauve	L'Emauve	L'Emauve,L’Emauve	49.70556	-2.21444	L	LCTY	GG		00				0		85	Europe/Guernsey	2012-01-20
+6609523	Les Couriaux	Les Couriaux	Les Couriaux	49.70278	-2.21444	L	LCTY	GG		00				0		60	Europe/Guernsey	2012-01-20
+6609524	Val L’Emauve	Val L'Emauve	Val L'Emauve,Val L’Emauve	49.70278	-2.2175	T	VAL	GG		00				0		43	Europe/Guernsey	2012-01-20
+6609525	Vallée des Gaudulons	Vallee des Gaudulons	Vallee des Gaudulons,Vallée des Gaudulons	49.70333	-2.22028	T	VAL	GG		00				0		76	Europe/Guernsey	2012-01-20
+6609526	La Hougette de la Taillie	La Hougette de la Taillie	La Hougette de la Taillie	49.705	-2.22472	T	MND	GG		00				0		78	Europe/Guernsey	2012-01-20
+6609527	Tete de Judemarre	Tete de Judemarre	Tete de Judemarre	49.70333	-2.22972	L	LCTY	GG		00				0		56	Europe/Guernsey	2012-01-20
+6609528	Vallée des Trois Vaux	Vallee des Trois Vaux	Vallee des Trois Vaux,Vallée des Trois Vaux	49.70556	-2.23056	T	VAL	GG		00				0		36	Europe/Guernsey	2012-01-20
+6609529	Giffoine	Giffoine	Giffoine	49.70944	-2.22694	L	LCTY	GG		00				0		81	Europe/Guernsey	2012-01-20
+6609530	Courtil Quartier	Courtil Quartier	Courtil Quartier	49.71472	-2.21889	L	LCTY	GG		00				0		62	Europe/Guernsey	2012-01-20
+6609531	Val de la Bonne Terre	Val de la Bonne Terre	Val de la Bonne Terre	49.71528	-2.21667	T	VAL	GG		00				0		48	Europe/Guernsey	2012-01-20
+6609532	Clos Est Mougues	Clos Est Mougues	Clos Est Mougues	49.7175	-2.21806	L	LCTY	GG		00				0		42	Europe/Guernsey	2012-01-20
+6609533	Druid’s Altar	Druid's Altar	Druid's Altar,Druid’s Altar	49.71667	-2.21889	S	GRVE	GG		00				0		53	Europe/Guernsey	2012-01-20
+6609540	Mount Hale	Mount Hale	Mount Hale	49.72333	-2.18472	T	HLL	GG		00				0		17	Europe/Guernsey	2012-01-20
+6609683	Houmet Herbé	Houmet Herbe	Houmet Herbe,Houmet Herbé	49.72583	-2.15806	S	RUIN	GG		00				0		1	Europe/Guernsey	2012-01-20
+6609684	Saint Anne’s Church	Saint Anne's Church	Saint Anne's Church,Saint Anne’s Church,St. Anne's Church,St. Anne’s Church	49.71528	-2.205	S	CH	GG		00				0		69	Europe/Guernsey	2021-02-20
+6609686	Fort Clonque	Fort Clonque	Fort Clonque,fort Clonque,hsn klwnk,حصن كلونك	49.71361	-2.2325	S	FT	GG		00				0		4	Europe/Guernsey	2012-01-20
+6609687	Telegraph Tower	Telegraph Tower	Telegraph Tower	49.70442	-2.22215	S	TOWR	GG		8989934				0		76	Europe/Guernsey	2015-02-13
+6692239	Castel	Castel		49.46757	-2.60015	P	PPLA	GG	GB	6417229				0		5	Europe/Guernsey	2016-11-03
+6692240	Saint Andrew	Saint Andrew	St. Andrews	49.44389	-2.58018	P	PPLA	GG	GB	6417226				0		81	Europe/Guernsey	2019-07-19
+6692241	Herm	Herm		49.47398	-2.44905	A	ADMD	GG						0		39	Europe/Guernsey	2008-05-09
+6692242	Herm	Herm		49.46963	-2.45289	P	PPL	GG						0		9	Europe/Guernsey	2008-05-09
+6696201	Sark	Sark		49.43331	-2.35622	P	PPL	GG	GB	00				600		99	Europe/Guernsey	2018-07-15
+6696773	St Martin	St Martin	St. Martin	49.43713	-2.55479	P	PPLA	GG	GB	6417224				0		97	Europe/Guernsey	2023-09-19
+6696774	Saint Martin	Saint Martin		49.44235	-2.57127	P	PPL	GG						0		88	Europe/Guernsey	2008-09-15
+7116835	duke of richmond	duke of richmond		49.464	-2.55	S	HTL	GG						0		31	Europe/Guernsey	2010-01-17
+7117167	hougue du pommier	hougue du pommier		49.478	-2.578	S	HTL	GG						0		6	Europe/Guernsey	2010-01-20
+7117477	peninsula	peninsula		49.50579	-2.5377	S	HTL	GG						0		6	Europe/Guernsey	2010-01-25
+8989934	Alderney	Alderney		49.71677	-2.19851	A	ADM1	GG	GB	8989934				2019		56	Europe/Guernsey	2023-02-09
+8989935	Sark	Sark	Sark	49.43272	-2.35919	L	RGN	GG	GB					600		104	Europe/Guernsey	2014-11-06
+9257906	Best Western Hotel De Havelet	Best Western Hotel De Havelet		49.4532	-2.5435	S	HTL	GG						0		43	Europe/Guernsey	2014-08-04
+9258006	Best Western Moores Central	Best Western Moores Central		49.45577	-2.53627	S	HTL	GG						0		21	Europe/Guernsey	2014-08-04
+9259659	The Old Government House Hotel & Spa	The Old Government House Hotel & Spa		49.45736	-2.53836	S	HTL	GG						0		33	Europe/Guernsey	2014-08-06
+9260135	Saints Bay	Saints Bay		49.42175	-2.56179	S	HTL	GG						0		95	Europe/Guernsey	2014-08-06
+9845474	Alderney - Braye Harbour	Alderney - Braye Harbour	Alderney Ferry Port,Alderney Harbour	49.72714	-2.19901	L	PRT	GG	GB	00				0		1	Europe/Guernsey	2025-08-17
+9845577	Guernsey Port	Guernsey Port	Guernsey Ferry Port,Guernsey Harbour	49.45836	-2.53015	S	FYT	GG	GB	00				0		4	Europe/Guernsey	2023-10-13
+9845580	Sark Port	Sark Port	Sark Ferry Port,Sark Harbour	49.43139	-2.34347	L	PRT	GG		00				0		22	Europe/Guernsey	2023-10-13
+9973092	Braye Harbor	Braye Harbor		49.7247	-2.20215	H	HBR	GG						0		9	Europe/Guernsey	2015-02-03
+9973093	Fort Grosnez	Fort Grosnez		49.72447	-2.20494	S	FT	GG						0		4	Europe/Guernsey	2015-02-03
+9973094	Val du Saou	Val du Saou		49.70532	-2.20627	L	PRK	GG		8989934				0		50	Europe/Guernsey	2015-02-13
+10099882	La Collinette Hotel	La Collinette Hotel		49.46042	-2.54587	S	HTL	GG						0		55	Europe/Guernsey	2015-02-14
+10232943	White House	White House		49.47037	-2.45216	S	HTL	GG						0		9	Europe/Guernsey	2015-04-23
+10232944	Jerbourg	Jerbourg		49.42388	-2.53307	S	HTL	GG						0		87	Europe/Guernsey	2015-04-23
+10232945	La Barbarie	La Barbarie		49.43003	-2.56168	S	HTL	GG						0		100	Europe/Guernsey	2015-04-23
+10232946	Le Chene	Le Chene		49.43359	-2.58069	S	HTL	GG						0		93	Europe/Guernsey	2015-04-23
+10232947	La Fregate Hotel	La Fregate Hotel		49.45961	-2.53735	S	HTL	GG						0		49	Europe/Guernsey	2015-04-23
+10232948	The Farmhouse	The Farmhouse		49.43975	-2.60083	S	HTL	GG						0		90	Europe/Guernsey	2015-04-23
+10232949	Le Friquet Country	Le Friquet Country		49.47094	-2.56818	S	HTL	GG						0		19	Europe/Guernsey	2015-04-23
+10238557	La Trelade Country House	La Trelade Country House		49.43458	-2.57092	S	HTL	GG						0		99	Europe/Guernsey	2015-04-28
+10238563	The Yacht Inn	The Yacht Inn		49.45341	-2.53542	S	HTL	GG						0		14	Europe/Guernsey	2015-04-28
+10238567	Fermain Valley	Fermain Valley		49.4379	-2.54023	S	HTL	GG						0		67	Europe/Guernsey	2015-04-28
+10238581	La Piette	La Piette		49.46421	-2.53558	S	HTL	GG						0		7	Europe/Guernsey	2015-04-28
+10238582	The Marton Guest House	The Marton Guest House		49.44967	-2.54085	S	HTL	GG						0		54	Europe/Guernsey	2015-04-28
+10295932	St Martin S	St Martin S		49.43988	-2.5559	S	HTL	GG						0		101	Europe/Guernsey	2015-05-31
+10295933	St Pierre Park	St Pierre Park		49.45965	-2.55436	S	HTL	GG						0		61	Europe/Guernsey	2015-05-31
+10295936	Farm House	Farm House		49.44683	-2.61288	S	HTL	GG						0		75	Europe/Guernsey	2015-05-31
+10295937	De Beauvoir	De Beauvoir		49.472	-2.571	S	HTL	GG						0		19	Europe/Guernsey	2015-05-31
+10295938	Cobo Bay	Cobo Bay		49.476	-2.594	S	HTL	GG						0		3	Europe/Guernsey	2015-05-31
+10337967	Bella Luce Hotel	Bella Luce Hotel		49.42993	-2.55461	S	HTL	GG						0		93	Europe/Guernsey	2015-06-10
+11071971	Carteret	Carteret		49.48	-2.58788	P	PPL	GG	GB					0		6	Europe/Guernsey	2016-02-19
+11071972	La Mare De Carteret Playing Fields	La Mare De Carteret Playing Fields		49.48112	-2.58586	S	ATHF	GG						0		3	Europe/Guernsey	2016-02-19
+11071973	Vale Village	Vale Village		49.48226	-2.56492	P	PPL	GG						0		6	Europe/Guernsey	2016-02-19
+11126097	ArtParkS Sculpture Park	ArtParkS Sculpture Park		49.43558	-2.54756	L	PRK	GG						0		95	Europe/Guernsey	2016-04-20
+11550830	Delancey	Delancey		49.47774	-2.52497	P	PPL	GG						0		18	Europe/Guernsey	2017-06-07
+11591722	Vale	Vale		49.48577	-2.51956	P	PPL	GG	GB					0		4	Europe/Guernsey	2017-06-09
+11810596	Casquets Lighthouse	Casquets Lighthouse		49.72204	-2.37695	S	LTHSE	GG		8989934				0		-9999	Europe/Guernsey	2023-11-06
+12541093	Gouliot	Gouliot	Gouliot	49.43141	-2.37963	T	ISL	GG	GB	00				0	45	0		2023-10-16
+12541137	Les Tas de Pois d'Amont	Les Tas de Pois d'Amont	Les Tas de Pois d'Amont	49.41777	-2.54087	T	ISL	GG	GB	00				0	36	0		2023-10-16
+12541138	Vale Mill	Vale Mill	Vale Mill	49.49232	-2.51532	T	ISL	GG						0	31	0		2023-06-17
+12541176	Le Moulin (Sark)	Le Moulin (Sark)	Le Moulin (Sark)	49.4312	-2.36244	T	HLL	GG	GB					0	114	0	Europe/London	2024-11-12
+12618479	Fourquie	Fourquie	Fourquie	49.70029	-2.22065	T	HLL	GG						0	38	4	Europe/Guernsey	2023-10-21
+12624076	Fort Albert	Fort Albert	Fort Albert	49.72633	-2.184	T	HLL	GG						0	55	50	Europe/Guernsey	2023-10-21
+13308412	Port of St. Peter Port	Port of St. Peter Port		49.4562	-2.5321	L	PRT	GG						0	0	-9999	Europe/Jersey	2025-05-02
+13527037	Vale Parish	Vale Parish		49.4944	-2.5179	P	PPLA5	GG	GB					9646		11	Europe/Guernsey	2025-10-02
+13527040	Forest Parish	Forest Parish		49.42983	-2.60168	P	PPLA	GG	GB	6417223				1624		102	Europe/Guernsey	2025-11-24
+13527042	Saint Pierre du Bois Parish	Saint Pierre du Bois Parish		49.45399	-2.63808	P	PPLA	GG	GB	6417213				2001		41	Europe/Guernsey	2026-06-01

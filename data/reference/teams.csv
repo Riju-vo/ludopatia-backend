@@ -1,0 +1,263 @@
+﻿team_id,source_name,canonical_name,fifa_code,confederation,membership_status,model_scope,aliases,identity_source,notes
+fifa_afg,Afghanistan,Afghanistan,AFG,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_alb,Albania,Albania,ALB,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_alderney,Alderney,Alderney,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_alg,Algeria,Algeria,ALG,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_asa,American Samoa,American Samoa,ASA,OFC,fifa_member,include,American Samoa (unranked),FIFA Member Associations snapshot,
+fifa_and,Andorra,Andorra,AND,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ang,Angola,Angola,ANG,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_aia,Anguilla,Anguilla,AIA,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_atg,Antigua and Barbuda,Antigua and Barbuda,ATG,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_arg,Argentina,Argentina,ARG,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_arm,Armenia,Armenia,ARM,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_aru,Aruba,Aruba,ARU,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_aus,Australia,Australia,AUS,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_aut,Austria,Austria,AUT,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_aymara,Aymara,Aymara,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_aze,Azerbaijan,Azerbaijan,AZE,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bah,Bahamas,Bahamas,BAH,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bhr,Bahrain,Bahrain,BHR,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ban,Bangladesh,Bangladesh,BAN,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_brb,Barbados,Barbados,BRB,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_basque_country,Basque Country,Basque Country,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_blr,Belarus,Belarus,BLR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bel,Belgium,Belgium,BEL,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_blz,Belize,Belize,BLZ,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ben,Benin,Benin,BEN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ber,Bermuda,Bermuda,BER,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bhu,Bhutan,Bhutan,BHU,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_biafra,Biafra,Biafra,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_bol,Bolivia,Bolivia,BOL,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_bonaire,Bonaire,Bonaire,,CONCACAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_bih,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bot,Botswana,Botswana,BOT,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bra,Brazil,Brazil,BRA,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_vgb,British Virgin Islands,British Virgin Islands,VGB,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bru,Brunei,Brunei Darussalam,BRU,AFC,fifa_member,include,Brunei,FIFA Member Associations snapshot,
+fifa_bul,Bulgaria,Bulgaria,BUL,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bfa,Burkina Faso,Burkina Faso,BFA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_bdi,Burundi,Burundi,BDI,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cam,Cambodia,Cambodia,CAM,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cmr,Cameroon,Cameroon,CMR,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_can,Canada,Canada,CAN,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cpv,Cape Verde,Cabo Verde,CPV,CAF,fifa_member,include,Cape Verde; Cape Verde Islands,FIFA Member Associations snapshot,
+fifa_cay,Cayman Islands,Cayman Islands,CAY,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cta,Central African Republic,Central African Republic,CTA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cha,Chad,Chad,CHA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_chameria,Chameria,Chameria,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_chi,Chile,Chile,CHI,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_chn,China,China PR,CHN,AFC,fifa_member,include,China,FIFA Member Associations snapshot,
+fifa_col,Colombia,Colombia,COL,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_com,Comoros,Comoros,COM,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cgo,Congo,Congo,CGO,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cok,Cook Islands,Cook Islands,COK,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_crc,Costa Rica,Costa Rica,CRC,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cro,Croatia,Croatia,CRO,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cub,Cuba,Cuba,CUB,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cuw,Curaçao,Curaçao,CUW,CONCACAF,fifa_member,include,Curacao,FIFA Member Associations snapshot,
+fifa_cyp,Cyprus,Cyprus,CYP,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_cze,Czech Republic,Czechia,CZE,UEFA,fifa_member,include,Czech Republic,FIFA Member Associations snapshot,
+fifa_cod,DR Congo,Congo DR,COD,CAF,fifa_member,include,DR Congo,FIFA Member Associations snapshot,
+fifa_den,Denmark,Denmark,DEN,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_dji,Djibouti,Djibouti,DJI,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_dma,Dominica,Dominica,DMA,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_dom,Dominican Republic,Dominican Republic,DOM,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_east_turkestan,East Turkestan,East Turkestan,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_ecu,Ecuador,Ecuador,ECU,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_egy,Egypt,Egypt,EGY,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_slv,El Salvador,El Salvador,SLV,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_elba_island,Elba Island,Elba Island,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_eng,England,England,ENG,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_eqg,Equatorial Guinea,Equatorial Guinea,EQG,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_est,Estonia,Estonia,EST,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_swz,Eswatini,Eswatini,SWZ,CAF,fifa_member,include,Swaziland,FIFA Member Associations snapshot,
+fifa_eth,Ethiopia,Ethiopia,ETH,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_falkland_islands,Falkland Islands,Falkland Islands,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_fro,Faroe Islands,Faroe Islands,FRO,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_fij,Fiji,Fiji,FIJ,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_fin,Finland,Finland,FIN,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_fra,France,France,FRA,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_french_guiana,French Guiana,French Guiana,,CONCACAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_frya,Frøya,Frøya,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_gab,Gabon,Gabon,GAB,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_galicia,Galicia,Galicia,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_gam,Gambia,The Gambia,GAM,CAF,fifa_member,include,Gambia,FIFA Member Associations snapshot,
+fifa_geo,Georgia,Georgia,GEO,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ger,Germany,Germany,GER,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_gha,Ghana,Ghana,GHA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_gib,Gibraltar,Gibraltar,GIB,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_gozo,Gozo,Gozo,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_gre,Greece,Greece,GRE,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_greenland,Greenland,Greenland,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_grn,Grenada,Grenada,GRN,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_guadeloupe,Guadeloupe,Guadeloupe,,CONCACAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_gum,Guam,Guam,GUM,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_gua,Guatemala,Guatemala,GUA,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_guernsey,Guernsey,Guernsey,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_gui,Guinea,Guinea,GUI,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_gnb,Guinea-Bissau,Guinea-Bissau,GNB,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_guy,Guyana,Guyana,GUY,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_hai,Haiti,Haiti,HAI,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_hitra,Hitra,Hitra,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_hmong,Hmong,Hmong,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_hon,Honduras,Honduras,HON,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_hkg,Hong Kong,"Hong Kong, China",HKG,AFC,fifa_member,include,Hong Kong,FIFA Member Associations snapshot,
+fifa_hun,Hungary,Hungary,HUN,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_isl,Iceland,Iceland,ISL,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ind,India,India,IND,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_idn,Indonesia,Indonesia,IDN,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_irn,Iran,IR Iran,IRN,AFC,fifa_member,include,Iran,FIFA Member Associations snapshot,
+fifa_irq,Iraq,Iraq,IRQ,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_isle_of_man,Isle of Man,Isle of Man,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_isle_of_wight,Isle of Wight,Isle of Wight,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_isr,Israel,Israel,ISR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ita,Italy,Italy,ITA,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_civ,Ivory Coast,Côte d'Ivoire,CIV,CAF,fifa_member,include,Ivory Coast,FIFA Member Associations snapshot,
+fifa_jam,Jamaica,Jamaica,JAM,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_jpn,Japan,Japan,JPN,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_jersey,Jersey,Jersey,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_jor,Jordan,Jordan,JOR,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_kaz,Kazakhstan,Kazakhstan,KAZ,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ken,Kenya,Kenya,KEN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_kernow,Kernow,Kernow,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_kos,Kosovo,Kosovo,KOS,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_kuw,Kuwait,Kuwait,KUW,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_kgz,Kyrgyzstan,Kyrgyz Republic,KGZ,AFC,fifa_member,include,Kyrgyzstan,FIFA Member Associations snapshot,
+fifa_lao,Laos,Laos,LAO,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_lva,Latvia,Latvia,LVA,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_lbn,Lebanon,Lebanon,LBN,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_les,Lesotho,Lesotho,LES,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_lbr,Liberia,Liberia,LBR,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_lby,Libya,Libya,LBY,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_lie,Liechtenstein,Liechtenstein,LIE,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ltu,Lithuania,Lithuania,LTU,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_lux,Luxembourg,Luxembourg,LUX,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mac,Macau,Macau,MAC,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mad,Madagascar,Madagascar,MAD,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mwi,Malawi,Malawi,MWI,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mas,Malaysia,Malaysia,MAS,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mdv,Maldives,Maldives,MDV,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mli,Mali,Mali,MLI,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mlt,Malta,Malta,MLT,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_mapuche,Mapuche,Mapuche,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_marshall_islands,Marshall Islands,Marshall Islands,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_martinique,Martinique,Martinique,,CONCACAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_matabeleland,Matabeleland,Matabeleland,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_maule_sur,Maule Sur,Maule Sur,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_mtn,Mauritania,Mauritania,MTN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mri,Mauritius,Mauritius,MRI,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_mayotte,Mayotte,Mayotte,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_menorca,Menorca,Menorca,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_mex,Mexico,Mexico,MEX,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mda,Moldova,Moldova,MDA,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mng,Mongolia,Mongolia,MNG,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mne,Montenegro,Montenegro,MNE,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_msr,Montserrat,Montserrat,MSR,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mar,Morocco,Morocco,MAR,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_moz,Mozambique,Mozambique,MOZ,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_mya,Myanmar,Myanmar,MYA,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_nam,Namibia,Namibia,NAM,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_nep,Nepal,Nepal,NEP,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ned,Netherlands,Netherlands,NED,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ncl,New Caledonia,New Caledonia,NCL,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_nzl,New Zealand,New Zealand,NZL,OFC,fifa_member,include,Aotearoa New Zealand,FIFA Member Associations snapshot,
+fifa_nca,Nicaragua,Nicaragua,NCA,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_nig,Niger,Niger,NIG,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_nga,Nigeria,Nigeria,NGA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_prk,North Korea,DPR Korea,PRK,AFC,fifa_member,include,Korea DPR; North Korea,FIFA Member Associations snapshot,
+fifa_mkd,North Macedonia,North Macedonia,MKD,UEFA,fifa_member,include,FYR Macedonia,FIFA Member Associations snapshot,
+fifa_nir,Northern Ireland,Northern Ireland,NIR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_northern_mariana_islands,Northern Mariana Islands,Northern Mariana Islands,,AFC,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_nor,Norway,Norway,NOR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_oma,Oman,Oman,OMA,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_orkney,Orkney,Orkney,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_pak,Pakistan,Pakistan,PAK,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ple,Palestine,Palestine,PLE,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_pan,Panama,Panama,PAN,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_png,Papua New Guinea,Papua New Guinea,PNG,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_par,Paraguay,Paraguay,PAR,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_per,Peru,Peru,PER,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_phi,Philippines,Philippines,PHI,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_pol,Poland,Poland,POL,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_por,Portugal,Portugal,POR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_pur,Puerto Rico,Puerto Rico,PUR,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_qat,Qatar,Qatar,QAT,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_raetia,Raetia,Raetia,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_irl,Republic of Ireland,Republic of Ireland,IRL,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_rou,Romania,Romania,ROU,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_rus,Russia,Russia,RUS,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_rwa,Rwanda,Rwanda,RWA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_reunion,Réunion,Réunion,,CAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_saint_barthelemy,Saint Barthélemy,Saint Barthélemy,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_saint_helena,Saint Helena,Saint Helena,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_skn,Saint Kitts and Nevis,St Kitts and Nevis,SKN,CONCACAF,fifa_member,include,Saint Kitts and Nevis; St. Kitts and Nevis,FIFA Member Associations snapshot,
+fifa_lca,Saint Lucia,St Lucia,LCA,CONCACAF,fifa_member,include,Saint Lucia; St. Lucia,FIFA Member Associations snapshot,
+non_fifa_saint_martin,Saint Martin,Saint Martin,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_vin,Saint Vincent and the Grenadines,St Vincent and the Grenadines,VIN,CONCACAF,fifa_member,include,Saint Vincent and the Grenadines; St. Vincent / Grenadines; St. Vincent and the Grenadines,FIFA Member Associations snapshot,
+fifa_sam,Samoa,Samoa,SAM,OFC,fifa_member,include,Samoa (unranked),FIFA Member Associations snapshot,
+fifa_smr,San Marino,San Marino,SMR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ksa,Saudi Arabia,Saudi Arabia,KSA,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sco,Scotland,Scotland,SCO,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sen,Senegal,Senegal,SEN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_srb,Serbia,Serbia,SRB,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sey,Seychelles,Seychelles,SEY,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_shetland,Shetland,Shetland,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_sle,Sierra Leone,Sierra Leone,SLE,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sgp,Singapore,Singapore,SGP,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_sint_maarten,Sint Maarten,Sint Maarten,,CONCACAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_svk,Slovakia,Slovakia,SVK,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_svn,Slovenia,Slovenia,SVN,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sol,Solomon Islands,Solomon Islands,SOL,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_som,Somalia,Somalia,SOM,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_rsa,South Africa,South Africa,RSA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_kor,South Korea,Korea Republic,KOR,AFC,fifa_member,include,South Korea,FIFA Member Associations snapshot,
+fifa_ssd,South Sudan,South Sudan,SSD,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_esp,Spain,Spain,ESP,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sri,Sri Lanka,Sri Lanka,SRI,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sdn,Sudan,Sudan,SDN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sur,Suriname,Suriname,SUR,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_swe,Sweden,Sweden,SWE,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_sui,Switzerland,Switzerland,SUI,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_syr,Syria,Syria,SYR,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_szekely_land,Székely Land,Székely Land,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_sapmi,Sápmi,Sápmi,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_stp,São Tomé and Príncipe,São Tomé and Príncipe,STP,CAF,fifa_member,include,Sao Tome e Principe; São Tomé e Príncipe,FIFA Member Associations snapshot,
+fifa_tah,Tahiti,Tahiti,TAH,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tpe,Taiwan,Chinese Taipei,TPE,AFC,fifa_member,include,Taiwan,FIFA Member Associations snapshot,
+fifa_tjk,Tajikistan,Tajikistan,TJK,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_tamil_eelam,Tamil Eelam,Tamil Eelam,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_tan,Tanzania,Tanzania,TAN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tha,Thailand,Thailand,THA,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_tibet,Tibet,Tibet,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_ticino,Ticino,Ticino,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_tls,Timor-Leste,Timor-Leste,TLS,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tog,Togo,Togo,TOG,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tga,Tonga,Tonga,TGA,OFC,fifa_member,include,Tonga (unranked),FIFA Member Associations snapshot,
+fifa_tri,Trinidad and Tobago,Trinidad and Tobago,TRI,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tun,Tunisia,Tunisia,TUN,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tur,Turkey,Türkiye,TUR,UEFA,fifa_member,include,Turkey,FIFA Member Associations snapshot,
+fifa_tkm,Turkmenistan,Turkmenistan,TKM,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_tca,Turks and Caicos Islands,Turks and Caicos Islands,TCA,CONCACAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_tuvalu,Tuvalu,Tuvalu,,OFC,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_two_sicilies,Two Sicilies,Two Sicilies,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_uga,Uganda,Uganda,UGA,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_ukr,Ukraine,Ukraine,UKR,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_uae,United Arab Emirates,United Arab Emirates,UAE,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_usa,United States,USA,USA,CONCACAF,fifa_member,include,United States,FIFA Member Associations snapshot,
+fifa_vir,United States Virgin Islands,US Virgin Islands,VIR,CONCACAF,fifa_member,include,United States Virgin Islands,FIFA Member Associations snapshot,
+fifa_uru,Uruguay,Uruguay,URU,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_uzb,Uzbekistan,Uzbekistan,UZB,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_van,Vanuatu,Vanuatu,VAN,OFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_vatican_city,Vatican City,Vatican City,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_ven,Venezuela,Venezuela,VEN,CONMEBOL,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_vie,Vietnam,Vietnam,VIE,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+fifa_wal,Wales,Wales,WAL,UEFA,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_west_papua,West Papua,West Papua,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_western_isles,Western Isles,Western Isles,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_yem,Yemen,Yemen,YEM,AFC,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_ynys_mon,Ynys Môn,Ynys Môn,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+non_fifa_yoruba_nation,Yoruba Nation,Yoruba Nation,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_zam,Zambia,Zambia,ZAM,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_zanzibar,Zanzibar,Zanzibar,,CAF,confederation_member_or_associate,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.
+fifa_zim,Zimbabwe,Zimbabwe,ZIM,CAF,fifa_member,include,,FIFA Member Associations snapshot,
+non_fifa_aland_islands,Åland Islands,Åland Islands,,,non_fifa_selection,exclude,,international_results; manual classification,Excluded from the primary FIFA-national-team model.

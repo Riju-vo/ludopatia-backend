@@ -1,0 +1,774 @@
+3577290	Zinums Ghut	Zinums Ghut	Zinums Ghut	18.49408	-64.53688	H	COVE	VG		00				0		-9999	America/Tortola	2018-11-06
+3577291	Windlass Low Point	Windlass Low Point		18.74332	-64.358	T	PT	VG		00				0		3	America/Tortola	2016-08-31
+3577292	Windlass Bight	Windlass Bight	Windlass Bight	18.74323	-64.34846	H	BGHT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577293	White Rock	White Rock	White Rock	18.44181	-64.77935	T	PT	VG		00				0		9	America/Tortola	2018-11-06
+3577294	White Horse	White Horse	White Horse	18.39154	-64.46965	T	HDLD	VG		00				0		49	America/Tortola	2018-11-06
+3577295	White Bay	White Bay	White Bay	18.50235	-64.35432	H	COVE	VG		00				0		2	America/Tortola	2018-11-06
+3577296	White Bay	White Bay		18.69873	-64.29268	H	BGHT	VG		00				0		-9999	America/Tortola	2016-08-31
+3577297	White Bay	White Bay		18.46951	-64.57579	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-29
+3577298	White Bay	White Bay		18.44122	-64.76299	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-13
+3577299	White Bay	White Bay		18.34768	-64.57489	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577300	Whelk Point	Whelk Point		18.42068	-64.56912	T	PT	VG		00				0		0	America/Tortola	2016-08-30
+3577301	Whale Rocks	Whale Rocks	Whale Rocks	18.43631	-64.52808	T	RKS	VG		00				0		-9999	America/Tortola	2018-11-06
+3577302	Whale Banks	Whale Banks		18.7	-64.7	H	SHOL	VG		00				0		-9999	America/Tortola	1993-12-22
+3577303	West South Bay	West South Bay		18.46418	-64.51627	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577304	West Seal Dog	West Seal Dog		18.5068	-64.4346	T	ISL	VG		00				0		3	America/Tortola	2013-05-04
+3577305	West Point	West Point	West Point	18.38305	-64.75205	T	PT	VG		00				0		55	America/Tortola	2018-11-06
+3577306	West End Point	West End Point		18.74111	-64.41582	T	PT	VG		00				0		5	America/Tortola	2016-08-31
+3577307	West End Point	West End Point		18.44371	-64.77797	T	PT	VG		00				0		125	America/Tortola	2016-08-13
+3577308	West End Bay	West End Bay		18.46402	-64.52665	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577309	West End	West End		18.74068	-64.40885	T	CAPE	VG		00				0		5	America/Tortola	2016-08-31
+3577310	West Dog	West Dog		18.4827	-64.47275	T	ISL	VG		00				0		19	America/Tortola	2013-05-04
+3577311	Wesley Will	Wesley Will		18.44676	-64.60223	P	PPL	VG		00				0		167	America/Tortola	2014-04-09
+3577312	Well Bay	Well Bay		18.4409	-64.54824	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577313	Wedgeo Bluff	Wedgeo Bluff	Wedgeo Bluff	18.38284	-64.47281	T	HDLD	VG		00				0		16	America/Tortola	2018-11-06
+3577314	Wedgeo Bay	Wedgeo Bay		18.38774	-64.4734	H	BAY	VG		00				0		0	America/Tortola	2016-08-30
+3577315	Water Rock Bay	Water Rock Bay		18.44244	-64.7803	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-13
+3577316	Water Point	Water Point		18.32375	-64.62066	T	PT	VG		00				0		6	America/Tortola	2016-08-30
+3577317	Wash Ballock Point	Wash Ballock Point		18.49347	-64.53067	T	PT	VG		00				0		13	America/Tortola	2016-08-30
+3577318	Walkover Set Point	Walkover Set Point		18.74543	-64.41091	T	PT	VG		00				0		5	America/Tortola	2016-08-31
+3577319	Walkover Set Bay	Walkover Set Bay	Walkover Set Bay	18.7452	-64.40592	H	BAY	VG		00				0		1	America/Tortola	2019-01-09
+3577320	Vixen Point	Vixen Point		18.50244	-64.36825	T	PT	VG		00				0		3	America/Tortola	2013-04-01
+3577321	Virgin Sound	Virgin Sound	Virgin Sound	18.51953	-64.37018	H	CHN	VG		00				0		-9999	America/Tortola	2018-11-06
+3577324	Virgin Gorda Peak	Virgin Gorda Peak	Virgin Gorda Peak,Virgin Peak	18.48537	-64.40457	T	MT	VG		00				0		399	America/Tortola	2018-11-06
+3577325	Virgin Gorda	Virgin Gorda	Spanish Town,VIJ,Verdzhin-Gorda,Verge Grossa,Virdzin Gorda,Virdžin Gorda,Virgen Gorda,Virgin Gorda,Virgin Gorda Island,Virtzin Nkornta,beojingoda seom,wei er jing ge er da dao,wyrgyn gwrdh,wyrjyn gwrda,Βίρτζιν Γκόρντα,Верджин-Горда,Вирџин Горда,וירגין גורדה,ویرجین گوردا,ヴァージン・ゴルダ島,维尔京戈尔达岛,버진고다 섬	18.46202	-64.42649	T	ISL	VG		00				0		117	America/Tortola	2013-05-04
+3577326	Virgin Gorda Airport	Virgin Gorda Airport	Aeroportul Virgin Gorda,Lapangan Terbang Virgin Gorda,Port lotniczy Virgin Gorda,TUPW,VIJ,Virgin Gorda,Virgin Gorda Airport,Virgin Gorda Havalimani,Virgin Gorda Havalimanı,frwdgah wyrjyn gwrda,wei er jing ge er da dao,Фурудгоҳи вирҷин гурдо,فرودگاه ویرجین گوردا,ヴァージン・ゴルダ空港,維爾京戈爾達島,维尔京戈尔达岛	18.44586	-64.42816	S	AIRP	VG		00				0		7	America/Tortola	2012-01-27
+3577327	Vanterpool Ghut	Vanterpool Ghut	Vanterpool Ghut	18.39249	-64.66668	H	STMI	VG		00				0		33	America/Tortola	2018-11-06
+3577328	Valley Trunk Bay	Valley Trunk Bay		18.43939	-64.44413	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577329	Valley Ghut	Valley Ghut	Valley Ghut	18.47541	-64.39061	H	STMI	VG		00				0		21	America/Tortola	2018-11-06
+3577330	Upper Soldier Bay	Upper Soldier Bay		18.49862	-64.32414	H	BAY	VG		00				0		-9999	America/Tortola	2013-05-04
+3577331	Upper Soldier Bay	Upper Soldier Bay		18.46683	-64.40709	H	BAY	VG		00				0		71	America/Tortola	2016-08-30
+3577332	Upper Flat Rock	Upper Flat Rock	Upper Flat Rock	18.43768	-64.75672	T	RK	VG		00				0		-9999	America/Tortola	2018-11-06
+3577333	Upper Bluff	Upper Bluff	Upper Bluff	18.43295	-64.51582	T	CLF	VG		00				0		26	America/Tortola	2018-11-06
+3577334	Upper Bens Bay	Upper Bens Bay	Upper Bens Bay	18.4682	-64.39096	H	BAY	VG		00				0		8	America/Tortola	2019-01-09
+3577335	Two Ghut	Two Ghut	Two Ghut	18.38854	-64.66324	H	STMI	VG		00				0		5	America/Tortola	2018-11-06
+3577336	Turn Ghut	Turn Ghut	Turn Ghut	18.5031	-64.40176	H	STMI	VG		00				0		8	America/Tortola	2018-11-06
+3577337	Trunk Bay	Trunk Bay		18.45014	-64.61201	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577338	Trellis Bay	Trellis Bay		18.44676	-64.53197	H	BAY	VG		00				0		3	America/Tortola	2016-08-30
+3577339	Treasure Point	Treasure Point		18.31574	-64.62326	T	PT	VG		00				0		26	America/Tortola	2016-08-30
+3577340	Towing Point	Towing Point		18.49278	-64.5383	T	PT	VG		00				0		38	America/Tortola	2016-08-30
+3577341	Tower Point	Tower Point		18.47318	-64.53663	T	PT	VG		00				0		49	America/Tortola	2016-08-30
+3577342	Tortola	Tortola	TOV,Tortola,Tortola Island,torutora dao,twrtwlh,Тортола,טורטולה,トルトラ島	18.43662	-64.61849	T	ISL	VG		00				23908		244	America/Tortola	2016-08-30
+3577343	Tom Point	Tom Point		18.46296	-64.43027	T	PT	VG		00				0		3	America/Tortola	2016-08-30
+3577344	Tom Humphrey Ghut	Tom Humphrey Ghut	Tom Humphrey Ghut	18.41445	-64.63505	H	STMI	VG		00				0		19	America/Tortola	2018-11-06
+3577345	Tom Bogard Bay	Tom Bogard Bay	Tom Bogard Bay	18.46139	-64.54359	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577346	Toby Bay	Toby Bay		18.38251	-64.47631	H	COVE	VG		00				0		-9999	America/Tortola	2016-08-30
+3577347	Tobago Islands	Tobago Islands		18.45	-64.8	T	ISLS	VG		00				0		-9999	America/Tortola	1993-12-22
+3577348	Throw Way Wife Bay	Throw Way Wife Bay		18.48773	-64.52779	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577349	Threllfall	Threllfall		18.41215	-64.63484	P	PPLL	VG		00				0		34	America/Tortola	2014-04-09
+3577350	Thousand Ghut	Thousand Ghut		18.44847	-64.61997	H	STMI	VG		00				0		10	America/Tortola	2014-04-09
+3577351	The Settlement	The Settlement	The Settlement,seteulmeonteu,세틀먼트	18.71983	-64.3167	P	PPL	VG		00				200		1	America/Tortola	2024-04-09
+3577352	The Mill	The Mill		18.44322	-64.53476	P	PPLL	VG		00				0		9	America/Tortola	2016-08-30
+3577353	The Landing	The Landing	The Landing	18.45894	-64.53354	S	LDNG	VG		00				0		13	America/Tortola	2018-11-06
+3577354	Thatch Island Cut	Thatch Island Cut	Thatch Island Cut	18.38793	-64.72074	H	CHNM	VG		00				0		-9999	America/Tortola	2018-11-06
+3577355	Tetor Bay	Tetor Bay		18.47802	-64.41507	H	BAY	VG		00				0		267	America/Tortola	2016-08-30
+3577356	Taylors Bay	Taylors Bay		18.44623	-64.4252	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577357	Table Bay	Table Bay		18.73661	-64.30298	H	BAY	VG		00				0		1	America/Tortola	2016-08-31
+3577358	Cape Stout	Cape Stout	Cape Stout	18.51473	-64.3932	T	CAPE	VG		00				0		8	America/Tortola	2018-11-06
+3577359	Stony Bay	Stony Bay	Stony Bay	18.51292	-64.3706	H	COVE	VG		00				0		-9999	America/Tortola	2018-11-06
+3577360	Stoney Bay	Stoney Bay		18.42536	-64.44196	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577361	Stoney Bay	Stoney Bay		18.33135	-64.57116	H	BAY	VG		00				0		4	America/Tortola	2016-08-30
+3577362	Steele Point	Steele Point	Steele Point	18.38936	-64.71628	T	PT	VG		00				0		10	America/Tortola	2018-11-06
+3577363	Spring Bay	Spring Bay		18.43255	-64.44484	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577364	The Spring	The Spring		18.35127	-64.57819	H	COVE	VG		00				0		35	America/Tortola	2016-08-30
+3577365	Sprat Point	Sprat Point		18.449	-64.52749	T	PT	VG		00				0		11	America/Tortola	2016-08-30
+3577366	Sprat Bay Point	Sprat Bay Point	Sprat Bay Point	18.35901	-64.57476	T	PT	VG		00				0		8	America/Tortola	2018-11-06
+3577367	Sprat Bay	Sprat Bay		18.3575	-64.57652	H	BAY	VG		00				0		5	America/Tortola	2016-08-30
+3577368	Sprat Bay	Sprat Bay	Sprat Bay	18.35764	-64.57669	H	BAY	VG		00				0		5	America/Tortola	2019-01-09
+3577369	Spanish Town	Spanish Town	Spanish Town,xi ban ya zhen,سپینش ٹاؤن، برطانوی جزائر ورجن,スパニッシュ・タウン,西班牙鎮,西班牙镇	18.4481	-64.43474	P	PPL	VG		00				3800		5	America/Tortola	2026-04-12
+3577370	South Sound Bluff	South Sound Bluff	South Sound Bluff	18.4677	-64.38723	T	CLF	VG		00				0		14	America/Tortola	2018-11-06
+3577371	South Sound	South Sound		18.48185	-64.39018	P	PPLL	VG		00				0		5	America/Tortola	2016-08-30
+3577372	South Sound	South Sound	South Sound	18.4807	-64.38312	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577373	South East End Point	South East End Point		18.48079	-64.45117	T	PT	VG		00				0		3	America/Tortola	2013-05-04
+3577374	South East East Land	South East East Land		18.47497	-64.56092	T	PT	VG		00				0		105	America/Tortola	2016-08-29
+3577375	South East East End	South East East End	South East East End,South East East Land	18.4697	-64.50089	T	PT	VG		00				0		3	America/Tortola	2018-11-06
+3577376	South Bay	South Bay		18.4801	-64.45816	H	BAY	VG		00				0		-9999	America/Tortola	2013-05-04
+3577377	South Bay	South Bay		18.47953	-64.45739	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577378	South Bay	South Bay		18.3858	-64.48258	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577379	South Bay	South Bay		18.3674	-64.52841	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577380	Sound Reef	Sound Reef	Sound Reef	18.47602	-64.38543	H	RF	VG		00				0		2	America/Tortola	2018-11-06
+3577381	Sound Bluff	Sound Bluff	Sound Bluff	18.47262	-64.38734	T	CLF	VG		00				0		4	America/Tortola	2018-11-06
+3577382	The Sound	The Sound	The Sound	18.38891	-64.47505	H	BAY	VG		00				0		14	America/Tortola	2019-01-09
+3577383	The Sound	The Sound	The Sound	18.37052	-64.5242	H	BAY	VG		00				0		1	America/Tortola	2019-01-09
+3577384	Sopers Hole	Sopers Hole		18.38586	-64.70352	H	BAY	VG		00				0		6	America/Tortola	2014-04-09
+3577385	Soldier Wash	Soldier Wash		18.74612	-64.32218	H	BGHT	VG		00				0		1	America/Tortola	2016-08-31
+3577386	Soldier Point	Soldier Point		18.74783	-64.33594	T	PT	VG		00				0		2	America/Tortola	2016-08-31
+3577387	Soldier East Point	Soldier East Point		18.74568	-64.32525	T	PT	VG		00				0		4	America/Tortola	2016-08-31
+3577388	Soldier Bay	Soldier Bay		18.32245	-64.61527	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577389	Small West End	Small West End		18.3865	-64.48874	T	HDLD	VG		00				0		34	America/Tortola	2016-08-31
+3577390	Small Fry Hole	Small Fry Hole	Small Fry Hole	18.38892	-64.48544	H	COVE	VG		00				0		-9999	America/Tortola	2018-11-06
+3577391	Slaney Point	Slaney Point		18.40584	-64.6171	T	PT	VG		00				0		-9999	America/Tortola	2024-11-28
+3577392	Sir Francis Drake Channel	Sir Francis Drake Channel	Drake's Channel,Drake’s Channel,Sir Francis Drake Channel	18.38802	-64.58097	H	CHNM	VG		00				0		-9999	America/Tortola	2018-11-06
+3577393	Shoe Hill Ghut	Shoe Hill Ghut	Shoe Hill Ghut	18.42533	-64.58043	H	STMI	VG		00				0		23	America/Tortola	2018-11-06
+3577394	Shark Bay	Shark Bay		18.45197	-64.64609	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577395	Shannon Ghut	Shannon Ghut	Shannon Ghut	18.42238	-64.65948	H	STMI	VG		00				0		10	America/Tortola	2018-11-06
+3577396	Setting Point	Setting Point		18.7233	-64.38171	T	PT	VG		00				0		3	America/Tortola	2016-08-31
+3577397	Seal Dogs	Seal Dogs	Little Seal Dogs,Seal Dogs	18.50692	-64.43357	T	ISLS	VG		00				0		-9999	America/Tortola	2013-05-04
+3577398	Sea Cow Bay	Sea Cow Bay		18.40454	-64.6317	H	COVE	VG		00				0		-9999	America/Tortola	2014-04-09
+3577399	Scrub Island	Scrub Island	Illa Scrub,Isla Scrub,Scrub Island	18.46846	-64.51245	T	ISL	VG		00				0		70	America/Tortola	2016-08-30
+3577400	Savannah Bay	Savannah Bay		18.46642	-64.42207	H	BAY	VG		00				0		3	America/Tortola	2016-08-30
+3577401	Santa Monica Rock	Santa Monica Rock		18.3	-64.63333	T	RK	VG		00				0		-9999	America/Tortola	1993-12-22
+3577402	Sandy Spit	Sandy Spit	Sandy Spit	18.44985	-64.70887	T	ISL	VG		00				0		-9999	America/Tortola	2016-08-13
+3577403	Sandy Point	Sandy Point	Sandy Point	18.38691	-64.69934	T	PT	VG		00				0		7	America/Tortola	2018-11-06
+3577404	Sandy Cay	Sandy Cay	Cayo Sandy,Sandy Cay	18.43601	-64.70979	T	ISL	VG		00				0		6	America/Tortola	2016-08-13
+3577405	Sandy Bay	Sandy Bay	Sandy Bay	18.44005	-64.77228	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577406	Sand Pierre Bay	Sand Pierre Bay	Sand Pierre Bay	18.3514	-64.5855	H	BAY	VG		00				0		5	America/Tortola	2019-01-09
+3577407	Salt Island Passage	Salt Island Passage	Salt Island Passage	18.36131	-64.54969	H	CHNM	VG		00				0		-9999	America/Tortola	2018-11-06
+3577408	Salt Island Bluff	Salt Island Bluff	Salt Island Bluff	18.36747	-64.52284	T	PT	VG		00				0		4	America/Tortola	2018-11-06
+3577409	Salt Island Bay	Salt Island Bay		18.37416	-64.52996	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577410	Salt Island	Salt Island	Salt Island	18.37209	-64.52745	T	ISL	VG		00				0		-9999	America/Tortola	2024-11-28
+3577411	Saltheap Point	Saltheap Point	Saltheap Point	18.72243	-64.3664	T	PT	VG		00				0		1	America/Tortola	2018-11-06
+3577412	Salt Ghut	Salt Ghut	Salt Ghut	18.42462	-64.5933	H	STMIX	VG		00				0		167	America/Tortola	2018-11-06
+3577413	Salt Ghut	Salt Ghut	Salt Ghut	18.40544	-64.64068	H	STMI	VG		00				0		34	America/Tortola	2018-11-06
+3577414	Saint Thomas Bay	Saint Thomas Bay		18.45221	-64.44029	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577415	Mount Sage	Mount Sage		18.4049	-64.66038	T	MT	VG		00				0	523	505	America/Tortola	2024-09-26
+3577416	Mount Sage	Mount Sage	Mount Sage	18.40349	-64.66164	T	MT	VG		00				0	523	279	America/Tortola	2024-09-26
+3577417	Saddle Bay	Saddle Bay		18.50464	-64.41125	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577418	Saddle Bay	Saddle Bay		18.44643	-64.772	H	BAY	VG		00				0		71	America/Tortola	2016-08-13
+3577419	Sabu Mathila Bay	Sabu Mathila Bay	Sabu Mathila Bay	18.3083	-64.61964	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577420	Saba Rock	Saba Rock	Saba Rock	18.50319	-64.35786	T	RK	VG		00				0		-9999	America/Tortola	2018-11-06
+3577421	Ruffling Point	Ruffling Point	Ruffling Point	18.7392	-64.41474	T	PT	VG		00				0		4	America/Tortola	2018-11-06
+3577422	The Rudders	The Rudders	The Rudders	18.38625	-64.48976	T	RK	VG		00				0		-9999	America/Tortola	2018-11-06
+3577423	Round Rock	Round Rock		18.39849	-64.45788	T	RK	VG		00				0		36	America/Tortola	2016-08-30
+3577424	Rough Point	Rough Point		18.45362	-64.64388	T	PT	VG		00				0		-9999	America/Tortola	2014-04-09
+3577425	Rogues Bay	Rogues Bay		18.45132	-64.60772	H	COVE	VG		00				0		1	America/Tortola	2014-04-09
+3577426	Rogers Point	Rogers Point		18.34878	-64.60459	T	PT	VG		00				0		28	America/Tortola	2016-08-30
+3577427	Rocky Bay	Rocky Bay		18.39346	-64.47421	H	BAY	VG		00				0		4	America/Tortola	2016-08-30
+3577428	Rock Hole	Rock Hole		18.35217	-64.61178	T	PT	VG		00				0		5	America/Tortola	2016-08-31
+3577429	Robins Bay	Robins Bay		18.49068	-64.36909	H	COVE	VG		00				0		74	America/Tortola	2016-08-30
+3577430	Road Town	Road Town	Road Town,Rod Taunas,Rod-Taun,Rod-Tauno,Rod-Taŭno,Roount Taoun,Roud Taun,lodeutaun,luo de cheng,rodotaun,rotu tavun,rwd tawn,Ρόουντ Τάουν,Род-Таун,Род-Таўн,Роуд Таун,רואוד טאון,رود تاون,روڈ ٹاون,ரோடு டவுன்,როუდ-ტაუნი,ロードタウン,罗德城,로드타운	18.42693	-64.62079	P	PPLC	VG		00				8449	9	9	America/Tortola	2019-09-05
+3577431	Road Harbour	Road Harbour	Road Bay,Road Harbour	18.41985	-64.60991	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577432	Ringdove Rock	Ringdove Rock		18.31667	-64.61667	T	RK	VG		00				0		-9999	America/Tortola	1993-12-22
+3577433	Red Rock	Red Rock	Red Rock	18.43634	-64.55989	T	RK	VG		00				0		1	America/Tortola	2018-11-06
+3577434	Red Point	Red Point		18.46402	-64.41366	T	PT	VG		00				0		-2	America/Tortola	2016-08-30
+3577435	Red Point	Red Point		18.37764	-64.51183	T	PT	VG		00				0		29	America/Tortola	2015-08-14
+3577436	Red Bluff	Red Bluff	Red Bluff	18.36937	-64.50827	T	HDLD	VG		00				0		5	America/Tortola	2018-11-06
+3577437	Rat Point	Rat Point	Rat Point	18.49509	-64.35801	T	PT	VG		00				0		16	America/Tortola	2018-11-06
+3577438	Quart-a-Nancy Point	Quart-a-Nancy Point		18.38906	-64.51318	T	PT	VG		00				0		25	America/Tortola	2016-08-30
+3577439	Purcell Ghut	Purcell Ghut	Purcell Ghut	18.43611	-64.60811	H	STMI	VG		00				0		63	America/Tortola	2018-11-06
+3577440	Pulpit Rock	Pulpit Rock	Pulpit Rock	18.44019	-64.77607	T	PT	VG		00				0		8	America/Tortola	2018-11-06
+3577441	Pull and be Damn Point	Pull and be Damn Point		18.45557	-64.54135	T	PT	VG		00				0		7	America/Tortola	2016-08-30
+3577442	Pull and be Damm Point	Pull and be Damm Point	Pull and be Damm Point,Pull and be Damn Point	18.46167	-64.43863	T	PT	VG		00				0		23	America/Tortola	2018-11-06
+3577443	Pull and Be Damn Point	Pull and Be Damn Point	Pull and Be Damn Point,Pull and be Damn' Point,Pull and be Damn’ Point	18.43793	-64.75583	T	PT	VG		00				0		39	America/Tortola	2018-11-06
+3577444	Privateer Bay	Privateer Bay		18.31236	-64.62519	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577445	Prickly Pear Island	Prickly Pear Island		18.5071	-64.36787	T	ISL	VG		00				0		27	America/Tortola	2016-08-30
+3577446	Prickly Bay	Prickly Bay	Prickly Bay	18.50292	-64.36562	H	BGHT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577447	Pond Point	Pond Point		18.3843	-64.47842	T	PT	VG		00				0		59	America/Tortola	2016-08-30
+3577448	Pond Bay	Pond Bay		18.46996	-64.41639	H	BAY	VG		00				0		83	America/Tortola	2016-08-30
+3577449	Pomato Point	Pomato Point		18.72353	-64.39868	T	PT	VG		00				0		3	America/Tortola	2016-08-31
+3577450	The Point	The Point	The Point	18.38333	-64.53333	T	PT	VG		00				0		-9999	America/Tortola	2018-12-05
+3577451	Plum Tree Bay	Plum Tree Bay	Plum Tree Bay	18.4817	-64.4156	H	BAY	VG		00				0		267	America/Tortola	2019-01-09
+3577452	Pleasant Valley Ghut	Pleasant Valley Ghut		18.398	-64.63774	H	STMI	VG		00				0		8	America/Tortola	2014-04-09
+3577453	Pictard Ghut	Pictard Ghut	Pictard Ghut	18.43779	-64.56722	H	STMI	VG		00				0		5	America/Tortola	2018-11-06
+3577454	Peter Island Bluff	Peter Island Bluff	Peter Island Bluff	18.33017	-64.56472	T	HDLD	VG		00				0		23	America/Tortola	2018-11-06
+3577455	Peter Island	Peter Island	Peter Island,Peters Island	18.35404	-64.57901	T	ISL	VG		00				0		83	America/Tortola	2013-09-27
+3577456	Pelican Point	Pelican Point		18.69398	-64.27105	T	PT	VG		00				0		1	America/Tortola	2016-08-31
+3577457	Pelican Island	Pelican Island	Illa Pelicano,Illa Pelícano,Isla Pelican,Otok nesita,Pelican Island	18.33269	-64.6257	T	ISL	VG		00				0		23	America/Tortola	2016-08-30
+3577458	Pelican Cay	Pelican Cay	Pelican Cay	18.45896	-64.72055	T	ISLT	VG		00				0		13	America/Tortola	2018-11-06
+3577459	Pearl Point	Pearl Point		18.71719	-64.33641	T	PT	VG		00				0		0	America/Tortola	2016-08-31
+3577460	Paraquita Bay	Paraquita Bay		18.41883	-64.57573	H	BAY	VG		00				0		8	America/Tortola	2016-08-30
+3577461	Pajaros Point	Pajaros Point	East End,Pajaros Point,Pajeros Point,Point Pajaro	18.50336	-64.32108	T	PT	VG		00				0		7	America/Tortola	2018-11-06
+3577462	Opuntia Point	Opuntia Point		18.5129	-64.36898	T	PT	VG		00				0		17	America/Tortola	2013-04-01
+3577463	On the Cay Hollow Point	On the Cay Hollow Point		18.45747	-64.75395	T	PT	VG		00				0		47	America/Tortola	2016-08-13
+3577464	Oil Nut Bay	Oil Nut Bay		18.50151	-64.3298	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577465	Obie Ghut	Obie Ghut	Obie Ghut	18.399	-64.65438	H	STMI	VG		00				0		163	America/Tortola	2018-11-06
+3577466	Nutmeg Point	Nutmeg Point	Nutmeg Point	18.71757	-64.34704	T	PT	VG		00				0		2	America/Tortola	2018-11-06
+3577467	Gorda Sound	Gorda Sound	Gorda Sound,North Sound	18.51667	-64.36667	H	SD	VG		00				0		-9999	America/Tortola	2012-01-18
+3577468	North Side Bay	North Side Bay		18.44953	-64.76428	H	BAY	VG		00				0		8	America/Tortola	2016-08-13
+3577469	North Lee Bay	North Lee Bay	North Lee Bay	18.4194	-64.4527	H	BAY	VG		00				0		-2	America/Tortola	2019-01-09
+3577470	Northern Point	Northern Point	Northern Point	18.45044	-64.83022	T	PT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577471	North East End Point	North East End Point		18.48278	-64.45104	T	PT	VG		00				0		22	America/Tortola	2013-05-04
+3577472	North East East End	North East East End	North East East End,North East East Land	18.47134	-64.50176	T	PT	VG		00				0		3	America/Tortola	2018-11-06
+3577473	North East East End	North East East End		18.47924	-64.56605	T	PT	VG		00				0		88	America/Tortola	2016-08-29
+3577474	North Bay Bluff	North Bay Bluff		18.48893	-64.53047	T	PT	VG		00				0		11	America/Tortola	2016-08-30
+3577475	North Bay	North Bay		18.48319	-64.57206	H	BAY	VG		00				0		71	America/Tortola	2016-08-29
+3577476	North Bay	North Bay		18.49056	-64.52957	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577477	North Bay	North Bay		18.48348	-64.45395	H	BAY	VG		00				0		-9999	America/Tortola	2013-05-04
+3577478	North Bay	North Bay		18.46977	-64.5183	H	BAY	VG		00				0		19	America/Tortola	2016-08-30
+3577479	Norman Island	Norman Island	Norman Island,Normands Island	18.31803	-64.60918	T	ISL	VG		00				0		65	America/Tortola	2016-08-30
+3577480	Nora Hazel Point	Nora Hazel Point		18.41453	-64.57968	T	PT	VG		00				0		2	America/Tortola	2016-08-30
+3577481	New Bush Ghut	New Bush Ghut	New Bush Ghut	18.43887	-64.64771	H	STMI	VG		00				0		13	America/Tortola	2018-11-06
+3577482	Necker Island	Necker Island	Necker Island,Necker Islet	18.52682	-64.35843	T	ISL	VG		00				0		16	America/Tortola	2010-12-19
+3577484	Nanny Cay	Nanny Cay	Nannie Cay,Nanny Cay	18.399	-64.63392	T	ISLT	VG		00				0		7	America/Tortola	2014-04-09
+3577485	Nail Bay Point	Nail Bay Point		18.48919	-64.41379	T	PT	VG		00				0		10	America/Tortola	2016-08-30
+3577486	Nail Bay	Nail Bay		18.49328	-64.41374	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577487	Myall Point	Myall Point		18.44965	-64.61506	T	PT	VG		00				0		12	America/Tortola	2014-04-09
+3577488	Muskmelon Bay	Muskmelon Bay		18.48258	-64.58073	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-29
+3577489	Murdering Hole	Murdering Hole	Murdering Hole	18.50462	-64.39868	H	COVE	VG		00				0		2	America/Tortola	2018-11-06
+3577490	Mountain Trunk Bay	Mountain Trunk Bay		18.48741	-64.41602	H	BAY	VG		00				0		330	America/Tortola	2016-08-30
+3577491	Mountain Point	Mountain Point		18.50248	-64.41494	T	PT	VG		00				0		16	America/Tortola	2016-08-30
+3577492	Mother Hagal Bay	Mother Hagal Bay		18.4828	-64.52595	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577493	Mosquito Rock	Mosquito Rock	Mosquito Rock	18.51756	-64.38898	T	RK	VG		00				0		-9999	America/Tortola	2018-11-06
+3577494	Mosquito Island	Mosquito Island	GJao Moskito,Ilha Mosquito,Illa Mosquito,Isla Mosquito,Moskito Island,Mosquito Island,Đảo Moskito	18.51058	-64.39435	T	ISL	VG		00				0		76	America/Tortola	2016-08-30
+3577495	Monkey Point	Monkey Point		18.46369	-64.5697	T	PT	VG		00				0		-9999	America/Tortola	2016-08-30
+3577496	Money Bay	Money Bay	Money Bay	18.3185	-64.60117	H	BAY	VG		00				0		16	America/Tortola	2019-01-09
+3577497	Maya Rocks	Maya Rocks	Maya Rocks	18.45666	-64.53582	T	RKS	VG		00				0		6	America/Tortola	2018-11-06
+3577498	Maya Cove	Maya Cove		18.41667	-64.56667	P	PPL	VG		00				0		-9999	America/Tortola	1993-12-22
+3577499	Mattie Point	Mattie Point	Mattie Point	18.47852	-64.3889	T	PT	VG		00				0		13	America/Tortola	2018-11-06
+3577500	Mason Wall Ghut	Mason Wall Ghut	Mason Wall Ghut	18.43979	-64.64859	H	STMI	VG		00				0		10	America/Tortola	2018-11-06
+3577501	Mary Ground	Mary Ground	Mary Ground	18.46575	-64.53702	H	COVE	VG		00				0		7	America/Tortola	2018-11-06
+3577502	Martin Spring Ghut	Martin Spring Ghut	Martin Spring Ghut	18.42164	-64.57716	H	STMI	VG		00				0		10	America/Tortola	2018-11-06
+3577503	Markoe Point	Markoe Point		18.36687	-64.50032	T	PT	VG		00				0		7	America/Tortola	2016-08-31
+3577504	Markoe Bay	Markoe Bay		18.36754	-64.50505	H	BAY	VG		00				0		-9999	America/Tortola	2015-08-14
+3577505	Marina Cay	Marina Cay	Cayo Marina,Marina Cay	18.46101	-64.52528	T	ISL	VG		00				0		7	America/Tortola	2014-01-05
+3577506	Man O’ War Bay	Man O' War Bay	Man O' War Bay,Man O’ War Bay	18.4486	-64.82241	H	BAY	VG		00				0		1	America/Tortola	2019-01-09
+3577507	Man Hole	Man Hole	Man Hole	18.39283	-64.47669	H	COVE	VG		00				0		17	America/Tortola	2018-11-06
+3577508	Man Head	Man Head	Man Head	18.37628	-64.52715	T	HDLD	VG		00				0		-9999	America/Tortola	2018-11-06
+3577509	Manchioneel Bay	Manchioneel Bay		18.3845	-64.51451	H	BAY	VG		00				0		0	America/Tortola	2016-08-30
+3577510	Malone Bay	Malone Bay		18.50049	-64.38984	H	COVE	VG		00				0		-9999	America/Tortola	2016-08-30
+3577511	Mahoe Bay	Mahoe Bay		18.47375	-64.41606	H	COVE	VG		00				0		83	America/Tortola	2016-08-30
+3577512	Machineel Bay	Machineel Bay		18.45188	-64.71553	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-13
+3577513	Lower Soldier Bay	Lower Soldier Bay		18.49426	-64.33272	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577514	Lower Soldier Bay	Lower Soldier Bay		18.46728	-64.39816	H	BAY	VG		00				0		12	America/Tortola	2016-08-30
+3577515	Lower Ground Point	Lower Ground Point	Lower Ground Point	18.46162	-64.43562	T	PT	VG		00				0		10	America/Tortola	2018-11-06
+3577516	Lower Flat Rock	Lower Flat Rock	Lower Flat Rock	18.43892	-64.7582	T	RK	VG		00				0		14	America/Tortola	2018-11-06
+3577517	Lower Belmont Bay	Lower Belmont Bay		18.3958	-64.7037	H	BAY	VG		00				0		48	America/Tortola	2014-04-09
+3577518	Lower Bay	Lower Bay		18.71349	-64.32195	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-31
+3577519	Low Bay	Low Bay		18.45848	-64.53144	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577520	Louse Cay	Louse Cay	Loose Cay,Louse Cay	18.48734	-64.52536	T	RK	VG		00				0		1	America/Tortola	2018-11-06
+3577521	Lormer Bay	Lormer Bay		18.4514	-64.62969	H	BGHT	VG		00				0		-9999	America/Tortola	2014-04-09
+3577522	Long Swamp	Long Swamp		18.43333	-64.56667	P	PPL	VG		00				0		1	America/Tortola	2016-11-17
+3577523	Long Point	Long Point		18.48662	-64.58226	T	PT	VG		00				0		33	America/Tortola	2016-08-29
+3577524	Long Point	Long Point		18.45563	-64.75683	T	PT	VG		00				0		90	America/Tortola	2016-08-13
+3577525	Long Bush Ghut	Long Bush Ghut	Long Bush Ghut	18.42467	-64.62092	H	STMI	VG		00				0		8	America/Tortola	2018-11-06
+3577526	Long Bay Point	Long Bay Point		18.39823	-64.68523	T	PT	VG		00				0		15	America/Tortola	2014-04-09
+3577527	Long Bay	Long Bay		18.49955	-64.41267	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577528	Long Bay	Long Bay		18.45103	-64.72582	H	BAY	VG		00				0		19	America/Tortola	2016-08-13
+3577529	Long Bay	Long Bay	Long Bay	18.45115	-64.58262	H	BAY	VG		00				0		92	America/Tortola	2019-01-09
+3577530	Long Bay	Long Bay		18.44741	-64.54657	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577531	Long Bay	Long Bay		18.39904	-64.68759	H	BAY	VG		00				0		90	America/Tortola	2014-04-09
+3577532	Loblolly High Point	Loblolly High Point		18.73775	-64.30697	T	PT	VG		00				0		5	America/Tortola	2016-08-31
+3577533	Loblolly Bay	Loblolly Bay		18.74027	-64.30993	H	BAY	VG		00				0		1	America/Tortola	2016-08-31
+3577534	Little Trunk Bay	Little Trunk Bay		18.5037	-64.39585	H	COVE	VG		00				0		1	America/Tortola	2016-08-30
+3577535	Little Trunk Bay	Little Trunk Bay		18.43528	-64.44451	H	BAY	VG		00				0		-1	America/Tortola	2016-08-30
+3577536	Little Tobago	Little Tobago	Little Tobago,Little Tobago Island	18.42979	-64.84638	T	ISL	VG		00				0		66	America/Tortola	2018-11-06
+3577537	Little Tobago	Little Tobago	Little Tobago Island	18.43333	-64.85	T	ISL	VG		00				0		-9999	America/Tortola	1993-12-22
+3577538	Little Thatch Island	Little Thatch Island		18.38173	-64.71445	T	ISL	VG		00				0		77	America/Tortola	2006-03-03
+3577539	Little Reef Bay	Little Reef Bay		18.33628	-64.56126	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577540	Little Jost Van Dyke Island	Little Jost Van Dyke Island	Little Jost Van Dyke,Little Jost Van Dyke Island,Little Jost Van Dykes,Little Van Dyke,Little Van Dykes,Pequena Jost Van Dyke,Pequeña Jost Van Dyke	18.45443	-64.72048	T	ISL	VG		00				0		82	America/Tortola	2016-08-13
+3577541	Little Harbour	Little Harbour		18.44004	-64.73323	P	PPL	VG		00				0		24	America/Tortola	2016-08-30
+3577542	Little Harbour	Little Harbour		18.35489	-64.60296	H	BAY	VG		00				0		44	America/Tortola	2016-08-30
+3577543	Little Dix Bay	Little Dix Bay		18.46154	-64.43254	H	BAY	VG		00				0		9	America/Tortola	2016-08-30
+3577544	Little Cay	Little Cay	Little Cay	18.44002	-64.53932	T	ISL	VG		00				0		2	America/Tortola	2018-11-06
+3577545	Little Carrot Bay	Little Carrot Bay		18.40592	-64.67407	P	PPLL	VG		00				0		7	America/Tortola	2014-04-09
+3577546	Little Carrot Bay	Little Carrot Bay		18.40957	-64.67394	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577547	Little Camanoe	Little Camanoe	Little Camanoe	18.45818	-64.54266	T	ISL	VG		00				0		31	America/Tortola	2016-08-30
+3577548	Little Bay Point	Little Bay Point	Little Bay Point	18.49194	-64.36653	T	PT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577549	Little Bay Ghut	Little Bay Ghut	Little Bay Ghut	18.47597	-64.39054	H	STMI	VG		00				0		7	America/Tortola	2018-11-06
+3577550	Little Bay Ghut	Little Bay Ghut		18.45576	-64.57504	H	STMI	VG		00				0		11	America/Tortola	2016-08-30
+3577551	Little Bay	Little Bay		18.49208	-64.36514	H	COVE	VG		00				0		11	America/Tortola	2016-08-30
+3577552	Little Bay	Little Bay		18.47546	-64.38832	H	BAY	VG		00				0		2	America/Tortola	2016-08-30
+3577553	Little Anegada Island	Little Anegada Island	Little Anegada,Little Anegada Island	18.69609	-64.27633	T	ISL	VG		00				0		6	America/Tortola	2016-08-31
+3577554	Leverick Bay	Leverick Bay		18.50002	-64.38289	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577555	Lettsome Settlement	Lettsome Settlement		18.45354	-64.72359	P	PPL	VG		00				0		36	America/Tortola	2016-08-31
+3577556	Leonards	Leonards		18.4275	-64.64111	P	PPL	VG		00				0		364	America/Tortola	2014-04-09
+3577557	Lee Bay	Lee Bay		18.47092	-64.5353	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577558	Lee Bay	Lee Bay		18.37036	-64.53438	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-31
+3577559	Lances Bluff	Lances Bluff	Lances Bluff	18.48125	-64.37529	T	CAPE	VG		00				0		41	America/Tortola	2018-11-06
+3577560	Kitto Ghut	Kitto Ghut	Kitto Ghut	18.47655	-64.53011	H	BAY	VG		00				0		-1	America/Tortola	2019-01-09
+3577561	Kingstown	Kingstown		18.41784	-64.59952	P	PPL	VG		00				0		124	America/Tortola	2016-11-17
+3577562	Kingfish Banks	Kingfish Banks		18.55	-64.66667	H	SHOL	VG		00				0		-9999	America/Tortola	1993-12-22
+3577563	Key Point	Key Point		18.34695	-64.59519	T	PT	VG		00				0		11	America/Tortola	2016-08-30
+3577564	Key Bay	Key Bay		18.34752	-64.59931	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577565	Keel Point	Keel Point	Keel Point,Reel Point	18.74795	-64.38851	T	PT	VG		00				0		4	America/Tortola	2016-08-31
+3577566	Jost Van Dyke Island	Jost Van Dyke Island	Jost Van Dyke,Jost Van Dyke Island,Jost Van Dykes	18.44859	-64.74372	T	ISL	VG		00				0		247	America/Tortola	2016-08-13
+3577567	Josias Bay Pond	Josias Bay Pond	Josias Bay Pond	18.44446	-64.58532	H	LGN	VG		00				0		12	America/Tortola	2018-11-06
+3577568	Josias Bay	Josias Bay	Josiah's Bay	18.44843	-64.59141	H	BAY	VG		00				0		134	America/Tortola	2014-04-09
+3577569	Johnson Ghut	Johnson Ghut	Johnson Ghut	18.42875	-64.61157	H	STMI	VG		00				0		5	America/Tortola	2018-11-06
+3577570	John O’ Point	John O' Point	John O' Point,John O’ Point	18.5007	-64.3576	T	PT	VG		00				0		19	America/Tortola	2018-11-06
+3577571	Johnny Ground	Johnny Ground	Johnny Ground	18.48637	-64.53734	H	COVE	VG		00				0		-9999	America/Tortola	2018-11-06
+3577572	Johnny Cake Ghut	Johnny Cake Ghut		18.45075	-64.63598	H	STMI	VG		00				0		9	America/Tortola	2014-04-09
+3577573	John James Point	John James Point	John James Point	18.38793	-64.47569	T	PT	VG		00				0		7	America/Tortola	2018-11-06
+3577574	Joes Hill Ghut	Joes Hill Ghut	Joes Hill Ghut	18.42581	-64.63459	H	STMIX	VG		00				0		279	America/Tortola	2018-11-06
+3577575	Joe Bay	Joe Bay		18.48405	-64.36975	H	BAY	VG		00				0		74	America/Tortola	2016-08-30
+3577576	James Ghut	James Ghut	James Ghut	18.42433	-64.60446	H	STMI	VG		00				0		7	America/Tortola	2018-11-06
+3577577	James Georges Bay	James Georges Bay	James Georges Bay	18.35058	-64.58811	H	COVE	VG		00				0		4	America/Tortola	2018-11-06
+3577578	Jacob Well Ghut	Jacob Well Ghut	Jacob Well Ghut	18.40055	-64.63948	H	STMI	VG		00				0		16	America/Tortola	2018-11-06
+3577579	Jack Bay Point	Jack Bay Point		18.74239	-64.31469	T	PT	VG		00				0		7	America/Tortola	2016-08-31
+3577580	Jack Bay	Jack Bay		18.74407	-64.31566	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-31
+3577581	Jackass Ghut	Jackass Ghut	Jackass Ghut	18.42828	-64.6128	H	STMI	VG		00				0		6	America/Tortola	2018-11-06
+3577582	Jack and Burns Point	Jack and Burns Point	Jack and Burns Point	18.50239	-64.3484	T	PT	VG		00				0		10	America/Tortola	2018-11-06
+3577583	Jabut Hill Ghut	Jabut Hill Ghut	Jabut Hill Ghut	18.41461	-64.63582	H	STMI	VG		00				0		25	America/Tortola	2018-11-06
+3577584	The Indians	The Indians	The Indians	18.33249	-64.62892	T	RKS	VG		00				0		-9999	America/Tortola	2016-08-30
+3577585	The Iguana Head	The Iguana Head		18.46667	-64.56667	T	HDLD	VG		00				0		43	America/Tortola	1993-12-22
+3577586	Horse Shoe Reef	Horse Shoe Reef	Anegada Reef,Horse Shoe,Horse Shoe Reef	18.66667	-64.2	H	SHOL	VG		00				0		-9999	America/Tortola	2012-01-18
+3577587	The Hollow	The Hollow	The Hollow	18.38707	-64.73269	H	SHOL	VG		00				0		-9999	America/Tortola	2018-11-06
+3577588	The Hollow	The Hollow	The Hollow	18.48838	-64.53822	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577589	Hogs Valley Point	Hogs Valley Point	Hog Point,Hogs Valley Point	18.4118	-64.59093	T	PT	VG		00				0		-9999	America/Tortola	2024-11-28
+3577590	Hog Rock Bluff	Hog Rock Bluff	Hog Rock Bluff	18.46758	-64.39703	T	CLF	VG		00				0		12	America/Tortola	2018-11-06
+3577591	Hell Hole	Hell Hole	Hell Hole	18.45157	-64.63543	H	COVE	VG		00				0		10	America/Tortola	2018-11-06
+3577592	Hay Point	Hay Point		18.51441	-64.39241	T	PT	VG		00				0		24	America/Tortola	2016-08-30
+3577593	Hawks Bill Bank	Hawks Bill Bank		18.61667	-64.3	H	SHOL	VG		00				0		-9999	America/Tortola	1993-12-22
+3577594	Harris Ghut	Harris Ghut	Harris Ghut	18.47109	-64.57336	H	COVE	VG		00				0		12	America/Tortola	2018-11-06
+3577595	Hans Creek	Hans Creek	Hans Creek	18.44048	-64.53426	H	COVE	VG		00				0		3	America/Tortola	2018-11-06
+3577596	Hannah	Hannah		18.40262	-64.63646	P	PPLL	VG		00				0		66	America/Tortola	2014-04-09
+3577597	Handsome Bay	Handsome Bay	Handsome Bay	18.45755	-64.42433	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577598	Hallovers Bay	Hallovers Bay		18.37505	-64.51069	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577599	Half Moon Point	Half Moon Point		18.41429	-64.58264	T	PT	VG		00				0		22	America/Tortola	2016-08-02
+3577600	The Guns	The Guns	The Guns	18.50048	-64.34177	T	BCH	VG		00				0		8	America/Tortola	2018-11-06
+3577601	Gun Point	Gun Point		18.49605	-64.38029	T	PT	VG		00				0		5	America/Tortola	2016-08-30
+3577602	Gun Point	Gun Point	Gun Point	18.39389	-64.70618	T	PT	VG		00				0		4	America/Tortola	2018-11-06
+3577603	Gun Creek	Gun Creek	Gun Creek	18.48974	-64.38249	H	COVE	VG		00				0		7	America/Tortola	2018-11-06
+3577604	Guana Island	Guana Island	Guana Island,Guano Island	18.47387	-64.56699	T	ISL	VG		00				0		177	America/Tortola	2016-08-29
+3577605	Guana Hole	Guana Hole	Guana Hole	18.51475	-64.39082	H	COVE	VG		00				0		3	America/Tortola	2018-11-06
+3577606	Groupers Nest	Groupers Nest	Groupers Nest	18.37578	-64.52071	T	HDLD	VG		00				0		13	America/Tortola	2018-11-06
+3577607	Grey Ghut	Grey Ghut		18.41667	-64.63333	H	STMI	VG		00				0		47	America/Tortola	1993-12-22
+3577608	Grey Ghut	Grey Ghut	Grey Ghut	18.44514	-64.59141	H	STMI	VG		00				0		9	America/Tortola	2018-11-06
+3577609	Green Cay	Green Cay	Green Cay	18.45362	-64.70861	T	ISL	VG		00				0		17	America/Tortola	2016-08-13
+3577610	Great Tobago Island	Great Tobago Island	Great Tobago,Great Tobago Island,Tobago,Tobago Island	18.44518	-64.82513	T	ISL	VG		00				0		89	America/Tortola	2013-09-26
+3577611	Great Thatch Island	Great Thatch Island	Great Thatch,Great Thatch Cay,Great Thatch Island,Great Thatch Islet,Thatch Island	18.38601	-64.73947	T	ISL	VG		00				0		134	America/Tortola	2013-09-26
+3577612	Great Mountain	Great Mountain		18.43678	-64.62965	P	PPLL	VG		00				0		157	America/Tortola	2014-04-09
+3577613	Great Harbour Point	Great Harbour Point		18.36068	-64.58197	T	PT	VG		00				0		28	America/Tortola	2016-08-30
+3577614	Great Harbour	Great Harbour		18.44436	-64.75119	H	HBR	VG		00				0		121	America/Tortola	2016-08-13
+3577615	Great Harbour	Great Harbour		18.3587	-64.58601	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577616	Governor Ghut	Governor Ghut	Governor Ghut,Great Governor Ghut	18.49808	-64.39209	H	STMI	VG		00				0		10	America/Tortola	2018-11-06
+3577617	Great Ghut	Great Ghut	Great Ghut	18.45634	-64.73951	H	BGHT	VG		00				0		10	America/Tortola	2018-11-06
+3577618	Great Dog Island	Great Dog Island	Great Dog Island,Isla Great Dog	18.48225	-64.45696	T	ISL	VG		00				0		42	America/Tortola	2013-05-04
+3577619	Great Carrot Bay	Great Carrot Bay		18.41103	-64.67121	P	PPLL	VG		00				0		11	America/Tortola	2014-04-09
+3577620	Great Carrot Bay	Great Carrot Bay		18.4151	-64.67377	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577621	Great Camanoe	Great Camanoe	Cammanoes Island,Great Camano,Great Camanoe,Great Camanoe Island	18.48355	-64.53108	T	ISL	VG		00				0		1	America/Tortola	2023-10-04
+3577622	Gravel Bay Point	Gravel Bay Point	Gravel Bay Point	18.47062	-64.5096	T	PT	VG		00				0		26	America/Tortola	2018-11-06
+3577623	Gravel Bay	Gravel Bay		18.47141	-64.50696	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577624	Grassy Ground Bluff	Grassy Ground Bluff	Grassy Ground Bluff	18.48403	-64.36679	T	CAPE	VG		00				0		30	America/Tortola	2018-11-06
+3577625	Grape Tree Landing	Grape Tree Landing	Grape Tree Landing	18.39159	-64.47958	T	CLF	VG		00				0		25	America/Tortola	2018-11-06
+3577626	Gnat Point	Gnat Point	Gnat Point	18.49676	-64.38052	T	PT	VG		00				0		21	America/Tortola	2018-11-06
+3577627	Ginger Island	Ginger Island	Ginger Island	18.38829	-64.47747	T	ISL	VG		00				0		16	America/Tortola	2016-08-30
+3577628	Ginger Garden Point	Ginger Garden Point	Ginger Garden Point	18.38906	-64.47107	T	PT	VG		00				0		8	America/Tortola	2018-11-06
+3577629	The Ghut	The Ghut	The Ghut	18.44425	-64.74865	H	STMI	VG		00				0		21	America/Tortola	2018-11-06
+3577630	Georgy Hole Point	Georgy Hole Point		18.43835	-64.72312	T	PT	VG		00				0		48	America/Tortola	2016-08-13
+3577631	George Hole Bay	George Hole Bay		18.43919	-64.7205	H	BAY	VG		00				0		5	America/Tortola	2016-08-13
+3577632	George Dog Island	George Dog Island	George Dog,George Dog Island,Isla George Dog	18.49243	-64.45683	T	ISL	VG		00				0		56	America/Tortola	2013-05-04
+3577633	Gauling Nest	Gauling Nest	Gauling Nest	18.46539	-64.42766	T	CLF	VG		00				0		32	America/Tortola	2018-11-06
+3577634	Garner Bay	Garner Bay		18.43868	-64.72926	H	HBR	VG		00				0		-9999	America/Tortola	2016-08-13
+3577635	Garden Ghut	Garden Ghut	Garden Ghut	18.42664	-64.65713	H	STMI	VG		00				0		227	America/Tortola	2018-11-06
+3577636	Freshwater Pond	Freshwater Pond		18.39142	-64.68132	P	PPL	VG		00				0		17	America/Tortola	2014-04-09
+3577637	Frenchmans Cay	Frenchmans Cay		18.38299	-64.69943	T	ISL	VG		00				0		94	America/Tortola	2014-04-09
+3577638	Fortune Ghut	Fortune Ghut	Fortune Ghut	18.40488	-64.67517	H	STMI	VG		00				0		12	America/Tortola	2018-11-06
+3577639	Fort Point	Fort Point	Fort Point	18.44362	-64.44306	T	PT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577640	Flat Rock Bay	Flat Rock Bay	Flat Rock Bay	18.46894	-64.38668	H	BAY	VG		00				0		6	America/Tortola	2019-01-09
+3577641	Flamingo Pond	Flamingo Pond	Flamingo Pond	18.73463	-64.38628	H	LGN	VG		00				0		0	America/Tortola	2018-11-06
+3577642	Fishers Cove	Fishers Cove	Fishers Cove	18.45	-64.43333	T	BCH	VG		00				0		15	America/Tortola	2018-12-05
+3577643	Fish Bay Ghut	Fish Bay Ghut		18.41586	-64.59757	H	STMI	VG		00				0		-9999	America/Tortola	2016-08-30
+3577644	Fish Bay	Fish Bay		18.41573	-64.59982	H	COVE	VG		00				0		-9999	America/Tortola	2014-04-09
+3577645	Fischer Point	Fischer Point		18.35727	-64.59264	T	PT	VG		00				0		25	America/Tortola	2016-08-31
+3577646	Fat Hogs Bay	Fat Hogs Bay		18.43243	-64.56184	H	BAY	VG		00				0		1	America/Tortola	2013-03-23
+3577647	Fallen Jerusalem	Fallen Jerusalem	Fallen Jerusalem,Old Jerusalem	18.41777	-64.45119	T	ISL	VG		00				0		27	America/Tortola	2018-11-06
+3577648	Fagic Point	Fagic Point	Fagic Point	18.48965	-64.38182	T	PT	VG		00				0		7	America/Tortola	2018-11-06
+3577649	Eustatia Sound	Eustatia Sound	Eustatia Sound	18.50608	-64.35472	H	SD	VG		00				0		-9999	America/Tortola	2018-11-06
+3577650	Eustatia Island	Eustatia Island		18.51046	-64.35825	T	ISL	VG		00				0		28	America/Tortola	2010-12-19
+3577651	East South Bay	East South Bay		18.46736	-64.50223	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577652	East Seal Dog	East Seal Dog	East Seal Dog	18.50671	-64.43241	T	ISL	VG		00				0		-9999	America/Tortola	2013-05-04
+3577653	East Point	East Point	East End,East Point	18.68999	-64.27607	T	PT	VG		00				0		5	America/Tortola	2016-08-31
+3577654	East End Harbour	East End Harbour	East End Harbour	18.4474	-64.72749	H	HBR	VG		00				0		2	America/Tortola	2018-11-06
+3577655	East End Bay	East End Bay		18.43654	-64.56236	H	BAY	VG		00				0		1	America/Tortola	2013-03-23
+3577656	Dustry Point	Dustry Point		18.38295	-64.50601	T	PT	VG		00				0		34	America/Tortola	2016-08-30
+3577657	Du Bois Point	Du Bois Point		18.43727	-64.66381	T	PT	VG		00				0		10	America/Tortola	2014-04-09
+3577658	Dog Islands	Dog Islands	Dog Islands,Illes Dog,The Dogs	18.48771	-64.46232	T	ISLS	VG		00				0		-9999	America/Tortola	2013-05-04
+3577659	Dog Hole Point	Dog Hole Point		18.43927	-64.75574	T	PT	VG		00				0		71	America/Tortola	2016-08-13
+3577660	Dim Don Point	Dim Don Point		18.45594	-64.72499	T	PT	VG		00				0		13	America/Tortola	2016-08-13
+3577661	Dicky Ground	Dicky Ground	Dicky Ground	18.48149	-64.53937	H	BAY	VG		00				0		25	America/Tortola	2019-01-09
+3577662	Diamond Cay	Diamond Cay	Diamond Cay	18.44875	-64.72411	T	ISL	VG		00				0		1	America/Tortola	2016-08-13
+3577663	Devils Bay	Devils Bay		18.42866	-64.44664	H	COVE	VG		00				0		-9999	America/Tortola	2016-08-30
+3577664	Devil Hill Bay	Devil Hill Bay	Devil Hill Bay	18.52611	-64.3613	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577665	Deep Bay	Deep Bay	Deep Bay	18.49824	-64.34775	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577666	Dead Water Point	Dead Water Point	Dead Water Point	18.46152	-64.54298	T	PT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577667	Deadman Point	Deadman Point	Deadman Point	18.47116	-64.51289	T	PT	VG		00				0		3	America/Tortola	2018-11-06
+3577668	Deadman Bay	Deadman Bay		18.35613	-64.57081	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577669	Dead Chest	Dead Chest	Dead Chest	18.36548	-64.56302	T	ISL	VG		00				0		35	America/Tortola	2016-08-30
+3577670	Cucumber Point	Cucumber Point		18.47924	-64.46189	T	PT	VG		00				0		7	America/Tortola	2013-05-04
+3577671	Crooks Bay	Crooks Bay		18.42657	-64.43417	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577672	Crawl Point	Crawl Point	Crawl Point	18.46009	-64.54536	T	PT	VG		00				0		0	America/Tortola	2018-11-06
+3577673	The Crawl	The Crawl	The Crawl	18.43395	-64.44454	T	RKS	VG		00				0		2	America/Tortola	2018-11-06
+3577674	Crabbe Hill Kitchen Point	Crabbe Hill Kitchen Point		18.49076	-64.45709	T	PT	VG		00				0		6	America/Tortola	2013-05-04
+3577675	Cow Wreck Low Point	Cow Wreck Low Point		18.74462	-64.40108	T	PT	VG		00				0		5	America/Tortola	2016-08-31
+3577676	Cow Wreck High Point	Cow Wreck High Point	Cow Wreck High Point	18.74858	-64.389	T	PT	VG		00				0		3	America/Tortola	2018-11-06
+3577677	Cow Wreck Bay	Cow Wreck Bay	Cow Wreck Bay	18.74676	-64.39506	H	BAY	VG		00				0		1	America/Tortola	2019-01-09
+3577678	Cow Mouth	Cow Mouth	Cow Mouth	18.50471	-64.4163	T	RKS	VG		00				0		-9999	America/Tortola	2018-11-06
+3577679	Copper Mine Point	Copper Mine Point		18.43308	-64.4243	T	PT	VG		00				0		11	America/Tortola	2016-08-30
+3577680	Copper Mine Bay	Copper Mine Bay		18.43825	-64.42582	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577681	Cooten Bay	Cooten Bay		18.44888	-64.59639	H	BAY	VG		00				0		75	America/Tortola	2014-04-09
+3577682	Cooper Island	Cooper Island	Cooper Island	18.3786	-64.50992	T	ISL	VG		00				0		90	America/Tortola	2015-08-14
+3577683	Cooper Bay	Cooper Bay		18.45136	-64.61905	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577684	Connall Shoal	Connall Shoal		18.41667	-64.6	H	RF	VG		00				0		124	America/Tortola	1993-12-22
+3577685	Conch Shell Point	Conch Shell Point		18.44865	-64.53567	T	PT	VG		00				0		47	America/Tortola	2016-08-30
+3577686	Conch Bay	Conch Bay		18.44855	-64.53979	H	BAY	VG		00				0		47	America/Tortola	2016-08-30
+3577687	Colison Point	Colison Point		18.45822	-64.44299	T	PT	VG		00				0		8	America/Tortola	2016-08-30
+3577688	Coffee Ghut	Coffee Ghut	Coffee Ghut	18.41016	-64.63195	H	STMI	VG		00				0		8	America/Tortola	2018-11-06
+3577689	Cockroach Island	Cockroach Island	Cockroach Island,Illa Cockroach,Isla de Cockroach	18.49475	-64.46357	T	ISL	VG		00				0		-9999	America/Tortola	2013-05-04
+3577690	Clark Rock	Clark Rock	Clark Rock	18.49905	-64.38359	T	RK	VG		00				0		1	America/Tortola	2018-11-06
+3577691	Cistern Point	Cistern Point		18.38027	-64.51421	T	PT	VG		00				0		7	America/Tortola	2016-08-30
+3577692	Cinnamon Ghut	Cinnamon Ghut	Cinnamon Ghut	18.48308	-64.3905	H	STMI	VG		00				0		11	America/Tortola	2018-11-06
+3577693	Cherry Ghut Bay	Cherry Ghut Bay		18.45352	-64.7591	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-13
+3577694	Cherry Ghut	Cherry Ghut	Cherry Ghut	18.45318	-64.75777	H	STMI	VG		00				0		39	America/Tortola	2018-11-06
+3577695	Changes Point	Changes Point		18.44084	-64.76908	T	PT	VG		00				0		42	America/Tortola	2016-08-13
+3577696	Casey Bay	Casey Bay		18.46064	-64.44177	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577697	Carvel Bay	Carvel Bay	Carvel Bay	18.37894	-64.51365	H	BAY	VG		00				0		12	America/Tortola	2019-01-09
+3577698	The Carvel	The Carvel	Caravel Rock,Carval,The Carvel	18.30895	-64.62829	T	RK	VG		00				0		4	America/Tortola	2018-11-06
+3577699	Carval	Carval	Carval	18.37287	-64.48845	T	RK	VG		00				0		-9999	America/Tortola	2018-11-06
+3577700	Carrot Rock	Carrot Rock	Carrot Rock	18.32645	-64.57064	T	RK	VG		00				0		-9999	America/Tortola	2018-11-06
+3577701	Carrot Bay	Carrot Bay	Carot Bay	18.45266	-64.6012	H	BAY	VG		00				0		1	America/Tortola	2014-04-09
+3577702	Carol Bay	Carol Bay		18.3868	-64.50859	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577703	Carmelia Point	Carmelia Point	Carmelia Point	18.49239	-64.36402	T	PT	VG		00				0		14	America/Tortola	2018-11-06
+3577704	Cappoons Bay Ghut	Cappoons Bay Ghut	Cappoons Bay Ghut	18.39953	-64.68004	H	STMI	VG		00				0		8	America/Tortola	2018-11-06
+3577705	Cappoons Bay	Cappoons Bay		18.40112	-64.68162	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577706	Cane Garden Bay	Cane Garden Bay		18.42693	-64.65701	P	PPL	VG		00				0		10	America/Tortola	2014-04-09
+3577707	Cane Garden Bay	Cane Garden Bay		18.42569	-64.66128	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577708	Cam Bay	Cam Bay		18.47159	-64.52927	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577709	Callwood’s Point	Callwood's Point	Callwood's Point,Callwood’s Point	18.38173	-64.73766	T	PT	VG		00				0		20	America/Tortola	2018-11-06
+3577710	Cactus Point	Cactus Point	Cactus Point	18.5131	-64.37456	T	PT	VG		00				0		8	America/Tortola	2018-11-06
+3577711	Cabey Point	Cabey Point		18.3565	-64.56732	T	PT	VG		00				0		7	America/Tortola	2016-08-30
+3577712	Burt Point	Burt Point		18.41325	-64.61158	T	PT	VG		00				0		1	America/Tortola	2014-04-09
+3577713	Buntin Ghut	Buntin Ghut	Buntin Ghut	18.39125	-64.65522	H	STMI	VG		00				0		2	America/Tortola	2018-11-06
+3577714	Buck Island	Buck Island	Buck Island	18.42418	-64.55843	T	ISL	VG		00				0		19	America/Tortola	2016-08-30
+3577715	Brown Ghut	Brown Ghut	Brown Ghut	18.44799	-64.7284	H	STMI	VG		00				0		7	America/Tortola	2018-11-06
+3577716	Brown Ghut	Brown Ghut	Brown Ghut	18.39226	-64.6532	H	STMC	VG		00				0		3	America/Tortola	2018-11-06
+3577717	Broken Jerusalem	Broken Jerusalem	Broken Jerusalem	18.40899	-64.45483	T	RKS	VG		00				0		-9999	America/Tortola	2018-11-06
+3577718	British Virgin Islands	British Virgin Islands	'Otumotu Vilikini fakapilitania,Agwaetiti British Virgin,Angilɛ ka Sungurunnin Gun,Awon Erekusu Wundia Britani,Azoa Viiriggo ti Anglee,BVI,Biritish Farjin Island,Birjina britainiar uharteak,Birjina uharte britainiarrak,Bisanga bya Vierzi ya Angɛlɛtɛ́lɛ,Bizinga ebya Virigini ebitwalibwa Bungereza,Bresku Jomfrureyjar,Bresku Jómfrúreyjar,Bresku jomfruaeyjar,Bresku jómfrúaeyjar,Brit Virgin-szigetek,Britain Virgin Kun-to,Britain Virgin Kûn-tó,Britainfo Virgin Islands,Britaintɔwo ƒe Virgin ƒudomekpowo nutome,Britaj Virgulininsuloj,Britan Wirgin adalary,Britanakan Virjinyan kgziner,Britandykˌ Virgin araldary,Britani Virja Isles,Britanija Virgin utraulary,Britanijn Virzhinij arluud,Britaniske knezniske kupy,Britaniske kněžniske kupy,Britaniya Virgin adalari,Britaniya Virgin adaları,Britaniya Virgin orollari,Britaniyanin Virgin adalari,Britaniyanın Virgin adaları,Britans'ki Virgins'ki ostrovi,Britanska Devicanska Ostrva,Britanska Devichanska Ostrva,Britanska Devičanska Ostrva,Britanska Djevicanska ostrva,Britanska Djevičanska ostrva,Britanski Deviski otoki,Britanski Deviški otoki,Britanski Devstveni Ostrovi,Britanski Djevicanski Otoci,Britanski Djevicanski otoci,Britanski Djevičanski Otoci,Britanski Djevičanski otoci,Britanski Virdzhinski ostroni,Britanski Virdzhinski ostrovi,Britanya Virjin Adalari,Britanya Virjin Adaları,Britesch Joffereninselen,Briti Neitsisaared,Britische Jungferninseln,British Virgin Islands,Britisk Jongfoomen Eilunen,Britiske Jomfruoer,Britiske Jomfruøer,Britsche Jumferninseln,Britse Maagde-Eilen,Britse Maagde-eilande,Britse Maagdeneilanden,Britse Maagdeneilannen,Britske Panenske ostrovy,Britske panenske ostrovy,Britské Panenské ostrovy,Britské panenské ostrovy,Brittania Virgin-sullot,Brittilaeiset Neitsytsaaret,Brittiläiset Neitsytsaaret,Brittiska Jungfruoearna,Brittiska Jungfruöarna,Britu Virdzinas,Britu Virdžīnas,Brytanskija Virginskija astravy,Bryttiscan Faemne Iegland,Bryttiscan Fæmne Īegland,Brytyjskie Wyspy Dziewicze,Bueuek Britaniya Virgin Adalari,Büük Britaniya Virgin Adaları,Colony of the Virgin Islands,De britiske jomfruoer,De britiske jomfruoyene,De britiske jomfruøer,De britiske jomfruøyene,Dei britiske jomfruoyane,Dei britiske jomfruøyane,Didziosios Britanijos Mergeliu salos,Didžiosios Britanijos Mergelių salos,Duni Virgin,Duni Wirsin yu Bretaan,Duni Wirsin yu Brëtaañ,Eileanan Breatannach na Maighdinn,Etikun Fagini ti ilu Biritisi,Etíkun Fágínì ti ìlú Bírítísì,GJao Virgin  thuoc Anh,Ibirwa by'isugi by'Abongereza,Ibirwa bya Virigini Nyongereza,Ibirwa by’isugi by’Abongereza,Iles Vierges,Iles Vierges britaniques,Iles Vierges britanniques,Iles Vièrges britaniques,Ilhas Virgens Britanicas,Ilhas Virgens Britânicas,Illas Verges Britanicas,Illas Virxes Britanicas,Illas Virxes Británicas,Illes Verges Britaniques,Illes Verges Britàniques,Ingiliz Virgin Adalari,Ingiliz Virjin Adalari,Inizi Gwerch Breizhveurat,Inizi Gwercʼh Breizh-Veur,Inslas Virginas Britannicas,Insulele Virgine Britanice,Ishujt e Virgjer Britanike,Ishujt e Virgjër Britanikë,Islas Virchens Britanicas,Islas Virgenes,Islas Virgenes Britanicas,Islas Virgenes nin Britanya,Islas Vírgenes,Islas Vírgenes Británicas,Isoe Vergini Britanneghe,Isole Vergini Britanniche,Kapuloan Virgin Britania,Kapuloan Virgin Britania Raya,Kapuluan ng Birheng Britaniko,Kepulauan Virgin Britania Raya,Kepulauan Virgin British,Kepulauan Virgin Inggris,Lutanda lua Vierzi wa Angeletele,Mergeliu Salos,Mergelių Salos,Nosy britanika virijiny,Oileain Bhriotanacha na Maighdean,Oileáin Bhriotanacha na Maighdean,Presidency of Virgin Islands,Quan gao Virgin thuoc Anh,Quần đảo Virgin thuộc Anh,Stora Bretlands Jomfruoyggjar,Stóra Bretlands Jomfrúoyggjar,Tsibirin Birjin Na Birtaniya,Virgin Insuli Britaniana,Virgin Islands,Virgin Islands (British),Virgin Islands Presidency,Virgin araldary (Britanija),Virginijn gӀajrenash (Britani),Virginis Insulae Britannicae,Virgins'ki ostrovi Britanii,Virginskia astravy,Virginskie Ostrova,Virginskie o-va (Velikobritanija),Visiwa vya Virgin vya Uingereza,Visiwa vya Virgin  Uingereza,Vretanikes Parthenes Nisoi,Ynysoedd Gwyryf Prydain,Ynysow an Wyrghes Predennek,Zvitsuwa zveHingirandi,baratanavi varajina tapu,bartanwy wrjin jzyr,belayati bharjina tapuharu,biritis vajin jazira,braiticha bharjina dbipapunja,britis varjin divulu,britis varjin dvipagalu,britisa bharjina dbipamala,britisa bharjina dbipapunja,britisa bharjina dvipapunja,britisa varajina tapu,britisa varjina a'ilendsa,britisa varjina dvipasamuha,britisa vharjina bete,britisa vharjina dvipasamuha,britis‌ bharjin dwipapunja,brittis veർjiൻ dvipukaൾ,britʼanetis virjinis kʼundzulebi,brtanwy jzayr wrjn,brtanwy wrjn ٻyٽ,brytanwy wyګwr ټapwګan,desetati verijini birithaniya,duuɗe kecce britanii,hmu keaa britich wexrcin,i-British Virgin Islands,igirisu lingvuajin zhu dao,il-Gzejjer Vergni Brittanici,il-Gżejjer Verġni Brittaniċi,jzayr wyrjyn brytanya,jzr alʿdhraʾ albrytanyt,jzr fyrjn albrytanyt,pirittaniya kannit tivukal,pirittis kannit tivukal,yeong-guglyeong beojin aillaendeu,yeong-guglyeong beojin-aillaendeu,yeʿiniግliዝ verijini desetoci,ying lingvuajin zhu dao,ying shu chu nu qun dao,ying shu wei er jing qun dao,ying shu wei jing qun dao,yەnglyyە vyrgyn yarallyry,Àwọn Erékùṣù Wúndíá Brítánì,Âzôâ Viîrîggo tî Anglëe,Îles Vierges,Îles Vierges britanniques,Đảo Virgin  thuộc Anh,İngiliz Virgin Adaları,İngiliz Virjin Adaları,ʻOtumotu Vilikini fakapilitānia,Βρετανικές Παρθένες Νήσοι,Британдық Виргин аралдары,Британдық Вирджин аралдары,Британийн Виржиний арлууд,Британин Виргинийн гӀайренаш,Британия Виргин утраулары,Британска Девичанска Острва,Британски Вирджински острови,Британски Вирджински острони,Британски Девствени Острови,Британські Віргінські острови,Брытанскія Віргінскія астравы,Виргин аралдары (Британия),Виргинийн гӀайренаш (Британи),Виргинские Острова,Виргинские о-ва (Великобритания),Віргінскія астравы,Віргінські острови Британії,Ҷaziraҳoi Virgini Britanija,Ҷазираҳои Виргини Британия,Բրիտանական Վիրջինյան կղզիներ,איי הבתולה הבריטיים,ئەنگلىيىگە قاراشلىق ۋىرگىن تاقىم ئاراللىرى,ئەنگلىيە ۋىرگىن ئاراللىرى,برطانوي ورجن ٻيٽ,برطانوی جزائر ورجن,برطانوی ورجن جزیرے,برٹش ورجن آئلینڈز,بریتانوی ویګور ټاپوګان,بَرطانوی ؤرجِن جٔزیٖرٕ,جزایر ویرجین بریتانیا,جزر العذراء البريطانية,جزر فيرجن البريطانية,ބިރިޓިޝް ވާޖިން ޖަޒީރާ,बेलायती भर्जिन टापुहरू,ब्रिटिश वर्जिन द्वीपसमूह,ब्रिटिश व्हर्जिन द्वीपसमूह,ब्रिटिश व्हर्जिन बेटे,ব্রিটিশ ভার্জিন দ্বীপপুঞ্জ,ব্রিটিশ ভার্জিন দ্বীপমালা,ব্ৰিটিছ ভাৰ্জিন দ্বীপপুঞ্জ,ਬਰਤਾਨਵੀ ਵਰਜਿਨ ਟਾਪੂ,ਬ੍ਰਿਟਿਸ਼ ਵਰਜਿਨ ਟਾਪੂ,બ્રિટિશ વર્જિન આઇલેન્ડ્સ,ବ୍ରିଟିଶ ଭର୍ଜିନ ଦ୍ଵୀପପୁଞ୍ଜ,ବ୍ରିଟିଶ୍‌ ଭର୍ଜିନ୍ ଦ୍ୱୀପପୁଞ୍ଜ,பிரிட்டீஷ் கன்னித் தீவுகள்,பிரித்தானிய கன்னித் தீவுகள்,బ్రిటిష్ వర్జిన్ దీవులు,ಬ್ರಿಟಿಷ್ ವರ್ಜಿನ್ ದ್ವೀಪಗಳು,ബ്രിട്ടീഷ് വെർജിൻ ദ്വീപുകൾ,බ්‍රිතාන්‍ය වර්ජින් දූපත්,หมู่เกาะบริติชเวอร์จิน,ໝູ່ເກາະ ເວີຈິນຂອງອັງກິດ,ໝເກາະ ເວຈນຂອງອງກດ,ཝརཇན་གང་ཚམ་ བ་ཊཤ་མངའ་ཁངས,ཝརཇིན་གླིང་ཚོམ་ བྲཱི་ཊིཤ་མངའ་ཁོངས,ဗြိတိသျှ ဗာဂျင်း ကျွန်းစု,ბრიტანეთის ვირჯინის კუნძულები,የእንግሊዝ ቨርጂን ደሴቶች,ደሴታት ቨርጂን ብሪጣኒያ,កោះ​វជន​ចករភព​អងគលេស,កោះ​វឺជិន​ចក្រភព​អង់គ្លេស,イギリス領ヴァージン諸島,英属维京群岛,英属维尔京群岛,英屬維京群島,英屬維爾京群島,英屬處女羣島,英領ヴァージン諸島,영국령 버진 아일랜드,영국령 버진아일랜드	18.5	-64.5	A	PCLD	VG	GB	00				29802		-9999	America/Tortola	2024-11-11
+3577719	Brewers Bay	Brewers Bay		18.44503	-64.65237	H	BAY	VG		00				0		59	America/Tortola	2014-04-09
+3577720	Brandywine Bay	Brandywine Bay		18.41516	-64.58506	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577721	Boo Point	Boo Point		18.45576	-64.7381	T	PT	VG		00				0		31	America/Tortola	2016-08-13
+3577722	Bongreys	Bongreys		18.47584	-64.58053	T	PT	VG		00				0		101	America/Tortola	2016-08-29
+3577723	Bones Low Point	Bones Low Point	Bones Low Point	18.74498	-64.37432	T	PT	VG		00				0		4	America/Tortola	2018-11-06
+3577724	Bones Bight	Bones Bight	Bones Bight	18.74383	-64.36761	H	BGHT	VG		00				0		1	America/Tortola	2018-11-06
+3577725	Blunder Bay	Blunder Bay	Blunder Bay	18.50583	-64.39208	H	BAY	VG		00				0		1	America/Tortola	2019-01-09
+3577726	Bluff Bay	Bluff Bay		18.43548	-64.53056	H	BAY	VG		00				0		-9999	America/Tortola	2016-08-30
+3577727	Bluff Bay	Bluff Bay		18.31752	-64.61504	H	BAY	VG		00				0		1	America/Tortola	2016-08-31
+3577728	The Bluff	The Bluff	The Bluff	18.42756	-64.52287	T	PT	VG		00				0		11	America/Tortola	2018-11-06
+3577729	Blowing Point	Blowing Point		18.4654	-64.42743	T	PT	VG		00				0		32	America/Tortola	2016-08-30
+3577730	The Blinders	The Blinders	The Blinders	18.42198	-64.44473	T	RKS	VG		00				0		-9999	America/Tortola	2018-11-06
+3577731	Black Rock Ghut	Black Rock Ghut	Black Rock Ghut	18.48153	-64.38957	H	STMI	VG		00				0		3	America/Tortola	2018-11-06
+3577732	Black Point	Black Point	Black Point	18.49065	-64.37202	T	PT	VG		00				0		74	America/Tortola	2018-11-06
+3577733	Black Point	Black Point	Black Point	18.46656	-64.50588	T	PT	VG		00				0		14	America/Tortola	2018-11-06
+3577734	Black Point	Black Point		18.46259	-64.41615	T	PT	VG		00				0		7	America/Tortola	2016-08-30
+3577735	Black Point	Black Point	Black Point	18.44288	-64.76185	T	PT	VG		00				0		11	America/Tortola	2018-11-06
+3577736	Black Point	Black Point		18.43692	-64.73161	T	PT	VG		00				0		34	America/Tortola	2016-08-13
+3577737	Black Point	Black Point	Black Point	18.39745	-64.69144	T	PT	VG		00				0		90	America/Tortola	2018-11-06
+3577738	Black Point	Black Point		18.37328	-64.50929	T	PT	VG		00				0		30	America/Tortola	2015-08-14
+3577739	Black Bluff	Black Bluff	Black Bluff	18.37071	-64.49827	T	HDLD	VG		00				0		23	America/Tortola	2018-11-06
+3577740	Biras Creek	Biras Creek	Biras Creek	18.4926	-64.35582	H	COVE	VG		00				0		6	America/Tortola	2018-11-06
+3577741	Big West End	Big West End	Big West End	18.3867	-64.48834	T	HDLD	VG		00				0		34	America/Tortola	2018-11-06
+3577742	Big Reef Bay	Big Reef Bay		18.34976	-64.56549	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577743	The Bight	The Bight		18.31607	-64.61819	H	BAY	VG		00				0		57	America/Tortola	2016-08-30
+3577744	Big Fry Hole	Big Fry Hole	Big Fry Hole	18.39035	-64.48249	H	COVE	VG		00				0		10	America/Tortola	2018-11-06
+3577745	Betty Brown Rock	Betty Brown Rock	Betty Brown Rock	18.43695	-64.7429	T	RK	VG		00				0		12	America/Tortola	2018-11-06
+3577746	Berchers Bluff	Berchers Bluff	Berchers Bluff	18.48664	-64.35617	T	CAPE	VG		00				0		14	America/Tortola	2018-11-06
+3577747	Berchers Bay	Berchers Bay		18.49174	-64.34984	H	BAY	VG		00				0		-9999	America/Tortola	2013-05-04
+3577748	Benures Bay	Benures Bay		18.32218	-64.6074	H	BAY	VG		00				0		16	America/Tortola	2016-08-30
+3577749	Bens Bay	Bens Bay		18.46732	-64.39108	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577750	Belmont Pond	Belmont Pond		18.39599	-64.69797	H	PND	VG		00				0		17	America/Tortola	2014-04-09
+3577751	Belmont Point	Belmont Point		18.39875	-64.69904	T	PT	VG		00				0		62	America/Tortola	2014-04-09
+3577752	Belmont Bay	Belmont Bay		18.40018	-64.69495	H	BGHT	VG		00				0		-9999	America/Tortola	2014-04-09
+3577753	Belle Vue	Belle Vue		18.44615	-64.75151	P	PPL	VG		00				0		5	America/Tortola	2016-08-13
+3577754	Bellamy Cay	Bellamy Cay	Bellamy Cay	18.44798	-64.53283	T	ISL	VG		00				0		3	America/Tortola	2016-08-30
+3577755	Beef Island Channel	Beef Island Channel		18.4466	-64.55438	H	CHNM	VG		00				0		10	America/Tortola	2016-08-30
+3577756	Beef Island	Beef Island	Beef Island,EIS	18.44175	-64.52966	T	ISL	VG		00				0		18	America/Tortola	2014-01-05
+3577757	Terrance B. Lettsome International Airport	Terrance B. Lettsome International Airport	Aeroport international Terrance B. Lettsome,Aeroportul International Terrance B. Lettsome,Aeroportul Internațional Terrance B. Lettsome,Aeropuerto Internacional Terrance B. Lettsome,Aéroport international Terrance B. Lettsome,Bandar Udara Internasional Terrance B. Lettsome,Beef Island Airport,EIS,Lapangan Terbang Terrance B Lettsome,Maes Awyr Rhyngwladol Terrance B. Lettsome,Port lotniczy Terrance B. Lettsome,TUPJ,Terrance B. Lettsome International Airport,Terrance B. Lettsome Uluslararasi Havalimani,Terrance B. Lettsome Uluslararası Havalimanı,Terrance B. Lettsome guo ji ji chang,Terrance B. Lettsome國際機場,telaenseu B. les-seom gugjegonghang,tuo er tuo la dao,فرودگاه بین‌المللی ترانس بی. لتسام,テラス・B・レットサム国際空港,托尔托拉岛,托爾托拉島,테랜스 B. 렛섬 국제공항	18.44483	-64.54297	S	AIRP	VG		00				0	4	4	America/Tortola	2024-07-13
+3577758	Baughers Bay	Baughers Bay	Bauger Bay,Baughers Bay	18.42233	-64.60716	H	BGHT	VG		00				0		-9999	America/Tortola	2014-04-09
+3577759	Batson Bay	Batson Bay	Batson Bay	18.43558	-64.73202	H	COVE	VG		00				0		-9999	America/Tortola	2018-11-06
+3577760	The Baths	The Baths	The Baths	18.42915	-64.4455	T	RKS	VG		00				0		1	America/Tortola	2018-11-06
+3577761	Bat Hole	Bat Hole	Bat Hole	18.48473	-64.41411	T	RKS	VG		00				0		330	America/Tortola	2018-11-06
+3577762	Barracouth Point	Barracouth Point	Barracouth Point	18.45789	-64.54475	T	PT	VG		00				0		3	America/Tortola	2018-11-06
+3577763	Barracouta Banks	Barracouta Banks	Barracouta Banks,Barracuda Bank	18.56667	-64.86667	H	SHOL	VG		00				0		-9999	America/Tortola	2012-01-18
+3577764	Bar Bay Point	Bar Bay Point	Bar Bay Point	18.43137	-64.56447	T	PT	VG		00				0		1	America/Tortola	2018-11-06
+3577765	Bandy Point	Bandy Point	Bandy Point	18.50416	-64.36039	T	PT	VG		00				0		6	America/Tortola	2018-11-06
+3577766	Banana Ghut	Banana Ghut	Banana Ghut	18.48339	-64.53841	H	BAY	VG		00				0		27	America/Tortola	2019-01-09
+3577767	Balsam Rock	Balsam Rock	Balsam Rock	18.43055	-64.43412	T	RK	VG		00				0		9	America/Tortola	2018-11-06
+3577768	Ballast Bay Ghut	Ballast Bay Ghut	Ballast Bay Ghut	18.41886	-64.66481	H	STMI	VG		00				0		8	America/Tortola	2018-11-06
+3577769	Ballast Bay	Ballast Bay		18.42117	-64.66781	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577770	Bakers Bay	Bakers Bay		18.49245	-64.379	H	BAY	VG		00				0		1	America/Tortola	2016-08-30
+3577771	Bakers Bay	Bakers Bay	Bakers Bay	18.44496	-64.72496	H	BAY	VG		00				0		1	America/Tortola	2019-01-09
+3577772	Bail’s Ground	Bail's Ground	Bail's Ground,Bail’s Ground	18.47585	-64.53579	H	BAY	VG		00				0		-9999	America/Tortola	2019-01-09
+3577773	Asbestos Point	Asbestos Point	Asbestos Point	18.505	-64.35952	T	PT	VG		00				0		-9999	America/Tortola	2018-11-06
+3577774	Arundel Ghut	Arundel Ghut	Arundel Ghut	18.41942	-64.65523	H	STMI	VG		00				0		134	America/Tortola	2018-11-06
+3577775	Apple Bay	Apple Bay		18.40346	-64.67834	H	BAY	VG		00				0		-9999	America/Tortola	2014-04-09
+3577776	Anguilla Point	Anguilla Point		18.50513	-64.39748	T	PT	VG		00				0		9	America/Tortola	2016-08-30
+3577777	Angilla Point	Angilla Point		18.4512	-64.62296	T	PT	VG		00				0		8	America/Tortola	2014-04-09
+3577778	Anegada Island	Anegada Island	Anegada,Anegada Island,Drowned Island,NGD,anegada dao,Анегада,אנגאדה,アネガダ島	18.73129	-64.32873	T	ISL	VG		00				0		9	America/Tortola	2013-04-13
+3577779	Auguste George Airport	Auguste George Airport	Anegada,Auguste George Airport,NGD,TUPA	18.72682	-64.32984	S	AIRP	VG		00				0		6	America/Tortola	2013-04-17
+3577780	Anderson Ghut	Anderson Ghut	Anderson Ghut	18.4439	-64.6471	H	STMI	VG		00				0		8	America/Tortola	2018-11-06
+3577781	Anderson	Anderson		18.44149	-64.63922	P	PPLL	VG		00				0		247	America/Tortola	2014-04-09
+3577782	Alphy Rock	Alphy Rock	Alphy Rock,Drowning Rock	18.39961	-64.69132	T	RK	VG		00				0		90	America/Tortola	2014-04-09
+3739939	Carrot Shoal	Carrot Shoal		18.325	-64.57806	H	SHOL	VG		00				0		-9999	America/Tortola	1995-01-23
+3739941	Blonde Rock	Blonde Rock		18.36944	-64.55056	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739942	Round Rock Passage	Round Rock Passage		18.39444	-64.4625	H	CHNM	VG		00				0		-9999	America/Tortola	1995-01-23
+3739961	King Rock	King Rock		18.43056	-64.82944	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739962	Watson Rock	Watson Rock		18.43944	-64.83389	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739963	Mercurius Rock	Mercurius Rock		18.44917	-64.81167	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739964	Rogue’s Point	Rogue's Point		18.45449	-64.60347	T	PT	VG		00				0		27	America/Tortola	2014-04-09
+3739965	Tow Rock	Tow Rock		18.48889	-64.4925	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739971	Diamond Rock	Diamond Rock		18.48278	-64.46667	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739972	Van Ryan’s Rock	Van Ryan's Rock		18.45833	-64.45	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739973	Dry Rocks	Dry Rocks		18.38278	-64.50222	T	RKS	VG		00				0		1	America/Tortola	1995-01-23
+3739978	Colquhoun Reef	Colquhoun Reef		18.51806	-64.38222	H	RF	VG		00				0		-9999	America/Tortola	1995-01-23
+3739979	Biras Hill	Biras Hill	Biras Hill	18.49861	-64.35377	T	HLL	VG		00				0		129	America/Tortola	2018-11-06
+3739980	The Invisibles	The Invisibles		18.52889	-64.33889	T	RKS	VG		00				0		-9999	America/Tortola	1995-01-23
+3739981	Necker Island Passage	Necker Island Passage		18.50833	-64.25833	H	CHNM	VG		00				0		-9999	America/Tortola	1995-01-23
+3739982	Herman Reefs	Herman Reefs		18.55833	-64.2375	H	RF	VG		00				0		-9999	America/Tortola	1995-01-23
+3739983	The White Horse	The White Horse		18.58889	-64.22083	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3739984	Robert Reef	Robert Reef		18.56667	-64.30028	H	RF	VG		00				0		-9999	America/Tortola	1995-01-23
+3739985	Turtle Head	Turtle Head		18.61667	-64.76944	H	SHOL	VG		00				0		-9999	America/Tortola	1995-01-23
+3740090	Windy Hill	Windy Hill		18.41675	-64.66887	T	HLL	VG		00				0		126	America/Tortola	2020-11-11
+3740091	Fox Rock	Fox Rock		18.55417	-64.33111	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3740092	Visibles	Visibles		18.49639	-64.46389	H	SHOL	VG		00				0		-9999	America/Tortola	1995-01-23
+3740093	West End	West End		18.38919	-64.71683	T	CAPE	VG		00				0		10	America/Tortola	2014-04-09
+3740094	Nanny Cay Marina	Nanny Cay Marina	Nannie Cay Marina,Nanny Cay Marina	18.40083	-64.63556	S	MAR	VG		00				0		9	America/Tortola	2012-01-19
+3740095	Fort Burt Hotel	Fort Burt Hotel		18.41444	-64.615	S	HTL	VG		00				0		9	America/Tortola	1995-01-23
+3740096	Brewers Point	Brewers Point	Brewers Point	18.44417	-64.66	T	PT	VG		00				0		7	America/Tortola	2018-12-05
+3740097	Port Purcell	Port Purcell		18.4267	-64.60906	L	PRT	VG		00				0		6	America/Tortola	2014-04-09
+3740098	East End	East End	East End	18.44024	-64.55638	P	PPL	VG		00				0		9	America/Tortola	2018-11-06
+3740099	The Bluff	The Bluff		18.42722	-64.52194	T	CLF	VG		00				0		6	America/Tortola	1995-01-23
+3740100	Caravel Rock	Caravel Rock		18.30889	-64.62889	T	RK	VG		00				0		-9999	America/Tortola	1995-01-23
+3740101	West Hill	West Hill	West Hill	18.31141	-64.62122	T	HLL	VG		00				0		102	America/Tortola	2018-11-06
+3740102	Key Cay	Key Cay	Key Cay	18.34472	-64.59583	T	ISL	VG		00				0		4	America/Tortola	2018-12-05
+3740103	Slaney Hill	Slaney Hill		18.41382	-64.62321	T	HLL	VG		00				0		268	America/Tortola	2014-04-09
+3740104	Denmark Banks	Denmark Banks		18.40833	-64.60667	H	SHOL	VG		00				0		-9999	America/Tortola	1995-01-23
+3740105	Lark Bank	Lark Bank		18.4125	-64.60722	H	SHOL	VG		00				0		-9999	America/Tortola	1995-01-23
+3740106	Scotch Bank	Scotch Bank		18.41361	-64.60139	H	SHOL	VG		00				0		-9999	America/Tortola	1995-01-23
+3740107	Shirley Point	Shirley Point	Shirley Point	18.41806	-64.60278	T	PT	VG		00				0		11	America/Tortola	2018-12-05
+3740108	Little Wickham’s Cay	Little Wickham's Cay	Little Wickam's Cay,Little Wickam’s Cay,Little Wickham's Cay,Little Wickham’s Cay	18.42556	-64.61778	T	ISL	VG		00				0		10	America/Tortola	2012-01-19
+3740109	Kingstown Hill	Kingstown Hill	Kingstown Hill	18.42104	-64.59111	T	HLL	VG		00				0		248	America/Tortola	2018-11-06
+3740110	Creek Village	Creek Village		18.49111	-64.38111	P	PPLL	VG		00				0		58	America/Tortola	1995-01-23
+3740111	Great Hill	Great Hill	Great Hill	18.48686	-64.37698	T	HLL	VG		00				0		175	America/Tortola	2018-11-06
+3740112	Oyster Rock	Oyster Rock		18.49381	-64.36246	T	RK	VG		00				0		-9999	America/Tortola	2013-04-01
+3740113	Creek Shoal	Creek Shoal		18.48806	-64.37583	H	BNK	VG		00				0		157	America/Tortola	1995-01-23
+3740114	Rivet Hill	Rivet Hill		18.49806	-64.38194	T	HLL	VG		00				0		1	America/Tortola	1995-01-23
+3740115	Bay Hill	Bay Hill	Bay Hill	18.49217	-64.38824	T	HLL	VG		00				0		166	America/Tortola	2018-11-06
+3740116	Gorda Rock	Gorda Rock		18.51282	-64.38375	H	BNK	VG		00				0		-9999	America/Tortola	2013-05-04
+3740117	Cactus Reef	Cactus Reef		18.51611	-64.37361	H	RF	VG		00				0		-9999	America/Tortola	1995-01-23
+6458583	Marina	Marina		18.42567	-64.56825	L	LCTY	VG						0		7	America/Tortola	2007-04-12
+6462024	Bitter End Yacht Club	Bitter End Yacht Club		18.49957	-64.3578	S	HTL	VG						0		9	America/Tortola	2013-04-01
+6477942	Long Bay Beach Resort & Villas	Long Bay Beach Resort & Villas		18.39631	-64.68604	S	HTL	VG						0		20	America/Tortola	2013-03-23
+6487014	Peter Island Resort	Peter Island Resort		18.4291	-64.6289	S	HTL	VG						0		152	America/Tortola	2007-04-12
+6497125	Nail Bay Resort	Nail Bay Resort		18.4965	-64.4139	S	HTL	VG						0		-9999	America/Tortola	2007-04-14
+6509122	Biras Creek Resort	BIRAS CREEK RESORT		18.4499	-64.4333	S	HTL	VG						0		15	America/Tortola	2007-04-13
+6512796	Little Dix Bay  A Rosewood Reso	LITTLE DIX BAY  A ROSEWOOD RESO		18.4503	-64.4345	S	HTL	VG						0		9	America/Tortola	2007-04-13
+6519490	Flagship  Crown Bay	FLAGSHIP  CROWN BAY		18.4291	-64.6289	S	HTL	VG						0		152	America/Tortola	2007-04-15
+6520547	Katitche Point Greathouse	KATITCHE POINT GREATHOUSE		18.4291	-64.6289	S	HTL	VG						0		152	America/Tortola	2007-04-15
+6533307	Sebastians On The Beach	SEBASTIANS ON THE BEACH		18.4166	-64.6166	S	HTL	VG						0		0	America/Tortola	2007-04-13
+6533339	Fort Recovery Beach Villas	FORT RECOVERY BEACH VILLAS		18.4166	-64.6166	S	HTL	VG						0		0	America/Tortola	2007-04-14
+6942204	Norman Island	Norman Island		18.31856	-64.61288	L	LCTY	VG						0		5	America/Tortola	2016-08-30
+8504811	Queen Elizabeth II Bridge	Queen Elizabeth II Bridge	Queen Elizabeth II Bridge	18.44438	-64.55408	S	BDG	VG						0		6	America/Tortola	2013-03-23
+8504812	Tortola West End Sea Plane Base	Tortola West End Sea Plane Base	TOV,Tortola West End SPB,Tortola West End Sea Plane Base,West End SPB	18.38662	-64.7043	H	AIRS	VG						0		7	America/Tortola	2013-03-23
+8504813	Tortola Road Town Sea Plane Base	Tortola Road Town Sea Plane Base	RAD,Road Town SPB,Tortola Road Town SPB,Tortola Road Town Sea Plane Base	18.41846	-64.61791	H	AIRS	VG						0		3	America/Tortola	2013-03-23
+8521668	Eustatia Heliport	Eustatia Heliport	Eustatia Heliport	18.50868	-64.35943	S	AIRH	VG						0		6	America/Tortola	2013-05-04
+8849173	Anderson Point	Anderson Point		18.44869	-64.65282	T	PT	VG						0		12	America/Tortola	2014-04-09
+8849176	Mount Healthy	Mount Healthy		18.44851	-64.64004	T	MT	VG						0		204	America/Tortola	2014-04-09
+8849177	Luck Hill	Luck Hill		18.43654	-64.65669	T	HLL	VG						0		276	America/Tortola	2014-04-09
+8849179	Todman Peak	Todman Peak		18.43605	-64.63707	T	PK	VG						0		357	America/Tortola	2014-04-09
+9968609	Scrub Island Resort Spa & Marina Autograph Collection	Scrub Island Resort Spa & Marina Autograph Collection		18.46555	-64.52284	S	HTL	VG						0		15	America/Tortola	2015-01-22
+9968620	Scrub Island Resort	Scrub Island Resort		18.42682	-64.63549	S	HTL	VG						0		296	America/Tortola	2015-01-22
+9968621	Rosewood Litlle Dix Bay	Rosewood Litlle Dix Bay		18.45895	-64.4347	S	HTL	VG						0		8	America/Tortola	2015-01-22
+9969453	Oil Nut Bay	Oil Nut Bay		18.49959	-64.32963	S	HTL	VG						0		6	America/Tortola	2015-01-22
+9971654	Long Bay Beach Resort & Villas All Inclusive	Long Bay Beach Resort & Villas All Inclusive		18.39623	-64.68914	S	HTL	VG						0		32	America/Tortola	2015-01-24
+10062641	Scrub Island Resort Spa & Marina Autograph CollectionÂ®	Scrub Island Resort Spa & Marina Autograph CollectionA		18.46555	-64.52284	S	HTL	VG						0		15	America/Tortola	2015-02-12
+10106367	Anegada Reef	Anegada Reef		18.7245	-64.3825	S	HTL	VG						0		2	America/Tortola	2015-02-19
+10115427	Gordian Terrace	Gordian Terrace		18.48885	-64.3908	S	HTL	VG						0		183	America/Tortola	2015-02-24
+10121425	Fort Recovery Beachfront Villa & Suites Hotel	Fort Recovery Beachfront Villa & Suites Hotel		18.42681	-64.61814	S	HTL	VG						0		8	America/Tortola	2015-02-26
+10285876	Scrub Island Resort Spa and Marina	Scrub Island Resort Spa and Marina		18.46699	-64.52378	S	HTL	VG						0		0	America/Tortola	2016-08-30
+10285877	Long Bay Beach Resort and Villas	Long Bay Beach Resort and Villas		18.39517	-64.68913	S	HTL	VG						0		68	America/Tortola	2015-05-22
+10285878	Fort Recovery Beachfront Villa and Suites Hotel	Fort Recovery Beachfront Villa and Suites Hotel		18.42681	-64.61814	S	HTL	VG						0		8	America/Tortola	2015-05-22
+11048810	Virgin Islands National Park	Virgin Islands National Park		18.42017	-64.64527	L	PRK	VG						0	0	392	America/Tortola	2016-01-18
+11971703	Beasli Hill	Beasli Hill	Beasli Hill	18.43749	-64.73269	T	HLL	VG		00				0		57	America/Tortola	2018-11-08
+11971704	Roach Hill	Roach Hill	Roach Hill	18.44534	-64.73763	T	HLL	VG		00				0		271	America/Tortola	2018-11-08
+11971705	Man O’ War Hill	Man O' War Hill	Man O' War Hill,Man O’ War Hill	18.4479	-64.75781	T	HLL	VG		00				0		183	America/Tortola	2018-11-08
+11971706	Saddle Hill	Saddle Hill	Saddle Hill	18.44693	-64.76666	T	HLL	VG		00				0		107	America/Tortola	2018-11-08
+11971707	Seville Hill	Seville Hill	Seville Hill	18.44835	-64.76116	T	HLL	VG		00				0		100	America/Tortola	2018-11-08
+11971708	Spring Hill	Spring Hill	Spring Hill	18.45017	-64.74993	T	HLL	VG		00				0		196	America/Tortola	2018-11-08
+11971709	Majohnny Hill	Majohnny Hill	Majohnny Hill	18.45251	-64.75231	T	HLL	VG		00				0		293	America/Tortola	2018-11-08
+11971710	West End	West End	West End	18.44366	-64.77578	L	LCTY	VG		00				0		157	America/Tortola	2018-11-08
+11971711	Cape Wright	Cape Wright	Cape Wright	18.45391	-64.72895	L	LCTY	VG		00				0		10	America/Tortola	2018-11-08
+11971712	South Side	South Side	South Side	18.44095	-64.74733	P	PPLL	VG		00				0		32	America/Tortola	2018-11-08
+11971713	Cotton Ground	Cotton Ground	Cotton Ground	18.44721	-64.75239	P	PPL	VG		00				0		32	America/Tortola	2018-11-08
+11971714	Commodore	Commodore	Commodore	18.44939	-64.7438	L	LCTY	VG		00				0		233	America/Tortola	2018-11-08
+11971715	Old Mill Round	Old Mill Round	Old Mill Round	18.44657	-64.75764	L	LCTY	VG		00				0		219	America/Tortola	2018-11-08
+11971716	Skeleton Land	Skeleton Land	Skeleton Land	18.44539	-64.7333	P	PPLL	VG		00				0		158	America/Tortola	2018-11-08
+11971717	Crasy Pond	Crasy Pond	Crasy Pond	18.73499	-64.30409	H	LGN	VG		00				0		1	America/Tortola	2018-11-08
+11971718	Warner	Warner	Warner	18.71626	-64.29397	L	LCTY	VG		00				0		4	America/Tortola	2018-11-08
+11971719	East End	East End	East End	18.69329	-64.27527	L	LCTY	VG		00				0		2	America/Tortola	2018-11-08
+11971720	White Bay Pond	White Bay Pond	White Bay Pond	18.70108	-64.28826	H	LGN	VG		00				0		0	America/Tortola	2018-11-08
+11971721	Budrock Pond	Budrock Pond	Budrock Pond	18.70237	-64.27597	H	LGN	VG		00				0		0	America/Tortola	2018-11-08
+11971722	Shell Pond	Shell Pond	Shell Pond	18.69617	-64.28307	H	LGN	VG		00				0		0	America/Tortola	2018-11-08
+11971723	Red Pond	Red Pond	Red Pond	18.73527	-64.35339	H	LGN	VG		00				0		0	America/Tortola	2018-11-08
+11971724	Bumber Well Pond	Bumber Well Pond	Bumber Well Pond	18.7275	-64.34879	H	LGN	VG		00				0		-2	America/Tortola	2018-11-08
+11971725	Point Peter	Point Peter	Point Peter	18.72847	-64.36591	T	PT	VG		00				0		1	America/Tortola	2018-11-08
+11971726	The Creek	The Creek	The Creek	18.72276	-64.36346	H	CRKT	VG		00				0		1	America/Tortola	2018-11-08
+11971727	Bones Bight Pond	Bones Bight Pond	Bones Bight Pond	18.7395	-64.37162	H	LGN	VG		00				0		0	America/Tortola	2018-11-08
+11971728	Manhead Pond	Manhead Pond	Manhead Pond	18.73557	-64.36639	H	LGN	VG		00				0		0	America/Tortola	2018-11-08
+11971729	Vagabond Pond	Vagabond Pond	Vagabond Pond	18.73392	-64.39683	H	LGN	VG		00				0		7	America/Tortola	2018-11-08
+11971730	Rhone Marine Park	Rhone Marine Park	Rhone Marine Park	18.37022	-64.5487	L	RESN	VG		00				0		-9999	America/Tortola	2018-11-08
+11971731	Hallovers	Hallovers	Hallovers	18.37335	-64.50656	L	LCTY	VG		00				0		28	America/Tortola	2018-11-08
+11971732	Harry Bottom	Harry Bottom	Harry Bottom	18.38144	-64.51099	L	CST	VG		00				0		95	America/Tortola	2018-11-08
+11971733	Spring Bay Land	Spring Bay Land	Spring Bay Land	18.43328	-64.44188	P	PPL	VG		00				0		12	America/Tortola	2018-11-08
+11971734	Rhymers Estate	Rhymers Estate	Rhymers Estate	18.43503	-64.43504	P	PPL	VG		00				0		50	America/Tortola	2018-11-08
+11971735	The Country	The Country	The Country	18.43207	-64.43641	P	PPL	VG		00				0		22	America/Tortola	2018-11-08
+11971736	Copper Mine	Copper Mine	Copper Mine	18.43268	-64.42552	P	PPLL	VG		00				0		61	America/Tortola	2018-11-08
+11971737	Mine Hill	Mine Hill	Mine Hill	18.43346	-64.42901	T	HLL	VG		00				0		70	America/Tortola	2018-11-08
+11971738	Windy Hill	Windy Hill	Windy Hill	18.44028	-64.43111	P	PPLX	VG		00				0		33	America/Tortola	2018-11-08
+11971739	Trunk Bay Land	Trunk Bay Land	Trunk Bay Land	18.43869	-64.43951	P	PPLL	VG		00				0		27	America/Tortola	2018-11-08
+11971740	Little Fort National Park	Little Fort National Park	Little Fort National Park	18.4418	-64.44097	L	PRK	VG		00				0		35	America/Tortola	2018-11-08
+11971741	Taylors Bay	Taylors Bay	Taylors Bay	18.4458	-64.43111	P	PPLX	VG		00				0		29	America/Tortola	2018-11-08
+11971742	Princess Quarters	Princess Quarters	Princess Quarters	18.44329	-64.43655	P	PPLX	VG		00				0		9	America/Tortola	2018-11-08
+11971743	Stevens Pasture	Stevens Pasture	Stevens Pasture	18.44928	-64.43354	P	PPLX	VG		00				0		12	America/Tortola	2018-11-08
+11971744	Church Hill	Church Hill	Church Hill	18.44186	-64.43352	P	PPLX	VG		00				0		32	America/Tortola	2018-11-08
+11971745	Town Bay	Town Bay	Town Bay	18.44422	-64.43989	P	PPLX	VG		00				0		6	America/Tortola	2018-11-08
+11971746	Virgin Gorda Yacht Harbour	Virgin Gorda Yacht Harbour	Virgin Gorda Yacht Harbour	18.44988	-64.43659	H	HBR	VG		00				0		2	America/Tortola	2018-11-08
+11971747	Little Fort	Little Fort	Little Fort	18.44269	-64.44232	L	LCTY	VG		00				0		16	America/Tortola	2018-11-08
+11971748	The Hole	The Hole	The Hole	18.44164	-64.44238	L	LCTY	VG		00				0		16	America/Tortola	2018-11-08
+11971749	Head of the Bay	Head of the Bay	Head of the Bay	18.45421	-64.43386	P	PPLX	VG		00				0		11	America/Tortola	2018-11-08
+11971750	Crab Hill	Crab Hill	Crab Hill,North Valley	18.45238	-64.42996	P	PPLX	VG		00				0		25	America/Tortola	2018-11-08
+11971751	Handsome Bay	Handsome Bay	Handsome Bay	18.45704	-64.42765	P	PPLX	VG		00				0		12	America/Tortola	2018-11-08
+11971752	Fanny Mac Hill	Fanny Mac Hill	Fanny Mac Hill	18.45491	-64.42843	P	PPLX	VG		00				0		20	America/Tortola	2018-11-08
+11971753	Harrigan Pasture	Harrigan Pasture	Harrigan Pasture	18.45594	-64.42974	P	PPLX	VG		00				0		31	America/Tortola	2018-11-08
+11971754	Dovers Hill	Dovers Hill	Dovers Hill	18.4564	-64.43187	T	HLL	VG		00				0		53	America/Tortola	2018-11-08
+11971755	Cow Hill	Cow Hill	Cow Hill	18.45781	-64.43722	T	HLL	VG		00				0		110	America/Tortola	2018-11-08
+11971756	Little Dix Bay	Little Dix Bay	Little Dix Bay	18.45865	-64.43398	P	PPL	VG		00				0		12	America/Tortola	2018-11-08
+11971757	Minton Hill	Minton Hill	Milton Hill,Minton Hill	18.46172	-64.427	T	HLL	VG		00				0		117	America/Tortola	2018-11-08
+11971758	Manchioneel Bottom	Manchioneel Bottom	Manchioneel Bottom	18.45738	-64.44098	L	CST	VG		00				0		16	America/Tortola	2018-11-08
+11971759	Water Point	Water Point	Water Point	18.4605	-64.42229	T	PT	VG		00				0		28	America/Tortola	2018-11-08
+11971760	Savannah Bay	Savannah Bay	Savannah Bay	18.46212	-64.42263	L	LCTY	VG		00				0		27	America/Tortola	2018-11-08
+11971761	Pond Bay	Pond Bay	Pond Bay	18.47013	-64.41334	P	PPL	VG		00				0		28	America/Tortola	2018-11-08
+11971762	Black Rock	Black Rock	Black Rock	18.4657	-64.41472	L	LCTY	VG		00				0		81	America/Tortola	2018-11-08
+11971763	Soldier Bay	Soldier Bay	Soldier Bay	18.47033	-64.40317	L	LCTY	VG		00				0		123	America/Tortola	2018-11-08
+11971764	Valley Hill	Valley Hill	Valley Hill	18.47196	-64.39236	T	HLL	VG		00				0		144	America/Tortola	2018-11-08
+11971765	Little Bay Hill	Little Bay Hill	Little Bay Hill	18.47848	-64.38975	T	HLL	VG		00				0		17	America/Tortola	2018-11-08
+11971766	John Tarter	John Tarter	John Tarter	18.47869	-64.413	P	PPLL	VG		00				0		37	America/Tortola	2018-11-08
+11971767	Plum Tree Bay	Plum Tree Bay	Plum Tree Bay	18.48398	-64.41164	P	PPLL	VG		00				0		122	America/Tortola	2018-11-08
+11971769	Fanny Hill	Fanny Hill	Fanny Hill	18.49545	-64.40216	T	HLL	VG		00				0		257	America/Tortola	2018-11-08
+11971770	Gorda Peak National Park	Gorda Peak National Park	Gorda Peak National Park	18.48833	-64.40282	L	PRK	VG		00				0		384	America/Tortola	2018-11-08
+11971772	Bakers Bay	Bakers Bay	Bakers Bay	18.4929	-64.38523	P	PPL	VG		00				0		74	America/Tortola	2018-11-08
+11971773	North Sound	North Sound	North Sound	18.49058	-64.38307	P	PPL	VG		00				0		20	America/Tortola	2018-11-08
+11971774	The Bond	The Bond	The Bond	18.48976	-64.39242	P	PPL	VG		00				0		211	America/Tortola	2018-11-08
+11971775	North Sound Settlement	North Sound Settlement	North Sound Settlement	18.49722	-64.38481	P	PPL	VG		00				0		20	America/Tortola	2018-11-08
+11971776	Perot Hill	Perot Hill	Perot Hill	18.4925	-64.39315	T	HLL	VG		00				0		159	America/Tortola	2018-11-08
+11971777	Little Hill	Little Hill	Little Hill	18.48879	-64.38861	T	HLL	VG		00				0		121	America/Tortola	2018-11-08
+11971778	Upper Bottom	Upper Bottom	Upper Bottom	18.49025	-64.37626	L	CST	VG		00				0		35	America/Tortola	2018-11-08
+11971779	Grassy Ground	Grassy Ground	Grassy Ground	18.48549	-64.36176	L	CST	VG		00				0		40	America/Tortola	2018-11-08
+11971780	East End	East End	East End	18.50515	-64.36413	L	LCTY	VG		00				0		47	America/Tortola	2018-11-08
+11971782	Little Mountain	Little Mountain	Little Mountain	18.45035	-64.55012	T	HLL	VG		00				0		54	America/Tortola	2018-11-08
+11971783	Sugar Loaf Hill	Sugar Loaf Hill	Sugar Loaf Hill	18.38395	-64.74914	T	HLL	VG		00				0		113	America/Tortola	2018-11-08
+11971784	Dawson	Dawson	Dawson	18.39177	-64.7056	P	PPL	VG		00				0		45	America/Tortola	2018-11-08
+11971785	Belmont	Belmont	Belmont	18.3923	-64.70086	P	PPL	VG		00				0		25	America/Tortola	2018-11-08
+11971786	West End	West End	West End	18.38802	-64.69775	P	PPL	VG		00				0		42	America/Tortola	2018-11-08
+11971787	Saint Bernards Hill	Saint Bernards Hill	Saint Bernards Hill,St. Bernards Hill	18.3905	-64.69728	T	HLL	VG		00				0		172	America/Tortola	2021-02-20
+11971788	Benjamin Hill	Benjamin Hill	Benjamin Hill	18.39236	-64.68845	T	HLL	VG		00				0		216	America/Tortola	2018-11-08
+11971789	Long Bay	Long Bay	Long Bay	18.39658	-64.68612	P	PPL	VG		00				0		20	America/Tortola	2018-11-08
+11971790	Little Apple Bay	Little Apple Bay	Little Apple Bay	18.39521	-64.68186	P	PPL	VG		00				0		44	America/Tortola	2018-11-08
+11971791	Zion Hill	Zion Hill	Zion Hill	18.39435	-64.67864	T	HLL	VG		00				0		105	America/Tortola	2018-11-08
+11971792	Cappoons Bay	Cappoons Bay	Cappoons Bay	18.39953	-64.67979	P	PPL	VG		00				0		8	America/Tortola	2018-11-08
+11971793	Apple Bay	Apple Bay	Apple Bay	18.40207	-64.67678	P	PPL	VG		00				0		26	America/Tortola	2018-11-08
+11971794	Cart Path	Cart Path	Cart Path	18.39472	-64.67514	P	PPL	VG		00				0		171	America/Tortola	2018-11-08
+11971796	Recovery	Recovery	Recovery	18.3886	-64.67348	P	PPL	VG		00				0		54	America/Tortola	2018-11-08
+11971797	Boway	Boway	Boway	18.38504	-64.67311	P	PPL	VG		00				0		53	America/Tortola	2018-11-08
+11971798	Daseys	Daseys	Daseys	18.38687	-64.67287	P	PPL	VG		00				0		150	America/Tortola	2018-11-08
+11971799	Flamingo Pond	Flamingo Pond	Flamingo Pond	18.38738	-64.66318	H	LGN	VG		00				0		4	America/Tortola	2018-11-08
+11971800	Coxheath	Coxheath	Coxheath	18.39411	-64.66463	L	LCTY	VG		00				0		80	America/Tortola	2018-11-08
+11971801	Pockwood Pond	Pockwood Pond	Pockwood Pond	18.39112	-64.65569	H	PND	VG		00				0		6	America/Tortola	2018-11-08
+11971802	Pockwood Pond	Pockwood Pond	Pockwood Pond	18.39445	-64.65257	P	PPL	VG		00				0		32	America/Tortola	2018-11-08
+11971803	Havers	Havers	Havers	18.39442	-64.64386	P	PPL	VG		00				0		83	America/Tortola	2018-11-08
+11971804	Sage Mountain National Park	Sage Mountain National Park	Sage Mountain National Park	18.40747	-64.65624	L	PRK	VG		00				0		483	America/Tortola	2018-11-08
+11971805	Arundell	Arundell	Arundell	18.41607	-64.65707	P	PPL	VG		00				0		333	America/Tortola	2018-11-08
+11971806	Ballast Bay	Ballast Bay	Ballast Bay	18.41509	-64.66747	P	PPL	VG		00				0		148	America/Tortola	2018-11-08
+11971807	Edney	Edney	Edney	18.41053	-64.65118	P	PPL	VG		00				0		396	America/Tortola	2018-11-08
+11971808	Shannon	Shannon	Shannon	18.42066	-64.65129	P	PPL	VG		00				0		259	America/Tortola	2018-11-08
+11971809	Hodge	Hodge	Hodge	18.4279	-64.65567	P	PPL	VG		00				0		41	America/Tortola	2018-11-08
+11971810	McIntosh	McIntosh	McIntosh	18.43196	-64.65331	P	PPL	VG		00				0		176	America/Tortola	2018-11-08
+11971811	Ross	Ross	Ross	18.43336	-64.65713	P	PPL	VG		00				0		148	America/Tortola	2018-11-08
+11971812	Martin	Martin	Martin	18.43871	-64.65314	P	PPL	VG		00				0		86	America/Tortola	2018-11-08
+11971813	Mount Healthy	Mount Healthy	Mount Healthy	18.4485	-64.64293	P	PPL	VG		00				0		68	America/Tortola	2018-11-08
+11971814	Spooner	Spooner	Spooner	18.44329	-64.63347	P	PPL	VG		00				0		263	America/Tortola	2018-11-08
+11971815	Henley	Henley	Henley	18.43959	-64.63292	P	PPL	VG		00				0		269	America/Tortola	2018-11-08
+11971816	Great Mountain	Great Mountain	Great Mountain	18.44224	-64.63083	T	MT	VG		00				0		349	America/Tortola	2018-11-08
+11971817	Turnbull Hill	Turnbull Hill	Turnbull Hill	18.44041	-64.62444	P	PPL	VG		00				0		307	America/Tortola	2018-11-08
+11971819	Little Bay	Little Bay	Little Bay	18.44988	-64.63555	L	LCTY	VG		00				0		42	America/Tortola	2018-11-08
+11971820	Lormer Bay	Lormer Bay	Lormer Bay	18.4488	-64.62974	L	LCTY	VG		00				0		16	America/Tortola	2018-11-08
+11971821	Cooper Bay	Cooper Bay	Cooper Bay	18.44766	-64.62005	L	LCTY	VG		00				0		10	America/Tortola	2018-11-08
+11971822	Trunk Bay	Trunk Bay	Trunk Bay	18.44655	-64.61122	P	PPL	VG		00				0		71	America/Tortola	2018-11-08
+11971823	Fahie Hill	Fahie Hill	Fahie Hill	18.43843	-64.62106	P	PPL	VG		00				0		291	America/Tortola	2018-11-08
+11971824	Green Bank	Green Bank	Green Bank	18.43164	-64.64351	P	PPL	VG		00				0		302	America/Tortola	2018-11-08
+11971825	New Bush	New Bush	New Bush	18.43284	-64.63772	P	PPL	VG		00				0		363	America/Tortola	2018-11-08
+11971826	Primrose Garden	Primrose Garden	Primrose Garden	18.43691	-64.63331	P	PPL	VG		00				0		227	America/Tortola	2018-11-08
+11971827	Huntums Ghut	Huntums Ghut	Huntums Ghut	18.43347	-64.62642	P	PPLX	VG		00				0		41	America/Tortola	2018-11-08
+11971828	Johnson Ghut	Johnson Ghut	Johnson Ghut	18.43517	-64.60961	P	PPLX	VG		00				0		32	America/Tortola	2018-11-08
+11971829	Pasea Estate	Pasea Estate	Pasea,Pasea Estate	18.43049	-64.61468	P	PPLX	VG		00				0		27	America/Tortola	2018-11-08
+11971830	Meyers	Meyers	Meyers	18.42634	-64.64518	P	PPL	VG		00				0		348	America/Tortola	2018-11-08
+11971831	Martins Joes Hill	Martins Joes Hill	Martins Joes Hill	18.42739	-64.63916	P	PPL	VG		00				0		358	America/Tortola	2018-11-08
+11971832	Diamond	Diamond	Diamond	18.43146	-64.63438	P	PPL	VG		00				0		365	America/Tortola	2018-11-08
+11971833	Long Bush	Long Bush	Long Bush	18.42419	-64.62524	P	PPLX	VG		00				0		18	America/Tortola	2018-11-08
+11971834	Pleasant Valley	Pleasant Valley	Pleasant Valley	18.40419	-64.64129	P	PPL	VG		00				0		37	America/Tortola	2018-11-08
+11971835	Duffs Bottom Pond	Duffs Bottom Pond	Duffs Bottom Pond	18.40748	-64.62604	H	LGN	VG		00				0		6	America/Tortola	2018-11-08
+11971836	Duffs Bottom	Duffs Bottom	Duffs Bottom	18.40855	-64.62447	P	PPL	VG		00				0		8	America/Tortola	2018-11-08
+11971837	Slaney	Slaney	Slaney	18.40731	-64.61795	P	PPL	VG		00				0		67	America/Tortola	2018-11-08
+11971838	Fisher Estate	Fisher Estate	Fisher,Fisher Estate	18.4128	-64.61646	P	PPLX	VG		00				0		74	America/Tortola	2018-11-08
+11971839	McNamara	McNamara	Macnamara,McNamara	18.41438	-64.61778	P	PPLX	VG		00				0		16	America/Tortola	2018-11-08
+11971841	Albion	Albion	Albion	18.41435	-64.6287	P	PPL	VG		00				0		36	America/Tortola	2018-11-08
+11971842	Blyden	Blyden	Blyden	18.42065	-64.62995	P	PPL	VG		00				0		282	America/Tortola	2018-11-08
+11971843	Fort Hill	Fort Hill	Fort Hill	18.41419	-64.62319	T	HLL	VG		00				0		268	America/Tortola	2018-11-08
+11971844	Round Hill	Round Hill	Round Hill	18.41214	-64.63666	T	HLL	VG		00				0		109	America/Tortola	2018-11-08
+11971845	Nibbs	Nibbs	Nibbs	18.41431	-64.63548	P	PPL	VG		00				0		27	America/Tortola	2018-11-08
+11971846	Chalwell	Chalwell	Chalwell	18.41954	-64.64539	P	PPL	VG		00				0		378	America/Tortola	2018-11-08
+11971847	Doty	Doty	Doty	18.41413	-64.64618	P	PPL	VG		00				0		358	America/Tortola	2018-11-08
+11971920	Georges Hollow	Georges Hollow	Georges Hollow	18.42183	-64.62535	P	PPL	VG		00				0		99	America/Tortola	2018-11-08
+11971921	Huntum Ghut	Huntum Ghut	Huntum Ghut	18.42515	-64.62113	H	STM	VG		00				0		8	America/Tortola	2018-11-08
+11971922	Lower Estate	Lower Estate	Lower Estate	18.42946	-64.62572	P	PPLX	VG		00				0		33	America/Tortola	2018-11-08
+11971923	John’s Hole	John's Hole	John's Hole,John’s Hole	18.42891	-64.61904	P	PPLX	VG		00				0		70	America/Tortola	2018-11-08
+11971924	Free Bottom	Free Bottom	Free Bottom	18.43014	-64.60809	P	PPLX	VG		00				0		10	America/Tortola	2018-11-08
+11971925	Fort Hill	Fort Hill	Fort Hill	18.42591	-64.60693	T	HLL	VG		00				0		28	America/Tortola	2018-11-08
+11971926	Wickhams Cay One	Wickhams Cay One	Wickhams Cay 1,Wickhams Cay One	18.42221	-64.6157	P	PPLX	VG		00				0		10	America/Tortola	2018-11-08
+11971936	Wickhams Cay Two	Wickhams Cay Two	Wickhams Cay 2,Wickhams Cay Two	18.42708	-64.61367	P	PPLX	VG		00				0		9	America/Tortola	2018-11-08
+11971937	Blyden Yard	Blyden Yard	Blyden Yard	18.42331	-64.6229	P	PPLX	VG		00				0		8	America/Tortola	2018-11-08
+11971938	Russell Hill	Russell Hill	Russell Hill	18.41946	-64.62035	P	PPLX	VG		00				0		55	America/Tortola	2018-11-08
+11971939	Steep Hill	Steep Hill	Steep Hill	18.41746	-64.62714	P	PPL	VG		00				0		94	America/Tortola	2018-11-08
+11971940	Cocodella	Cocodella	Cocodella	18.41911	-64.62981	P	PPL	VG		00				0		230	America/Tortola	2018-11-08
+11971941	Queen Elizabeth Park	Queen Elizabeth Park	Queen Elizabeth Park	18.41588	-64.61699	L	PRK	VG		00				0		6	America/Tortola	2018-11-08
+11971942	Road Reef	Road Reef	Road Reef	18.41271	-64.61296	P	PPLX	VG		00				0		6	America/Tortola	2018-11-08
+11971943	Village Cay Marina	Village Cay Marina	Village Cay Marina	18.42383	-64.6177	S	MAR	VG		00				0		5	America/Tortola	2018-11-08
+11971944	Purcell	Purcell	Purcell	18.43131	-64.61003	P	PPLX	VG		00				0		13	America/Tortola	2018-11-08
+11971945	Fort Hill	Fort Hill	Fort Hill	18.42632	-64.60619	P	PPLX	VG		00				0		31	America/Tortola	2018-11-08
+11971946	Rogues Bay	Rogues Bay	Rogues Bay	18.44642	-64.6049	P	PPL	VG		00				0		145	America/Tortola	2018-11-08
+11971947	Carrot Bay	Carrot Bay	Carrot Bay	18.4517	-64.60409	P	PPL	VG		00				0		36	America/Tortola	2018-11-08
+11971948	Cooten Bay	Cooten Bay	Cooten Bay	18.44647	-64.59992	P	PPL	VG		00				0		69	America/Tortola	2018-11-08
+11971949	Pickering	Pickering	Pickering	18.43185	-64.63026	P	PPL	VG		00				0		166	America/Tortola	2018-11-08
+11971950	Harrigans Ghut	Harrigans Ghut	Harrigans Ghut	18.4181	-64.63465	H	STM	VG		00				0		79	America/Tortola	2018-11-08
+11971951	Pason Hill	Pason Hill	Pason Hill	18.40449	-64.63707	T	HLL	VG		00				0		137	America/Tortola	2018-11-08
+11971952	Lambert	Lambert	Lambert	18.4515	-64.5751	P	PPL	VG		00				0		74	America/Tortola	2018-11-08
+11971953	Buto Mountain	Buto Mountain	Buto Mountain	18.4377	-64.60282	T	MT	VG		00				0		328	America/Tortola	2018-11-08
+11971954	Sabbath Hill	Sabbath Hill	Sabbath Hill	18.43409	-64.59611	T	MT	VG		00				0		378	America/Tortola	2018-11-08
+11971955	Upper Hope	Upper Hope	Upper Hope	18.43616	-64.5941	P	PPL	VG		00				0		291	America/Tortola	2018-11-08
+11971956	Lower Hope	Lower Hope	Lower Hope	18.4376	-64.59039	P	PPL	VG		00				0		185	America/Tortola	2018-11-08
+11971957	Martin Spring Ghut	Martin Spring Ghut	Martin Spring Ghut	18.43514	-64.58258	P	PPLL	VG		00				0		200	America/Tortola	2018-11-08
+11971958	Belle Vue	Belle Vue	Belle Vue	18.43098	-64.59469	P	PPL	VG		00				0		321	America/Tortola	2018-11-08
+11971959	Nottingham Estate	Nottingham Estate	Nottingham,Nottingham Estate	18.43286	-64.57838	P	PPL	VG		00				0		211	America/Tortola	2018-11-08
+11971960	Carberry Hill	Carberry Hill	Carberry Hill	18.43968	-64.57837	T	HLL	VG		00				0		112	America/Tortola	2018-11-08
+11971961	Jennings Hill	Jennings Hill	Jennings Hill	18.44237	-64.57679	T	HLL	VG		00				0		82	America/Tortola	2018-11-08
+11971962	Hedrington Spring Ghut	Hedrington Spring Ghut	Hedrington Spring Ghut	18.42922	-64.58423	P	PPLL	VG		00				0		40	America/Tortola	2018-11-08
+11971963	Quick Hill	Quick Hill	Quick Hill	18.42906	-64.57366	T	HLL	VG		00				0		190	America/Tortola	2018-11-08
+11971965	Brandywine Bay	Brandywine Bay	Brandywine Bay	18.41809	-64.58436	P	PPL	VG		00				0		14	America/Tortola	2018-11-08
+11971966	Fish Bay	Fish Bay	Fish Bay	18.42049	-64.59959	P	PPL	VG		00				0		27	America/Tortola	2018-11-08
+11971967	Baughers Bay	Baughers Bay	Baughers Bay	18.42565	-64.60207	P	PPLX	VG		00				0		16	America/Tortola	2018-11-08
+11971968	Paraquita Bay	Paraquita Bay	Paraquita Bay	18.42592	-64.58176	P	PPL	VG		00				0		24	America/Tortola	2018-11-08
+11971969	Josias Bay	Josias Bay	Josias Bay	18.44309	-64.58806	P	PPL	VG		00				0		9	America/Tortola	2018-11-08
+11971970	Fat Hogs Bay	Fat Hogs Bay	Fat Hogs Bay	18.43185	-64.56953	P	PPLX	VG		00				0		7	America/Tortola	2018-11-08
+11971971	Hodge’s Creek	Hodge's Creek	Hodge's Creek,Hodge’s Creek	18.42599	-64.569	P	PPL	VG		00				0		23	America/Tortola	2018-11-08
+11971972	Hodge Estate	Hodge Estate	Hodge Estate	18.43391	-64.56982	P	PPLX	VG		00				0		14	America/Tortola	2018-11-08
+11971973	Bradie Ghut	Bradie Ghut	Bradie Ghut	18.43291	-64.57093	H	STM	VG		00				0		25	America/Tortola	2018-11-08
+11971974	Vanterpool	Vanterpool	Vanterpool	18.43609	-64.57006	P	PPLX	VG		00				0		10	America/Tortola	2018-11-08
+11971975	Long Look	Long Look	Long Look	18.43701	-64.57392	P	PPLX	VG		00				0		41	America/Tortola	2018-11-08
+11971976	Long Look Ghut	Long Look Ghut	Long Look Ghut	18.43911	-64.57245	H	STM	VG		00				0		19	America/Tortola	2018-11-08
+11971977	Old Plantation	Old Plantation	Old Plantation	18.44048	-64.57248	P	PPLX	VG		00				0		17	America/Tortola	2018-11-08
+11971978	Greenland	Greenland	Greenland	18.44156	-64.57084	P	PPLX	VG		00				0		37	America/Tortola	2018-11-08
+11971979	Major Bay	Major Bay	Major Bay	18.4399	-64.56607	P	PPLX	VG		00				0		13	America/Tortola	2018-11-08
+11971980	Shepherd Hill	Shepherd Hill	Shepherd Hill	18.44199	-64.56803	T	HLL	VG		00				0		106	America/Tortola	2018-11-08
+11971981	Chapel Hill	Chapel Hill	Chapel Hill	18.43941	-64.55516	T	HLL	VG		00				0		14	America/Tortola	2018-11-08
+11971982	Parham Town	Parham Town	Parham Town	18.44247	-64.55993	P	PPL	VG		00				0		20	America/Tortola	2018-11-08
+11971983	Tarris Hill	Tarris Hill	Tarris Hill	18.4407	-64.56295	P	PPLX	VG		00				0		22	America/Tortola	2018-11-08
+11971984	Red Bay	Red Bay	Red Bay	18.44072	-64.55976	P	PPLX	VG		00				0		8	America/Tortola	2018-11-08
+11971985	James Young	James Young	James Young	18.4415	-64.56651	P	PPLX	VG		00				0		61	America/Tortola	2018-11-08
+11971986	Hodge’s Creek	Hodge's Creek	Hodge's Creek,Hodge’s Creek	18.42535	-64.56768	H	INLT	VG		00				0		0	America/Tortola	2018-11-08
+11971987	Grove Hill	Grove Hill	Grove Hill	18.44273	-64.55629	T	HLL	VG		00				0		62	America/Tortola	2018-11-08
+11971988	Thomas Land	Thomas Land	Thomas Land	18.44342	-64.55481	P	PPLL	VG		00				0		30	America/Tortola	2018-11-08
+11971989	Daley Mountain	Daley Mountain	Daley Mountain	18.44731	-64.56677	T	MT	VG		00				0		197	America/Tortola	2018-11-08
+11971990	Lloyds	Lloyds	Lloyds	18.44747	-64.5609	P	PPLL	VG		00				0		97	America/Tortola	2018-11-08
+11971991	Hawks Nest	Hawks Nest	Hawks Nest	18.45642	-64.56075	P	PPL	VG		00				0		64	America/Tortola	2018-11-08
+11971992	Balsom Ghut	Balsom Ghut	Balsom Ghut	18.45411	-64.56824	P	PPL	VG		00				0		178	America/Tortola	2018-11-08
+11971993	Harris Pond	Harris Pond	Harris Pond	18.45132	-64.55781	H	LGN	VG		00				0		5	America/Tortola	2018-11-08
+13444124	Pull and be Damn Point	Pull and be Damn Point	Pull and be Damn Point	18.51339	-64.37384	T	PT	VG						0		-9999	America/Tortola	2025-07-18

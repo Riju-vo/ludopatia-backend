@@ -1,0 +1,21 @@
+# Configuracion consolidada a partir del backtest ampliado del 13 de junio de 2026.
+
+features:
+  half_life_days: 365
+  history_years: 5
+  max_history_days: 1825
+
+backtest:
+  initial_train_days: 730
+  validation_window_days: 180
+  step_days: 180
+
+baseline_poisson:
+  alpha: 1.0
+  max_iter: 500
+  max_probability_goals: 10
+
+dixon_coles:
+  rho_bounds:
+    min: -0.2
+    max: 0.2

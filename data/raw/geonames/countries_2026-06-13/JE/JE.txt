@@ -1,0 +1,495 @@
+3042075	Violet Channel	Violet Channel	Violet Channel	49.15	-1.95	H	CHN	JE		00	00			0		-9999	Europe/Jersey	2012-01-18
+3042076	Violet Bank	Violet Bank	Banc De Violet,Violet Bank	49.15	-2.03333	H	RF	JE		00	00			0		-9999	Europe/Jersey	2012-01-18
+3042077	Vinchelez de Haut Manor	Vinchelez de Haut Manor	Le Manoir de Vinchelez de Haut,Vinchelez de Haut	49.24475	-2.21851	P	PPL	JE	GB	00				0		88	Europe/Jersey	2016-02-18
+3042078	Vinchelez de Bas Manor	Vinchelez de Bas Manor	Le Manoir de Vinchelez de Bas,Vinchelez de Bas	49.24643	-2.21705	P	PPL	JE	GB	00				0		87	Europe/Jersey	2016-02-29
+3042079	Ville des Quennevais	Ville des Quennevais	La Ville des Quennevais,Ville des Quennevais,Ville des Quenvais,Ville es Quenvais,Ville ès Quenvais	49.20194	-2.20028	P	PPL	JE		00				0		71	Europe/Jersey	2012-01-18
+3042080	Vicard Point	Vicard Point	Vicard,Vicard Point	49.24806	-2.085	T	PT	JE		00				0		-2	Europe/Jersey	2012-01-18
+3042081	Verclut Point	Verclut Point	Verclut Point	49.22444	-2.02028	T	PT	JE		00				0		5	Europe/Jersey	2012-01-18
+3042082	Vallée des Vaux	Vallee des Vaux	Val des Vaux,Vallee des Vaux,Valley des Vaux,Vallée des Vaux	49.2	-2.1	H	STM	JE		00				0		60	Europe/Jersey	2020-06-10
+3042083	Tour de Rozel	Tour de Rozel	La Tour de Rozel,Rozel Tower,Tour de Rozel	49.24333	-2.05194	T	PT	JE		00				0		4	Europe/Jersey	2012-01-18
+3042084	Sorel Point	Sorel Point	Sorel,Sorel Point	49.26139	-2.16056	T	PT	JE		00				0		-1	Europe/Jersey	2012-01-18
+3042085	Six Rues	Six Rues	Six Rues	49.23333	-2.15	P	PPL	JE		00				0		97	Europe/Jersey	2012-01-18
+3042086	Saint Peter’s Church	Saint Peter's Church	Saint Peter,Saint Peter Church,Saint Peter's,Saint Peter's Church,Saint Peter’s,Saint Peter’s Church,St. Peter's Church,St. Peter’s Church	49.21245	-2.1846	S	CH	JE	GB	3237221				0		87	Europe/Jersey	2021-02-20
+3042087	Saint Ouen’s Pond	Saint Ouen's Pond	La Mare au Seigneur,Saint Ouen's Pond,Saint Ouen’s Pond,St. Ouen's Pond,St. Ouen’s Pond	49.2151	-2.22263	H	LK	JE		00				0		3	Europe/Jersey	2021-02-20
+3042088	Saint Ouen’s Bay	Saint Ouen's Bay	La Baie de St. Ouen,La Baie de St. Ouën,Saint Ouen Bay,Saint Ouen's Bay,Saint Ouen’s Bay,St. Ouen's Bay,St. Ouen’s Bay,St. Ouën’s Bay	49.22135	-2.21387	P	PPL	JE	GB	00				0		62	Europe/Jersey	2021-02-20
+3042089	Saint John	Saint John	Saint Jean,Saint John,Saint John's,Saint John's Church,Saint John’s,Saint John’s Church,St. John,St. John's Church,St. John’s Church	49.24556	-2.13861	P	PPL	JE	GB	3237497				3051		105	Europe/Jersey	2022-07-30
+3042090	Saint John’s Bay	Saint John's Bay	Saint John's Bay,Saint John’s Bay,St. John's Bay,St. John’s Bay	49.25806	-2.135	H	BAY	JE		00				0		1	Europe/Jersey	2021-02-20
+3042091	Saint Helier	Saint Helier	JER,Saint Helier,Saint-Helier,Saint-Hélier,Sankt' Heliero,Sent-Khel'er,St Helier,St. Helier,seinteuhellieo,Сент-Хельер,세인트헬리어	49.18804	-2.10491	P	PPLC	JE	GB	3237864				28000		11	Europe/Jersey	2021-08-01
+3042092	Saint Clements Bay	Saint Clements Bay	Saint Clement Bay,Saint Clements Bay,St. Clements Bay	49.16667	-2.06667	H	BAY	JE		00				0		5	Europe/Jersey	2021-02-20
+3042093	Saint Catherine Bay	Saint Catherine Bay	Saint Catherine Bay,Saint Catherines Bay,St. Catherine Bay	49.21667	-2.01667	H	BAY	JE		00				0		-9999	Europe/Jersey	2021-02-20
+3042094	Saint Brelade’s Bay	Saint Brelade's Bay	La Baie de Saint Brelade,La Baie de Saint Brélade,Saint Brelade Bay,Saint Brelade's Bay,Saint Brelade’s Bay,St. Brelade's Bay,St. Brelade’s Bay	49.17639	-2.2	H	BAY	JE		00				0		-9999	Europe/Jersey	2020-06-10
+3042095	Saint Aubins Bay	Saint Aubins Bay	Saint Aubin Bay,Saint Aubins Bay,Saint Aubyn Bay,St. Aubins Bay	49.18333	-2.13333	H	BAY	JE		00				0		-9999	Europe/Jersey	2021-02-20
+3042096	Saint Aubin	Saint Aubin	Saint Aubin,Saint Aubyn,Saint Aubîn,St Aubin,St. Aubin	49.1875	-2.17056	P	PPL	JE	GB	3237200				0		12	Europe/Jersey	2023-09-20
+3042097	Rozel Bay	Rozel Bay	Le Havre de Rozel,Rozel Bay	49.23778	-2.04083	H	BAY	JE		00				0		1	Europe/Jersey	2012-01-18
+3042098	Rozel	Rozel	Rozel,Rozel Seigneurie	49.23639	-2.04611	P	PPL	JE		00				0		8	Europe/Jersey	2012-01-18
+3042099	Roussé Rock	Rousse Rock	Rousse,Rousse Rock,Roussé Rock	49.17083	-2.19333	T	RK	JE		00				0		-9999	Europe/Jersey	2020-06-10
+3042100	Rouge Nez Point	Rouge Nez Point	La Tete d'Ane,La Tête d’Âne,Rouge Nez,Rouge Nez Point	49.25528	-2.25139	T	PT	JE		00				0		0	Europe/Jersey	2014-10-01
+3042101	Rouge Nez	Rouge Nez	Rouge Nez	49.24972	-2.19417	T	PT	JE		00				0		82	Europe/Jersey	2012-01-18
+3042102	Ronez Point	Ronez Point	Ronez,Ronez Point	49.26167	-2.1525	T	PT	JE		00				0		2	Europe/Jersey	2012-01-18
+3042103	Les Quennevais	Les Quennevais	Les Quennevais,The Quennevais,The Quenvais	49.1975	-2.20694	L	AREA	JE		00				0		76	Europe/Jersey	2012-01-18
+3042104	Portelet Bay	Portelet Bay	Le Portelet,Portelet Bay	49.16861	-2.17694	H	BAY	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042105	Plémont Point	Plemont Point	La Tete de Plemont,La Tête de Plémont,Pleinmont Point,Plemont Point,Plémont Point	49.26083	-2.2275	T	PT	JE		00				0		6	Europe/Jersey	2020-06-10
+3042106	Plat Roque Point	Plat Roque Point	Plat Rocque Point,Plat Roque Point,Platte Roque Point	49.16667	-2.03333	T	PT	JE		00				0		6	Europe/Jersey	2012-01-18
+3042107	Petit Port	Petit Port	Le Petit Port,Petit Port	49.25	-2.09	H	COVE	JE		00				0		5	Europe/Jersey	2012-01-18
+3042108	Petit Port	Petit Port	Le Petit Port,Petit Port	49.18472	-2.23556	H	COVE	JE		00				0		-2	Europe/Jersey	2012-01-18
+3042109	Île Percée	Ile Percee	Ile Percee,L'Ile Perchie,L’Île Perchie,Île Percée	49.16694	-2.1725	T	RK	JE		00				0		4	Europe/Jersey	2012-01-18
+3042110	Noirmont Point	Noirmont Point		49.16583	-2.16778	T	HDLD	JE		00				0		7	Europe/Jersey	2007-06-15
+3042111	Millbrook	Millbrook	Millbrook	49.19861	-2.13833	P	PPL	JE		00				0		12	Europe/Jersey	2012-01-18
+3042112	Lower Blanc Pignon	Lower Blanc Pignon		49.19472	-2.16222	P	PPL	JE		00				0		10	Europe/Jersey	2007-06-15
+3042113	Longueville	Longueville	Longueville	49.18333	-2.08333	P	PPL	JE		00				0		21	Europe/Jersey	2012-01-18
+3042114	L’Etacq	L'Etacq	L'Etac,L'Etacq,L’Etac,L’Etacq	49.23534	-2.23516	P	PPL	JE		00				0		11	Europe/Jersey	2015-07-16
+3042115	Les Sambues	Les Sambues		49.25611	-2.09083	T	RKS	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3042116	Les Mouriers	Les Mouriers		49.25361	-2.17	H	FLLS	JE		00				0		31	Europe/Jersey	2007-06-15
+3042117	Les Landes	Les Landes	Les Landes	49.25056	-2.2475	T	PLAT	JE		00				0		73	Europe/Jersey	2012-01-18
+3042118	Les Kaines	Les Kaines	Les Caines,Les Caînes,Les Kaines	49.17361	-2.215	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042119	Les Écrehou	Les Ecrehou	Ecrehos,Les Ecrehou,Les Écrehou	49.3	-1.91667	H	RF	JE		00				0		-9999	Europe/Jersey	2020-06-10
+3042120	Le Nez Point	Le Nez Point	Le Nez Point	49.16667	-2.06667	T	PT	JE		00				0		5	Europe/Jersey	2012-01-18
+3042121	Le Hocq Point	Le Hocq Point		49.16669	-2.06182	T	PT	JE		00				0		5	Europe/Jersey	2007-07-28
+3042122	Point Le Fret	Point Le Fret	La Fret Point,Le Fret,Point Le Fret	49.16917	-2.18944	T	PT	JE		00				0		-1	Europe/Jersey	2012-01-18
+3042123	Point Le Croc	Point Le Croc	Le Croc,Le Croq,Point Le Croo	49.16372	-2.07826	T	PT	JE	GB	00				0		7	Europe/Jersey	2007-07-28
+3042124	Pierres de Lecq	Pierres de Lecq	Paternosters,Pierre de Lecq,Pierres Des Lecq,Pierres de Lecq	49.29389	-2.20556	T	RKS	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042125	Le Couperon	Le Couperon	Le Couperon	49.235	-2.03528	T	PT	JE		00				0		8	Europe/Jersey	2012-01-18
+3042126	La Thiebaut	La Thiebaut	La Thiebaut	49.23444	-2.22972	S	MNQR	JE		00				0		43	Europe/Jersey	2018-12-05
+3042127	La Rocque Point	La Rocque Point	La Rocque Point,La Roque Point	49.16667	-2.03333	T	PT	JE		00				0		6	Europe/Jersey	2012-01-18
+3042128	L’Âne	L'Ane		49.24972	-2.18667	S	CAVE	JE		00				0		89	Europe/Jersey	2007-06-15
+3042129	Point La Moye	Point La Moye	Point La Moye,Point la Moye	49.17472	-2.22472	T	PT	JE		00				0		24	Europe/Jersey	2012-01-18
+3042130	La Motte	La Motte	Green Island	49.16074	-2.07723	T	ISL	JE	GB	00				0		-9999	Europe/Jersey	2007-07-28
+3042131	La Hougue Boëte	La Hougue Boete	La Hougue Boete,La Hougue Boette,La Hougue Boëte,La Hougue Boëtte	49.23639	-2.1425	S	ANS	JE		00				0		105	Europe/Jersey	2012-01-18
+3042132	La Hougue Bie	La Hougue Bie	Hougue Bie,La Hougue Bie,Prince's Tower,Prince’s Tower	49.2	-2.06667	S	ANS	JE		00				0		84	Europe/Jersey	2012-01-18
+3042133	La Hougue	La Hougue	La Hougue	49.21667	-2.21667	P	PPL	JE		00				0		11	Europe/Jersey	2012-01-18
+3042134	La Haule	La Haule	La Haule	49.18333	-2.18333	P	PPL	JE		00				0		40	Europe/Jersey	2012-01-18
+3042135	La Crête Point	La Crete Point	Crete Point,La Crete,La Crete Point,La Crête Point	49.25139	-2.11222	T	PT	JE		00				0		2	Europe/Jersey	2020-06-10
+3042136	La Crête Point	La Crete Point	La Crete Point,La Crête Point	49.21667	-2.01667	T	PT	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042137	La Coupe Point	La Coupe Point	Coupe Point,La Coupe,La Coupe Point	49.23278	-2.025	T	PT	JE		00				0		11	Europe/Jersey	2012-01-18
+3042138	La Cotte Point	La Cotte Point	La Cotte Point	49.17556	-2.18861	T	PT	JE		00				0		6	Europe/Jersey	2018-12-05
+3042139	La Corbière	La Corbiere	La Corbiere,La Corbière	49.17972	-2.24972	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042140	La Conchière	La Conchiere	La Conchiere,La Conchière	49.13333	-2	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-18
+3042141	La Colombière	La Colombiere	La Colombiere,La Colombière,La Colonbine	49.25472	-2.09361	T	RK	JE		00				0		1	Europe/Jersey	2020-06-10
+3042142	Bailiwick of Jersey	Bailiwick of Jersey	Bailliage de Jersey,Cersi,Dearsaidh,Deàrsaidh,Dzersi,Dzersija,Dzersis,Dzerzi,Dzhehrsi,Dzhersi,Dzhursi,Dzɛse nutome,Džersis,Džērsija,Geirsi,Geirsí,Jaarsey,Jelezy,Jersey,Jersi,Jerzenez,Kasar Jersey,Selusi,Selusī,Serse,Tzerzi,Xhersej,Zhersi,ce xr siy,dzsʻrzy,g׳rzy,i-Jersey,jaji,jarasi,jarci,jarsi,jelsi,jeoji,jerci,jerisi,jersi,jrsy,jrzy,jyrsy,jېrsېy,ze xi dao,Τζέρζι,Џерзи,Џерси,Джерси,Джерсі,Джърси,Джэрсі,Жерси,Ҷersi,Ҷерси,Ջերսի,ג׳רזי,דזשערזי,جرزی,جرسي,جرسی,جيرسي,جٔرسی,جېرسېي,जर्सी,জার্সি,জাৰ্চি,ਜਰਸੀ,જર્સી,ଜର୍ସି,ஜெர்சி,జెర్సీ,ಜೆರ್ಸಿ,ജേഴ്സി,ජරස,ජර්සි,เจอร์ซีย์,ເຈຊ,ເຈີຊີ,ཇར་ས,ཇེར་སི,ဂျာစီ,ჯერსი,ጀርሲ,ជើស,ជើស៊ី,ジャージー,泽西岛,澤西島,저지	49.21667	-2.11667	A	PCL	JE	GB	00				90812		96	Europe/Jersey	2024-11-11
+3042143	Jersey	Jersey	Caesarea Maritima,Dzersi,Dzersija,Dzhersi,Džersija,Gersei,Insula Jersey,Isle of Jersey,JER,Jerri,Jersey,Jerseyi,Jersi,Jèrri,Jèrseyi,Tzerseu,g'rzy,jaji dao,jeoji seom,jersi,jzyrt jyrzy,ze xi dao,Τζέρσεϋ,Џерси,Джерси,Джерсі,ג'רזי,جزيرة جيرزي,ჯერსი,ジャージー島,澤西島,저지 섬	49.2167	-2.13753	T	ISL	JE	GB	00				100000		74	Europe/Jersey	2019-04-11
+3042144	Hermitage Rock	Hermitage Rock	Hermatage,Hermitage,Hermitage Rock,L'Oratoire,Le Hermitage de Saint Helier,Le Hermitage de Saint Hélier,L’Oratoire	49.17333	-2.125	T	RK	JE		00				0		4	Europe/Jersey	2012-01-18
+3042145	Île au Guerdain	Ile au Guerdain	Ile au Guerdain,Isle au Guerdain,L'Ile au Guerdain,L’Île au Guerdain,Île au Guerdain	49.16972	-2.1775	T	ISL	JE		00				0		-9999	Europe/Jersey	2020-06-10
+3042146	Grouville Bay	Grouville Bay	Grouville Bay,Royal Bay of Grouville	49.18333	-2.01667	H	BAY	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042147	Grosnez Point	Grosnez Point	Gros Nez,Grosnez Point	49.25806	-2.24806	T	PT	JE		00				0		83	Europe/Jersey	2012-01-18
+3042148	Grève de Lecq	Greve de Lecq	Greve de Lecq,Grève de Lecq,La Greve de Lecq,La Grève de Lecq	49.24806	-2.20139	T	BCH	JE		00				0		47	Europe/Jersey	2012-01-18
+3042149	Sand Eel Beach	Sand Eel Beach	Greve au L'anchon,Greve au Lancon,Greve au L’anchon,Grève au Lançon,La Greve au Lanchon,La Grève au Lanchon,Plemont Beach,Plémont Beach	49.25698	-2.23011	T	BCH	JE	GB	00				0		13	Europe/Jersey	2016-02-18
+3042150	Grand Chemins	Grand Chemins	Grand Chemins	49.2	-2.06667	P	PPL	JE		00				0		84	Europe/Jersey	2012-01-18
+3042151	Gorey	Gorey	Gouorray,Gouray,Gouôrray	49.19937	-2.02826	P	PPL	JE	GB	00				0		34	Europe/Jersey	2022-07-30
+3042152	Giffard Bay	Giffard Bay	Giffard Bay,Gifford Bay,Le Havre Giffard	49.25167	-2.1075	H	BAY	JE		00				0		32	Europe/Jersey	2012-01-18
+3042153	Fremont Point	Fremont Point	Fremont Point,La Tete de Fremont,La Tête de Frémont	49.25361	-2.12139	T	PT	JE		00				0		52	Europe/Jersey	2012-01-18
+3042154	Fliquet Bay	Fliquet Bay	Fliquet,Fliquet Bay	49.22972	-2.01806	H	BAY	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042155	Douet de la Mer	Douet de la Mer	Douet de la Mer,Le Douet de la Mer,Le Douët de la Mer	49.23528	-2.03667	H	COVE	JE		00				0		-1	Europe/Jersey	2012-01-18
+3042156	Les Dirouilles	Les Dirouilles	Dirouilles,Les Dirouilles	49.3	-2.03333	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-18
+3042157	Corbière Point	Corbiere Point	Corbiere Point,Corbière Point,Point Corbiere,Point Corbière	49.18139	-2.24528	T	PT	JE		00				0		1	Europe/Jersey	2012-01-18
+3042158	Bouley Bay	Bouley Bay	Boulay Bay,Bouley Bay,Le Boulay	49.24806	-2.07222	H	BAY	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042159	Bouilly Port	Bouilly Port	Bouilly Port,La Saline	49.18083	-2.20306	H	COVE	JE		00				0		-1	Europe/Jersey	2012-01-18
+3042160	Bonne Nuit Bay	Bonne Nuit Bay	Bonne Nuit,Bonne Nuit Bay	49.25278	-2.11778	H	BAY	JE		00				0		1	Europe/Jersey	2012-01-18
+3042161	Bel Royal	Bel Royal		49.19806	-2.14722	P	PPL	JE		00				0		8	Europe/Jersey	2007-06-15
+3042162	Belle Vue	Belle Vue	Belle Vue	49.19139	-2.17306	P	PPL	JE		00				0		65	Europe/Jersey	2019-10-10
+3042163	Belle Hougue Point	Belle Hougue Point	Belle Hougue Point,La Belle Hougue	49.255	-2.10083	T	PT	JE		00				0		22	Europe/Jersey	2012-01-18
+3042164	Belcroute Bay	Belcroute Bay	Belcroute,Belcroute Bay	49.18	-2.16417	H	BAY	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042165	Beaumont	Beaumont		49.19639	-2.15861	P	PPL	JE		00				0		7	Europe/Jersey	2007-06-15
+3042166	La Grève d' Azette	La Greve d' Azette		49.16824	-2.08457	T	BCH	JE		00				0		6	Europe/Jersey	2007-07-28
+3042167	Anne Port	Anne Port		49.20493	-2.02217	H	BAY	JE		00				0		6	Europe/Jersey	2007-07-28
+3042168	Aiguillon	Aiguillon	Aiguillon,Les Aiguillons	49.17333	-2.21889	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-18
+3042318	Plateau des Minquiers	Plateau des Minquiers	Les Minquiers,Les Mintchiers,Les Mîntchièrs,Miniquers,Miniquiers,Minque,Minquiers,Plateau des Minquiers,The Minkies,The Minquiers	48.96667	-2.08333	H	RF	JE		00				0		-9999	Europe/Jersey	2013-09-08
+3234497	West Rock	West Rock	West Rock	49.23	-2.32833	H	RF	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236962	Icho Bank	Icho Bank	Icho Bank	49.11444	-2.07167	H	SHOL	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236964	Plateau de la Frouquie	Plateau de la Frouquie	Plateau de la Frouquie	49.1	-1.96667	H	RF	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236967	La Rousse Platte	La Rousse Platte	La Rousse Platte	49.12222	-1.96667	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236968	L’Échiquelez	L'Echiquelez	L'Echiquelez,L’Échiquelez	49.14222	-2.04056	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236971	La Longy	La Longy	La Longy	49.14444	-2.02556	T	RKS	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236973	Gros Étacs	Gros Etacs	Gros Etacs,Gros Étacs	49.14806	-2.03833	T	RKS	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236974	La Grande Frouquie	La Grande Frouquie	La Grande Frouquie	49.14583	-2.05167	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236975	La Rousse	La Rousse	La Rousse	49.15111	-2.04722	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236976	Jinquet Rock	Jinquet Rock	Jinquet Rock	49.14528	-2.06028	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236979	Rouget Rock	Rouget Rock	Rouget Rock	49.14528	-2.07333	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236981	Margaret Rock	Margaret Rock	Margaret Rock	49.1475	-2.075	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3236982	La Frouquie	La Frouquie		49.14944	-2.08889	T	RK	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3236983	Demie de Pas	Demie de Pas	Demie de Pas,La Demi des Pas	49.15	-2.1025	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236986	Little Demie	Little Demie	Little Demie	49.15083	-2.09972	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236987	La Conière	La Coniere	La Coniere,La Conière	49.15833	-2.03083	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236988	L’teton	L'teton	L'teton,L’teton	49.16222	-2.03806	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236989	Rocque Herbeuse	Rocque Herbeuse	Rocque Herbeuse	49.16444	-2.05972	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236990	Rocque Larron	Rocque Larron	Rocque Larron	49.16056	-2.06389	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3236993	Havre de Fontaines	Havre de Fontaines	Havre de Fontaines	49.16667	-2.06444	H	COVE	JE		00				0		4	Europe/Jersey	2012-01-19
+3237005	La Sambue	La Sambue		49.15472	-2.08111	T	RK	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237006	La Trouee	La Trouee	La Trouee	49.16111	-2.06972	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237008	Fort Henry	Fort Henry	Fort Henry	49.18722	-2.03306	S	FT	JE		00				0		6	Europe/Jersey	2012-01-19
+3237009	Fort William	Fort William		49.18602	-2.0347	S	FT	JE		00				0		7	Europe/Jersey	2007-07-28
+3237010	Round Rouget	Round Rouget	Round Rouget	49.15417	-2.08917	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237011	Bailhache	Bailhache	Bailhache	49.15694	-2.09944	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237013	Flat Rock	Flat Rock	Carre du Cane,Carré du Cané,Flat Rock	49.15917	-2.09444	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237014	La Ronde	La Ronde	La Noire,La Ronde	49.16583	-2.09028	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237016	Tas de Pois	Tas de Pois	Le Tas d'Pais,Le Tas d’Pais,Tas de Pois,White Rock	49.15667	-2.10528	T	RK	JE		00				0		-9999	Europe/Jersey	2014-10-02
+3237017	Trois Grunes	Trois Grunes	Les Trais Grunes,Trois Grunes	49.15778	-2.11	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237018	Nipple Rock	Nipple Rock	Hinguette,Nipple Rock,White Rock	49.1625	-2.11194	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237019	Mondine	Mondine	La Mondine,Mondine	49.16528	-2.10806	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237021	Dog’s Nest Rock	Dog's Nest Rock	Dog's Nest Rock,Dog’s Nest Rock	49.16639	-2.11583	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237024	Crabière Rock	Crabiere Rock	Crabiere,Crabiere Rock,Crabière,Crabière Rock	49.17278	-2.10611	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237025	Hâvre des Pas	Havre des Pas	Havre des Pas,Hâvre des Pas,Le Havre des Pas	49.17583	-2.10417	H	HBR	JE		00				0		-9999	Europe/Jersey	2020-06-11
+3237027	Point des Pas	Point des Pas	Point de Pas,Point des Pas	49.17444	-2.10694	T	PT	JE		00				0		7	Europe/Jersey	2012-01-19
+3237028	East La Cloche	East La Cloche	East La Cloche	49.16444	-2.1225	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237029	West La Cloche	West La Cloche	West La Cloche	49.16444	-2.12556	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237030	South Reef	South Reef	South Reef	49.16528	-2.11694	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237031	East Rock	East Rock	East Rock	49.16722	-2.11917	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237032	West Rock	West Rock	West Rock	49.16722	-2.12333	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237033	Moulet Rock	Moulet Rock	Moulet Rock	49.16806	-2.11722	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237034	Quereme Rock	Quereme Rock	Quereme Rock	49.16972	-2.11417	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237035	Petite Mangeuse	Petite Mangeuse	Petite Mangeuse	49.17222	-2.11278	H	RF	JE		00				0		8	Europe/Jersey	2012-01-19
+3237036	Grande Mangeuse	Grande Mangeuse	Grande Mangeuse	49.17278	-2.11472	H	RF	JE		00				0		4	Europe/Jersey	2012-01-19
+3237037	Crapaud of the Mangeuse	Crapaud of the Mangeuse	Crapaud of the Mangeuse	49.17194	-2.11639	H	RF	JE		00				0		4	Europe/Jersey	2012-01-19
+3237038	Small Road	Small Road	Small Road	49.17389	-2.11889	H	RDST	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237039	Sharp Rock	Sharp Rock	Sharp Rock	49.17	-2.11833	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237040	Platte Rock	Platte Rock	Platte Rock	49.17	-2.12528	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237041	Oyster Rocks	Oyster Rocks	L'Hitriere,L’Hitrière,Oyster Rock,Oyster Rocks	49.16833	-2.125	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237042	Hermitage Breakwater	Hermitage Breakwater	Hermitage Breakwater	49.17167	-2.12389	S	BRKW	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237043	Hinguette	Hinguette	Hinguette,Les Hinguettes	49.15444	-2.12583	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237044	Grunes Saint Michel	Grunes Saint Michel		49.15611	-2.13361	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237045	Fairway Rock	Fairway Rock	Fairway Rock	49.15278	-2.13139	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237046	Ruaudière Rock	Ruaudiere Rock	Rouaudiere Rock,Rouaudière Rock,Ruaudiere Rock,Ruaudière Rock	49.16194	-2.14333	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237047	Diamond Rock	Diamond Rock	Diamond Rock	49.16889	-2.145	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237048	Saint Helier Harbour	Saint Helier Harbour	Saint Helier Harbor,Saint Helier Harbour,St. Helier Harbour	49.17861	-2.11333	H	HBR	JE		00				0		4	Europe/Jersey	2021-02-20
+3237049	Mount Bingham	Mount Bingham	Mount Bingham	49.17667	-2.10889	T	HLL	JE		00				0	42	26	Europe/Jersey	2012-01-19
+3237050	Crapaud of the Castle	Crapaud of the Castle	Crapaud of the Castle	49.17417	-2.11972	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237051	Southeast Rock	Southeast Rock	Southeast Rock	49.17444	-2.12139	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237052	Old Harbour	Old Harbour	Old Harbour	49.17917	-2.11056	H	HBR	JE		00				0		4	Europe/Jersey	2012-01-19
+3237053	French Harbour	French Harbour	French Harbour	49.1775	-2.11083	H	HBRX	JE		00				0		4	Europe/Jersey	2012-01-19
+3237054	English Harbour	English Harbour	English Harbour	49.17861	-2.10972	H	HBRX	JE		00				0		4	Europe/Jersey	2012-01-19
+3237055	Saint Helier Marina	Saint Helier Marina	Marina de Saint Helier,Saint Helier Marina,St. Helier Marina	49.18167	-2.11111	S	MAR	JE		00				0		0	Europe/Jersey	2021-02-20
+3237056	New North Quay	New North Quay	New North Quay,North Quay	49.18	-2.11083	S	QUAY	JE		00				0		5	Europe/Jersey	2012-01-19
+3237057	Albert Pier	Albert Pier	Albert Pier	49.18083	-2.11306	S	PIER	JE		00				0		6	Europe/Jersey	2012-01-19
+3237058	South Pier	South Pier	South Pier	49.17833	-2.10972	S	PIER	JE		00				0		4	Europe/Jersey	2012-01-19
+3237059	Victoria Pier	Victoria Pier	Victoria Pier	49.17528	-2.11417	S	PIER	JE		00				0		0	Europe/Jersey	2012-01-19
+3237060	East Pier	East Pier	East Pier	49.17889	-2.115	S	PIER	JE		00				0		5	Europe/Jersey	2012-01-19
+3237061	West Breakwater	West Breakwater	West Breakwater	49.17861	-2.11611	S	BRKW	JE		00				0		-2	Europe/Jersey	2012-01-19
+3237062	Les Bûts	Les Buts	Les Buts,Les Bûts	49.17361	-2.12639	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237063	Crow Rock	Crow Rock	Crow Rock	49.17472	-2.12611	T	RK	JE		00				0		3	Europe/Jersey	2012-01-19
+3237064	Fort Elizabeth	Fort Elizabeth	Elizabeth Castle,Fort Elizabeth	49.17611	-2.12556	S	FT	JE		00				0		14	Europe/Jersey	2012-01-19
+3237065	Elizabeth Castle	Elizabeth Castle	Elizabeth Castle,Le Chateau Elisabeth,Le Chateau de L'Islet,Le Château Elisabeth,Le Château de L’Islet	49.17611	-2.12528	T	ISL	JE		00				0		13	Europe/Jersey	2012-01-19
+3237066	Fort Charles	Fort Charles	Fort Charles	49.17778	-2.12417	S	FT	JE		00				0		7	Europe/Jersey	2012-01-19
+3237067	Gros du Château	Gros du Chateau	Gros du Chateau,Gros du Château,Le Gros du Chateau,Le Gros du Château	49.17583	-2.13028	T	RKS	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237068	Rocquemin	Rocquemin		49.17722	-2.1325	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237069	La Vrachière	La Vrachiere	La Vrachere,La Vrachiere,La Vrachière,La Vrachère	49.18139	-2.12639	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237070	Baleine	Baleine		49.17361	-2.13611	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237071	La Collette Yacht Basin	La Collette Yacht Basin	La Collette Yacht Basin	49.17444	-2.11444	H	HBR	JE		00				0		1	Europe/Jersey	2012-01-19
+3237072	Saint Clement	Saint Clement	Saint Cliement,Saint Cliément,Saint-Clement,Saint-Clément,Sent-Clement,Sent-Klement,St Clement,St Cliement,St Cliément,St. Clement,seniti kilemeniti,senta kalemainta,senta klementa,sento・kuremento,snt klmnt,snt klymnٹ,Сент-Клемент,سنت کلمنت,سنت کلیمنٹ,سینٹ کلیمنٹ، جرسی,সেন্ট ক্লেমেন্ট,ਸੇਂਟ ਕਲੇਮੈਂਟ,ሴንት ክሌመንት,セント・クレメント	49.16565	-2.07659	A	ADM1	JE	GB	3237072				9221		9	Europe/Jersey	2026-04-16
+3237073	Saint Saviour	Saint Saviour	Saint Sauveux,Saint Saûveux,Saint-Sauveur,St Sauveur,St Sauveux,St Saviour,St Saûveux	49.19517	-2.09238	A	ADM1	JE	GB	3237073				13580		52	Europe/Jersey	2014-04-30
+3237076	Les Têtards	Les Tetards		49.1475	-2.12028	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237078	Danger Rock	Danger Rock	Danger Rock	49.14833	-2.1475	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237079	Grunes aux Dardes	Grunes aux Dardes	Grune aux Dardes,Grunes aux Dardes,Les Grunes es Dards,Les Grunes ès Dards	49.15361	-2.15333	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237080	Frouquie	Frouquie		49.15417	-2.14972	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237081	Les Grunes du Port	Les Grunes du Port		49.1675	-2.15556	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237083	Les Junées	Les Junees		49.17083	-2.15806	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237086	Beach Rock	Beach Rock	Beach Rock,Le Roc Aumont	49.18861	-2.14083	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237087	Saint Aubin’s Fort	Saint Aubin's Fort	Le Vier Fort,Le Vièr Fort,Saint Aubin Castle,Saint Aubin Fort,Saint Aubin's Fort,Saint Aubin’s Fort,St. Aubin's Fort,St. Aubin’s Fort	49.18417	-2.16139	S	FT	JE		00				0		4	Europe/Jersey	2020-06-11
+3237088	Platte Rock	Platte Rock	La Platte,Platte,Platte Rock	49.18222	-2.1575	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237089	Grosse Rock	Grosse Rock		49.18139	-2.15806	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237095	Les Poches à Suie	Les Poches a Suie		49.14694	-2.16194	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237097	Grande Vaudin	Grande Vaudin		49.14639	-2.16917	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237099	Les Grunes Vaudin	Les Grunes Vaudin	Grunes Vaudin,Les Grunes Vaudin	49.14417	-2.17306	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237100	Southwest Rock	Southwest Rock	Southwest Rock	49.14361	-2.17139	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237101	Les Vrachères	Les Vracheres		49.14417	-2.20222	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237103	Frouquie des Vrachères	Frouquie des Vracheres		49.14222	-2.19861	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237104	Les Vraicquières	Les Vraicquieres		49.14917	-2.2025	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237106	Hubaut	Hubaut		49.15222	-2.19472	T	RK	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237107	Grande Grune	Grande Grune		49.15333	-2.1875	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237108	Petite Grune	Petite Grune		49.15833	-2.19167	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237110	Passage Rock	Passage Rock	Passage Rock	49.15806	-2.2025	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237111	Banc Le Fret	Banc Le Fret		49.16278	-2.18917	H	SHOL	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237112	Sillette	Sillette	Les Sillettes,Sillette	49.1525	-2.16222	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237113	Noirs Hommes	Noirs Hommes		49.15833	-2.16111	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237114	Petit Four	Petit Four		49.15694	-2.16333	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237115	Grand Four	Grand Four		49.1575	-2.17	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237116	Pignonet	Pignonet	Le Pignonet,Pignonet	49.16472	-2.16194	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237117	Portelet Ledge	Portelet Ledge	Portelet Ledge	49.16611	-2.17889	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237118	Point de Bût	Point de But	Le But,Le Bût,Point de But,Point de Bût	49.17472	-2.16444	T	PT	JE		00				0		3	Europe/Jersey	2012-01-19
+3237123	Banc de Saint Brelade	Banc de Saint Brelade		49.16583	-2.20889	H	SHOL	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237125	Frouquie	Frouquie		49.17194	-2.19417	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237128	Fourché	Fourche		49.17361	-2.19806	T	RK	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237130	Fournier du Havre	Fournier du Havre		49.17778	-2.20028	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237131	Rocquet	Rocquet	Becquet,Rocquet	49.18194	-2.19972	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237132	Fournier Rock	Fournier Rock	Fournier Rock	49.17389	-2.20444	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237139	Ouaisné Bay	Ouaisne Bay	L'Ouaisne,Le Ouaisne,Le Ouaisné,L’Ouaisne,Ouaisne Bay,Ouaisné Bay	49.17861	-2.18861	H	COVE	JE		00				0		45	Europe/Jersey	2012-01-19
+3237141	Point Le Grouin	Point Le Grouin	Le Grouin,Point le Grouin	49.18167	-2.18944	T	PT	JE		00				0		10	Europe/Jersey	2026-05-12
+3237191	Beau Port	Beau Port	Beau Port,Le Beau Port	49.1775	-2.20722	H	COVE	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237192	Les Creux	Les Creux		49.18056	-2.20556	P	PPL	JE		00				0		29	Europe/Jersey	2007-06-15
+3237193	Mont Fiquet	Mont Fiquet	Le Mont Ficquet,Mont Fiquet	49.17972	-2.21417	P	PPL	JE		00				0		66	Europe/Jersey	2012-01-19
+3237194	Fiquet Bay	Fiquet Bay	Fiquet Bay,Les Leaux de Ficquet	49.17667	-2.21472	H	BAY	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237197	La Moye	La Moye		49.18222	-2.22222	P	PPLL	JE		3237200				0		54	Europe/Jersey	2020-06-11
+3237200	Saint Brelade	Saint Brelade	Saint Brelade,Sainte-Brelade,Sent-Brelad,Sent-Breland,St. Brelade,St. Brelade's,St. Brelade’s,seniti bireladi,senta breleda,sento・burerado,snt brlad,snt brlyډ,Сент-Брелад,سنت برلاد,سنت برلیډ,সেন্ট ব্রেলেড,ਸੇਂਟ ਬ੍ਰੇਲੇਡ,ሴንት ብሬላድ,セント・ブレラード	49.19056	-2.20056	A	ADM1	JE	GB	3237200				10568		72	Europe/Jersey	2026-04-16
+3237201	Ville ès Nouaux	Ville es Nouaux	La Ville es Nouaux,La Ville ès Nouaux,Ville es Nouaux,Ville ès Nouaux	49.19472	-2.12861	P	PPL	JE		00				0		8	Europe/Jersey	2012-01-19
+3237203	Grouville	Grouville	Grouville	49.18472	-2.04917	A	ADM1	JE	GB	3237203				4866		14	Europe/Jersey	2013-10-27
+3237206	Fort Regent	Fort Regent		49.18109	-2.10637	S	FT	JE		00				0		45	Europe/Jersey	2007-07-28
+3237212	Saint Mary	Saint Mary	Saint Mary,Sainte Mathie,Sainte-Marie,St Mary,St. Mary,St. Mary's,St. Mary’s	49.23583	-2.17222	A	ADM1	JE	GB	3237212				1818		96	Europe/Jersey	2022-10-12
+3237214	Saint Lawrence	Saint Lawrence	Saint Lawrence,Saint Louothains,Saint-Laurent,St Lawrence,St Louothains,St. Lawrence	49.21528	-2.14	A	ADM1	JE	GB	3237214				5418		81	Europe/Jersey	2021-02-20
+3237221	Saint Peter	Saint Peter	Saint Peter,Saint Peter's,Saint Peter’s,Saint Pierre,Saint Pièrre,Saint-Pierre,Sent-Piter,Sent-Pyotr,St Peter,St Pierre,St Pièrre,St. Peter,seniti ፒteri,senta pitara,sento・pita,snt pytr,snt pyٹr,Сент-Питер,سنت پیتر,سنت پیٹر,سینٹ پیٹر، جرسی,সেন্ট পিটার,ਸੇਂਟ ਪੀਟਰ,ሴንት ፒተር,セント・ピーター	49.21333	-2.18194	A	ADM1	JE	GB	3237221				5003		85	Europe/Jersey	2026-04-16
+3237229	Saint Ouen	Saint Ouen	Saint Ouen,Saint Ouën,Saint-Ouen,Sent-Ouehn,Sent-Ouen,St Ouen,St. Ouen,St. Ouen's,seniti weni,senta ona,senta oyena,sento・uen,snt awyn,Сент-Оуэн,سنت اوئن,سنت اوین,سینٹ وں ، جرسی,সেন্ট ওয়েন,ਸੇਂਟ ਓਨ,ሴንት ዌን,セント・ウエン	49.22667	-2.20556	A	ADM1	JE	GB	3237229				4206		86	Europe/Jersey	2026-04-16
+3237233	Les Blanches Banques	Les Blanches Banques	Blanches Banques,Les Blanches Banques	49.19722	-2.21111	T	DUNE	JE		00				0	74	70	Europe/Jersey	2012-01-19
+3237235	La Fosse	La Fosse	La Fosse	49.17472	-2.18056	P	PPL	JE	GB	00				0		55	Europe/Jersey	2018-07-15
+3237236	Grosse Tête	Grosse Tete	Grosse Tete,Grosse Tête,La Grosse Tete,La Grosse Tête	49.17556	-2.21056	T	RK	JE		00				0		2	Europe/Jersey	2012-01-19
+3237242	Jument Rock	Jument Rock	Jument,Jument Rock,La Jument	49.17722	-2.24139	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237243	Noirmontaise Reef	Noirmontaise Reef	Noirmontaise,Noirmontaise Reef	49.17833	-2.25639	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237244	Les Boîteaux	Les Boiteaux	Les Boiteaux,Les Boîteaux	49.18111	-2.26167	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237245	Green Rock	Green Rock	Green Rock	49.18194	-2.26611	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237246	La Boue	La Boue		49.18278	-2.25917	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237247	La Frouquie	La Frouquie	La Frouquie	49.1875	-2.25444	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237248	Great Bank	Great Bank	Great Bank	49.19389	-2.27083	H	SHOL	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237249	Flat Rock	Flat Rock	Flat Rock	49.19194	-2.24278	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237250	Sharp Rock	Sharp Rock	Sharp Rock	49.19306	-2.24111	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237251	Rigdon Bank	Rigdon Bank	Rigdon Bank	49.23944	-2.28806	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237252	Petit Étaquerel	Petit Etaquerel	Le Petit Etacquerel,Le Petit Étacquerel,Petit Etaquerel,Petit Étaquerel,Petite Etaquerel	49.23944	-2.25056	T	PT	JE		00				0		-1	Europe/Jersey	2020-06-11
+3237253	Grand Étaquerel	Grand Etaquerel	Grand Etaquerel,Grand Étaquerel,Grande Etaquerel,Le Grande Etacquerel,Le Grande Étacquerel	49.2425	-2.25083	T	PT	JE		00				0		3	Europe/Jersey	2020-06-11
+3237254	Swashway Channel	Swashway Channel	Swashway Channel	49.23806	-2.28333	H	CHNM	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237255	Mouillière Rock	Mouilliere Rock	Mouilliere Rock,Mouillière Rock	49.24361	-2.26694	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237256	North East Rock	North East Rock	North East Rock	49.24417	-2.2825	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237290	La Ville au Bas	La Ville au Bas	La Ville au Bas,Ville au Bas	49.22766	-2.21563	P	PPL	JE	GB	00				0		67	Europe/Jersey	2015-07-16
+3237291	La Villaise	La Villaise		49.24083	-2.23667	P	PPL	JE		00				0		73	Europe/Jersey	2007-06-15
+3237294	Banc Desormes	Banc Desormes		49.3125	-2.275	H	BNK	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237295	North West Head	North West Head	North West Head	49.31556	-2.28389	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237300	Great Rock	Great Rock	Great Rock	49.29028	-2.19972	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237301	Sharp Rock	Sharp Rock	Sharp Rock	49.29583	-2.19528	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237302	East Reef	East Reef	East Reef	49.3	-2.195	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237304	North Rock	North Rock	North Rock	49.29861	-2.20667	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237305	North West Reef	North West Reef	North West Reef	49.29528	-2.22083	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237425	Flat Rock	Flat Rock	Flat Rock	49.28722	-2.21194	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237426	South West Grune	South West Grune	South West Grune	49.28389	-2.20583	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237429	La Grune de Lecq	La Grune de Lecq	La Grun de Lecq,La Grune de Lecq	49.28444	-2.19306	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237455	Portinfer	Portinfer	Portinfer	49.25019	-2.2258	P	PPL	JE		00				0		79	Europe/Jersey	2016-02-18
+3237456	Plémont Deep	Plemont Deep	Plemont Deep,Plémont Deep	49.27167	-2.20139	H	CHNM	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237459	Grune de Becquet	Grune de Becquet		49.26278	-2.205	H	RF	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237462	Grune de Douet	Grune de Douet		49.25667	-2.20472	H	SHOL	JE		00				0		-9999	Europe/Jersey	2007-06-15
+3237464	Grand Becquet	Grand Becquet	Grand Becquet,Le Grand Becquet	49.25417	-2.21167	T	PT	JE		00				0		8	Europe/Jersey	2012-01-19
+3237466	The Demies	The Demies	Les Demies,Les Rocquettes,The Demies	49.25167	-2.19917	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237467	La Ville Bagot	La Ville Bagot	La Ville Bagot,Ville Bagot	49.24265	-2.20722	P	PPL	JE	GB	00				0		86	Europe/Jersey	2016-02-18
+3237468	Le Rondin	Le Rondin		49.23889	-2.18111	P	PPL	JE		00				0		80	Europe/Jersey	2007-06-15
+3237469	Isle Agois	Isle Agois	Isle Agois,L'ile Agois,L’île Agois	49.24889	-2.1825	T	RK	JE		00				0		8	Europe/Jersey	2012-01-19
+3237470	Crabbé	Crabbe		49.24889	-2.18389	H	COVE	JE		00				0		89	Europe/Jersey	2007-06-15
+3237472	Le Col de la Rocque	Le Col de la Rocque	Le Col de la Rocque	49.25056	-2.18	T	PT	JE		00				0		-1	Europe/Jersey	2018-12-05
+3237473	Les Reuses	Les Reuses		49.25028	-2.17611	H	COVE	JE		00				0		3	Europe/Jersey	2007-06-15
+3237474	La Falaise	La Falaise		49.24944	-2.16889	P	PPL	JE		00				0		90	Europe/Jersey	2007-06-15
+3237475	La Plaine Point	La Plaine Point	La Plaine,La Plaine Point	49.25833	-2.16556	T	PT	JE		00				0		96	Europe/Jersey	2012-01-19
+3237476	Le Fossé Vicq	Le Fosse Vicq		49.25917	-2.16306	H	COVE	JE		00				0		1	Europe/Jersey	2007-06-15
+3237477	La Houle	La Houle		49.26167	-2.15528	H	COVE	JE		00				0		1	Europe/Jersey	2007-06-15
+3237478	Grune de Vicq	Grune de Vicq		49.26278	-2.15611	H	RF	JE		00				0		1	Europe/Jersey	2007-06-15
+3237482	Grand Mourier	Grand Mourier		49.25528	-2.14833	P	PPL	JE		00				0		96	Europe/Jersey	2007-06-15
+3237489	Mourier Bay	Mourier Bay	Mourier Bay	49.25694	-2.14472	H	COVE	JE		00				0		0	Europe/Jersey	2012-01-19
+3237492	La Lipende Point	La Lipende Point	La Lipende Point,Le Lipende,Le Lipendé	49.25556	-2.14194	T	PT	JE		00				0		9	Europe/Jersey	2012-01-19
+3237495	Perruque	Perruque	La Perruqe,Perruque	49.25167	-2.14417	P	PPL	JE		00				0		106	Europe/Jersey	2012-01-19
+3237497	Saint John	Saint John	Saint John,Saint-Jean,Sent-Dzhon,Sent-Jon,St Jean,St John,St. John,St. John's,St. John’s,seniti joni,senta jana,sento・jon,snt jan,Сент-Джон,سنت جان,সেন্ট জন,ਸੇਂਟ ਜਾਨ,ሴንት ጆን,セント・ジョン	49.24694	-2.1375	A	ADM1	JE	GB	3237497				3051		105	Europe/Jersey	2026-04-16
+3237499	Cormorant Rock	Cormorant Rock	Cormorant Rock	49.25528	-2.13056	T	RK	JE		00				0		1	Europe/Jersey	2012-01-19
+3237503	Côtil Point	Cotil Point	Cotil Point,Côtil Point	49.25333	-2.13472	T	PT	JE		00				0		6	Europe/Jersey	2012-01-19
+3237504	Demie Rock	Demie Rock	Demie Rock,La Demie	49.25833	-2.12306	T	RK	JE		00				0		1	Europe/Jersey	2012-01-19
+3237506	Shamrock Bank	Shamrock Bank	Shamrock Bank	49.26306	-2.12917	H	SHOL	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237515	Mont Mado	Mont Mado	Le Mont Mado,Mont Mado,Mount Mado	49.24694	-2.12417	P	PPL	JE		00				0		124	Europe/Jersey	2012-01-19
+3237518	Cheval Rock	Cheval Rock	Cheval Rock,Chevel Rock,Le Cheval Guillaume	49.25306	-2.11556	T	RK	JE		00				0		1	Europe/Jersey	2012-01-19
+3237520	Long Echet	Long Echet	Le Long Etchet,Le Long Êtchet,Long Echet	49.25389	-2.10444	H	RF	JE		00				0		1	Europe/Jersey	2012-01-19
+3237524	Vicard Harbour	Vicard Harbour	Vicard Harbour	49.24833	-2.08694	H	COVE	JE		00				0		-2	Europe/Jersey	2012-01-19
+3237526	La Grune	La Grune	La Chretienne,La Chrétienne,La Grune	49.24306	-2.08083	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237529	L’Islet	L'Islet		49.23833	-2.07861	T	RK	JE		00				0		2	Europe/Jersey	2007-06-15
+3237530	Trinity	Trinity	La Trinite,La Trinité,La Trinnete,La Trinneté,Trinity	49.23472	-2.09	A	ADM1	JE	GB	3237530				3156		114	Europe/Jersey	2014-03-14
+3237531	L’Étaquerel	L'Etaquerel	L'Etacquerel,L'Etaquerel,L’Étacquerel,L’Étaquerel	49.23833	-2.06694	T	PT	JE		00				0		12	Europe/Jersey	2012-01-19
+3237532	Oyster Rocks	Oyster Rocks	Oyster Rocks	49.24111	-2.06389	T	RKS	JE		00				0		53	Europe/Jersey	2012-01-19
+3237533	Les Troupeurs	Les Troupeurs	Les Troupeurs,Troupeurs	49.24587	-2.06581	H	RF	JE		00				0		-9999	Europe/Jersey	2017-08-16
+3237536	Demie de la Tour	Demie de la Tour	Demie de la Tour,La Demie de la Tour	49.24472	-2.05111	T	RK	JE		00				0		1	Europe/Jersey	2012-01-19
+3237539	Nez du Guet	Nez du Guet	Le Nez du Guet,Nez du Guet	49.24	-2.04361	T	PT	JE		00				0		0	Europe/Jersey	2012-01-19
+3237543	Hiaux	Hiaux	Hiaux,Pin Rock	49.24056	-2.04194	T	RK	JE		00				0		1	Europe/Jersey	2012-01-19
+3237548	Brayes Rocks	Brayes Rocks	Brayes Rocks,Les Brayes	49.23361	-2.02056	T	RKS	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237550	Coupe Rock	Coupe Rock	Coupe Rock	49.23139	-2.015	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237551	Le Graveur	Le Graveur	Le Graveur	49.22111	-2.01889	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237552	Pillon Rock	Pillon Rock	Pillon Rock	49.22278	-2.00583	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237553	Eureka	Eureka	Eureka	49.22083	-2.00417	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237554	Belval Cove	Belval Cove	Belval,Belval Cove	49.22111	-2.02611	H	COVE	JE		00				0		1	Europe/Jersey	2012-01-19
+3237557	Le Ruau	Le Ruau		49.26667	-2.03333	H	CHNM	JE		00				0		-9999	Europe/Jersey	1997-04-02
+3237567	La Hau	La Hau	La Hau	49.285	-2.05	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237569	Joli	Joli	Joli	49.29083	-2.04861	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237589	Le Forêt	Le Foret	Le Foret,Le Forêt	49.29611	-2.04667	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237590	Le Bût	Le But	Le But,Le Bût	49.29611	-2.0525	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237592	Frouquie	Frouquie	Frouquie	49.29556	-2.04028	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237593	Les Burons	Les Burons	Les Burons	49.29861	-2.03528	T	RKS	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237595	La Platte	La Platte	La Platte	49.29444	-2.01639	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237596	Frouquie	Frouquie	Frouquie	49.29778	-2.01306	H	RF	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3237600	Grune de South West	Grune de South West	Grune de South West	49.2875	-2.00917	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237606	La Grese	La Grese	La Grese	49.3025	-2.02028	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237608	Noire Roque	Noire Roque	Noire Roque	49.30306	-2.03278	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237611	La Joie	La Joie	La Joie	49.30972	-2.03306	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237614	Clump Rock	Clump Rock	Clump Rock	49.31139	-2.02861	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237615	Les Grunes	Les Grunes	Les Grunes	49.31083	-2.04111	T	RKS	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237620	Passe de l’Étoc	Passe de l'Etoc	Passe de l'Etoc,Passe de l’Étoc	49.29889	-2.005	H	CHNM	JE		00				0		-9999	Europe/Jersey	2014-10-02
+3237625	Grune de North West	Grune de North West	Grune de North West	49.31278	-1.99778	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237632	Le Fierco	Le Fierco	Le Fierco	49.30583	-1.98972	T	RKS	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237634	L’Étoc	L'Etoc	L'Etoc,L’Étoc	49.30167	-1.99417	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237635	Le Ruquet	Le Ruquet	Le Ruquet	49.30583	-1.97472	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237636	Grande Rousse	Grande Rousse	Grande Rousse	49.29222	-1.98306	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237640	Petite Rousse	Petite Rousse	Petite Rousse	49.29028	-1.96833	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237642	Marmotier	Marmotier	Marmotier	49.29167	-1.92778	T	ISL	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3237645	Île Mâitre	Ile Maitre		49.28333	-1.92778	T	ISL	JE		00				0		1	Europe/Jersey	2007-06-15
+3237646	Écrevière Bank	Ecreviere Bank	Ecreviere Bank,Écrevière Bank	49.275	-1.89917	H	SHOL	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3237716	Saint Martin	Saint Martin	Saint Martin,Saint Martin de Grouville,Saint Martîn,Saint-Martin,Sent-Martin,St Martin,St Martîn,St. Martin,seniti maritini,senta maratina,senta martina,sento・marutan,snt martyn,snt marټn,Сент-Мартин,سنت مارتین,سنت مارټن,সেন্ট মার্টিন,ਸੇਂਟ ਮਾਰਟਿਨ,ሴንት ማርቲን,セント・マルタン	49.21944	-2.04972	A	ADM1	JE	GB	3237716				3763		79	Europe/Jersey	2026-04-16
+3237717	Banc du Château	Banc du Chateau	Banc du Chateau,Banc du Château	49.19167	-1.98333	H	SHOL	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237720	Le Giffard	Le Giffard	Le Giffard	49.17556	-1.98194	T	RK	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237724	Grune Le Feuvre	Grune Le Feuvre	Grune Le Feuvre	49.15917	-1.92778	H	RF	JE		00				0		-9999	Europe/Jersey	2012-01-19
+3237726	La Grande Arconie	La Grande Arconie	La Grande Arconie	49.12639	-1.89778	H	RF	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3237727	Grunes du Gris-Banc	Grunes du Gris-Banc	Grunes du Gris-Banc	49.10833	-1.93333	T	RKS	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3237729	Grune La Hauche	Grune La Hauche	Grune La Hauche	49.11278	-1.89722	T	RK	JE		00	00			0		-9999	Europe/Jersey	2012-01-19
+3237823	Black Rock	Black Rock	Black Rock	49.25556	-2.2525	T	RK	JE		00				0		73	Europe/Jersey	2012-01-19
+3237864	Saint Helier	Saint Helier	Saint Helier,Saint-Helier,Saint-Hélier,Sent-Ehl'e,Sent-Elier,Sent-Elye,St Helier,St. Helier,seniti heልyeri,senta heli'ara,senta heliyara,sento・heria,snt hlyr,snt hylyr,Сент-Элье,سنت هلیر,سنت هیلیر,সেন্ট হেলিয়ার,ਸੇਂਟ ਹੇਲੀਅਰ,ሴንት ሄልየር,セント・ヘリア	49.18333	-2.1	A	ADM1	JE	GB	3237864				35822		15	Europe/Jersey	2026-04-16
+6296595	Jersey Airport	Jersey Airport	Aeroporto de Jersey,Aeroporto di Jersey,Aeroportul Jersey,Aeropuerto de Jersey,Aeropuertu de Xersei,Aeropuertu de Xerséi,Dzersijas lidosta,Dzhehrsi,Dzhersi,Džērsijas lidosta,EGJJ,Flughafen Jersey,Flughaveno Jerzejo,Flughaveno Ĵerzejo,JER,Jersey Airport,Jersey-i repueloter,Jersey-i repülőtér,Lapangan Terbang Jersey,Port lotniczy Jersey,San bay Jersey,Sân bay Jersey,aeroport de Jersey,aéroport de Jersey,frwdgah jrzy,jaji kong gang,mtar jyrsy,ze xi ji chang,Джерси,Джерсі,Джэрсі,Фурудгоҳи ҷрзи,فرودگاه جرزی,مطار جيرسى,ジャージー空港,泽西机场,澤西機場	49.20787	-2.19456	S	AIRP	JE	GB	3237221				0	84	82	Europe/Jersey	2014-11-02
+6619950	Jersey, Channel Islands	Jersey, Channel Islands		49.18585	-2.11006	A	ADMD	JE	GB					0		11	Europe/Jersey	2015-03-14
+6640908	Grosnez Castle	Grosnez Castle	Grosnez Castle,Le Chateau de Gros Nez	49.25722	-2.24694	S	RUIN	JE		00				0		50	Europe/Jersey	2012-01-20
+6640909	Le Pinacle	Le Pinacle	Le Pinacle,Pinnacle Rock	49.2475	-2.25389	T	PT	JE		00				0		0	Europe/Jersey	2012-01-20
+6640910	Long Rock	Long Rock		49.29417	-2.20917	T	RK	JE		00				0		-9999	Europe/Jersey	2008-02-09
+6640911	Les Laveurs	Les Laveurs	Les Laveurs	49.23	-2.23222	T	BCH	JE		00				0		7	Europe/Jersey	2018-12-06
+6640912	Lewis Tower	Lewis Tower	La Petite Tour,Lewis Tower,Martello Tower Number 1	49.22972	-2.235	S	TOWR	JE		00				0		6	Europe/Jersey	2012-01-20
+6640913	Kempt Tower	Kempt Tower	Grosse Tour,Kemp Tower,Kempt Tower,La Grosse Tour,Martello Tower Number 2	49.22111	-2.22806	S	TOWR	JE		00				0		12	Europe/Jersey	2012-01-20
+6640914	Saint Peter’s Mill	Saint Peter's Mill		49.23389	-2.18417	S	ML	JE		00				0		96	Europe/Jersey	2008-02-09
+6640915	Le Val Rouget	Le Val Rouget	Le Val Rouget	49.24667	-2.19583	T	VAL	JE		00				0		59	Europe/Jersey	2018-12-06
+6640916	Meulet Point	Meulet Point		49.23889	-2.06389	T	PT	JE		00				0		0	Europe/Jersey	2008-02-09
+6640917	Le Sauchet	Le Sauchet		49.24139	-2.04861	H	COVE	JE		00				0		1	Europe/Jersey	2008-02-09
+6640918	L’Ouziere	L'Ouziere		49.21806	-2.22944	T	BCH	JE		00				0		12	Europe/Jersey	2008-02-09
+6640919	Square Fort	Square Fort	La Tour Carre,La Tour Carré,Square Fort	49.21694	-2.22611	S	FT	JE		00				0		7	Europe/Jersey	2012-01-20
+6641103	La Rocco Tower	La Rocco Tower	La Rocco Tower,La Tour de la Rocque-Ho	49.19833	-2.23417	S	TOWR	JE		00				0		-9999	Europe/Jersey	2012-01-20
+6641104	Le Vermeux	Le Vermeux		49.19861	-2.24111	H	RF	JE		00				0		-9999	Europe/Jersey	2008-02-09
+6641105	La Rosière	La Rosiere		49.17861	-2.23694	H	COVE	JE		00				0		-9999	Europe/Jersey	2008-02-09
+6641106	La Moye	La Moye		49.1847	-2.22031	P	PPL	JE		3237200				0		59	Europe/Jersey	2020-06-11
+6641589	Val de la Mare Reservoir	Val de la Mare Reservoir	Le Val de la Mare Reservoir,Val de la Mare,Val de la Mare Reservoir	49.21556	-2.20556	H	RSV	JE		00				0		45	Europe/Jersey	2014-06-05
+6641612	Sillette Passage	Sillette Passage		49.15333	-2.1575	H	CHN	JE		00				0		-9999	Europe/Jersey	2008-02-09
+6930747	THE SAVOY	THE SAVOY	The Savoy Jersey	49.19069	-2.1094	S	HTL	JE						0		14	Europe/Jersey	2009-02-19
+6943618	Beachcombers Hotel	Beachcombers Hotel		49.18378	-2.05099	S	HTL	JE						0		22	Europe/Jersey	2009-07-21
+6943899	The Club Hotel & Spa	The Club Hotel & Spa		49.18163	-2.10234	S	HTL	JE						0		23	Europe/Jersey	2009-07-28
+6943910	Hotel Cristina	Hotel Cristina		49.20303	-2.14119	S	HTL	JE						0		58	Europe/Jersey	2009-07-28
+6944892	Pomme d'Or Hotel	Pomme d'Or Hotel		49.1829	-2.10845	S	HTL	JE						0		12	Europe/Jersey	2009-08-06
+6945211	Merton Hotel	Merton Hotel		49.2013	-2.0699	S	HTL	JE						0		76	Europe/Jersey	2009-08-09
+6945303	Golden Sands Hotel	Golden Sands Hotel		49.18483	-2.19574	S	HTL	JE						0		8	Europe/Jersey	2009-08-10
+6945966	Radisson SAS Waterfront Hotel	Radisson SAS Waterfront Hotel		49.18324	-2.11445	S	HTL	JE						0		8	Europe/Jersey	2009-08-14
+6946073	Hotel Revere	Hotel Revere		49.18783	-2.1141	S	HTL	JE						0		13	Europe/Jersey	2009-08-17
+6946080	The Royal Yacht Hotel & Spa	The Royal Yacht Hotel & Spa		49.18201	-2.10843	S	HTL	JE						0		8	Europe/Jersey	2009-08-17
+6946086	Hotel Savoy	Hotel Savoy		49.1908	-2.10949	S	HTL	JE						0		14	Europe/Jersey	2009-08-17
+6947752	Les Platons	Les Platons		49.2462	-2.1044	P	PPL	JE						0		128	Europe/Jersey	2009-08-26
+6947753	Trinity	Trinity	La Trinite,La Trinité,La Trinnete,La Trinneté	49.23408	-2.09272	P	PPL	JE	GB	3237530				3355		110	Europe/Jersey	2026-05-07
+6950950	St Mary's Village	St Mary's Village	St Mary	49.23646	-2.17628	P	PPL	JE						0		95	Europe/Jersey	2009-09-23
+6950955	St Brelade	St Brelade	St Brelade,St. Brelade	49.19146	-2.20482	P	PPL	JE						0		73	Europe/Jersey	2023-09-19
+6950957	St Lawrence	St Lawrence		49.21583	-2.14139	P	PPL	JE						5561		83	Europe/Jersey	2026-05-07
+6951055	Grouville	Grouville		49.18395	-2.05032	P	PPL	JE						0		19	Europe/Jersey	2009-09-23
+7116505	beausite	beausite		49.187	-2.041	S	HTL	JE						0		12	Europe/Jersey	2010-01-12
+7117050	grand jersey	grand jersey		49.1874	-2.116	S	HTL	JE						0		10	Europe/Jersey	2010-01-19
+7117059	hampshire	hampshire		49.19052	-2.10397	S	HTL	JE						0		15	Europe/Jersey	2010-01-19
+7117221	l horizon	l horizon		49.19103	-2.19997	S	HTL	JE						0		73	Europe/Jersey	2010-01-21
+7117239	longueville manor	longueville manor		49.18122	-2.0795	S	HTL	JE						0		7	Europe/Jersey	2010-01-21
+7117259	mayfair	mayfair		49.18532	-2.0991	S	HTL	JE						0		14	Europe/Jersey	2010-01-21
+7117306	metropole	metropole		49.17957	-2.10104	S	HTL	JE						0		10	Europe/Jersey	2010-01-22
+7117312	mountview	mountview		49.19402	-2.1101	S	HTL	JE						0		35	Europe/Jersey	2010-01-22
+7117466	old court house	old court house		49.19715	-2.03125	S	HTL	JE						0		10	Europe/Jersey	2010-01-25
+7117917	shakespeare coast	shakespeare coast		49.17441	-2.08386	S	HTL	JE						0		7	Europe/Jersey	2010-01-27
+7117966	somerville	somerville		49.18532	-2.17063	S	HTL	JE						0		41	Europe/Jersey	2010-01-28
+7117975	stafford	stafford		49.18778	-2.11348	S	HTL	JE						0		12	Europe/Jersey	2010-01-28
+7117991	the inn boutique	the inn boutique		49.194	-2.109	S	HTL	JE						0		30	Europe/Jersey	2010-01-28
+7118026	waters edge	waters edge		49.24	-2.052	S	HTL	JE						0		38	Europe/Jersey	2010-01-28
+7287755	Saint Clements	Saint Clements	Saint Clements,St Clement,St. Clements	49.17404	-2.05715	P	PPL	JE	GB					0		28	Europe/Jersey	2021-02-20
+7303885	Green Island Beach	Green Island Beach		49.16326	-2.07517	T	BCH	JE						0		11	Europe/Jersey	2010-07-20
+8181789	Fliquet	Fliquet		49.2278	-2.02869	P	PPL	JE		3237716				0		48	Europe/Jersey	2014-06-09
+8181790	La Grève de Lecq	La Greve de Lecq		49.24542	-2.20287	P	PPL	JE		3237229				0		43	Europe/Jersey	2014-06-09
+8199130	St Martin	St Martin	St. Martin	49.22006	-2.05127	P	PPL	JE		3237716				3948		81	Europe/Jersey	2026-05-07
+8410636	Jersey Racecourse	Jersey Racecourse		49.25299	-2.24589	S	RECR	JE						0		74	Europe/Jersey	2012-10-11
+8469011	Five Oaks	Five Oaks		49.19828	-2.08139	P	PPL	JE						0		78	Europe/Jersey	2013-02-28
+9257758	Apollo Jersey	Apollo Jersey		49.18412	-2.09908	S	HTL	JE						0		15	Europe/Jersey	2014-08-04
+9258088	Best Western Royal	Best Western Royal		49.1833	-2.1	S	HTL	JE						0		15	Europe/Jersey	2014-08-04
+9258310	Cri	Cri		49.20036	-2.13937	S	HTL	JE						0		33	Europe/Jersey	2014-08-04
+9258371	De France	De France		49.19083	-2.09573	S	HTL	JE						0		30	Europe/Jersey	2014-08-04
+9258372	De Normandie	De Normandie		49.17683	-2.0953	S	HTL	JE						0		9	Europe/Jersey	2014-08-04
+9258519	Fort D'Auvergne Hotel	Fort D'Auvergne Hotel		49.17689	-2.10224	S	HTL	JE						0		9	Europe/Jersey	2014-08-04
+9258559	Gol	Gol		49.18526	-2.1967	S	HTL	JE						0		9	Europe/Jersey	2014-08-04
+9258568	Grand Jersey Hotel & Spa	Grand Jersey Hotel & Spa		49.18743	-2.11676	S	HTL	JE						0		9	Europe/Jersey	2014-08-04
+9258588	Greenhills Country Hotel	Greenhills Country Hotel		49.21667	-2.1325	S	HTL	JE						0		60	Europe/Jersey	2014-08-04
+9259009	De Vere Grand Jersey	De Vere Grand Jersey		49.18738	-2.11608	S	HTL	JE						0		10	Europe/Jersey	2014-08-05
+9259147	La Place	La Place		49.19595	-2.17701	S	HTL	JE						0		79	Europe/Jersey	2014-08-05
+9259198	Les Ormes Leisure Resort	Les Ormes Leisure Resort		49.20288	-2.20208	S	HTL	JE						0		74	Europe/Jersey	2014-08-05
+9259199	L'Horizon Beach Hotel & Spa	L'Horizon Beach Hotel & Spa		49.19103	-2.19997	S	HTL	JE						0		73	Europe/Jersey	2014-08-05
+9259304	Marina Metro Hotel	Marina Metro Hotel		49.17684	-2.10345	S	HTL	JE						0		11	Europe/Jersey	2014-08-05
+9259480	Monterey	Monterey		49.19009	-2.09726	S	HTL	JE						0		15	Europe/Jersey	2014-08-06
+9259526	Ommaroo	Ommaroo		49.17755	-2.09912	S	HTL	JE						0		8	Europe/Jersey	2014-08-06
+9259572	The Fort D'Auvergne	The Fort D'Auvergne		49.17721	-2.1013	S	HTL	JE						0		8	Europe/Jersey	2014-08-06
+9259639	The Metropole Hotel	The Metropole Hotel		49.18005	-2.10079	S	HTL	JE						0		13	Europe/Jersey	2014-08-06
+9259650	The Monterey	The Monterey		49.184	-2.078	S	HTL	JE						0		15	Europe/Jersey	2014-08-06
+9259733	Peterborough House	Peterborough House		49.21715	-2.13289	S	HTL	JE						0		62	Europe/Jersey	2014-08-06
+9259962	Radisson Blu Waterfront Hotel	Radisson Blu Waterfront Hotel		49.18421	-2.11723	S	HTL	JE						0		0	Europe/Jersey	2014-08-06
+9259989	Norfolk Lodge	Norfolk Lodge		49.193	-2.106	S	HTL	JE						0		21	Europe/Jersey	2014-08-06
+9260036	Uplands Apartments	Uplands Apartments		49.196	-2.113	S	HTL	JE						0		58	Europe/Jersey	2014-08-06
+9260130	Runnymede Court Hotel	Runnymede Court Hotel		49.1798	-2.10152	S	HTL	JE						0		13	Europe/Jersey	2014-08-06
+9260138	Samares Coast	Samares Coast		49.167	-2.081	S	HTL	JE						0		8	Europe/Jersey	2014-08-06
+9538860	St Peter	St Peter		49.21479	-2.18263	P	PPLL	JE		3237221				0		89	Europe/Jersey	2018-08-23
+9538861	St Peters Village	St Peters Village	St Peter's Village	49.21294	-2.18353	P	PPL	JE		3237221				0		86	Europe/Jersey	2014-09-13
+9538862	La Presse	La Presse		49.21423	-2.19422	P	PPL	JE		3237221				0		84	Europe/Jersey	2014-09-13
+9538863	Jubilee	Jubilee	Mont du Jubile,Mont du Jubilé	49.21064	-2.204	T	HLL	JE						0		56	Europe/Jersey	2014-09-13
+9538864	The Forgotten Forest Arboretum	The Forgotten Forest Arboretum		49.2172	-2.19697	S	GDN	JE						0		69	Europe/Jersey	2014-09-13
+9538865	St Ouen's Manor	St Ouen's Manor	St. Ouen's Manor	49.22499	-2.20014	P	PPL	JE	GB	3237229				0		86	Europe/Jersey	2015-07-16
+9538866	St. Peters Arsenal	St. Peters Arsenal	St. Peter's Arsenal	49.20204	-2.1822	P	PPL	JE		3237221				0		85	Europe/Jersey	2014-09-13
+9538867	La Fontaine	La Fontaine		49.20742	-2.17546	P	PPL	JE						0		76	Europe/Jersey	2014-09-13
+9540285	The Grand Jersey	The Grand Jersey		49.2068	-2.1057	S	HTL	JE						0		79	Europe/Jersey	2014-09-16
+9845475	Jersey Port	Jersey Port	Jersey Ferry Port,Jersey Harbour	49.18131	-2.11452	L	PRT	JE						0		7	Europe/Jersey	2014-11-12
+9890563	Queens (Jersey)	Queens (Jersey)		49.194	-2.109	S	HTL	JE						0		30	Europe/Jersey	2015-01-08
+9890574	Portelet	Portelet		49.1755	-2.1775	S	HTL	JE						0		59	Europe/Jersey	2015-01-08
+9890593	Merton Hotel And Suites	Merton Hotel And Suites		49.1797	-2.0939	S	HTL	JE						0		17	Europe/Jersey	2015-01-08
+9963897	Highfield Country	Highfield Country		49.2385	-2.0988	S	HTL	JE						0		126	Europe/Jersey	2015-01-19
+10099883	The Atlantic Hotel	The Atlantic Hotel		49.18894	-2.2245	S	HTL	JE						0		60	Europe/Jersey	2015-02-14
+10105648	Liberty Wharf Apartments By Bridgestreet	Liberty Wharf Apartments By Bridgestreet		49.18368	-2.11021	S	HTL	JE						0		8	Europe/Jersey	2015-02-19
+10105650	Chateau La Chaire	Chateau La Chaire		49.23508	-2.0475	S	HTL	JE						0		31	Europe/Jersey	2015-02-19
+10106109	Mayfair Hotel St Helier	Mayfair Hotel St Helier		49.18533	-2.0991	S	HTL	JE						0		14	Europe/Jersey	2015-02-19
+10106110	Metropole Hotel St Helier	Metropole Hotel St Helier		49.18081	-2.10037	S	HTL	JE						0		17	Europe/Jersey	2015-02-19
+10106935	Radisson Blu Waterfront St Helier	Radisson Blu Waterfront St Helier		49.18426	-2.11556	S	HTL	JE						0		7	Europe/Jersey	2015-02-19
+10111030	Maison Gorey Hotel	Maison Gorey Hotel		49.19665	-2.03352	S	HTL	JE						0		7	Europe/Jersey	2015-02-22
+10115911	Talana Hotel	Talana Hotel		49.17995	-2.09015	S	HTL	JE						0		7	Europe/Jersey	2015-02-24
+10121724	Greenhills Country Hotel & Restaurant	Greenhills Country Hotel & Restaurant		49.21923	-2.16965	S	HTL	JE						0		65	Europe/Jersey	2015-02-26
+10129091	The Uplands Hotel	The Uplands Hotel		49.19676	-2.11411	S	HTL	JE						0		64	Europe/Jersey	2015-03-09
+10129092	The Water's Edge	The Water's Edge		49.2392	-2.08278	S	HTL	JE						0		36	Europe/Jersey	2015-03-09
+10129093	The Samares Coast Hotel	The Samares Coast Hotel		49.16715	-2.08241	S	HTL	JE						0		8	Europe/Jersey	2015-03-09
+10232950	Undercliff Guest House	Undercliff Guest House		49.2378	-2.08314	S	HTL	JE						0		55	Europe/Jersey	2015-04-23
+10232951	The Hampshire Hotel	The Hampshire Hotel		49.19121	-2.10146	S	HTL	JE						0		13	Europe/Jersey	2015-04-23
+10238559	Alhambra	Alhambra		49.1782	-2.10094	S	HTL	JE						0		10	Europe/Jersey	2015-04-28
+10238572	The Dolphin Hotel	The Dolphin Hotel		49.19997	-2.02087	S	HTL	JE						0		13	Europe/Jersey	2015-04-28
+10296062	Bergerac	Bergerac		49.19567	-2.19394	S	HTL	JE						0		64	Europe/Jersey	2015-05-31
+10296063	Beaufort	Beaufort		49.1922	-2.10254	S	HTL	JE						0		15	Europe/Jersey	2015-05-31
+10302770	The Club Hotel and Spa Bohemia Restaurant	The Club Hotel and Spa Bohemia Restaurant		49.18138	-2.10222	S	HTL	JE						0		23	Europe/Jersey	2015-06-09
+10302893	The Norfolk Lodge	The Norfolk Lodge		49.19292	-2.10794	S	HTL	JE						0		21	Europe/Jersey	2015-06-09
+10377075	La Saline	La Saline		49.23371	-2.23885	P	PPL	JE						0		68	Europe/Jersey	2015-07-16
+10377076	La Porte	La Porte		49.23929	-2.24185	P	PPL	JE						0		8	Europe/Jersey	2015-07-16
+10377077	Les Labeurs	Les Labeurs		49.22976	-2.234	P	PPL	JE						0		5	Europe/Jersey	2015-07-16
+10377078	La Crabiere	La Crabiere		49.22665	-2.23117	P	PPL	JE						0		6	Europe/Jersey	2015-07-16
+10377079	St Ouen's Village	St Ouen's Village		49.23282	-2.20426	P	PPL	JE						0		92	Europe/Jersey	2015-07-16
+10377080	St Ouen Town	St Ouen Town	St Quen	49.2345	-2.20353	P	PPL	JE						0		96	Europe/Jersey	2016-02-18
+10377081	Creux Baillot	Creux Baillot		49.23492	-2.19774	P	PPL	JE						0		95	Europe/Jersey	2016-02-18
+10377082	Leoville	Leoville		49.23828	-2.20714	P	PPL	JE						0		93	Europe/Jersey	2015-07-16
+10377083	La Ville de L'Eglise	La Ville de L'Eglise		49.22542	-2.20842	P	PPL	JE						0		82	Europe/Jersey	2015-07-16
+10377084	La Caroline	La Caroline		49.22326	-2.20769	P	PPL	JE						0		79	Europe/Jersey	2015-07-16
+10377085	L'Amiral	L'Amiral		49.22217	-2.20563	P	PPL	JE						0		76	Europe/Jersey	2015-07-16
+10377086	Les Miellse Nature Reserve	Les Miellse Nature Reserve		49.21572	-2.21928	L	RESN	JE	GB					0		6	Europe/Jersey	2015-07-16
+10377087	Le Noir Pre	Le Noir Pre	Orchid Meadows	49.21962	-2.22179	V	MDW	JE						0		5	Europe/Jersey	2015-07-16
+10377764	Le Port	Le Port		49.20725	-2.22314	P	PPL	JE						0		6	Europe/Jersey	2015-07-19
+10377765	Le Braye	Le Braye		49.19808	-2.22439	P	PPL	JE						0		12	Europe/Jersey	2015-07-19
+10377766	La Pulente	La Pulente		49.18765	-2.22997	P	PPL	JE						0		28	Europe/Jersey	2015-07-19
+10377767	Le Grouet	Le Grouet		49.18238	-2.24181	P	PPL	JE						0		4	Europe/Jersey	2015-07-19
+10377768	La Corbiere	La Corbiere		49.18159	-2.23722	P	PPL	JE						0		46	Europe/Jersey	2015-07-19
+10377769	Le Mont es Croix	Le Mont es Croix		49.18218	-2.21658	P	PPL	JE						0		65	Europe/Jersey	2015-07-19
+10942508	Le Hocq	Le Hocq		49.16823	-2.06178	P	PPLA	JE		3237072				0		11	Europe/Jersey	2015-11-26
+11071825	Les St Germain	Les St Germain		49.22511	-2.12062	P	PPL	JE						0		92	Europe/Jersey	2016-02-18
+11071826	Vill es Normans	Vill es Normans		49.22547	-2.10663	P	PPL	JE						0		104	Europe/Jersey	2016-02-18
+11071827	Trinity Manor	Trinity Manor		49.2273	-2.10221	P	PPL	JE						0		107	Europe/Jersey	2016-02-18
+11071828	La Chesnee	La Chesnee		49.22225	-2.09491	P	PPL	JE						0		93	Europe/Jersey	2016-02-18
+11071829	Le Hurrel	Le Hurrel		49.21981	-2.09401	P	PPL	JE						0		93	Europe/Jersey	2016-02-18
+11071830	Les Vaux	Les Vaux		49.22242	-2.08251	P	PPL	JE						0		74	Europe/Jersey	2016-02-18
+11071831	Victoria Village	Victoria Village		49.21594	-2.082	P	PPL	JE						0		83	Europe/Jersey	2016-02-18
+11071832	Maufant	Maufant		49.2102	-2.06582	P	PPL	JE						0		88	Europe/Jersey	2016-02-18
+11071833	Les Carrieres	Les Carrieres		49.21289	-2.05813	P	PPL	JE						0		78	Europe/Jersey	2016-02-18
+11071834	La Thiebaut	La Thiebaut		49.23269	-2.22814	L	PRK	JE	GB					0		56	Europe/Jersey	2016-02-18
+11071835	Les Monts	Les Monts		49.23162	-2.22482	T	HLLS	JE						0		70	Europe/Jersey	2016-02-18
+11071836	La Robeline	La Robeline		49.23593	-2.22503	P	PPL	JE						0		61	Europe/Jersey	2016-02-18
+11071837	Millais	Millais		49.24091	-2.22271	P	PPL	JE						0		83	Europe/Jersey	2016-02-18
+11071838	Trodez	Trodez		49.23892	-2.21653	P	PPLL	JE						0		83	Europe/Jersey	2016-02-18
+11071839	Le Bas de Lecq	Le Bas de Lecq		49.24806	-2.20885	P	PPL	JE						0		76	Europe/Jersey	2016-02-18
+11071841	Les Pallieres	Les Pallieres		49.24789	-2.2319	P	PPL	JE						0		86	Europe/Jersey	2016-02-18
+11071842	Model Aircraft Airfield	Model Aircraft Airfield		49.24701	-2.24653	S	AIRF	JE	GB	3237229				0		71	Europe/Jersey	2025-07-10
+11071843	Plemont	Plemont		49.25666	-2.22761	P	PPL	JE						0		65	Europe/Jersey	2016-02-18
+11071844	Gatehouse Ruins and World War II Bunker	Gatehouse Ruins and World War II Bunker		49.25866	-2.22767	S	HSTS	JE						0		48	Europe/Jersey	2016-02-18
+11127734	Frémont Point TV Tower	Fremont Point TV Tower		49.25154	-2.13128	S	TOWR	JE						0		107	Europe/Jersey	2016-05-02
+12541139	L'lle Perchie	L'lle Perchie	L'lle Perchie	49.16655	-2.17282	T	ISL	JE						0	31	0		2023-06-17
+12541175	Les Platons (Jersey)	Les Platons (Jersey)	Les Platons (Jersey)	49.24791	-2.1055	T	HLL	JE	GB					0	136	0	Europe/London	2024-11-12

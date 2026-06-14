@@ -1,0 +1,792 @@
+3579811	Woodlands Estate	Woodlands Estate		12.02734	-61.74505	S	EST	GD		03				0		63	America/Grenada	2018-11-06
+3579812	Woodford Estate	Woodford Estate	Woodford,Woodford Estate	12.11391	-61.74638	S	EST	GD		04				0		78	America/Grenada	2018-11-06
+3579813	Woburn Bay	Woburn Bay	Clarkes Court Bay,Cul de Sac des Fontaines,Woburn Bay	12.00635	-61.73439	H	BAY	GD		03				0		12	America/Grenada	2016-10-26
+3579814	Woburn	Woburn	Woborn,Woburn	12.02121	-61.7351	P	PPL	GD		03				0		101	America/Grenada	2018-11-06
+3579815	Windward	Windward		12.51239	-61.43033	P	PPL	GD		10				0		1	America/Grenada	2020-06-11
+3579816	Windsor Forest	Windsor Forest		12.05614	-61.69339	P	PPL	GD		02				0		298	America/Grenada	2018-11-06
+3579817	Windsor Castle	Windsor Castle		12.04521	-61.69876	P	PPL	GD		02				0		220	America/Grenada	2018-11-06
+3579818	Windsor	Windsor		12.13246	-61.66838	P	PPLL	GD		01				0		237	America/Grenada	2015-03-26
+3579819	Willis	Willis	Willis	12.0856	-61.71957	P	PPL	GD		03				500		176	America/Grenada	2025-05-07
+3579820	White Island	White Island		12.43419	-61.48125	T	ISL	GD		00				0		5	America/Grenada	2007-12-27
+3579821	White Gun	White Gun		12.052	-61.73883	P	PPL	GD		03				0		144	America/Grenada	2018-11-06
+3579822	Whale Bay	Whale Bay		12.28589	-61.57858	H	BAY	GD		00				0		4	America/Grenada	2016-10-26
+3579823	Westerhall Point	Westerhall Point	Le Grand Becaye	12.00692	-61.69901	T	PT	GD		02				0		10	America/Grenada	2016-10-26
+3579824	Westerhall Point	Westerhall Point	Westerhall,Westerhall Point	12.00956	-61.70076	P	PPL	GD		02				0		40	America/Grenada	2016-10-26
+3579825	Westerhall Land Settlement	Westerhall Land Settlement		12.01906	-61.70094	P	PPLL	GD		02				0		18	America/Grenada	2016-10-26
+3579826	Westerhall Estate	Westerhall Estate		12.02248	-61.70121	S	EST	GD		02				0		92	America/Grenada	2016-10-26
+3579827	Westerhall Bay	Westerhall Bay	Bacaye Harbor,Cul de Sac de Becaye,Westerhall Bay	12.0133	-61.6993	H	BAY	GD		02				0		1	America/Grenada	2016-10-26
+3579828	Welcome Hall	Welcome Hall		12.20975	-61.65472	P	PPL	GD		06				0		105	America/Grenada	2018-11-06
+3579829	Waltham Estate	Waltham Estate		12.20739	-61.69759	S	EST	GD		05				0		16	America/Grenada	2018-11-06
+3579830	Waltham	Waltham		12.20049	-61.70112	P	PPL	GD		05				0		12	America/Grenada	2018-11-06
+3579831	Vineyard	Vineyard		12.05357	-61.69958	P	PPL	GD		02				0		254	America/Grenada	2018-11-06
+3579832	Vincennes	Vincennes		12.05304	-61.68926	P	PPL	GD		02				0		258	America/Grenada	2018-11-06
+3579833	Victoria	Victoria	Grand Pauve,Grand Pauvre,Saint Mark,Saint Mark Village,Saint Marks	12.19021	-61.70677	P	PPLA	GD		05				2256		70	America/Grenada	2013-06-27
+3579834	Vendôme Estate	Vendome Estate		12.07987	-61.71379	S	EST	GD		03				0		302	America/Grenada	2018-11-06
+3579835	Vendôme	Vendome		12.0802	-61.71629	P	PPL	GD		03				0		271	America/Grenada	2018-11-06
+3579836	Upper Pearls	Upper Pearls	Ano Perles,Upper Pearl,Upper Pearls,apr prlz,Άνω Πέρλες,آپر پرلز	12.15795	-61.61998	P	PPL	GD		01				170		51	America/Grenada	2025-05-07
+3579837	Upper La Taste	Upper La Taste	La Taste,Upper La Taste	12.19302	-61.61813	P	PPL	GD		06				1300		65	America/Grenada	2025-05-07
+3579838	Upper La Tante	Upper La Tante	Ano La Tant,Upper La Tante,apr la tant,shang la tan te,Άνω Λα Ταντ,آپر لا تانت,上拉坦特	12.05	-61.65	P	PPL	GD		02				120		94	America/Grenada	2025-05-07
+3579839	Upper Capitol	Upper Capitol	Ano Kapitol,Upper Capitol,apr kpytwl,Άνω Καπιτόλ,آپر کپیتول	12.11485	-61.66309	P	PPL	GD		01				0		242	America/Grenada	2018-11-06
+3579840	Union Village	Union Village	Union,Union Village	12.10491	-61.63475	P	PPL	GD		01				170		89	America/Grenada	2025-05-07
+3579841	Union Estate	Union Estate		12.20177	-61.67049	S	EST	GD		05				0		165	America/Grenada	2018-11-06
+3579842	Union	Union		12.20715	-61.67079	P	PPL	GD		05				0		83	America/Grenada	2018-11-06
+3579843	Union	Union	Union	12.20897	-61.65783	P	PPL	GD		06				0		99	America/Grenada	2018-11-06
+3579844	Tyrrel Bay	Tyrrel Bay		12.45854	-61.4899	H	BAY	GD		00				0		6	America/Grenada	2016-10-26
+3579845	Tuilleries Estate	Tuilleries Estate		12.09439	-61.64421	S	EST	GD		01				0		194	America/Grenada	2018-11-06
+3579846	Tufton Hall Estate	Tufton Hall Estate	Tufton Hall,Tufton Hall Estate	12.17727	-61.69531	S	EST	GD		05				0		143	America/Grenada	2018-11-06
+3579847	True Blue Point	True Blue Point	Mace Point,Point Mace,True Blue Point	11.99439	-61.76786	T	PT	GD		03				0		7	America/Grenada	2016-10-26
+3579848	True Blue Bay	True Blue Bay		11.99709	-61.77003	H	BAY	GD		03				0		-9999	America/Grenada	2014-04-20
+3579849	True Blue	True Blue		12.00409	-61.76851	P	PPL	GD		03				0		14	America/Grenada	2016-10-26
+3579850	Devils Bay	Devils Bay	Ance Diable,Trou Jab	12.00941	-61.79254	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3579851	Tricolar	Tricolar		12.18641	-61.65282	P	PPL	GD		06				0		242	America/Grenada	2018-11-06
+3579852	Trevellan	Trevellan		12.21701	-61.63764	P	PPL	GD		06				0		34	America/Grenada	2018-11-06
+3579853	Top Hill	Top Hill		12.47651	-61.44662	T	HLL	GD		00				0		224	America/Grenada	2016-10-26
+3579854	Tivoli	Tivoli	Tivoli,chibori,di wo li_,tywwly  grnada,Τιβολί,تیوولی، گرنادا,チボリ,蒂沃利_	12.17268	-61.61641	P	PPL	GD		01				700		58	America/Grenada	2025-05-07
+3579855	The Park	The Park		12.05278	-61.71717	P	PPL	GD		03				0		317	America/Grenada	2018-11-06
+3579856	The Lime	The Lime		12.01669	-61.76071	P	PPL	GD		03				0		32	America/Grenada	2018-11-06
+3579857	The Lance	The Lance		12.16742	-61.72953	P	PPL	GD		04				0		9	America/Grenada	2018-11-06
+3579858	The Cliff	The Cliff		12.02632	-61.7345	P	PPL	GD		03				0		77	America/Grenada	2018-11-06
+3579859	The Bocas	The Bocas		12.04424	-61.73405	P	PPL	GD		03				0		168	America/Grenada	2018-11-06
+3579860	Thebaide	Thebaide	Thebaid,Thebaide	12.05304	-61.67066	P	PPL	GD		02				0		204	America/Grenada	2018-11-06
+3579861	Terre Cannes	Terre Cannes		12.0686	-61.67377	P	PPL	GD		02				0		476	America/Grenada	2018-11-06
+3579862	Tempé River	Tempe River	Tempe River,Tempé River	12.05832	-61.74385	H	STM	GD		03				0		22	America/Grenada	2018-11-06
+3579863	Tempé	Tempe	Tempe,Temple,Tempé	12.05645	-61.73673	P	PPL	GD		03				0		38	America/Grenada	2020-06-10
+3579864	Telescope Rock	Telescope Rock		12.12552	-61.59296	T	RK	GD		01				0		-9999	America/Grenada	2016-10-26
+3579865	Telescope Point	Telescope Point	Pointe de la Grand Riviere,Telescope Point,Telescopic Point	12.12237	-61.60374	T	PT	GD		01				0		-9999	America/Grenada	2016-10-26
+3579866	Telescope	Telescope		12.12726	-61.61038	P	PPL	GD		01				0		12	America/Grenada	2016-10-26
+3579867	Tarleton Point	Tarleton Point		12.48675	-61.42265	T	PT	GD		00				0		-9999	America/Grenada	2016-10-26
+3579868	Tanteen	Tanteen		12.04838	-61.74752	P	PPLX	GD		03				0		6	America/Grenada	2018-11-06
+3579869	David Point	David Point	David Point,Pointe David,Tanga Langua	12.23372	-61.66384	T	PT	GD		06				0		8	America/Grenada	2016-10-26
+3579870	Syracuse	Syracuse		12.03453	-61.68158	P	PPL	GD		02				0		47	America/Grenada	2018-11-06
+3579871	Sugar Loaf	Sugar Loaf	Ile de Levera,Levera Island,Levera Islet,Sugar Loaf	12.22993	-61.60614	T	ISL	GD		06				0		53	America/Grenada	2020-06-10
+3579872	Springs	Springs		12.04086	-61.7442	P	PPL	GD		03				0		51	America/Grenada	2018-11-06
+3579873	Spring Gardens Estate	Spring Gardens Estate		12.10541	-61.6837	S	EST	GD		01				0		318	America/Grenada	2018-11-06
+3579874	The Spout	The Spout		12.04679	-61.74871	T	PT	GD		03				0		8	America/Grenada	2018-11-06
+3579875	Sparrow Bay	Sparrow Bay		12.50071	-61.45181	H	BAY	GD		00				0		1	America/Grenada	2016-10-26
+3579876	Southwest Point	Southwest Point	Pegus Point,Point Filet	12.43602	-61.49938	T	PT	GD		00				0		7	America/Grenada	2016-10-26
+3579877	South East Mountain	South East Mountain		12.08304	-61.67252	T	MT	GD		01				0		694	America/Grenada	2018-11-06
+3579878	Soubise Point	Soubise Point		12.10207	-61.62221	T	PT	GD		01				0		11	America/Grenada	2016-10-26
+3579879	Soubise	Soubise		12.11216	-61.62859	P	PPL	GD		01				0		20	America/Grenada	2018-11-06
+3579880	Snug Corner	Snug Corner		12.07601	-61.72978	P	PPL	GD		03				0		124	America/Grenada	2018-11-06
+3579881	Snell Hall Estate	Snell Hall Estate	Snell Hall,Snell Hall Estate	12.20727	-61.63479	S	EST	GD		06				0		67	America/Grenada	2018-11-06
+3579882	Six Roads	Six Roads		12.46798	-61.46098	P	PPL	GD		10				0		55	America/Grenada	2020-06-11
+3579883	The Sisters	The Sisters		12.30026	-61.60648	T	ISLS	GD		00				0		-9999	America/Grenada	2016-10-26
+3579884	Sister Rocks	Sister Rocks	Sister Rocks,Two Brothers	12.47699	-61.50921	T	RKS	GD		00				0		-9999	America/Grenada	2016-10-26
+3579885	Mount Sinai	Mount Sinai		12.07413	-61.69458	T	MT	GD		01				0		687	America/Grenada	2018-11-06
+3579886	River Simon	River Simon	River Simon	12.1419	-61.60979	H	STM	GD		01				0		7	America/Grenada	2016-10-26
+3579887	Simon	Simon		12.13784	-61.61479	P	PPL	GD		01				0		15	America/Grenada	2016-10-26
+3579888	Silver River	Silver River	Silver,Silver River	12.20145	-61.70074	H	STM	GD		05				0		1	America/Grenada	2021-09-08
+3579889	Ships Deck	Ships Deck		11.99901	-61.78492	T	PT	GD		03				0		4	America/Grenada	2016-10-26
+3579890	Sauteurs Bay	Sauteurs Bay		12.22734	-61.64357	H	BAY	GD		06				0		1	America/Grenada	2018-11-06
+3579891	Sauteurs	Sauteurs	Sauteurs,Sautiers	12.21833	-61.63917	P	PPLA	GD		06				1320		46	America/Grenada	2013-11-21
+3579892	Saumache River	Saumache River	River Saumache,Saumache River	12.17987	-61.69786	H	STM	GD		05				0		101	America/Grenada	2018-11-06
+3579893	Sans Souci Estate	Sans Souci Estate	San Soucei,Sans Souci Estate,Sans Soucie	12.12513	-61.64345	S	EST	GD		01				0		98	America/Grenada	2018-11-06
+3579894	Sans Souci	Sans Souci		12.05681	-61.7455	P	PPL	GD		03				0		36	America/Grenada	2018-11-06
+3579895	Sandy Island	Sandy Island		12.48566	-61.48219	T	ISL	GD		00				0		-9999	America/Grenada	2016-10-26
+3579896	Sandy Island	Sandy Island	Ile Haut,Sandy Island,Sandy Islet	12.22217	-61.58609	T	ISL	GD		06				0		36	America/Grenada	2016-10-26
+3579897	Samaritan Estate	Samaritan Estate	Samaritan,Samaritan Estate	12.20441	-61.66732	S	EST	GD		06				0		108	America/Grenada	2018-11-06
+3579898	Salt Ponds	Salt Ponds	Salt Pond,Salt Ponds	12.00572	-61.78226	H	PND	GD		03				0		3	America/Grenada	2016-10-26
+3579899	Salle River	Salle River	River Salee,River Sallee,River Sallée,Salle River	12.19738	-61.60621	H	STM	GD		06				0		2	America/Grenada	2016-10-26
+3579900	Salle River	Salle River	Salle,Salle River,Salt River	12.1081	-61.74672	H	STM	GD		03				0		11	America/Grenada	2021-09-08
+3579901	Point Salines	Point Salines	Point Saline,Point Salines,Point des Salines,Saline Point	12.00256	-61.80246	T	PT	GD		03				0		1	America/Grenada	2019-11-19
+3579902	Saline Island	Saline Island	Saline Islet	12.43063	-61.47211	T	ISL	GD		00				0		11	America/Grenada	2007-12-27
+3579903	Saint Pierre Point	Saint Pierre Point	Negro Point,Saint Pierre Point	12.04021	-61.63858	T	PT	GD		02				0		-9999	America/Grenada	2016-10-26
+3579904	Saint Paul’s	Saint Paul's		12.04933	-61.71598	P	PPL	GD		03				0		233	America/Grenada	2018-11-06
+3579905	Saint Paul’s	Saint Paul's		12.04678	-61.72912	P	PPL	GD		03				0		192	America/Grenada	2018-11-06
+3579906	Saint Patrick River	Saint Patrick River	Saint Patrick,Saint Patrick River	12.22549	-61.63443	H	STM	GD		06				0		11	America/Grenada	2021-09-08
+3579907	Saint Patrick	Saint Patrick	Agios Patrikios,Giao xu Saint Patrick,Giáo xứ Saint Patrick,Parafija Sent-Patrik,Paroisse de Saint Patrick,Paroki Saint Patrick,Paroko Sankta Patriko,Parrocchia di Saint Patrick,Parroquia de Saint Patrick,Prikhod Sent-Patrik,Saint Patrick,Saint Patrick Parish,Sent-Patrik Parish,Sentpatrika pagasts,Sv. Patriko parapija,abrshyt alqdys batryk,ceyint petrik paris,prysh snt patryk,seinteupaeteuliggu,seniti ፓtiriki Parish,sent pyatrik pyaris,senta paitrika Parish,senta paitrika pairisa,senta petrika perisa,senta pyatrika parisa,seyimnt patrik paris,sheng pa te li ke qu,synټ pyټrk Parish,Šv. Patriko parapija,Άγιος Πατρίκιος,Парафія Сент-Патрік,Приход Сент-Патрик,Сент-Патрик Parish,أبرشية القديس باتريك,سینٹ پیٹرک پریش، گریناڈا,سینټ پیټرک Parish,پریش سنت پاتریک,सेंट पॅट्रिक पॅरीश,सेंट पैट्रिक पैरिश,সেন্ত প্যাট্রিক পারিশ,ਸੇਂਟ ਪੈਟ੍ਰਿਕ Parish,સેન્ટ પેટ્રિક પૅરિશ,செயின்ட் பேட்ரிக் பரிஷ்,సెయింంట్ పాట్రిక్ పారిష్,ಸೇಂಟ್ ಪ್ಯಾಟ್ರಿಕ್ ಪ್ಯಾರಿಷ್,ශාන්ත පැට්‍රික් ප්‍රාන්තය,ตำบลเซนต์แพทริค,ሴንት ፓትሪክ Parish,セント・パトリック教区,圣帕特里克区,聖帕特里克區,세인트패트릭구	12.2	-61.63333	A	ADM1	GD		06				10533		147	America/Grenada	2026-04-16
+3579908	Saint Omer	Saint Omer		12.14063	-61.67954	P	PPL	GD		01				0		380	America/Grenada	2018-11-06
+3579909	Saint Mary	Saint Mary		12.15048	-61.70153	P	PPL	GD		04				0		314	America/Grenada	2018-11-06
+3579910	Saint Marks River	Saint Marks River	Saint Marks,Saint Marks River	12.19526	-61.70773	H	STM	GD		05				0		6	America/Grenada	2021-09-08
+3579911	Saint Marks Mountains	Saint Marks Mountains		12.18944	-61.679	T	MTS	GD		05				0		479	America/Grenada	2018-11-06
+3579912	Saint Mark Bay	Saint Mark Bay		12.1974	-61.70535	H	BAY	GD		05				0		34	America/Grenada	2018-11-06
+3579913	Saint Mark	Saint Mark	Agios Markos,Giao xu Saint Mark,Giáo xứ Saint Mark,Parafija Sent-Mark,Paroisse de Saint Mark,Paroki Saint Mark,Paroko Sankta Marko,Parrocchia di Saint Mark,Parroquia de Saint Mark,Prikhod Sent-Marka,Saint Mark,Saint Mark Parish,Sent-Mark Parish,Sentmarka pagasts,Sv. Morkaus parapija,abrshyt alqdys mark,ceyint mark paris,parys snt mark,seinteumakeugu,seniti mariki Parish,sent mark pyaris,senta maarka parisa,senta maraka Parish,senta marka pairisa,senta marka perisa,seyint maark paris,sheng ma ke qu,synټ mark Parish,tabl sent markh,Šv. Morkaus parapija,Άγιος Μάρκος,Парафія Сент-Марк,Приход Сент-Марка,Сент-Марк Parish,أبرشية القديس مارك,سینٹ مارک پریش، گریناڈا,سینټ مارک Parish,پاریس سنت مارک,सेंट मार्क पॅरीश,सेंट मार्क पैरिश,সেন্ট মাার্ক পারিশ,ਸੇਂਟ ਮਾਰਕ Parish,સેન્ટ માર્ક પૅરિશ,செயின்ட் மார்க் பரிஷ்,సెయింట్ మాార్క్ పారిష్,ಸೇಂಟ್ ಮಾರ್ಕ್ ಪ್ಯಾರಿಷ್,ශාන්ත මාර්ක් ප්‍රාන්තය,ตำบลเซนต์มาร์ค,ሴንት ማርክ Parish,セント・マーク教区,圣马克区,聖馬克區,세인트마크구	12.18333	-61.68333	A	ADM1	GD		05				4067		349	America/Grenada	2026-04-16
+3579914	Saint Margaret	Saint Margaret		12.10144	-61.68332	P	PPL	GD		01				0		440	America/Grenada	2018-11-06
+3579915	Saint Louis River	Saint Louis River	Riviere Saint Louis,Saint Louis River	12.01647	-61.70077	H	STM	GD		02				0		10	America/Grenada	2016-10-26
+3579916	Saint Johns River	Saint Johns River	Saint Johns,Saint Johns River	12.05869	-61.75456	H	STM	GD		03				0		10	America/Grenada	2021-09-08
+3579917	Saint John	Saint John		12.17081	-61.63823	P	PPL	GD		06				0		158	America/Grenada	2020-06-11
+3579918	Saint John	Saint John		12.11667	-61.63333	P	PPL	GD		01				0		94	America/Grenada	1993-12-23
+3579919	Saint John	Saint John	Agios Ioannis,Giao xu Saint John,Giáo xứ Saint John,Parafija Sent-Dzhon,Paroisse de Saint John,Paroki Saint John,Paroko Sankta Johano,Parrocchia di Saint John,Parroquia de Saint John,Prikhod Sent-Dzhon,Saint John,Saint John Parish,Sent-Dzhon Parish,Sentdzona pagasts,Sentdžona pagasts,Sv. Jono parapija,abrshyt alqdys jwn,ceyint jan paris,prysh snt jan,seinteujongu,seniti joni Parish,sent cxn phe lis,sent jan pyaris,senta j'hona perisa,senta jana pyarisa,senta jauna Parish,senta jona pairisa,senta jona perisa,seyint jaan paris,sheng yue han qu,synټ jan Parish,Šv. Jono parapija,Άγιος Ιωάννης,Парафія Сент-Джон,Приход Сент-Джон,Сент-Джон Parish,أبرشية القديس جون,سینٹ جان پریش، گریناڈا,سینټ جان Parish,پریش سنت جان,सेंट जॉन पॅरीश,सेंट जॉन पैरिश,সেন্ট জন প্যারিশ,ਸੇਂਟ ਜੌਨ Parish,સેંટ જ્હોન પૅરિશ,செயின்ட் ஜான் பரிஷ்,సెయింట్ జాాన్ పారిష్,ಸೇಂಟ್ ಜಾನ್ ಪ್ಯಾರಿಷ್,ශාන්ත ජෝන් වසම,เซนต์ จอน เพลิส,ሴንት ጆን Parish,セント・ジョン教区,圣约翰区,聖約翰區,세인트존구	12.13333	-61.71667	A	ADM1	GD		04				9176		438	America/Grenada	2026-04-16
+3579920	Saint James	Saint James		12.1147	-61.65829	P	PPL	GD		01				0		227	America/Grenada	2018-11-06
+3579921	Point Saint Hilaire	Point Saint Hilaire	Tibeau Point	12.50048	-61.42014	T	PT	GD		00				0		-9999	America/Grenada	2016-10-26
+3579922	Saint George’s Harbour	Saint George's Harbour	Saint George Harbour,Saint George's Harbour,Saint Georges Harbor,Saint George’s Harbour	12.04788	-61.75188	H	HBR	GD		03				0		1	America/Grenada	2016-10-26
+3579923	Saint George’s Estate	Saint George's Estate	Great George,Saint George,Saint George's Estate,Saint George’s Estate	12.0707	-61.72732	S	EST	GD		03				0		124	America/Grenada	2020-06-10
+3579924	Saint George’s Bay	Saint George's Bay	La Grand Baye,Saint George's Bay,Saint George’s Bay	12.05732	-61.75557	H	BAY	GD		03				0		20	America/Grenada	2018-11-06
+3579925	Saint George's	Saint George's	Fort Royal,Georgetown,Grenada City,Lewis,Port Louis,Port Royal,Saint George,Saint George's,Saint George.s,Saint-Georges,Sent Dzordzas,Sent Džordžas,Sent Tzortzes,Sent-Dzhorzhes,St Georges,St. George's,seinteujojiseu,sentojojizu,snt g'wrg',Σεντ Τζόρτζες,Сент-Джоржес,סנט ג'ורג',セントジョージズ,세인트조지스	12.05288	-61.75226	P	PPLC	GD		03				7500	6	26	America/Grenada	2021-02-20
+3579926	Saint George	Saint George	Agios Georgios,Giao xu Saint George,Giáo xứ Saint George,Parafija Sent-Dzhordzh,Paroisse de Saint George,Paroki Saint George,Paroko Sankta Georgo,Parrocchia di Saint George,Parroquia de Saint George,Prikhod Sent-Dzhordzh,Prykhod Sent-Dzhordzh,Sain George Parish,Saint George,Saint George Parish,Saint George parrokia,Sao Jorge,Sent-Corc səmti,Sent-Dzhordzh Parish,Sentdzordza pagasts,Sentdžordža pagasts,Sv. Jurgio parapija,São Jorge,abrshyt alqdys jwrj,ceyint jarj paris,prysh snt jwrj,seinteujojigu,seniti joriji Parish,sent cxrc,sent jarj pyaris,senta jaraja Parish,senta jarja pyarisa,senta jorja pairisa,senta jorja perisa,senta jyorja perisa,seyint jarj paris,sheng qiao zhi qu,synټ jwrj Parish,Šv. Jurgio parapija,Άγιος Γεώργιος,Парафія Сент-Джордж,Приход Сент-Джордж,Прыход Сент-Джордж,Сент-Джордж Parish,أبرشية القديس جورج,سینٹ جارج پریش، گریناڈا,سینټ جورج Parish,پریش سنت جورج,सेंट जॉर्ज पॅरीश,सेंट जॉर्ज पैरिश,সেন্ট জর্জ প্যারিশ,ਸੇਂਟ ਜਾਰਜ Parish,સેન્ટ જ્યોર્જ પૅરિશ,செயின்ட் ஜார்ஜ் பரிஷ்,సెయింట్ జార్జ్ పారిష్,ಸೇಂಟ್ ಜಾರ್ಜ್ ಪ್ಯಾರಿಷ್,ශාන්ත ජෝජ් ප්‍රාන්තය,เซนต์จอร์จ,ሴንት ጆርጅ Parish,セント・ジョージ教区,圣乔治区,聖喬治區,세인트조지구	12.05	-61.73333	A	ADM1	GD		03				33264		90	America/Grenada	2026-04-16
+3579927	Saint Francis River	Saint Francis River	Saint Francis River	12.07667	-61.64491	H	STM	GD		01				0		184	America/Grenada	2016-10-26
+3579928	Saint Eloi Point	Saint Eloi Point	Pointe Saint Elay	12.06329	-61.75733	T	PT	GD		03				0		13	America/Grenada	2019-11-19
+3579929	Saint David’s Point	Saint David's Point	Pointe du Megrin	12.01339	-61.67557	T	PT	GD		02				0		-9999	America/Grenada	2016-10-26
+3579930	Saint David’s Harbour	Saint David's Harbour	Port du Megrin	12.01985	-61.67901	H	BAY	GD		02				0		2	America/Grenada	2016-10-26
+3579931	Saint David’s	Saint David's		12.04903	-61.66875	P	PPLA	GD		02				1321		179	America/Grenada	2013-07-07
+3579932	Saint David	Saint David	Agios David,Giao xu Saint David,Giáo xứ Saint David,Parafija Sent-Devid,Paroisse de Saint David,Paroki Saint David,Paroko Sankta Davido,Parrocchia di Saint David,Parroquia de Saint David,Prikhod Sent-Dehvid,Saint David,Saint David Parish,Sent-Dehvid Parish,Sentdeivida pagasts,Sv. Dovydo parapija,abrshyt alqdys dyfyd,ceyint tevit paris,parys snt dywyd,seinteudeibideugu,seniti davidi Parish,sent devid pyaris,sent dewid,senta debhida pyarisa,senta devhida perisa,senta devida Parish,senta devida pairisa,senta devida perisa,seyint devid paris,sheng dai wei qu,synټ ډywyډ Parish,Šv. Dovydo parapija,Άγιος Δαβίδ,Парафія Сент-Девід,Приход Сент-Дэвид,Сент-Дэвид Parish,أبرشية القديس ديفيد,سینٹ ڈیوڈ پریش، گریناڈا,سینټ ډیویډ Parish,پاریس سنت دیوید,सेंट डेविड पैरिश,सेंट डेव्हिड पॅरीश,সেন্ট ডেভিড প্যারিশ,ਸੇਂਟ ਡੇਵਿਡ Parish,સેન્ટ ડેવિડ પૅરિશ,செயின்ட் டேவிட் பரிஷ்,సెయింట్ డేవిడ్ పారిష్,ಸೇಂಟ್ ಡೇವಿಡ್ ಪ್ಯಾರಿಷ್,ශාන්ත ඩේවිඩ් ප්‍රාන්තය,เซนต์เดวิด,ሴንት ዳቪድ Parish,セント・デイヴィッド教区,圣戴维区,聖戴維區,세인트데이비드구	12.05	-61.66667	A	ADM1	GD		02				11486		130	America/Grenada	2026-04-16
+3579933	Saint Cyr	Saint Cyr		12.12775	-61.6496	P	PPL	GD		01				0		155	America/Grenada	2018-11-06
+3579934	Saint Cyr	Saint Cyr		12.1144	-61.68321	P	PPL	GD		01				0		285	America/Grenada	2018-11-06
+3579935	Saint Cloud	Saint Cloud		12.12512	-61.63591	P	PPL	GD		01				0		73	America/Grenada	2018-11-06
+3579936	Mount Saint Catherine	Mount Saint Catherine	Mont Saint Catherine,Mount Saint Catherine,Saint Catherine,Saint Catherines Hill	12.16193	-61.67454	T	PK	GD		01				0	840	780	America/Grenada	2011-03-05
+3579937	Saint Andrews Bay	Saint Andrews Bay	Port du Grand Marquis,Saint Andrew Bay,Saint Andrews Bay	12.09491	-61.62113	H	BAY	GD		01				0		-9999	America/Grenada	2016-10-26
+3579938	Saint Andrew	Saint Andrew	Agios Andreas,Giao xu Saint Andrew,Giáo xứ Saint Andrew,Parafija Sent-Andru,Paroisse de Saint Andrew,Paroki Saint Andrew,Paroko Sankta Andreo,Parrocchia di Saint Andrew,Parroquia de Saint Andrew,Prikhod Sent-Ehndrju,Saint Andrew,Saint Andrew Parish,Sent-Ehndrju Parish,Sentrendru pagasts,Sentrendrū pagasts,Sv. Andriaus parapija,abrshyt sant andrw,ceyint anrev paris,prysh snt andrw,seinteuaendeulugu,seniti ʿenidire Parish,sent andryu pyaris,senta aindari'u Parish,senta amdru parasa,senta andru parisa,senta endru pairisa,senta endru perisa,seyint andryu paris,sheng an de lu qu,synټ andrw Parish,Šv. Andriaus parapija,Άγιος Ανδρέας,Парафія Сент-Андру,Приход Сент-Эндрю,Сент-Эндрю Parish,أبرشية سانت أندرو,سینٹ اینڈریو پریش، گریناڈا,سینټ اندرو Parish,پریش سنت اندرو,सेंट अँड्रू परश,सेंट एंड्रू पैरिश,সেন্ট আন্ড্রু পারিশ,ਸੇਂਟ ਐਂਡਰਿਊ Parish,સેન્ટ એન્ડ્રુ પૅરિશ,செயின்ட் அன்றெவ் பரிஷ்,సెయింట్ ఆండ్ర్యూ పారిష్,ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂ ಪ್ಯಾರಿಷ್,ශාන්ත ඇන්ඩ්රූ ප්‍රාන්තය,เซนต์แอนดรูว์,ሴንት አንድሬ Parish,セント・アンドリュー教区,圣安德鲁区,聖安德魯區,세인트앤드루구	12.11667	-61.65	A	ADM1	GD		01				25339		141	America/Grenada	2026-04-16
+3579939	Ruth Howard	Ruth Howard		12.01668	-61.75559	P	PPL	GD		03				0		25	America/Grenada	2018-11-06
+3579940	Ross Point	Ross Point		12.04006	-61.7543	T	PT	GD		03				0		7	America/Grenada	2018-11-06
+3579941	Rose Rock	Rose Rock		12.40736	-61.47711	T	RK	GD		00				0		1	America/Grenada	2016-10-26
+3579942	Rosemont	Rosemont		12.15481	-61.70719	P	PPL	GD		04				0		226	America/Grenada	2018-11-06
+3579943	Rose Hill	Rose Hill		12.21086	-61.62466	P	PPL	GD		06				0		110	America/Grenada	2018-11-06
+3579944	Ronde Island	Ronde Island	Il'-Rond,Isla Ronde,Isle de Ronde,Redonda,Ronde,Ronde Island,Rondo sala,ile Ronde,long de dao,ronde dao,île Ronde,Іль-Ронд,Ронде,ロンデ島,龍德島,龙德岛	12.30403	-61.58584	T	ISL	GD		00				0		126	America/Grenada	2016-10-26
+3579945	Mount Rodney	Mount Rodney		12.21914	-61.65891	T	MT	GD		06				0		249	America/Grenada	2018-11-06
+3579946	River Sallee	River Sallee	River Sallee,Riviere Sallee,Rivière Sallee	12.19853	-61.61456	P	PPL	GD		06				0		40	America/Grenada	2018-11-06
+3579947	River Antoine Estate	River Antoine Estate		12.17708	-61.60714	S	EST	GD		06				0		15	America/Grenada	2016-10-26
+3579948	Richmond Hill Ravine	Richmond Hill Ravine		12.05	-61.73333	T	GRGE	GD		03				0		90	America/Grenada	1993-12-23
+3579949	Richmond Hill	Richmond Hill		12.05007	-61.73955	P	PPL	GD		03				0		179	America/Grenada	2018-11-06
+3579950	Richmond Hill	Richmond Hill		12.05	-61.73333	T	HLL	GD		03				0		90	America/Grenada	1993-12-23
+3579951	Richmond	Richmond		12.10256	-61.73241	P	PPL	GD		03				0		310	America/Grenada	2018-11-06
+3579952	Richmond	Richmond		12.10603	-61.64689	P	PPL	GD		01				0		220	America/Grenada	2018-11-06
+3579953	Mount Rich	Mount Rich		12.18333	-61.61667	T	MT	GD		06				0		101	America/Grenada	1993-12-23
+3579954	Retreat	Retreat		12.07674	-61.71777	P	PPL	GD		03				0		242	America/Grenada	2018-11-06
+3579955	Retreat	Retreat		12.06596	-61.66	P	PPL	GD		02				0		267	America/Grenada	2018-11-06
+3579956	Requin Point	Requin Point	Pointe du Requin	12.02649	-61.65341	T	PT	GD		02				0		9	America/Grenada	2016-10-26
+3579957	Requin Estate	Requin Estate	Requin,Requin Estate	12.04168	-61.65283	S	EST	GD		02				0		51	America/Grenada	2016-10-26
+3579958	Requin Bay	Requin Bay	Port du Requin	12.0374	-61.6456	H	BAY	GD		02				0		1	America/Grenada	2016-10-26
+3579959	Red River	Red River	Red,Red River	12.16444	-61.71951	H	STM	GD		04				0		88	America/Grenada	2021-09-08
+3579960	Ravine	Ravine		12.06263	-61.73597	P	PPL	GD		03				0		95	America/Grenada	2018-11-06
+3579961	Radix	Radix		12.06168	-61.72609	P	PPL	GD		03				0		184	America/Grenada	2018-11-06
+3579962	Queen’s Park Racecourse	Queen's Park Racecourse	Queen's Park Racecourse,Queen’s Park Racecourse	12.05816	-61.75234	S	RECR	GD		03				0		7	America/Grenada	2018-11-06
+3579963	Queens Park	Queens Park	Queens Park	12.06667	-61.75	S	AIRF	GD		03				0		126	America/Grenada	2014-04-06
+3579964	Quarantine Point	Quarantine Point	Goat Point,Long Point,Pointe Cabrit,Quarantine Point	12.02426	-61.77564	T	PT	GD		03				0		1	America/Grenada	2016-10-26
+3579965	Mount Qua Qua	Mount Qua Qua		12.10678	-61.69722	T	MT	GD		01				0		634	America/Grenada	2018-11-06
+3579966	Pyrénées	Pyrenees		12.13746	-61.67394	P	PPL	GD		01				0		307	America/Grenada	2018-11-06
+3579967	Punch Bowl	Punch Bowl		12.193	-61.64142	T	MT	GD		06				0		170	America/Grenada	2018-11-06
+3579968	Providence Estate	Providence Estate		12.05209	-61.68428	S	EST	GD		02				0		188	America/Grenada	2018-11-06
+3579969	Providence	Providence		12.05215	-61.67447	P	PPL	GD		02				0		205	America/Grenada	2018-11-06
+3579970	Prospect	Prospect	Le Sausos,Prospect	12.22355	-61.66305	P	PPL	GD		06				0		51	America/Grenada	2018-11-06
+3579971	Prickly Point	Prickly Point	Pointe des Pirogues	11.98771	-61.76168	T	PT	GD		03				0		8	America/Grenada	2016-10-26
+3579972	Prickly Bay	Prickly Bay	Ance Lepine	11.99726	-61.76295	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3579973	Poyntzfield Estate	Poyntzfield Estate		12.17893	-61.62254	S	EST	GD		06				0		92	America/Grenada	2018-11-06
+3579974	Post Royal	Post Royal		12.09983	-61.63651	P	PPL	GD		01				0		133	America/Grenada	2018-11-06
+3579975	Portici Ruins	Portici Ruins		12.0021	-61.77014	S	RUIN	GD		03				0		6	America/Grenada	2016-10-26
+3579976	Portici Beach	Portici Beach		12.0016	-61.76994	T	BCH	GD		03				0		5	America/Grenada	2016-10-26
+3579977	Pomme Rose	Pomme Rose		12.05638	-61.65461	P	PPL	GD		02				0		138	America/Grenada	2018-11-06
+3579978	Maurice Bishop International Airport	Maurice Bishop International Airport	Aeroport de Pointe Salines,Aeroporto Internacional Maurice Bishop,Aeroporto Maurice Bishop,Aeroportul International Maurice Bishop,Aeroportul Internațional Maurice Bishop,Aeropuerto Internacional Maurice Bishop,Aeropuertu Internacional Maurice Bishop,Aéroport de Pointe Salines,Bandar Udara Internasional Maurice Bishop,Flughafen Point Salines,GND,Lapangan Terbang Antarabangsa Point Salines,Maes Awyr Rhyngwladol Maurice Bishop,Maurice Bishop International Airport,Maurice Bishopin kansainvaelinen lentoasema,Maurice Bishopin kansainvälinen lentoasema,Mauriso Bisopo oro uostas,Mauriso Bišopo oro uostas,Mezhdunarodnyj aehroport imeni Morisa Bishopa,Mizhnarodnij aeroport imeni Morisa Bishopa,Port lotniczy Maurice'a Bishopa,Pouant Salin,TGPY,fu lin te guo ji ji chang,ge rui na da,sa li nei si guo ji ji chang,Πουάντ Σαλίν,Международный аэропорт имени Мориса Бишопа,Міжнародний аеропорт імені Моріса Бішопа,Фурудгоҳи бин‌алмилалӣ морис бишоп,فرودگاه بین‌المللی ماریس بیشاپ,ポイント・サリンス国際空港,弗林特国际机场,格瑞那達,薩利內斯國際機場	12.00417	-61.78611	S	AIRP	GD		03				0	12	10	America/Grenada	2013-11-21
+3579980	Mount Plaisir	Mount Plaisir		12.13095	-61.73376	T	MT	GD		04				0		259	America/Grenada	2018-11-06
+3579981	Plaisance Land Settlement	Plaisance Land Settlement		12.14765	-61.69062	P	PPLL	GD		04				0		461	America/Grenada	2018-11-06
+3579982	Plaisance Estate	Plaisance Estate	Plaisance,Plaisance Estate	12.18945	-61.65496	S	EST	GD		06				0		294	America/Grenada	2018-11-06
+3579983	Plaisance Estate	Plaisance Estate	Plaisace,Plaisance,Plaisance Estate	12.15648	-61.69969	S	EST	GD		04				0		358	America/Grenada	2018-11-06
+3579984	Plaisance	Plaisance		12.09819	-61.64349	P	PPL	GD		01				0		174	America/Grenada	2018-11-06
+3579985	Plains Estate	Plains Estate	Plains,Plains Estate	12.20129	-61.62647	S	EST	GD		06				0		42	America/Grenada	2018-11-06
+3579986	Pingouin Beach	Pingouin Beach		12.00255	-61.77731	T	BCH	GD		03				0		7	America/Grenada	2016-10-26
+3579987	Pilot Hill	Pilot Hill		12.11557	-61.63318	T	HLL	GD		01				0		122	America/Grenada	2016-10-26
+3579988	Pierre Marie	Pierre Marie		12.06583	-61.65108	P	PPL	GD		01				0		191	America/Grenada	2018-11-06
+3579989	Pointe du Petit Trou	Pointe du Petit Trou	Point du Petit Trou,Pointe du Petit Trou	12.02082	-61.66333	T	PT	GD		02				0		6	America/Grenada	2016-10-26
+3579990	Petit Étang	Petit Etang		12.06442	-61.68698	P	PPL	GD		02				0		402	America/Grenada	2018-11-06
+3579991	Petite Martinique	Petite Martinique	Little Martiniqe Island,Little Martinique,Little Martinique Island,Petit Martinique,Petite Martinique	12.51879	-61.38491	T	ISL	GD		00				900		139	America/Grenada	2020-10-13
+3579992	Petite Dominique	Petite Dominique		12.50836	-61.40197	T	ISL	GD		00				0		32	America/Grenada	2016-10-26
+3579993	Petite Anse	Petite Anse		12.03982	-61.64313	H	BAY	GD		02				0		1	America/Grenada	2016-10-26
+3579994	Petit Carenage Bay	Petit Carenage Bay		12.52656	-61.43462	H	BAY	GD		00				0		1	America/Grenada	2016-10-26
+3579995	Petit Calivigny Point	Petit Calivigny Point	Calivigny Point,Petit Calivigny Point,Pointe de Calvini	12.00203	-61.72591	T	PT	GD		03				0		1	America/Grenada	2016-10-26
+3579996	Petit Calivigny	Petit Calivigny		12.00641	-61.71145	P	PPL	GD		03				0		42	America/Grenada	2016-10-26
+3579997	Petit Cabrits Point	Petit Cabrits Point		12.01871	-61.77595	T	PT	GD		03				0		34	America/Grenada	2016-10-26
+3579998	Petit Bouc	Petit Bouc		12.01916	-61.75075	P	PPL	GD		03				0		56	America/Grenada	2018-11-06
+3579999	Petit Balthazar	Petit Balthazar		12.10176	-61.66702	P	PPL	GD		01				0		371	America/Grenada	2018-11-06
+3580000	Petit Bacaye Bay	Petit Bacaye Bay	Le Petite Becaye	12.01596	-61.69231	H	BAY	GD		02				0		1	America/Grenada	2016-10-26
+3580001	River Petit Bacaye	River Petit Bacaye	River Petit Bacaye,River Petit Bocaye,Riviere de Petit Becaye	12.01735	-61.6922	H	STM	GD		02				0		17	America/Grenada	2016-10-26
+3580002	Petit Bacaye	Petit Bacaye		12.01827	-61.69463	P	PPL	GD		02				0		32	America/Grenada	2016-10-26
+3580003	Perseverance Estate	Perseverance Estate	Perserverance Estate,Perseverance,Perseverance Estate	12.10655	-61.74498	S	EST	GD		03				0		16	America/Grenada	2018-11-06
+3580004	Perdmontemps	Perdmontemps		12.04766	-61.7009	P	PPL	GD		02				0		250	America/Grenada	2018-11-06
+3580005	Peggy’s Whim	Peggy's Whim	Peggy's Whim,Peggys Whim,Peggy’s Whim	12.17437	-61.64033	P	PPL	GD		06				0		188	America/Grenada	2020-06-10
+3580006	Pêcher	Pecher		12.11987	-61.68388	P	PPL	GD		01				0		280	America/Grenada	2018-11-06
+3580007	Pearls Rock	Pearls Rock	Conference Island,Conference Islet,Islet de la Conference,Pearls Rock	12.15371	-61.5982	T	ISL	GD		01				0		-9999	America/Grenada	2016-10-26
+3580008	Pearls Airport	Pearls Airport	MKPE,Pearls,Pearls Airport	12.14423	-61.61486	S	AIRQ	GD		01				0		14	America/Grenada	2016-10-26
+3580009	Pearls	Pearls		12.14953	-61.62344	P	PPL	GD		01				0		42	America/Grenada	2018-11-06
+3580010	Parc à Boeuf Beach	Parc a Boeuf Beach		11.99816	-61.76777	T	BCH	GD		03				0		7	America/Grenada	2016-10-26
+3580011	Paradise	Paradise		12.14439	-61.69329	P	PPL	GD		04				0		494	America/Grenada	2018-11-06
+3580012	Paradise	Paradise	Paradeisos,Paradise,paradaisu,paradays  grnada,Παράδεισος,پارادایس، گرنادا,پيراڈائز، گریناڈا,パラダイス	12.13716	-61.62304	P	PPL	GD		01				0		45	America/Grenada	2018-11-29
+3580013	Parade	Parade		12.04889	-61.73584	P	PPL	GD		03				0		165	America/Grenada	2018-11-06
+3580014	Paraclete	Paraclete	Paraclete	12.15083	-61.64325	P	PPL	GD		01				0		149	America/Grenada	2018-11-06
+3580015	Panorama	Panorama		12.22015	-61.65015	P	PPL	GD		06				0		67	America/Grenada	2013-11-21
+3580016	Palmiste Point	Palmiste Point	Pointe des Palmistes	12.14404	-61.74278	T	PT	GD		04				0		11	America/Grenada	2016-10-26
+3580017	Palmiste Lake	Palmiste Lake		12.1381	-61.73312	H	LK	GD		04				0		150	America/Grenada	2018-11-06
+3580018	Palmiste Estate	Palmiste Estate	Palmiste,Palmiste Estate	12.14094	-61.7359	S	EST	GD		04				0		117	America/Grenada	2018-11-06
+3580019	Palmiste Bay	Palmiste Bay	Ance des Palmistes	12.15086	-61.73784	H	BAY	GD		04				0		1	America/Grenada	2016-10-26
+3580020	Paddock	Paddock		12.04518	-61.74366	P	PPL	GD		03				0		33	America/Grenada	2018-11-06
+3580021	Pointe des Orties	Pointe des Orties	Pointe Gaulier	12.18547	-61.72134	T	PT	GD		05				0		18	America/Grenada	2016-10-26
+3580022	North Point	North Point		12.52593	-61.38127	T	PT	GD		00				0		9	America/Grenada	2016-10-26
+3580023	Nonpareil	Nonpareil	Crayfish,Nonpareil	12.21174	-61.69031	P	PPL	GD		05				0		33	America/Grenada	2018-11-06
+3580024	Nianganfoix Estate	Nianganfoix Estate		12.12122	-61.67975	S	EST	GD		01				0		223	America/Grenada	2018-11-06
+3580025	Nianganfoix	Nianganfoix		12.12191	-61.6751	P	PPL	GD		01				0		198	America/Grenada	2018-11-06
+3580026	New Hampshire	New Hampshire		12.08377	-61.72555	P	PPL	GD		03				0		144	America/Grenada	2018-11-06
+3580027	Nettle Point	Nettle Point		12.19049	-61.71757	T	PT	GD		05				0		18	America/Grenada	2016-10-26
+3580028	Mount Nesbit	Mount Nesbit		12.15213	-61.73291	T	MT	GD		04				0		110	America/Grenada	2016-10-26
+3580029	Mount Nelson	Mount Nelson		12.17567	-61.6862	T	MT	GD		05				0		323	America/Grenada	2018-11-06
+3580031	Munich	Munich		12.08322	-61.64477	P	PPL	GD		01				0		231	America/Grenada	2018-11-06
+3580032	Moya	Moya		12.15347	-61.62325	P	PPL	GD		01				0		38	America/Grenada	2018-11-06
+3580033	Mount William	Mount William		12.21988	-61.67186	P	PPL	GD		06				0		123	America/Grenada	2018-11-06
+3580034	Mount William	Mount William		12.06872	-61.68104	P	PPLL	GD		02				0		410	America/Grenada	2018-11-06
+3580035	Mount Weldale	Mount Weldale		12.05413	-61.7455	P	PPLX	GD		03				0		112	America/Grenada	2018-11-06
+3580036	Mount Stanhope	Mount Stanhope		12.18577	-61.68464	P	PPL	GD		05				0		346	America/Grenada	2018-11-06
+3580037	Mount Royal	Mount Royal		12.05551	-61.74153	P	PPLX	GD		03				0		38	America/Grenada	2018-11-06
+3580038	Mount Rose	Mount Rose		12.18829	-61.62769	P	PPL	GD		06				0		141	America/Grenada	2018-11-06
+3580039	Mount Rose	Mount Rose		12.04605	-61.70905	P	PPL	GD		02				0		249	America/Grenada	2018-11-06
+3580040	Mount Rodney Estate	Mount Rodney Estate		12.22497	-61.65426	S	EST	GD		06				0		131	America/Grenada	2018-11-06
+3580041	Mount Rich Estate	Mount Rich Estate		12.18961	-61.64175	S	EST	GD		06				0		143	America/Grenada	2018-11-06
+3580042	Mount Rich	Mount Rich		12.19404	-61.64633	P	PPL	GD		06				0		169	America/Grenada	2018-11-06
+3580043	Mount Reuil Estate	Mount Reuil Estate		12.1899	-61.64913	S	EST	GD		06				0		201	America/Grenada	2018-11-06
+3580044	Mount Pleasant Estate	Mount Pleasant Estate		12.10622	-61.6784	S	EST	GD		01				0		303	America/Grenada	2018-11-06
+3580045	Mount Pleasant	Mount Pleasant		12.47869	-61.43469	P	PPL	GD		10				0		19	America/Grenada	2020-06-11
+3580046	Mount Pleasant	Mount Pleasant		12.04982	-61.71351	P	PPL	GD		02				0		258	America/Grenada	2018-11-06
+3580047	Mount Parnassus Estate	Mount Parnassus Estate	Mount Parnassus,Mount Parnassus Estate	12.05689	-61.72746	S	EST	GD		03				0		136	America/Grenada	2018-11-06
+3580048	Mount Pandy Beach	Mount Pandy Beach	Mount Pandy Beach,Mount des Pendos	12.04128	-61.7536	T	BCH	GD		03				0		9	America/Grenada	2018-11-06
+3580049	Mount Nesbit Land Settlement	Mount Nesbit Land Settlement		12.13967	-61.71947	P	PPLL	GD		04				0		284	America/Grenada	2018-11-06
+3580050	Mount Nesbit	Mount Nesbit		12.14824	-61.72852	P	PPL	GD		04				0		134	America/Grenada	2018-11-06
+3580051	Mount Moritz Land Settlement	Mount Moritz Land Settlement		12.08394	-61.74646	P	PPLL	GD		03				0		205	America/Grenada	2018-11-06
+3580052	Mount Moritz	Mount Moritz	Mont Moritz,Mount Marice,Mount Morice,Mount Moritz	12.08127	-61.74687	P	PPL	GD		03				0		197	America/Grenada	2018-11-06
+3580053	Mount Melville Hill	Mount Melville Hill	Mount Melville,Mount Melville Hill	12.07105	-61.74403	T	MT	GD		03				0		328	America/Grenada	2018-11-06
+3580054	Mount Horne Estate	Mount Horne Estate		12.14247	-61.64591	S	EST	GD		01				0		175	America/Grenada	2018-11-06
+3580055	Mount Horne	Mount Horne		12.14438	-61.6439	P	PPL	GD		01				0		158	America/Grenada	2018-11-06
+3580056	Mount Hope	Mount Hope		12.15452	-61.66674	L	LCTY	GD		01				0		432	America/Grenada	2018-11-06
+3580057	Mount Helicon	Mount Helicon		12.05466	-61.73917	P	PPL	GD		03				0		40	America/Grenada	2018-11-06
+3580058	Mount Hartman Point	Mount Hartman Point	Pointe du Morne Rouge a Meray	11.9972	-61.74748	T	PT	GD		03				0		11	America/Grenada	2016-10-26
+3580059	Mount Hartman Estate	Mount Hartman Estate	Mount Hartman,Mount Hartman Estate	12.00131	-61.75415	S	EST	GD		03				0		27	America/Grenada	2016-10-26
+3580060	Mount Hartman Bay	Mount Hartman Bay	Cul de Sac des Maringouins,Maringouins Bay,Mosquito Bay,Mount Hartman Bay	11.99942	-61.75046	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3580061	Mount Granby Estate	Mount Granby Estate		12.13631	-61.71818	S	EST	GD		04				0		318	America/Grenada	2018-11-06
+3580062	Mount Gay Estate	Mount Gay Estate		12.0617	-61.74326	S	EST	GD		03				0		50	America/Grenada	2018-11-06
+3580063	Mount Gay	Mount Gay		12.06009	-61.73921	P	PPL	GD		03				0		49	America/Grenada	2018-11-06
+3580064	Mount Felix Estate	Mount Felix Estate		12.15002	-61.69325	S	EST	GD		04				0		392	America/Grenada	2018-11-06
+3580065	Mount Fann	Mount Fann		12.09094	-61.62567	P	PPL	GD		01				0		32	America/Grenada	2018-11-06
+3580066	Mount Edgecombe Estate	Mount Edgecombe Estate		12.18808	-61.71574	S	EST	GD		05				0		74	America/Grenada	2018-11-06
+3580067	Mount Craven	Mount Craven	Maount Kraven,Mount Craven,mwnt krawn,Μάουντ Κραβέν,مونت کراون	12.22106	-61.64967	P	PPL	GD		06				100		75	America/Grenada	2025-05-07
+3580068	Mount Cenis	Mount Cenis		12.17289	-61.70704	P	PPLL	GD		05				0		297	America/Grenada	2018-11-06
+3580069	Mount Cassell Land Settlement	Mount Cassell Land Settlement		12.06864	-61.65529	P	PPLL	GD		01				0		255	America/Grenada	2018-11-06
+3580070	Mount Carmel	Mount Carmel	Mont Carmel,Mount Carmel	12.09178	-61.63977	P	PPL	GD		01				0		165	America/Grenada	2018-11-06
+3580071	Mount Alexander	Mount Alexander		12.21667	-61.65	P	PPL	GD		06				0		78	America/Grenada	1993-12-23
+3580072	Mount Airy	Mount Airy		12.04364	-61.71974	P	PPL	GD		03				0		202	America/Grenada	2018-11-06
+3580073	Mount Agnes	Mount Agnes		12.06936	-61.66744	P	PPL	GD		02				0		415	America/Grenada	2018-11-06
+3580074	Morne Tranquille	Morne Tranquille	Morne Tranquille	12.06009	-61.69059	P	PPL	GD		02				110		350	America/Grenada	2025-05-07
+3580075	Morne Rouge Beach	Morne Rouge Beach		12.01948	-61.77244	T	BCH	GD		03				0		8	America/Grenada	2012-02-11
+3580076	Morne Rouge Bay	Morne Rouge Bay	Cul de Sac de Morne Rouge	12.01959	-61.77376	H	BAY	GD		03				0		47	America/Grenada	2016-10-26
+3580077	Morne Rouge	Morne Rouge	Morne Rouge	12.01762	-61.77157	P	PPL	GD		03				0	10	38	America/Grenada	2025-05-07
+3580078	Morne Longue	Morne Longue	Morn Lon'nk,Morne Longue,mo en lang ge,mwrn lang,Μορν Λονγκ,مورن لانگ,莫恩朗格	12.12166	-61.68698	P	PPL	GD		01				0		318	America/Grenada	2018-11-06
+3580079	Morne Jaloux Ridge	Morne Jaloux Ridge	Morn Zalou Ritz,Morne Jaloux Ridge,mwrn jalw ryj,Μορν Ζαλού Ριτζ,مورن جالو ریج	12.03966	-61.735	P	PPL	GD		03				0		162	America/Grenada	2018-11-06
+3580080	Morne Jaloux	Morne Jaloux		12.13942	-61.69453	P	PPL	GD		04				0		457	America/Grenada	2018-11-06
+3580081	Morne Jaloux	Morne Jaloux	Morne Jaloux	12.03066	-61.7347	P	PPL	GD		03				0		149	America/Grenada	2018-11-06
+3580082	Morne Gazo	Morne Gazo	Delice Hill,Morne Gazo	12.0427	-61.70983	T	HLL	GD		02				0		337	America/Grenada	2018-11-06
+3580083	Morne Fendue	Morne Fendue	Morne Fendue,Morne Fondue	12.20991	-61.63271	P	PPL	GD		06				0		50	America/Grenada	2018-11-06
+3580084	Morne Docteur	Morne Docteur	Morn Ntokter,Morne Docteur,mwrn daktr,Μορν Ντοκτέρ,مورن داکتر	12.1	-61.75	P	PPL	GD		03				0		78	America/Grenada	2012-01-18
+3580085	Morne Delice Estate	Morne Delice Estate	Mon Delice,Morne Delice,Morne Delice Estate	12.03383	-61.71403	S	EST	GD		02				0		157	America/Grenada	2018-11-06
+3580086	Mormon Hill Estate	Mormon Hill Estate		12.19628	-61.66159	S	EST	GD		06				0		258	America/Grenada	2018-11-06
+3580087	Mount Morice	Mount Morice	Mount Morice,Mount Moritz	12.08022	-61.73746	T	MT	GD		03				0		329	America/Grenada	2018-11-06
+3580088	Mont Tout	Mont Tout		12.02354	-61.75465	P	PPL	GD		03				0		18	America/Grenada	2018-11-06
+3580089	Montreuil	Montreuil		12.18939	-61.64653	P	PPL	GD		06				0		149	America/Grenada	2018-11-06
+3580090	Mon Repos	Mon Repos		12.04623	-61.67814	P	PPL	GD		02				0		174	America/Grenada	2018-11-06
+3580091	Mon Plaisir	Mon Plaisir		12.13093	-61.72912	P	PPL	GD		04				0		213	America/Grenada	2018-11-06
+3580092	Molinière Point	Moliniere Point	Boismorice Point,Moliniere Point,Molinière Point,Point Bois Maurice,Pointe de la Citerne	12.0844	-61.76345	T	PT	GD		03				0		14	America/Grenada	2016-10-26
+3580093	Molinière	Moliniere	Maliniere,Moliniere,Molinière	12.08619	-61.75788	P	PPL	GD		03				0		38	America/Grenada	2020-06-10
+3580094	Mirabeau Estate	Mirabeau Estate		12.13496	-61.65037	S	EST	GD		01				0		209	America/Grenada	2018-11-06
+3580095	Mirabeau	Mirabeau	Merebeau,Mirabeau	12.12745	-61.64615	P	PPL	GD		01				0		128	America/Grenada	2018-11-06
+3580096	Point Mion	Point Mion		12.5195	-61.39457	T	PT	GD		00				0		15	America/Grenada	2016-10-26
+3580097	Minorca Estate	Minorca Estate		12.05626	-61.69788	S	EST	GD		02				0		335	America/Grenada	2018-11-06
+3580098	Milet Bay	Milet Bay		12.16979	-61.72881	H	BAY	GD		04				0		18	America/Grenada	2018-11-06
+3580099	Middle Lake	Middle Lake		12.15098	-61.61094	H	LK	GD		01				0		8	America/Grenada	2016-10-26
+3580100	Menere River	Menere River	Menere River,Riviere de Menere	12.06182	-61.63179	H	STM	GD		01				0		1	America/Grenada	2016-10-26
+3580101	Menere Point	Menere Point	Pointe de Meneret	12.06179	-61.62536	T	PT	GD		01				0		1	America/Grenada	2016-10-26
+3580102	Menere Bay	Menere Bay	Cul de Sac de Meneret	12.05936	-61.6312	H	BAY	GD		01				0		1	America/Grenada	2016-10-26
+3580103	Meldrum	Meldrum		12.50155	-61.43404	P	PPL	GD		00				0		58	America/Grenada	2024-07-10
+3580104	Meadow Beach	Meadow Beach		12.16301	-61.60595	T	BCH	GD		01				0		7	America/Grenada	2016-10-26
+3580105	McIntosh Point	McIntosh Point		12.49154	-61.45479	T	PT	GD		00				0		33	America/Grenada	2016-10-26
+3580106	Maulti	Maulti	Maulti,Molti,mwlty,Μωλτί,مولتی	12.04133	-61.67015	P	PPL	GD		02				0		116	America/Grenada	2018-11-06
+3580107	Fort Matthew	Fort Matthew		12.05018	-61.73671	S	FT	GD		03				0		171	America/Grenada	2018-11-06
+3580108	Martins Bay	Martins Bay		12.04356	-61.75623	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3580109	Marquis River	Marquis River	Marquis,Marquis River	12.09304	-61.62571	H	STM	GD		01				0		9	America/Grenada	2021-09-08
+3580110	Marquis Point	Marquis Point	Pointe du Petite Marquis	12.01919	-61.66767	T	PT	GD		02				0		1	America/Grenada	2016-10-26
+3580111	Marquis Island	Marquis Island	Marquis Island,Marquis Islet,Soubisse Island	12.0997	-61.61767	T	ISL	GD		01				0		-9999	America/Grenada	2016-10-26
+3580112	Marquis	Marquis		12.10498	-61.62809	P	PPL	GD		01				0		24	America/Grenada	2018-11-29
+3580113	Marlmount Bay	Marlmount Bay		12.04025	-61.64789	H	BAY	GD		02				0		1	America/Grenada	2018-11-06
+3580114	Marlmount	Marlmount		12.05138	-61.65404	P	PPL	GD		02				0		113	America/Grenada	2018-11-06
+3580115	Marli Hill	Marli Hill		12.20489	-61.64937	T	MT	GD		06				0		240	America/Grenada	2018-11-06
+3580116	Marli	Marli		12.22036	-61.64142	P	PPL	GD		06				0		48	America/Grenada	2018-11-06
+3580117	Marigot Bay	Marigot Bay	Le Marigot	12.12833	-61.75037	H	BAY	GD		04				0		1	America/Grenada	2016-10-26
+3580118	Marigot	Marigot		12.12294	-61.74422	P	PPL	GD		04				0		104	America/Grenada	2016-10-26
+3580119	Marian	Marian		12.02217	-61.72611	P	PPL	GD		03				0		84	America/Grenada	2018-11-06
+3580120	Mardigras	Mardigras		12.05072	-61.72396	P	PPL	GD		03				0		240	America/Grenada	2018-11-06
+3580121	Mardigras	Mardigras		12.05577	-61.71508	P	PPL	GD		02				0		344	America/Grenada	2018-11-06
+3580122	Maran River	Maran River	Maran,Maran River	12.17765	-61.7241	H	STM	GD		04				0		23	America/Grenada	2021-09-08
+3580123	Maran Bay	Maran Bay		12.17675	-61.72578	H	BAY	GD		04				0		1	America/Grenada	2018-11-06
+3580124	Maran	Maran		12.17445	-61.72357	P	PPL	GD		04				0		42	America/Grenada	2018-11-06
+3580125	Mango	Mango		12.08844	-61.72307	P	PPL	GD		03				0		197	America/Grenada	2018-11-06
+3580127	Mamma Cannes	Mamma Cannes	Mama Kan,Mamma Cannes,mama kn,Μάμα Καν,ماما کن	12.0654	-61.65126	P	PPL	GD		01				0		189	America/Grenada	2016-10-26
+3580128	Malagon Estate	Malagon Estate		12.19912	-61.66729	S	EST	GD		06				0		164	America/Grenada	2018-11-06
+3580129	Mount Maitland	Mount Maitland		12.06305	-61.71666	T	MT	GD		02				0		487	America/Grenada	2018-11-06
+3580130	Mahot Beach	Mahot Beach		12.05572	-61.63383	T	BCH	GD		01				0		10	America/Grenada	2016-10-26
+3580131	Mahot	Mahot		12.05927	-61.63711	P	PPL	GD		01				0		49	America/Grenada	2016-10-26
+3580132	Magazin Beach	Magazin Beach		12.00326	-61.78262	T	BCH	GD		03				0		6	America/Grenada	2016-10-26
+3580133	Madeys Estate	Madeys Estate	Madeys Estate,Madys	12.21497	-61.63362	S	EST	GD		06				0		39	America/Grenada	2018-11-06
+3580134	Madame Jardin	Madame Jardin	Jardin Madame,Madame Jardin	11.99956	-61.78655	T	CLF	GD		03				0		8	America/Grenada	2016-10-26
+3580135	Mabouya Island	Mabouya Island	Mabouya Island,Mabouya Islet	12.48651	-61.4929	T	ISL	GD		00				0		19	America/Grenada	2016-10-26
+3580136	Mabouya	Mabouya		12.14844	-61.72988	P	PPL	GD		04				0		119	America/Grenada	2016-10-26
+3580137	Lower Woburn	Lower Woburn	Lower Woburn,Mount Desir	12.01375	-61.73552	P	PPL	GD		03				0		53	America/Grenada	2018-11-06
+3580138	Lower Pearls	Lower Pearls	Lower Pearl,Lower Pearls	12.14151	-61.6264	P	PPL	GD		01				0		39	America/Grenada	2016-10-26
+3580139	Lower La Taste	Lower La Taste	La Taste,Lower La Taste	12.19482	-61.62266	P	PPL	GD		06				0		85	America/Grenada	2018-11-06
+3580140	Lower La Tante	Lower La Tante		12.05252	-61.64643	P	PPL	GD		01				0		37	America/Grenada	2016-10-26
+3580141	Lower Capitol	Lower Capitol		12.11974	-61.66939	P	PPL	GD		01				0		165	America/Grenada	2018-11-06
+3580142	River Loria	River Loria	River Loria	12.15063	-61.60907	H	STM	GD		01				0		4	America/Grenada	2016-10-26
+3580143	Loretto Estate	Loretto Estate		12.16209	-61.72317	S	EST	GD		04				0		84	America/Grenada	2018-11-06
+3580144	London Bridge	London Bridge	London Bridge,London Bridge Island	12.25703	-61.59263	T	RK	GD		00				0		-9999	America/Grenada	2016-10-26
+3580145	Lobster Point	Lobster Point		12.0089	-61.69775	T	PT	GD		02				0		3	America/Grenada	2016-10-26
+3580146	Little Tobago	Little Tobago	Little Tobago,Little Tobago Island,Petit Tobago	12.5062	-61.40084	T	ISL	GD		00				0		5	America/Grenada	2016-10-26
+3580147	Little Saint Patrick River	Little Saint Patrick River	Little Saint Patrick,Little Saint Patrick River	12.22531	-61.64411	H	STM	GD		06				0		7	America/Grenada	2021-09-08
+3580148	Little Saint Marks River	Little Saint Marks River	Little Saint Marks,Little Saint Marks River	12.20026	-61.70172	H	STM	GD		05				0		8	America/Grenada	2021-09-08
+3580149	Little Saint Andrews River	Little Saint Andrews River	Little Saint Andrews River,Petite Riviere du Grand Marquis	12.10006	-61.62481	H	STM	GD		01				0		8	America/Grenada	2016-10-26
+3580150	Little River	Little River	Little,Little River	12.1679	-61.73034	H	STM	GD		04				0		9	America/Grenada	2021-09-08
+3580151	Little Requin River	Little Requin River	Little Requin River,Petite Riviere du Requin	12.04142	-61.64895	H	STM	GD		02				0		19	America/Grenada	2016-10-26
+3580152	Little Palmiste River	Little Palmiste River	Little Palmiste River,Petit Riviere des Palmistes	12.14596	-61.73883	H	STM	GD		04				0		8	America/Grenada	2016-10-26
+3580153	River of Little Marquis	River of Little Marquis	River of Little Marquis,Riviere du Petit Marquis	12.024	-61.67148	H	STM	GD		02				0		12	America/Grenada	2016-10-26
+3580154	Little David Point	Little David Point		12.23491	-61.66066	T	PT	GD		06				0		5	America/Grenada	2016-10-26
+3580155	Little Crayfish River	Little Crayfish River	Little Crayfish,Little Crayfish River	12.21214	-61.69111	H	STM	GD		05				0		10	America/Grenada	2021-09-08
+3580156	Little Bacolet Point	Little Bacolet Point	Pointe du Petite Bacolet	12.01104	-61.68308	T	PT	GD		02				0		-9999	America/Grenada	2016-10-26
+3580157	Little Bacolet Bay	Little Bacolet Bay	Ance du Petite Bacolet	12.01745	-61.6827	H	BAY	GD		02				0		2	America/Grenada	2016-10-26
+3580159	Levera Pond	Levera Pond	Etang de Levera	12.21932	-61.61253	H	PND	GD		06				0		2	America/Grenada	2016-10-26
+3580160	Levera Hill	Levera Hill		12.21674	-61.62036	T	MT	GD		06				0		231	America/Grenada	2018-11-06
+3580161	Levera Development	Levera Development		12.21017	-61.61467	P	PPLL	GD		06				0		38	America/Grenada	2018-11-06
+3580162	Levera Bay	Levera Bay	Ance de Levera	12.22867	-61.61086	H	BAY	GD		06				0		-9999	America/Grenada	2016-10-26
+3580163	Levera	Levera		12.22232	-61.63217	P	PPL	GD		06				0		31	America/Grenada	2018-11-06
+3580164	L’Étage	L'Etage	L'Etage,L’Etage,L’Étage	12.18622	-61.63452	P	PPL	GD		06				0		217	America/Grenada	2018-11-06
+3580165	L’Esterre Bay	L'Esterre Bay		12.47517	-61.48705	H	BAY	GD		00				0		1	America/Grenada	2016-10-26
+3580166	L’Esterre	L'Esterre		12.46936	-61.48422	P	PPL	GD		10				0		23	America/Grenada	2020-06-11
+3580167	L’Esterre	L'Esterre		12.11868	-61.64158	P	PPL	GD		01				0		105	America/Grenada	2018-11-06
+3580168	Les Tantes	Les Tantes		12.31694	-61.55065	T	ISLS	GD		00				0		-9999	America/Grenada	2016-10-26
+3580169	L’Espérance	L'Esperance	L'Esperance,L’Esperance,L’Espérance	12.18098	-61.71016	P	PPL	GD		05				0		203	America/Grenada	2018-11-06
+3580170	Le Petit Trou	Le Petit Trou		12.02541	-61.66165	H	BAY	GD		02				0		9	America/Grenada	2016-10-26
+3580171	Mount Lebanon	Mount Lebanon		12.08034	-61.67637	T	MT	GD		01				0		624	America/Grenada	2018-11-06
+3580172	Bay à L’Eau	Bay a L'Eau	Bay a L'Eau,Bay à L’Eau,Watering Bay	12.51317	-61.42653	H	BAY	GD		00				0		1	America/Grenada	2016-10-26
+3580173	Lauriston Point	Lauriston Point		12.4785	-61.47782	T	PT	GD		00				0		9	America/Grenada	2016-10-26
+3580174	Laurant Point	Laurant Point	Point a Lauren	12.23447	-61.65459	T	PT	GD		06				0		17	America/Grenada	2016-10-26
+3580175	Laura	Laura		12.03801	-61.69756	P	PPL	GD		02				0		186	America/Grenada	2018-11-06
+3580176	La Tante River	La Tante River	La Tante River,Riviere de La Tante	12.04979	-61.63697	H	STM	GD		02				0		15	America/Grenada	2016-10-26
+3580177	La Tante Point	La Tante Point	Pointe de La Tante	12.0495	-61.63251	T	PT	GD		01				0		2	America/Grenada	2016-10-26
+3580178	La Tante Bay	La Tante Bay		12.04748	-61.6351	H	BAY	GD		02				0		19	America/Grenada	2016-10-26
+3580179	La Sagesse Estate	La Sagesse Estate	La Sagesse,La Sagesse Estate	12.02685	-61.67255	S	EST	GD		02				0		14	America/Grenada	2016-10-26
+3580180	La Sagesse Bay	La Sagesse Bay	Ance du Petite Marquis,La Sagasse Bay,La Sagesse Bay	12.02148	-61.67118	H	BAY	GD		02				0		1	America/Grenada	2016-10-26
+3580181	Large Island	Large Island		12.40577	-61.48859	T	ISL	GD		00				0		32	America/Grenada	2025-06-07
+3580182	L’Appelle	L'Appelle		12.52272	-61.43347	P	PPL	GD		10				0		16	America/Grenada	2020-06-11
+3580183	La Poterie	La Poterie		12.17204	-61.60924	P	PPL	GD		01				0		32	America/Grenada	2018-11-06
+3580184	La Pastora Estate	La Pastora Estate		12.04196	-61.68567	S	EST	GD		02				0		80	America/Grenada	2018-11-06
+3580185	Lance aux Épines Beach	Lance aux Epines Beach		12.0021	-61.75942	T	BCH	GD		03				0		9	America/Grenada	2016-10-26
+3580186	Lance aux Épines	Lance aux Epines	L'Anse Aux Epines	11.99848	-61.75634	P	PPL	GD		03				0		22	America/Grenada	2018-03-07
+3580187	La Mode	La Mode		12.21619	-61.64051	P	PPL	GD		06				0		74	America/Grenada	2018-11-06
+3580188	La Mode	La Mode		12.06704	-61.73407	P	PPL	GD		03				0		82	America/Grenada	2018-11-06
+3580189	La Mabonya	La Mabonya	La Mabonya,La Mabouya	12.16667	-61.73333	H	BAY	GD		04				0		18	America/Grenada	2012-01-18
+3580190	Laissé Point	Laisse Point		11.9994	-61.78777	T	PT	GD		03				0		8	America/Grenada	2014-04-20
+3580191	The Lagoon	The Lagoon		12.04469	-61.74759	H	LGN	GD		03				0		5	America/Grenada	2018-11-06
+3580192	La Fortune	La Fortune		12.21935	-61.63474	P	PPL	GD		06				0		27	America/Grenada	2018-11-06
+3580193	La Filette	La Filette		12.14052	-61.63969	P	PPL	GD		01				0		131	America/Grenada	2018-11-06
+3580194	La Femme	La Femme		12.04109	-61.70423	P	PPL	GD		02				0		175	America/Grenada	2018-11-06
+3580195	La Digue	La Digue	La Didue,La Digue	12.11272	-61.64624	P	PPL	GD		01				0		186	America/Grenada	2018-11-06
+3580196	La Chaussée River	La Chaussee River	La Chaussee River,La Chaussée River	12.02295	-61.67853	H	STM	GD		02				0		7	America/Grenada	2016-10-26
+3580197	La Chaussée	La Chaussee	La Chaussee,La Chaussée,Ravine La Chausse	12.02677	-61.67823	T	GRGE	GD		02				0		14	America/Grenada	2016-10-26
+3580198	Laborie	Laborie		12.04119	-61.72797	P	PPL	GD		03				0		179	America/Grenada	2018-11-06
+3580199	Kendeace Point	Kendeace Point	Kendace Point,Kendeace Point	12.45843	-61.43006	T	PT	GD		00				0		5	America/Grenada	2016-10-26
+3580200	Ka-fe Beau	Ka-fe Beau	Ka-fe Beau,Ka-fe Bo,ka-fh bw,Κα-φε Μπω,کا-فه بو	12.02806	-61.75408	P	PPL	GD		03				0		32	America/Grenada	2018-11-06
+3580201	Jew Bay	Jew Bay	Tibeau Bay	12.49407	-61.4225	H	BAY	GD		00				0		-9999	America/Grenada	2016-10-26
+3580202	Jack Iron Point	Jack Iron Point	La Pointe	12.47451	-61.4988	T	PT	GD		00				0		68	America/Grenada	2016-10-26
+3580203	Jack-A-Dan Island	Jack-A-Dan Island	Jack Adam Island,Jack Adan Island	12.49547	-61.46684	T	ISL	GD		10				0		-9999	America/Grenada	2015-09-22
+3580204	Irvins Bay	Irvins Bay		12.2274	-61.63463	H	BAY	GD		06				0		1	America/Grenada	2018-11-06
+3580205	Industry	Industry		12.21811	-61.6792	P	PPL	GD		05				0		16	America/Grenada	2018-11-06
+3580206	Hyde Park	Hyde Park		12.0507	-61.74423	P	PPLX	GD		03				0		31	America/Grenada	2018-11-06
+3580207	Hospital Hill	Hospital Hill		12.0554	-61.75118	T	MT	GD		03				0		87	America/Grenada	2018-11-06
+3580208	Horne	Horne		12.00448	-61.75636	P	PPL	GD		03				0		42	America/Grenada	2016-10-26
+3580209	Mount Horn	Mount Horn		12.15	-61.63333	T	MT	GD		01				0		73	America/Grenada	1993-12-23
+3580210	Hope Vale Estate	Hope Vale Estate	Hope Vale,Hope Vale Estate	12.02832	-61.71565	S	EST	GD		02				0		111	America/Grenada	2018-11-06
+3580211	Hope Estate	Hope Estate	Hope,Hope Estate	12.07781	-61.63448	S	EST	GD		01				0		63	America/Grenada	2016-10-26
+3580212	Hope Bacolet	Hope Bacolet		12.07883	-61.62238	P	PPL	GD		01				0		58	America/Grenada	2016-10-26
+3580213	Hog Island	Hog Island	Hog Island,Hog Islet,Islet a Cochen	11.99991	-61.73814	T	ISL	GD		03				0		25	America/Grenada	2016-10-26
+3580214	Hillsborough Bay	Hillsborough Bay		12.48603	-61.46254	H	BAY	GD		00				0		1	America/Grenada	2024-07-10
+3580215	Hillsborough	Hillsborough		12.48292	-61.45597	P	PPLA	GD		10				1000		8	America/Grenada	2013-06-28
+3580216	High Gate Estate	High Gate Estate		12.2045	-61.63072	S	EST	GD		06				0		74	America/Grenada	2018-11-06
+3580217	High Cliff Point	High Cliff Point		12.19126	-61.60234	T	PT	GD		06				0		15	America/Grenada	2016-10-26
+3580218	Hermon	Hermon		12.15651	-61.62703	P	PPL	GD		01				0		70	America/Grenada	2018-11-06
+3580219	Hermitage	Hermitage	Hermitage	12.45157	-61.48856	P	PPL	GD		10				0		24	America/Grenada	2020-06-11
+3580220	Hermitage	Hermitage		12.17649	-61.63356	P	PPL	GD		06				0		120	America/Grenada	2018-11-06
+3580221	Hermitage	Hermitage		12.08226	-61.74012	P	PPL	GD		03				0		273	America/Grenada	2018-11-06
+3580222	Hazeldene Estate	Hazeldene Estate		12.21233	-61.63581	S	EST	GD		06				0		68	America/Grenada	2018-11-06
+3580223	Harford Village	Harford Village		12.11763	-61.63524	P	PPL	GD		01				0		79	America/Grenada	2018-11-06
+3580224	Hardy Bay	Hardy Bay	Ance Hardy	12.00024	-61.78041	H	BAY	GD		03				0		5	America/Grenada	2016-10-26
+3580225	Happy Hill	Happy Hill		12.08941	-61.75595	P	PPL	GD		03				0		70	America/Grenada	2018-11-06
+3580226	Hampstead Estate	Hampstead Estate		12.05534	-61.67504	S	EST	GD		02				0		244	America/Grenada	2018-11-06
+3580227	Halifax Harbour	Halifax Harbour	Halifax Bay,Halifax Harbour	12.11068	-61.74778	H	BAY	GD		00				0		28	America/Grenada	2016-10-26
+3580228	Gwalas Beach	Gwalas Beach		12.00198	-61.79145	T	BCH	GD		03				0		10	America/Grenada	2016-10-26
+3580229	Gwa Kay	Gwa Kay		12.02017	-61.77112	P	PPL	GD		03				0		39	America/Grenada	2018-11-06
+3580230	Gun Point	Gun Point	Gun Point,Rapid Point	12.52988	-61.43795	T	PT	GD		00				0		4	America/Grenada	2016-10-26
+3580231	Gros Point	Gros Point	La Grosse Pointe	12.18337	-61.72429	T	PT	GD		05				0		24	America/Grenada	2016-10-26
+3580232	Gretna Green	Gretna Green		12.05786	-61.74989	P	PPL	GD		03				0		27	America/Grenada	2018-11-06
+3580233	Grenville Vale Estate	Grenville Vale Estate	Grenville Vale,Grenville Vale Estate	12.09227	-61.73551	S	EST	GD		03				0		65	America/Grenada	2018-11-06
+3580234	Grenville River	Grenville River	Granville River,Grenville,Grenville River	12.10905	-61.627	H	STM	GD		01				0		3	America/Grenada	2021-09-08
+3580235	Grenville Bay	Grenville Bay	Ance de L'Esterre,Grenville Bay	12.11313	-61.61907	H	BAY	GD		01				0		-9999	America/Grenada	2018-11-06
+3580236	Grenville	Grenville	Grenville,La Baye	12.12278	-61.62498	P	PPLA	GD		01				2476		15	America/Grenada	2013-06-27
+3580238	Grenada Bay	Grenada Bay	Ance Grenade	12.21357	-61.60892	H	BAY	GD		06				0		1	America/Grenada	2016-10-26
+3580239	Grenada	Grenada	Colony of Grenada,GND,Garanad,Garnaad,Gelenadɛ,Genada,Gerenada,Giranaadaa,Giriinaada,Girnada,Granada,Granade,Granadi,Granadë,Granata,Gre-na-ga,Greanada,Greanàda,Greanáda,Grehnada,Grenaada,Grenad,Grenad uls,Grenada,Grenada nutome,Grenadae,Grenade,Grenadeaen,Grenadeän,Grenadin Orn,Grenado,Grenady,Grenayd,Grenâda,Grenāda,Grinada,Grénada,Grê-na-đa,Grẹ̀nádà,Gurenada,Gwzlinznazdaz,IGelenada,Kelenata,Kelenatā,Ngelenade,Qrenada,garenaydar,ge lin na da,ge rui na da,gerenda,geulenada,ghrynada,graenada,granada,graneda,grenada,greneda,grenera,grinada,grnada,grndh,grnyڑa,grynada,grynaڈa,grynڊa,grʻnʼadʼa,grېnada,gurenada,gyrېnada,i-Grenada,jrynada,kerne da,kiraneta,kirenata,pra thes kerne da,Γρενάδα,Гренад улс,Гренадæ,Гренада,Гренаде,Гренадин Орн,Грэнада,Ґренада,Գրենադա,גרנאדה,גרנדה,גרענאַדאַ,جرينادا,غرناطہ,غرينادا,ګrnada,ګرنادا,گرانادا,گرنادا,گرنیڑا,گرينڊا,گرینادا,گریناڈا,گرېنادا,گىرېنادا,ގެރެންޑާ,ग्रिनाडा,ग्रेनाडा,ग्रेनेडा,গ্রানাডা,গ্রেনাডা,গ্ৰেনাডা,ਗ੍ਰੇਨਾਡਾ,ગ્રેનેડા,ଗ୍ରେନାଡା,ଗ୍ରେନେଡ଼ା,கிரனெடா,கிரெனடா,గ్రెనడా,ಗ್ರೆನಾಡ,ಗ್ರೆನೆಡಾ,ഗ്രനേഡ,ග්‍රැනඩාව,ประเทศเกรเนดา,เกรเนดา,ເກຣເນດາ,ག་ན་ཌ,གི་རི་ན་ཌ།,གྲྀ་ན་ཌ,གྷ་རི་ན་ཌ།,ဂရီနေဒါ,ဂရီနေဒါနိုင်ငံ,გრენადა,ግrenada,ግረነይዳ,ግሬናዳ,ហគរើណាដ,ហ្គ្រើណាដ,グレナダ,格林納達,格林纳达,格瑞那達,그레나다	12.11667	-61.66667	A	PCLI	GD		00				111454		261	America/Grenada	2024-09-05
+3580240	Grenada	Grenada	Grenada,Island of Grenada	12.11707	-61.67872	T	ISL	GD		00				0		217	America/Grenada	2019-11-19
+3580241	Green Island	Green Island	Green Island,Green Islet,Ile du Milien	12.22892	-61.59472	T	ISL	GD		06				0		49	America/Grenada	2016-10-26
+3580242	Great River Bay	Great River Bay	Ance de la Grand Riviere	12.13668	-61.60626	H	BAY	GD		01				0		-9999	America/Grenada	2016-10-26
+3580243	Great River	Great River	Great River,La Grand Riviere	12.13632	-61.60985	H	STM	GD		01				0		7	America/Grenada	2016-10-26
+3580244	Great Requin River	Great Requin River	Grand Riviere du Requin,Great Requin River	12.03893	-61.65165	H	STM	GD		02				0		21	America/Grenada	2016-10-26
+3580245	Great Ravine River	Great Ravine River	Great Ravine,Great Ravine River	12.20451	-61.6991	H	STM	GD		05				0		9	America/Grenada	2018-11-06
+3580246	Great Palmiste River	Great Palmiste River	Great Palmiste,Great Palmiste River	12.14574	-61.73955	H	STM	GD		04				0		8	America/Grenada	2021-09-08
+3580247	Great Crayfish River	Great Crayfish River	Great Crayfish,Great Crayfish River	12.20844	-61.69745	H	STM	GD		05				0		7	America/Grenada	2021-09-08
+3580248	Great Branch	Great Branch	Le Grand Bras	12.13373	-61.62392	H	STM	GD		01				0		20	America/Grenada	2016-10-26
+3580249	Great Bacolet Point	Great Bacolet Point	Pointe du Grand Bacolet	12.07724	-61.61689	T	PT	GD		01				0		44	America/Grenada	2019-11-19
+3580250	Great Bacolet Bay	Great Bacolet Bay	Ance du Grande Bacolet	12.07319	-61.62369	H	BAY	GD		01				0		-9999	America/Grenada	2016-10-26
+3580251	Little River of Great Bacolet	Little River of Great Bacolet	Little River of Great Bacolet,Petite Riviere du Bacolet	12.07563	-61.62647	H	STM	GD		01				0		13	America/Grenada	2016-10-26
+3580252	Great Arm River	Great Arm River	Great Arm,Great Arm River	12.20083	-61.6379	H	STM	GD		06				0		92	America/Grenada	2018-11-06
+3580253	Great Arm	Great Arm	Grand Riviere des Palmistes	12.15065	-61.7351	H	STM	GD		04				0		31	America/Grenada	2016-10-26
+3580254	Granton	Granton		12.09251	-61.7248	P	PPL	GD		03				0		194	America/Grenada	2018-11-06
+3580255	Grand Roy River	Grand Roy River	Grand Roy River	12.13314	-61.74654	H	STM	GD		04				0		9	America/Grenada	2016-10-26
+3580256	Grand Roy Bay	Grand Roy Bay	Le Grand Roi	12.13313	-61.74819	H	BAY	GD		04				0		119	America/Grenada	2016-10-26
+3580257	Grand Roy	Grand Roy	Grand Roy	12.1322	-61.74537	P	PPL	GD		04				2400		21	America/Grenada	2025-05-07
+3580258	Grand Mal Bay	Grand Mal Bay		12.07307	-61.75718	H	BAY	GD		03				0		33	America/Grenada	2018-11-06
+3580259	Grand Mal	Grand Mal		12.07742	-61.75259	P	PPL	GD		03				0		23	America/Grenada	2018-11-06
+3580260	Grand Etang Rest House	Grand Etang Rest House		12.08333	-61.7	S	RHSE	GD		01				0		520	America/Grenada	1993-12-23
+3580261	Grand Étang Forest Reserve	Grand Etang Forest Reserve	Grand Etang Forest Reserve,Grand Étang Forest Reserve	12.10963	-61.70023	L	RESF	GD		04				0		675	America/Grenada	2020-06-10
+3580262	Grand Étang	Grand Etang	Grand Etang,Grand Etang Lake,Grand Étang,Great Pond,Mountain Pond,The Mountain Pond	12.09712	-61.6961	H	LK	GD		01				0		525	America/Grenada	2020-06-10
+3580263	Grand Bras River	Grand Bras River	Grand Bras,Grand Bras River	12.13205	-61.63014	H	STM	GD		01				0		28	America/Grenada	2021-09-08
+3580264	Grand Bras	Grand Bras	Grand Bra,Grand Bras	12.13406	-61.6311	P	PPL	GD		01				0		60	America/Grenada	2018-11-06
+3580265	Grand Bras	Grand Bras		12.12238	-61.63663	P	PPL	GD		01				0		75	America/Grenada	2018-11-06
+3580266	Grand Bay	Grand Bay		12.47427	-61.4348	P	PPL	GD		10				0		20	America/Grenada	2020-06-11
+3580267	Grand Bay	Grand Bay		12.47471	-61.42235	H	BAY	GD		00				0		-9999	America/Grenada	2016-10-26
+3580268	Grand Bay	Grand Bay	Grand Ance	12.00049	-61.79179	H	BAY	GD		03				0		4	America/Grenada	2016-10-26
+3580269	Grand Bacolet Estate	Grand Bacolet Estate	Grand Bacolet,Grand Bacolet Estate	12.06597	-61.63274	S	EST	GD		01				0		58	America/Grenada	2016-10-26
+3580270	Great River of Grand Bacolet	Great River of Grand Bacolet	Great River of Grand Bacolet,Riviere du Grand Bacolet	12.07349	-61.62727	H	STM	GD		01				0		9	America/Grenada	2016-10-26
+3580271	Grand Anse Estate	Grand Anse Estate		12.0222	-61.75964	S	EST	GD		03				0		7	America/Grenada	2016-10-26
+3580272	Grand Anse Beach	Grand Anse Beach		12.02505	-61.76031	T	BCH	GD		03				0		9	America/Grenada	2018-11-06
+3580273	Grand Anse Bay	Grand Anse Bay	Grand Anse,Grand Anse Bay,La Grand Ance	12.02633	-61.7622	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3580274	Grand Anse	Grand Anse	Grand Ance,Grand Anse	12.03017	-61.75157	P	PPL	GD		03				0		28	America/Grenada	2018-11-06
+3580275	Mount Granby	Mount Granby	Mont Granby,Mount Granby	12.13396	-61.70869	T	MT	GD		04				0		659	America/Grenada	2018-11-06
+3580276	Gouyave River	Gouyave River	Gouyave River,Grand Riverere de l'Ance Gouyave	12.16128	-61.73159	H	STM	GD		04				0		10	America/Grenada	2016-10-26
+3580277	Gouyave Estate	Gouyave Estate		12.16221	-61.72707	S	EST	GD		04				0		38	America/Grenada	2018-11-06
+3580278	Gouyave Bay	Gouyave Bay		12.1604	-61.73415	H	BAY	GD		04				0		1	America/Grenada	2016-10-26
+3580279	Gouyave	Gouyave	Charlotte Town,Gouave,Gouyave,Goyave,Guyave	12.16462	-61.72965	P	PPLA	GD		04				3378		19	America/Grenada	2012-02-19
+3580280	Good Hope Estate	Good Hope Estate	Good Hope,Good Hope Estate	12.04978	-61.71987	S	EST	GD		03				0		251	America/Grenada	2018-11-06
+3580281	Golflands	Golflands		12.01667	-61.75	P	PPL	GD		03				0		97	America/Grenada	1993-12-23
+3580282	Glover Island	Glover Island	Glover Island,Glover Islet,Glovers Island,Islet Ramier,Ramier Island	11.98698	-61.78651	T	ISL	GD		03				0		9	America/Grenada	2016-10-26
+3580283	Fort George	Fort George		12.04938	-61.75396	S	FT	GD		03				0		43	America/Grenada	2019-11-20
+3580284	Gaulier River	Gaulier River	Gaulier,Gaulier River	12.1883	-61.71854	H	STM	GD		05				0		13	America/Grenada	2021-09-08
+3580285	Gary Island	Gary Island	Camy Island,Gary Island	12.00296	-61.71699	T	ISL	GD		03				0		14	America/Grenada	2016-10-26
+3580286	Galby Bay	Galby Bay	Ance de Galibes	12.04251	-61.63691	H	BAY	GD		02				0		19	America/Grenada	2016-10-26
+3580287	Frigate Island	Frigate Island		12.41403	-61.47748	T	ISL	GD		00				0		16	America/Grenada	2020-06-10
+3580288	Frequente	Frequente		12.01385	-61.76726	P	PPL	GD		03				0		38	America/Grenada	2016-10-26
+3580289	Fort Frederick	Fort Frederick	Fort Frederic,Fort Frederick	12.04787	-61.73721	S	FT	GD		03				0		215	America/Grenada	2018-11-06
+3580290	Fota	Fota		12.51477	-61.39967	T	ISL	GD		00				0		1	America/Grenada	2016-10-26
+3580291	Point of Fort Jeudy	Point of Fort Jeudy	Pointe de Fort Jeudy	11.99396	-61.71	T	PT	GD		03				0		13	America/Grenada	2016-10-26
+3580292	Fort Jeudy	Fort Jeudy		11.99993	-61.70911	P	PPL	GD		03				0		36	America/Grenada	2016-10-26
+3580293	Fort George Point	Fort George Point		12.04761	-61.75544	T	PT	GD		03				0		1	America/Grenada	2019-11-19
+3580294	Ford	Ford		12.11801	-61.62506	P	PPL	GD		01				0		10	America/Grenada	2016-10-26
+3580295	Fontenoy	Fontenoy		12.06898	-61.75257	P	PPL	GD		03				0		29	America/Grenada	2018-11-06
+3580296	Fontainbleu Falls	Fontainbleu Falls		12.11163	-61.71068	H	FLLS	GD		04				0		466	America/Grenada	2018-11-06
+3580297	Florida Estate	Florida Estate		12.15686	-61.70601	S	EST	GD		04				0		222	America/Grenada	2018-11-06
+3580298	Florida	Florida		12.15943	-61.70309	P	PPL	GD		04				0		268	America/Grenada	2018-11-06
+3580299	Flamingo Bay	Flamingo Bay		12.09226	-61.75689	H	BAY	GD		03				0		18	America/Grenada	2018-11-06
+3580300	Flamand Bay	Flamand Bay		12.1	-61.75	H	BAY	GD		03				0		78	America/Grenada	1993-12-23
+3580301	Felix Park	Felix Park		12.06385	-61.64878	P	PPL	GD		01				0		164	America/Grenada	2018-11-06
+3580302	Mount Felix	Mount Felix		12.15328	-61.69929	T	MT	GD		04				0		336	America/Grenada	2018-11-06
+3580303	Falege	Falege	Falaise,Falege	12.03652	-61.7545	P	PPL	GD		03				0		33	America/Grenada	2018-11-06
+3580304	Fairfield	Fairfield		12.05589	-61.66096	P	PPL	GD		02				0		171	America/Grenada	2018-11-06
+3580305	Epping Forest	Epping Forest		12.04577	-61.70266	P	PPL	GD		02				0		202	America/Grenada	2018-11-06
+3580306	Helvellyn	Helvellyn		12.22411	-61.6313	P	PPL	GD		06				0		52	America/Grenada	2018-11-06
+3580307	Elie Hall	Elie Hall	Eli Chol,Elie Hall,aly hal,Έλη Χωλ,الی هال	12.19954	-61.64118	P	PPL	GD		06				0		109	America/Grenada	2018-11-06
+3580308	Egmont Harbour	Egmont Harbour	Egmont Harbour,Petit Calivigny Harbour	12.00324	-61.71832	H	HBR	GD		03				0		14	America/Grenada	2016-10-26
+3580310	Point Egmont	Point Egmont	Egmont Point,Point Egmont	11.99972	-61.71917	T	PT	GD		03				0		0	America/Grenada	2016-10-26
+3580311	Egmont	Egmont		12.00589	-61.7216	P	PPL	GD		03				0		56	America/Grenada	2016-10-26
+3580312	Duquesne River	Duquesne River	Duquesne,Duquesne River	12.22057	-61.67932	H	STM	GD		06				0		6	America/Grenada	2021-09-08
+3580313	Duquesne Point	Duquesne Point	Pointe Duquesne	12.21772	-61.6877	T	PT	GD		05				0		29	America/Grenada	2016-10-26
+3580314	Duquesne Bay	Duquesne Bay		12.22103	-61.68065	H	BAY	GD		06				0		19	America/Grenada	2018-11-06
+3580315	Duquesne	Duquesne		12.20954	-61.67015	P	PPL	GD		05				0		67	America/Grenada	2018-11-06
+3580316	Dunfermline	Dunfermline	Dumfermline,Dunfermline	12.13719	-61.6274	P	PPL	GD		01				0		60	America/Grenada	2018-11-06
+3580317	Dumfries Point	Dumfries Point		12.45575	-61.44781	T	PT	GD		00				0		6	America/Grenada	2016-10-26
+3580318	Dumfries	Dumfries		12.46311	-61.45736	P	PPL	GD		10				0		26	America/Grenada	2020-06-11
+3580319	Dry River Estate	Dry River Estate		12.10438	-61.66134	S	EST	GD		01				0		378	America/Grenada	2018-11-06
+3580320	Dragon Bay	Dragon Bay		12.08555	-61.76217	H	BAY	GD		03				0		14	America/Grenada	2018-11-06
+3580321	Dover	Dover		12.50619	-61.43419	P	PPL	GD		10				0		58	America/Grenada	2024-07-10
+3580322	Dougaldston Estate	Dougaldston Estate	Dougaldston,Dougaldston Estate	12.15173	-61.72434	S	EST	GD		04				0		132	America/Grenada	2018-11-06
+3580323	Douce River	Douce River	Douce,Douce River	12.11125	-61.74629	H	STM	GD		04				0		20	America/Grenada	2021-09-08
+3580324	Dothan Bay	Dothan Bay		12.13877	-61.74518	H	BAY	GD		04				0		1	America/Grenada	2016-10-26
+3580325	Dothan	Dothan		12.13758	-61.74299	P	PPL	GD		04				0		19	America/Grenada	2018-11-06
+3580326	Mount d’Or	Mount d'Or		12.10777	-61.7302	T	MT	GD		03				0		357	America/Grenada	2018-11-06
+3580327	Diego Piece	Diego Piece	Diego Piece	12.20523	-61.6745	P	PPL	GD		05				0		166	America/Grenada	2018-11-06
+3580328	Diamond Island	Diamond Island	Diamond Island,Diamond Islet	12.32776	-61.583	T	ISL	GD		00				0		142	America/Grenada	2021-04-11
+3580329	Diamond Estate	Diamond Estate	Diamond,Diamond Estate	12.1887	-61.70096	S	EST	GD		05				0		50	America/Grenada	2018-11-06
+3580330	Des Isles Point	Des Isles Point		12.22269	-61.67821	T	PT	GD		06				0		19	America/Grenada	2018-11-06
+3580331	Des Isles	Des Isles		12.21667	-61.66667	P	PPL	GD		06				0		187	America/Grenada	1993-12-23
+3580332	Degra Bay	Degra Bay	Ance Deyna	11.99807	-61.78633	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3580333	De Frietas Cottages	De Frietas Cottages		12.0345	-61.75436	S	BLDG	GD		03				0		18	America/Grenada	2018-11-06
+3580334	Deblando	Deblando	Deblando	12.10269	-61.64415	P	PPL	GD		01				0		189	America/Grenada	2018-11-06
+3580335	David Bay	David Bay		12.23218	-61.66501	H	BAY	GD		06				0		115	America/Grenada	2018-11-06
+3580336	Davidall Estate	Davidall Estate		12.1178	-61.73372	S	EST	GD		04				0		176	America/Grenada	2018-11-06
+3580337	D’Arbeau Hill	D'Arbeau Hill		12.06544	-61.75318	T	MT	GD		03				0		97	America/Grenada	2018-11-06
+3580338	D’Arbeau	D'Arbeau		12.06122	-61.7509	P	PPL	GD		03				0		9	America/Grenada	2018-11-06
+3580339	Crochu River	Crochu River	Crochu River,Riviere du Crochu	12.05441	-61.63727	H	STM	GD		01				0		8	America/Grenada	2016-10-26
+3580340	Crochu Point	Crochu Point	Pointe du Crochu	12.05503	-61.63083	T	PT	GD		01				0		2	America/Grenada	2016-10-26
+3580341	Crochu Harbour	Crochu Harbour	Port de Crochu	12.05273	-61.63349	H	BAY	GD		01				0		1	America/Grenada	2016-10-26
+3580342	Crochu	Crochu	Crochu	12.06098	-61.64536	P	PPL	GD		01				0		114	America/Grenada	2018-11-06
+3580343	Cribish Bay	Cribish Bay	Cul de Sac a Vache	12.01195	-61.72338	H	BAY	GD		02				0		3	America/Grenada	2016-10-26
+3580344	Crayfish Bay	Crayfish Bay		12.21217	-61.69223	H	BAY	GD		05				0		1	America/Grenada	2018-11-06
+3580345	Mount Craven	Mount Craven		12.21923	-61.64762	T	MT	GD		06				0		83	America/Grenada	2018-11-06
+3580346	Craigston Point	Craigston Point		12.4967	-61.45457	T	PT	GD		00				0		20	America/Grenada	2016-10-26
+3580347	The Cove	The Cove		12.11312	-61.74835	H	COVE	GD		04				0		26	America/Grenada	2018-11-06
+3580348	Corinth Estate	Corinth Estate		12.03923	-61.6773	S	EST	GD		02				0		61	America/Grenada	2018-11-06
+3580349	Corinth	Corinth		12.036	-61.67748	P	PPL	GD		02				0		46	America/Grenada	2018-11-06
+3580350	Corbeau Town	Corbeau Town		12.04603	-61.71954	P	PPL	GD		03				0		202	America/Grenada	2018-11-06
+3580351	Content	Content		12.03597	-61.6658	P	PPL	GD		02				0		83	America/Grenada	2018-11-06
+3580352	Constantine	Constantine		12.07935	-61.72042	P	PPL	GD		03				0		232	America/Grenada	2018-11-06
+3580353	Conference Bay	Conference Bay	Grand Ance de la Conference	12.15549	-61.60429	H	BAY	GD		01				0		-9999	America/Grenada	2016-10-26
+3580354	Conference	Conference	Conference,Upper Conference	12.16098	-61.61797	P	PPL	GD		01				0		60	America/Grenada	2018-11-06
+3580355	Confer	Confer	Canne Fond,Confer	12.01802	-61.72417	P	PPL	GD		03				0		35	America/Grenada	2018-11-06
+3580356	Concord Valley	Concord Valley		12.11818	-61.72406	T	VAL	GD		04				0		272	America/Grenada	2018-11-06
+3580357	Concord Falls	Concord Falls		12.11754	-61.71908	H	FLLS	GD		04				0		332	America/Grenada	2018-11-06
+3580358	Concord	Concord		12.11856	-61.73956	P	PPL	GD		04				0		97	America/Grenada	2018-11-06
+3580359	Cocoa Hall Estate	Cocoa Hall Estate		12.1133	-61.72424	S	EST	GD		04				0		331	America/Grenada	2018-11-06
+3580360	Clozier	Clozier		12.14209	-61.69726	P	PPL	GD		04				0		443	America/Grenada	2018-11-06
+3580361	Clarkes Court	Clarkes Court		12.03333	-61.73333	P	PPL	GD		03				0		150	America/Grenada	1993-12-23
+3580362	Claire River	Claire River	Claire River,River Claire	12.18409	-61.69933	H	STM	GD		05				0		86	America/Grenada	2018-11-06
+3580363	Clabony	Clabony	Clabony,Klampony,klabwny,Κλαμπονύ,کلابونی	12.13475	-61.66029	P	PPL	GD		01				0		237	America/Grenada	2015-03-26
+3580364	Point Cistern	Point Cistern		12.4785	-61.4964	T	PT	GD		00				0		11	America/Grenada	2016-10-26
+3580365	Chutz	Chutz	Chutz,Soutz,chaz,Σουτζ,چاز	12.10823	-61.65218	P	PPL	GD		01				0		259	America/Grenada	2018-11-06
+3580366	Chemin River	Chemin River	Chemin,Chemin River	12.01527	-61.71434	H	STM	GD		00				0		8	America/Grenada	2021-09-08
+3580367	Chemin Bay	Chemin Bay	Cul de Sac du Chemin	12.0082	-61.70827	H	BAY	GD		00				0		-9999	America/Grenada	2016-10-26
+3580368	Charlotte Vale	Charlotte Vale		12.04341	-61.7053	P	PPL	GD		02				0		195	America/Grenada	2018-11-06
+3580369	Charlotte River	Charlotte River	Charlotte,Charlotte River	12.16421	-61.71974	H	STM	GD		04				0		81	America/Grenada	2021-09-08
+3580370	Chantimelle	Chantimelle	Chantimelle	12.21129	-61.66193	P	PPL	GD		06				0		147	America/Grenada	2018-11-06
+3580371	Chantilly Estate	Chantilly Estate	Chantilly,Chantilly Estate	12.05989	-61.73149	S	EST	GD		03				0		116	America/Grenada	2018-11-06
+3580372	Champs Fleurs	Champs Fleurs		12.05664	-61.68694	P	PPL	GD		02				0		285	America/Grenada	2018-11-06
+3580373	Chambord Estate	Chambord Estate	Chambord,Chambord Estate	12.20689	-61.61663	S	EST	GD		06				0		83	America/Grenada	2018-11-06
+3580374	Chadeau Estate	Chadeau Estate		12.14241	-61.68389	S	EST	GD		01				0		447	America/Grenada	2018-11-06
+3580375	Chadeau	Chadeau		12.1384	-61.68756	P	PPL	GD		04				0		387	America/Grenada	2018-11-06
+3580376	Céleste	Celeste	Celeste,Céleste	12.2142	-61.64339	P	PPL	GD		06				0		84	America/Grenada	2020-06-10
+3580377	Cato Beach	Cato Beach		12.00219	-61.79646	T	BCH	GD		03				0		7	America/Grenada	2016-10-26
+3580378	Cato Bay	Cato Bay	Ance Cato	12.00133	-61.79642	H	BAY	GD		03				0		4	America/Grenada	2016-10-26
+3580379	Castle Hill	Castle Hill		12.19956	-61.67316	P	PPL	GD		05				0		185	America/Grenada	2018-11-06
+3580380	Castaigne	Castaigne		12.12509	-61.67225	P	PPL	GD		01				0		193	America/Grenada	2018-11-06
+3580381	Cassada Rocks	Cassada Rocks	Cassada Rock	12.43628	-61.46683	T	RKS	GD		00				0		-9999	America/Grenada	2007-12-27
+3580382	Carrière Estate	Carriere Estate		12.16348	-61.62522	S	EST	GD		01				0		94	America/Grenada	2018-11-06
+3580383	Carrière	Carriere	Carriere,Carrière	12.16652	-61.63497	P	PPL	GD		01				0		230	America/Grenada	2020-06-10
+3580384	Carriacou Island	Carriacou Island	CRU,Carriacou,Carriacou Island,Carriacou and Petite Martinique,Carriouacou,kariaku dao,カリアク島	12.47329	-61.45426	T	ISL	GD		00				9600		92	America/Grenada	2020-10-13
+3580385	Carriacou	Carriacou	CRU,Lauriston Airport,TGPZ	12.47629	-61.47318	S	AIRF	GD		00				0		5	America/Grenada	2016-10-26
+3580386	Caribs’ Leap	Caribs' Leap	Caribs Leap,Caribs' Leap,Caribs’ Leap	12.22637	-61.64037	T	CLF	GD		06				0		9	America/Grenada	2020-06-10
+3580387	The Carenage	The Carenage		12.05125	-61.75013	H	HBR	GD		03				0		2	America/Grenada	2018-11-06
+3580388	Canoe Bay	Canoe Bay	Ance Cavol	12.00549	-61.79999	H	BAY	GD		03				0		4	America/Grenada	2016-10-26
+3580389	Calliste	Calliste	Calliste,Calliste Land Settlement	12.01015	-61.77438	P	PPL	GD		03				0		39	America/Grenada	2016-10-26
+3580390	Calivigny Island	Calivigny Island	Calivigny Island,Calivigny Islet,Caliviny Island,Islet de Calvini	11.99458	-61.72634	T	ISL	GD		03				0		13	America/Grenada	2020-06-10
+3580391	Calivigny Harbour	Calivigny Harbour	Calivigny Harbour,Caliviny Harbour,Port de Calivini	12.00331	-61.71523	H	BAY	GD		02				0		1	America/Grenada	2016-10-26
+3580392	Calivigny Estate	Calivigny Estate	Calais Vigny,Caliveny,Calivigny,Calivigny Estate,Caliviny,Calvineny	12.01615	-61.72231	S	EST	GD		03				0		72	America/Grenada	2018-11-06
+3580393	Calivigny	Calivigny	Calivigny,Kaliviny,ka li wei ni,kalywny,karivuini,Καλιβινύ,کالیونی,カリヴィニー,卡利維尼	12.01871	-61.72789	P	PPL	GD		03				0		43	America/Grenada	2018-11-06
+3580394	Calabasse River	Calabasse River	Calabasse River,Riviere Calabasse	12.1942	-61.60579	H	STM	GD		06				0		13	America/Grenada	2016-10-26
+3580395	Caille Island	Caille Island	Caille Island	12.28751	-61.58146	T	ISL	GD		00				0		23	America/Grenada	2016-10-26
+3580396	Café	Cafe		12.03736	-61.74493	P	PPL	GD		03				0		118	America/Grenada	2018-11-06
+3580397	Bylands	Bylands		12.13509	-61.65996	P	PPL	GD		01				0		237	America/Grenada	2018-11-06
+3580398	Brothers Estate	Brothers Estate		12.16343	-61.71349	S	EST	GD		04				0		134	America/Grenada	2018-11-06
+3580399	Brizan	Brizan	Brisant,Brizan	12.1029	-61.75212	P	PPL	GD		03				0		28	America/Grenada	2018-11-06
+3580400	Brimmington Estate	Brimmington Estate		12.10609	-61.66098	S	EST	GD		01				0		370	America/Grenada	2018-11-06
+3580401	Breteche Point	Breteche Point		12.45562	-61.43912	T	PT	GD		00				0		15	America/Grenada	2016-10-26
+3580402	Brandon Hall	Brandon Hall		12.11472	-61.64195	P	PPL	GD		01				0		163	America/Grenada	2018-11-06
+3580403	Boulogne Estate	Boulogne Estate	Boulogne,Boulogne Estate	12.14387	-61.6285	S	EST	GD		01				0		40	America/Grenada	2018-11-06
+3580404	Bonne Gaye	Bonne Gaye		12.04047	-61.64111	H	BAY	GD		02				0		-9999	America/Grenada	2016-10-26
+3580405	Bonaparte Rocks	Bonaparte Rocks		12.39311	-61.49559	T	RKS	GD		00				0		-9999	America/Grenada	2016-10-26
+3580406	Bonair Estate	Bonair Estate	Bonair,Bonair Estate	12.19219	-61.70683	S	EST	GD		05				0		16	America/Grenada	2018-11-06
+3580407	Bon Accord River	Bon Accord River	Bon Accord,Bon Accord River	12.06671	-61.73759	H	STM	GD		03				0		57	America/Grenada	2021-09-08
+3580408	Bon Accord Estate	Bon Accord Estate		12.07138	-61.71908	S	EST	GD		03				0		227	America/Grenada	2018-11-06
+3580409	Bois de Gannes	Bois de Gannes	Bois de Gannes	12.0398	-61.70707	P	PPL	GD		02				0		239	America/Grenada	2018-11-06
+3580410	Bogles	Bogles	Bogles,Bonkle,bwgwls,Μπογκλέ,بوگولس	12.50232	-61.4487	P	PPL	GD		10				0		59	America/Grenada	2024-07-10
+3580411	Bocage Estate	Bocage Estate	Bocage,Bocage Estate,Boccage	12.19014	-61.70179	S	EST	GD		05				0		35	America/Grenada	2018-11-06
+3580412	Boca	Boca		12.07532	-61.72301	P	PPL	GD		03				0		169	America/Grenada	2018-11-06
+3580413	Blow Hole	Blow Hole		11.99697	-61.76645	P	PPL	GD		03				0		6	America/Grenada	2016-10-26
+3580414	Blaize	Blaize		12.15876	-61.64606	P	PPL	GD		01				0		349	America/Grenada	2018-11-06
+3580415	Blair Athol Estate	Blair Athol Estate		12.20208	-61.64581	S	EST	GD		06				0		123	America/Grenada	2018-11-06
+3580416	Black Rock	Black Rock	Anthony Rock,Black Rock,Islet d'Antoine	12.17504	-61.58532	T	ISL	GD		06				0		-9999	America/Grenada	2016-10-26
+3580417	Black Bay River	Black Bay River	Black Bay River	12.12261	-61.75121	H	STM	GD		04				0		13	America/Grenada	2016-10-26
+3580418	Black Bay Point	Black Bay Point	Pointe de l'Ance Noire	12.12066	-61.75297	T	PT	GD		04				0		1	America/Grenada	2016-10-26
+3580419	Black Bay	Black Bay	Ance Noire	12.12307	-61.75182	H	BAY	GD		04				0		1	America/Grenada	2016-10-26
+3580420	Black Bay	Black Bay	Ance Noire	12.00231	-61.80009	H	BAY	GD		03				0		1	America/Grenada	2016-10-26
+3580421	Bird Island	Bird Island	Bird,Bird Island,Bird Islet	12.20795	-61.55002	T	ISL	GD		00				0		11	America/Grenada	2016-10-26
+3580422	Birch Grove	Birch Grove		12.11401	-61.67222	P	PPL	GD		01				0		174	America/Grenada	2018-11-06
+3580423	Benago Beach	Benago Beach		12.17039	-61.72701	T	BCH	GD		04				0		32	America/Grenada	2018-11-06
+3580424	Belvidere	Belvidere		12.13537	-61.69697	P	PPL	GD		04				0		359	America/Grenada	2018-11-06
+3580425	Belvedere	Belvedere	Bellevidere,Belvedere	12.50032	-61.44041	P	PPL	GD		10				0		58	America/Grenada	2024-07-10
+3580426	Belmont	Belmont		12.18746	-61.69088	P	PPL	GD		05				0		190	America/Grenada	2018-11-06
+3580427	Belmont	Belmont	Belmont	12.17467	-61.62633	P	PPL	GD		06				0		87	America/Grenada	2018-11-06
+3580428	Belmont	Belmont		12.04124	-61.74966	P	PPL	GD		03				0		36	America/Grenada	2018-11-06
+3580429	Bellevue	Bellevue		12.18333	-61.68333	P	PPL	GD		05				0		349	America/Grenada	1993-12-23
+3580430	Bellevue	Bellevue		12.11064	-61.65234	P	PPL	GD		01				0		258	America/Grenada	2018-11-06
+3580431	Bellevue	Bellevue		12.05266	-61.66254	P	PPL	GD		02				0		146	America/Grenada	2018-11-06
+3580432	Belle Plain	Belle Plain		12.04376	-61.71402	P	PPL	GD		02				0		190	America/Grenada	2018-11-06
+3580433	Belle Isle	Belle Isle		12.03443	-61.65075	P	PPL	GD		02				0		37	America/Grenada	2016-10-26
+3580434	Belair Estate	Belair Estate		12.17815	-61.6827	S	EST	GD		05				0		396	America/Grenada	2018-11-06
+3580435	Belair	Belair		12.49227	-61.44061	P	PPL	GD		10				0		209	America/Grenada	2020-06-11
+3580436	Belair	Belair		12.16023	-61.62599	P	PPL	GD		01				0		91	America/Grenada	2018-11-06
+3580437	Bedford Point	Bedford Point	Bedford Point,Pointe de Levera	12.22341	-61.60493	T	PT	GD		06				0		14	America/Grenada	2016-10-26
+3580438	Becke Moui	Becke Moui	Becke Moui,Bek Moui,bk mwyy,Μπεκ Μουί,بک مویی	12.01725	-61.69717	P	PPL	GD		02				0		44	America/Grenada	2016-10-26
+3580439	Beauséjour River	Beausejour River	Beausejour,Beausejour River,Beauséjour,Beauséjour River	12.09849	-61.75227	H	STM	GD		03				0		7	America/Grenada	2021-09-08
+3580440	Beauséjour Estate	Beausejour Estate	Beausejour,Beausejour Estate,Beauséjour Estate	12.09164	-61.74689	S	EST	GD		03				0		60	America/Grenada	2020-06-10
+3580441	Beauséjour Bay	Beausejour Bay	Beau Sejour Bay,Beausejour Bay,Beauséjour Bay	12.09792	-61.75409	H	BAY	GD		03				0		18	America/Grenada	2020-06-10
+3580442	Beauregard	Beauregard		12.11234	-61.67493	P	PPL	GD		01				0		228	America/Grenada	2018-11-06
+3580443	Beaulieu	Beaulieu		12.07059	-61.73623	P	PPL	GD		03				0		84	America/Grenada	2018-11-06
+3580444	Beaton	Beaton		12.03485	-61.69591	P	PPL	GD		02				0		132	America/Grenada	2018-11-06
+3580445	Battle Hill	Battle Hill		12.10228	-61.62553	P	PPL	GD		01				0		27	America/Grenada	2018-11-06
+3580446	Bathway Beach	Bathway Beach		12.21317	-61.61009	T	BCH	GD		06				0		3	America/Grenada	2016-10-26
+3580447	Barrow	Barrow		12.04975	-61.70476	P	PPL	GD		02				0		260	America/Grenada	2018-11-06
+3580448	Barique	Barique	Barique	12.17703	-61.652	P	PPL	GD		06				0		393	America/Grenada	2018-11-06
+3580449	Bamboo	Bamboo		12.00861	-61.78783	P	PPL	GD		03				0		31	America/Grenada	2016-10-26
+3580450	Balthazar River	Balthazar River	Balthazar,Balthazar River	12.12332	-61.6548	H	STM	GD		01				0		89	America/Grenada	2021-09-08
+3580451	Balthazar Estate	Balthazar Estate	Baltasar,Baltazar,Balthazar Estate	12.12453	-61.65564	S	EST	GD		01				0		91	America/Grenada	2018-11-06
+3580452	Baillies Bacolet Estate	Baillies Bacolet Estate		12.02343	-61.68501	S	EST	GD		02				0		37	America/Grenada	2016-10-26
+3580453	Baillies Bacolet	Baillies Bacolet	Bacolet,Baillies Bacolet	12.03257	-61.68327	P	PPL	GD		02				0		60	America/Grenada	2018-11-06
+3580454	Bagatelle Estate	Bagatelle Estate		12.09392	-61.65214	S	EST	GD		01				0		284	America/Grenada	2018-11-06
+3580455	Bagadi Bay	Bagadi Bay	Ance Bagdi	12.00108	-61.77728	H	BAY	GD		03				0		5	America/Grenada	2016-10-26
+3580456	Bacolet Island	Bacolet Island	Bacolet Island,Hope Island	12.06933	-61.62319	T	ISL	GD		01				0		-9999	America/Grenada	2016-10-26
+3580457	Artiste Point	Artiste Point	Artiste Point,Conference Point	12.16868	-61.60225	T	PT	GD		00				0		4	America/Grenada	2016-10-26
+3580458	Arthur Seat	Arthur Seat		12.17745	-61.64562	P	PPL	GD		06				0		314	America/Grenada	2018-11-06
+3580459	Argyle	Argyle		12.45601	-61.47852	P	PPL	GD		10				0		21	America/Grenada	2013-11-25
+3580460	Après Tout	Apres Tout		12.05972	-61.6723	P	PPL	GD		02				0		398	America/Grenada	2018-11-06
+3580461	Antoine Bay	Antoine Bay	Ance d'Antoine	12.18199	-61.60236	H	BAY	GD		06				0		1	America/Grenada	2016-10-26
+3580462	River Antoine	River Antoine	Antoine River	12.17662	-61.60367	H	STM	GD		06				0		1	America/Grenada	2021-02-22
+3580463	Lake Antoine	Lake Antoine		12.18391	-61.61146	H	LK	GD		06				0		8	America/Grenada	2016-10-26
+3580464	Annandale Waterfall	Annandale Waterfall		12.08786	-61.71713	H	FLLS	GD		03				0		188	America/Grenada	2018-11-06
+3580465	Annandale Estate	Annandale Estate	Annandale,Annandale Estate	12.09098	-61.71471	S	EST	GD		03				0		224	America/Grenada	2018-11-06
+3580466	Amber Belair	Amber Belair	Amber Belair	11.99365	-61.7555	P	PPL	GD		03				0		13	America/Grenada	2016-10-26
+3580467	Fort Adolphus	Fort Adolphus		12.04497	-61.73659	S	FT	GD		03				0		189	America/Grenada	2018-11-06
+3580468	Adelphi	Adelphi	Adelphi,Adelphia	12.10991	-61.67659	P	PPL	GD		01				0		262	America/Grenada	2018-11-06
+3580469	Adam Island	Adam Island	Islet Jacques Adam	11.99719	-61.71844	T	ISL	GD		03				0		-9999	America/Grenada	2016-10-26
+6461873	Flamboyant Hotel	Flamboyant Hotel		12.021	-61.7664	S	HTL	GD						0		12	America/Grenada	2007-04-13
+6463514	Laluna Hotel	Laluna Hotel		12.0155	-61.7784	S	HTL	GD						0		12	America/Grenada	2007-04-13
+6466689	Allamanda Beach Resort	Allamanda Beach Resort		12.0284	-61.7567	S	HTL	GD						0		63	America/Grenada	2007-04-13
+6467655	Coyaba Beach Resort	Coyaba Beach Resort		12.0257	-61.7583	S	HTL	GD						0		10	America/Grenada	2007-04-13
+6472428	Grenadian by Rex Resorts	Grenadian by Rex Resorts		12.0101	-61.7897	S	HTL	GD		03				0		2	America/Grenada	2007-04-13
+6482340	Southwinds Holiday Cottages	SOUTHWINDS HOLIDAY COTTAGES		12.1439	-61.6167	S	HTL	GD						0		19	America/Grenada	2007-04-12
+6484172	Spice Island Beach Resort	Spice Island Beach Resort		12.02239	-61.76488	S	HTL	GD						0		7	America/Grenada	2015-08-11
+6489589	Blue Horizons Garden Resort	Blue Horizons Garden Resort		12.0209	-61.7602	S	HTL	GD						0		17	America/Grenada	2007-04-12
+6490385	Siesta Hotel	Siesta Hotel		12.0237	-61.7581	S	HTL	GD						0		12	America/Grenada	2007-04-15
+6490535	Paradise Bay Resort	Paradise Bay Resort		12.1125	-61.6822	S	HTL	GD						0		288	America/Grenada	2007-04-15
+6497494	Grand View Inn	Grand View Inn		12.018	-61.7704	S	HTL	GD						0		92	America/Grenada	2007-04-14
+6498661	Bel Air Plantation Villa Resort	Bel Air Plantation Villa Resort		12.0332	-61.6665	S	HTL	GD						0		59	America/Grenada	2007-04-14
+6507790	Cedars Inn	CEDARS INN		12.1439	-61.6167	S	HTL	GD						0		19	America/Grenada	2007-04-13
+6509212	Silver Beach Cottages	SILVER BEACH COTTAGES		12.1125	-61.6822	S	HTL	GD						0		288	America/Grenada	2007-04-13
+6510619	Grenada Grand Beach Resort	GRENADA GRAND BEACH RESORT		12.1439	-61.6167	S	HTL	GD						0		19	America/Grenada	2007-04-13
+6516529	Cinnamon Hill Bch Club	CINNAMON HILL BCH CLUB		12.1439	-61.6167	S	HTL	GD						0		19	America/Grenada	2007-04-12
+6516887	Wave Crest Holiday Htl	WAVE CREST HOLIDAY HTL		12.1439	-61.6167	S	HTL	GD						0		19	America/Grenada	2007-04-12
+6517025	Gem Holiday Beach Resort	GEM HOLIDAY BEACH RESORT		12.1439	-61.6167	S	HTL	GD						0		19	America/Grenada	2007-04-12
+6518289	Best Western South City Plaza	BEST WESTERN SOUTH CITY PLAZA		12.1125	-61.6822	S	HTL	GD						0		288	America/Grenada	2007-04-15
+6519577	Hotel Laurena	HOTEL LAURENA		12.1125	-61.6822	S	HTL	GD						0		288	America/Grenada	2007-04-15
+6526742	Monmot Hotel	MONMOT HOTEL		12.0166	-61.75	S	HTL	GD						0		97	America/Grenada	2007-04-14
+6529661	Lance Aux Epines Cottages	LANCE AUX EPINES COTTAGES		12.1125	-61.6822	S	HTL	GD						0		288	America/Grenada	2007-04-14
+7303836	Carriacou and Petite Martinique	Carriacou and Petite Martinique		12.47303	-61.45379	A	ADM1	GD		10				5000		92	America/Grenada	2016-10-26
+7910471	Melville Street, St. George's	Melville Street, St. George's		12.05485	-61.75449	R	ST	GD						0		30	America/Grenada	2011-07-26
+7910472	Sendall Tunnel	Sendall Tunnel		12.05023	-61.75319	R	TNL	GD						0		29	America/Grenada	2011-07-26
+7910473	Gouyave Fish Market	Gouyave Fish Market		12.16766	-61.72937	S	MKT	GD						0		9	America/Grenada	2011-07-26
+8030387	Magazine Beach	Magazine Beach		12.01239	-61.78196	P	PPL	GD						0		19	America/Grenada	2011-10-04
+8643413	Tyrell Bay Beach	Tyrell Bay Beach		12.45577	-61.48347	T	BCH	GD		10				0		6	America/Grenada	2016-10-26
+9962758	Kalinago Beach Resort	Kalinago Beach Resort		12.05	-61.75	S	HTL	GD						0		5	America/Grenada	2015-01-19
+9962759	Mount Cinnamon Grenada	Mount Cinnamon Grenada		12.0167	-61.7667	S	HTL	GD						0		105	America/Grenada	2015-01-19
+10055866	True Blue Bay	True Blue Bay		12.00087	-61.76873	S	HTL	GD						0		14	America/Grenada	2015-02-09
+10105535	Grenadian All Inclusive	Grenadian All Inclusive		12.00685	-61.79416	S	HTL	GD						0		11	America/Grenada	2016-10-26
+10127975	St. Georges University Grand Anse Campus	St. Georges University Grand Anse Campus		12.02295	-61.76251	S	UNIV	GD						0		7	America/Grenada	2015-08-11
+10129305	La Source	La Source		12.00731	-61.79406	S	HTL	GD						0		16	America/Grenada	2015-03-09
+10129324	True Blue Bay Resort	True Blue Bay Resort		12.00101	-61.7684	S	HTL	GD						0		14	America/Grenada	2015-03-09
+10230356	Sandals La Source Grenada	Sandals La Source Grenada		12.00686	-61.79157	S	HTL	GD						0		25	America/Grenada	2015-04-21
+10230357	Radisson Grenada Beach Resort	Radisson Grenada Beach Resort		12.02516	-61.75794	S	HTL	GD						0		11	America/Grenada	2015-04-21
+10278280	Sandals Lasource Grenada Resort and Spa	Sandals Lasource Grenada Resort and Spa		12.00781	-61.79339	S	HTL	GD						0		13	America/Grenada	2015-05-12
+10287637	Flamboyant Deluxe Rooms	Flamboyant Deluxe Rooms		12.05111	-61.74884	S	HTL	GD						0		9	America/Grenada	2015-05-26
+10626557	Camerhogne Park	Camerhogne Park		12.02401	-61.7599	L	PRK	GD						0		9	America/Grenada	2015-08-11
+11184246	Woburn Clarks Court Bay Marine Protected Area	Woburn Clarks Court Bay Marine Protected Area		12.00608	-61.74282	L	RESN	GD						0		17	America/Grenada	2016-10-26
+11204559	Mt. Hartman National Park	Mt. Hartman National Park		12.01454	-61.7472	L	PRK	GD						0		40	America/Grenada	2016-07-20
+11281232	Lesard Bay	Lesard Bay	Ance Lesard	12.00747	-61.7965	H	BAY	GD						0		4	America/Grenada	2016-10-26
+11281241	Mushroom Island	Mushroom Island		12.43163	-61.49338	T	ISL	GD						0		-9999	America/Grenada	2016-10-26
+11281242	Cassada Bay	Cassada Bay		12.44261	-61.48451	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281243	Goat Point	Goat Point		12.43649	-61.49595	T	PT	GD						0		9	America/Grenada	2016-10-26
+11281244	Cobwit Point	Cobwit Point		12.44758	-61.49717	T	PT	GD						0		22	America/Grenada	2016-10-26
+11281245	Petit Cola	Petit Cola		12.43928	-61.49269	T	ISLET	GD						0		1	America/Grenada	2016-10-26
+11281246	Cassada Point	Cassada Point		12.44773	-61.47881	T	PT	GD						0		2	America/Grenada	2016-10-26
+11281247	Gal Bay	Gal Bay		12.44546	-61.4737	H	BAY	GD						0		11	America/Grenada	2016-10-26
+11281248	Dumfries Bay	Dumfries Bay		12.4556	-61.45426	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281249	Sabazan Bay	Sabazan Bay		12.45636	-61.44349	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281251	Girl Bay	Girl Bay		12.46675	-61.43031	H	BAY	GD						0		-9999	America/Grenada	2016-10-26
+11281252	Mount Pleasant Bay	Mount Pleasant Bay		12.48452	-61.42653	H	BAY	GD						0		8	America/Grenada	2016-10-26
+11281253	Anse la Roche	Anse la Roche		12.51887	-61.44842	H	BAY	GD						0		35	America/Grenada	2016-10-26
+11281254	Prospect Bay	Prospect Bay		12.51227	-61.4504	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281255	Stroud Bay	Stroud Bay		12.50624	-61.45014	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281256	White Sand Bay	White Sand Bay		12.47637	-61.49801	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281257	Fijay Bay	Fijay Bay		12.47488	-61.49466	H	BAY	GD						0		68	America/Grenada	2016-10-26
+11281258	Black Sand Bay	Black Sand Bay		12.47213	-61.49814	H	BAY	GD						0		68	America/Grenada	2016-10-26
+11281259	Mount Saint Louis	Mount Saint Louis		12.46897	-61.49559	T	MT	GD						0		136	America/Grenada	2016-10-26
+11281260	Lauriston	Lauriston		12.47358	-61.47256	P	PPL	GD		10				0		23	America/Grenada	2020-06-11
+11281261	Kendace Point	Kendace Point		12.51623	-61.39244	T	PT	GD						0		1	America/Grenada	2016-10-26
+11281262	Gouyavene Bay	Gouyavene Bay		12.51581	-61.39152	H	BAY	GD						0		3	America/Grenada	2016-10-26
+11281263	Kendace	Kendace		12.51513	-61.38779	P	PPL	GD		10				0		56	America/Grenada	2020-06-11
+11281264	Nahoo	Nahoo		12.51455	-61.38333	P	PPLL	GD						0		82	America/Grenada	2016-10-26
+11281265	John Bay	John Bay		12.52517	-61.38049	H	BAY	GD						0		6	America/Grenada	2016-10-26
+11281266	Darent Bay	Darent Bay		12.5266	-61.38229	H	BAY	GD						0		-9999	America/Grenada	2016-10-26
+11281267	Albert Bay	Albert Bay		12.52686	-61.38538	H	BAY	GD						0		1	America/Grenada	2016-10-26
+11281268	Citern Village	Citern Village		12.5178	-61.39096	P	PPL	GD		10				0		28	America/Grenada	2020-06-11
+11395728	ICT Center for Excellence and Innovation (ICEI)	ICT Center for Excellence and Innovation (ICEI)		12.01159	-61.7654	S	BLDG	GD						0		11	America/Grenada	2016-12-19
+11608919	National Cricket Stadium	National Cricket Stadium		12.05895	-61.75258	S	STDM	GD						0		10	America/Grenada	2017-07-11
+11609401	Kirani James Athletic Stadium	Kirani James Athletic Stadium		12.06	-61.75361	S	STDM	GD						0		8	America/Grenada	2017-07-12
+11964113	Levera Beach	Levera Beach		12.22707	-61.61059	T	BCH	GD		06				0		11	America/Grenada	2018-11-08
+11964114	La Fortune Bridge	La Fortune Bridge		12.22174	-61.6364	S	BDG	GD		06				0		17	America/Grenada	2018-11-08
+11964118	Dunfermline Bridge	Dunfermline Bridge		12.14353	-61.62678	S	BDG	GD		01				0		39	America/Grenada	2018-11-08
+11964119	Windsor Park	Windsor Park		12.15946	-61.73125	T	PK	GD		04				0		15	America/Grenada	2018-11-08
+11964120	Paradise Bridge	Paradise Bridge		12.13479	-61.61944	S	BDG	GD		01				0		16	America/Grenada	2018-11-08
+11964121	Saint Cyr Bridge	Saint Cyr Bridge		12.1233	-61.64014	S	BDG	GD		01				0		50	America/Grenada	2018-11-08
+11964122	La Force Bridges	La Force Bridges		12.12774	-61.66284	S	BDG	GD		01				0		114	America/Grenada	2018-11-08
+11964123	Castaigne Bridge	Castaigne Bridge		12.12309	-61.66922	S	BDG	GD		01				0		131	America/Grenada	2018-11-08
+11964131	Crochu Estate	Crochu Estate		12.05579	-61.63716	S	EST	GD		01				0		31	America/Grenada	2018-11-08
+11964132	Carbia Beach	Carbia Beach		12.05559	-61.63397	T	BCH	GD		01				0		10	America/Grenada	2018-11-08
+11964133	Maringouins Bridge	Maringouins Bridge		12.0486	-61.70249	S	BDG	GD		02				0		224	America/Grenada	2018-11-08
+11964134	Baillie’s Bacolet Stock Farm	Baillie's Bacolet Stock Farm		12.02643	-61.68811	S	FRM	GD		02				0		18	America/Grenada	2018-11-08
+11964135	Green Bridge	Green Bridge		12.05878	-61.7544	S	BDG	GD		03				0		5	America/Grenada	2018-11-08
+11964136	Grenada Free Port	Grenada Free Port		12.04444	-61.74957	L	PRT	GD		03				0		5	America/Grenada	2018-11-08
+11964142	Carifta Cottages	Carifta Cottages		12.02124	-61.76431	S	BLDG	GD		03				0		7	America/Grenada	2018-11-08
+11964144	Turtle Beach	Turtle Beach		11.99751	-61.72501	T	BCH	GD		03				0		8	America/Grenada	2018-11-08
+11964145	Boulé Beach	Boule Beach		12.00951	-61.70332	T	BCH	GD		02				0		1	America/Grenada	2018-11-08
+11964146	Anse Paloo Beach	Anse Paloo Beach		12.01164	-61.70881	T	BCH	GD		02				0		9	America/Grenada	2018-11-08
+11964148	Bonjoux Estate	Bonjoux Estate		12.18965	-61.70754	S	EST	GD		05				0		89	America/Grenada	2018-11-08
+11964150	Ballast Ground	Ballast Ground		12.04298	-61.75158	P	PPLX	GD		03				0		41	America/Grenada	2018-11-08
+11964151	Observatory	Observatory		12.05499	-61.74801	P	PPLX	GD		03				0		90	America/Grenada	2018-11-08
+11970840	Blow Hole	Blow Hole		11.99928	-61.78786	T	PT	GD		03				0		8	America/Grenada	2018-11-08
+11970841	Mount Alexander	Mount Alexander		12.22881	-61.65755	T	MT	GD		06				0		115	America/Grenada	2018-11-08
+11970842	Morne Docteur	Morne Docteur		12.10596	-61.74964	T	MT	GD		03				0		74	America/Grenada	2018-11-08
+12104478	Point Salines Lighthouse (historical)	Point Salines Lighthouse (historical)	Saline Point Lighthouse	12.0029	-61.80174	S	LTHSE	GD		03				0		10	America/Grenada	2019-11-20
+12104479	St. Andrew's Presbyterian Church	St. Andrew's Presbyterian Church		12.0509	-61.7537	S	CH	GD		03				0		26	America/Grenada	2019-11-19
+12104480	Cathedral of the Immaculate Conception	Cathedral of the Immaculate Conception		12.05341	-61.75211	S	CH	GD		03				0		38	America/Grenada	2019-11-19
+12104486	Saint George’s Anchorage	Saint George's Anchorage	Saint Georges Anchorage,St. Georges Anchorage	12.05681	-61.75777	H	ANCH	GD		03				0		20	America/Grenada	2021-02-20
+12104487	St. George's Harbour Light	St. George's Harbour Light	Fort George Light,Saint Georges Red Light,St. Georges Red Light	12.04955	-61.75421	S	LTHSE	GD		03				0		43	America/Grenada	2021-02-20
+12949469	Belmont	Belmont		12.45006	-61.47358	P	PPL	GD		10				0		51	America/Grenada	2024-07-12
+12949684	Paradise	Paradise		12.52273	-61.38956	P	PPL	GD		10				0		86	America/Grenada	2024-07-12
+12949685	Limlair	Limlair		12.49997	-61.43183	P	PPLL	GD		10				0		37	America/Grenada	2024-07-12
+12949686	Piton	Piton		12.51647	-61.38479	T	HLL	GD		10				0		3	America/Grenada	2024-07-12
+12949687	Locust	Locust		12.52077	-61.38369	P	PPL	GD		10				0		86	America/Grenada	2024-07-12
+12949689	Morne	Morne		12.51887	-61.3825	T	HLL	GD		10				0		-9999	America/Grenada	2024-07-12
+12949690	La Baleine	La Baleine		12.50619	-61.40083	T	RK	GD		10				0		-9999	America/Grenada	2024-07-12
+12949691	Cherry Hill	Cherry Hill		12.49939	-61.44546	P	PPL	GD		10				0		84	America/Grenada	2024-07-12
+12949692	Belle Vue	Belle Vue		12.51919	-61.38679	P	PPLL	GD		10				0		86	America/Grenada	2024-07-12
+12949694	Vespe	Vespe		12.50816	-61.4451	L	LCTY	GD		10				0		59	America/Grenada	2024-07-12
+12949695	Belpha	Belpha		12.51643	-61.44488	L	LCTY	GD		10				0		93	America/Grenada	2024-07-12
+12949696	Beausejour	Beausejour		12.48925	-61.45321	P	PPL	GD		10				0		33	America/Grenada	2024-07-12
+12949697	Belle Vue North	Belle Vue North	Belle Vue North,High North	12.5139	-61.4407	L	LCTY	GD		10				0		151	America/Grenada	2024-07-12
+12949698	Sanchez	Sanchez		12.52481	-61.38675	P	PPL	GD		10				0		86	America/Grenada	2024-07-12
+12949699	Moule Va Point	Moule Va Point		12.51493	-61.43007	T	PT	GD		10				0		1	America/Grenada	2024-07-12
+12949700	Bayaleau	Bayaleau		12.50184	-61.42389	P	PPL	GD		10				0		-9999	America/Grenada	2024-07-12
+12949701	Sugar Hill	Sugar Hill		12.52302	-61.38429	T	HLL	GD		10				0		86	America/Grenada	2024-07-12
+12949702	Citerne	Citerne	Citerne,Windward	12.51562	-61.38057	L	LCTY	GD		10				0		-9999	America/Grenada	2024-07-12
+12949703	Citerne	Citerne	Citerne,Leeward	12.51758	-61.3908	P	PPL	GD		10				0		86	America/Grenada	2024-07-12
+12949704	Craigston	Craigston		12.49362	-61.45036	P	PPL	GD		10				0		40	America/Grenada	2024-07-12
+12949707	Bas Sienne	Bas Sienne		12.51459	-61.37815	H	SHOL	GD		10				0		-9999	America/Grenada	2024-07-12
+12949708	Convent	Convent		12.51829	-61.38578	L	LCTY	GD		10				0		86	America/Grenada	2024-07-12
+12949709	Madame Pierre	Madame Pierre		12.52523	-61.38342	P	PPL	GD		10				0		1	America/Grenada	2024-07-12
+12949710	Belair Park	Belair Park		12.49026	-61.44145	S	RUIN	GD		10				0		55	America/Grenada	2024-07-12
+12949711	Petit Carenage	Petit Carenage	Petit Carenage,Petit Carenage Village	12.52247	-61.43738	P	PPL	GD		10				0		58	America/Grenada	2024-07-12
+12949715	High North	High North		12.50748	-61.44093	T	MT	GD		10				0		58	America/Grenada	2024-07-12
+13037105	Mount Royal	Mount Royal		12.46928	-61.45038	P	PPL	GD		10				0		151	America/Grenada	2024-08-14
+13037106	Mount D'Or	Mount D'Or		12.46832	-61.44327	P	PPL	GD		10				0		135	America/Grenada	2024-08-14
+13037107	Little Breteche Bay	Little Breteche Bay	Little Bretache Bay,Little Breteche Bay	12.45568	-61.44333	H	COVE	GD		10				0		1	America/Grenada	2024-08-14
+13037108	Great Breteche Bay	Great Breteche Bay	Great Bretache Bay,Great Breteche Bay	12.45623	-61.45421	H	COVE	GD		10				0		1	America/Grenada	2024-08-14
+13037109	Dry Rock	Dry Rock		12.42102	-61.48312	T	RK	GD						0		-9999	America/Grenada	2024-08-14
+13037110	La Resouc	La Resouc		12.47203	-61.44928	P	PPL	GD		10				0		135	America/Grenada	2024-08-14
+13037111	Mount Desire	Mount Desire		12.47019	-61.45756	P	PPL	GD		10				0		151	America/Grenada	2024-08-14
+13037112	Prospect Hall	Prospect Hall		12.475	-61.45555	P	PPL	GD		10				0		151	America/Grenada	2024-08-14
+13037113	Kendeace	Kendeace	Kendace,Kendeace	12.46158	-61.4325	L	LCTY	GD		10				0		-9999	America/Grenada	2024-08-14
+13037114	Sabazan	Sabazan		12.45823	-61.44529	P	PPL	GD		10				0		1	America/Grenada	2024-08-14
+13455734	Black Bay	Black Bay		12.45257	-61.46244	H	BAY	GD		10				0		1	America/Grenada	2025-07-19

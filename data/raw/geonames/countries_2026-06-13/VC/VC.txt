@@ -1,0 +1,691 @@
+3577783	Young Island	Young Island	Young Island,Young Islet,Youngs Island,Youngs Islet	13.13051	-61.2027	T	ISL	VC		04				0		22	America/St_Vincent	2016-10-28
+3577784	Yambu Head	Yambu Head	Jambou Bluff,Jambou Head,Yambou Head	13.15772	-61.144	T	HDLD	VC		04				0		43	America/St_Vincent	2016-10-27
+3577785	Worlds End Reef	Worlds End Reef		12.61979	-61.32891	H	RF	VC		06				0		-9999	America/St_Vincent	2024-07-10
+3577786	West Cay	West Cay		12.99047	-61.29045	T	RK	VC		06				0		1	America/St_Vincent	2014-04-17
+3577787	Waterloo Mountains	Waterloo Mountains	Waterloo Mountains	13.34105	-61.15504	T	MTS	VC		01				0		574	America/St_Vincent	2023-06-14
+3577788	Waterloo	Waterloo		13.30901	-61.12362	P	PPL	VC		01				0		78	America/St_Vincent	2016-10-27
+3577789	Wallilabou Bay	Wallilabou Bay	Oualelbeau Bay,Walilabo Bay,Wallilabo Bay,Wallilabou Bay,Wallilabu Bay	13.24826	-61.27298	H	BAY	VC		05				0		64	America/St_Vincent	2020-09-23
+3577790	Wallibou River	Wallibou River		13.31369	-61.23313	H	STM	VC		03				0		6	America/St_Vincent	2016-10-27
+3577791	Wallibou	Wallibou	Wallibou,Wallibu	13.31151	-61.23221	P	PPL	VC		03				0		42	America/St_Vincent	2016-10-27
+3577792	Vermont	Vermont	Vermont	13.20423	-61.22466	P	PPL	VC		02				635		180	America/St_Vincent	2025-09-21
+3577793	Upper Bay	Upper Bay		12.63767	-61.38712	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577794	Union Island	Union Island	Giounion Ailant,Illa Union,Illa Unión,Junion,Junionas,UNI,Union,Union Island,Unión,yunieon seom,yunion dao,Γιούνιον Άιλαντ,Юнион,ユニオン島,유니언 섬	12.60081	-61.43568	T	ISL	VC		06				0		38	America/St_Vincent	2016-10-26
+3577795	Union	Union		13.01422	-61.23211	P	PPL	VC		06				0		104	America/St_Vincent	2014-04-17
+3577796	Turema	Turema	Tourama,Turema	13.32114	-61.14441	P	PPL	VC		01				0		296	America/St_Vincent	2016-10-27
+3577797	Troumaca Bay	Troumaca Bay	Suffolk Bay,Troumaka Bay	13.27892	-61.26206	H	BAY	VC		03				0		19	America/St_Vincent	2016-10-27
+3577798	Troumaka	Troumaka	Troumaka,torumaka,trwmaka,تروماکا,ٹروماکا,トルマカ	13.28011	-61.25762	P	PPL	VC		03				0		136	America/St_Vincent	2016-10-27
+3577799	Trois Loups Bay	Trois Loups Bay		13.34845	-61.21325	H	COVE	VC		03				0		175	America/St_Vincent	2016-10-27
+3577800	Tobago Cays	Tobago Cays	Tobago Cays	12.63381	-61.35731	T	ISLS	VC		06				0		-9999	America/St_Vincent	2011-03-29
+3577801	Stubbs Bay	Stubbs Bay	Cubaimarou Bay	13.14236	-61.15604	H	COVE	VC		04				0		1	America/St_Vincent	2016-10-27
+3577802	Stubbs	Stubbs		13.14802	-61.15891	P	PPL	VC		04				0	748	20	America/St_Vincent	2025-09-21
+3577803	Spring Village	Spring Village	Spring Village	13.26212	-61.25068	P	PPL	VC		05				0		28	America/St_Vincent	2016-10-27
+3577804	Spring Bay	Spring Bay		13.01956	-61.21974	H	COVE	VC		06				0		1	America/St_Vincent	2014-04-17
+3577805	South Rivers	South Rivers		13.24642	-61.14162	P	PPL	VC		01				0		106	America/St_Vincent	2016-10-27
+3577806	South Mayreau Channel	South Mayreau Channel		12.61667	-61.4	H	CHNM	VC		06				0		-9999	America/St_Vincent	1993-12-22
+3577807	South Glossy Bay	South Glossy Bay		12.70011	-61.34989	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577808	Savan Rock	Savan Rock		12.79799	-61.21749	T	RK	VC		06				0		-9999	America/St_Vincent	2016-10-26
+3577809	Savan Island	Savan Island	Big Savan,Savan,Savan Island,sa wan dao,savuan dao,Саван,サヴァン島,萨万岛	12.80697	-61.21063	T	ISL	VC		06				0		28	America/St_Vincent	2016-10-26
+3577810	Sans Souci	Sans Souci		13.22378	-61.13136	P	PPL	VC		01				0		55	America/St_Vincent	2015-09-19
+3577811	Sandy Bay	Sandy Bay		13.35041	-61.12703	H	COVE	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577812	Sand Cay	Sand Cay	Pinnacle	12.5993	-61.42992	T	PK	VC		06				0		171	America/St_Vincent	2016-10-26
+3577813	Saline Bay	Saline Bay		12.63397	-61.39748	H	COVE	VC		06				0		25	America/St_Vincent	2014-04-17
+3577815	Saint Vincent and the Grenadines	Saint Vincent and the Grenadines	Agios Vikentios kai Grenadines,Colony of Saint Vincent,Fisennti ati Genadina,Fisẹnnti ati Genadina,Mutagatifu Visenti na Gerenadine,Naomh Bhionsant agus Eileanan Greanadach,Noo Winsen as ny Grenadeenyn,S:t Vincent och Grenadinerna,Sa Viniseni mo Kulenatini,Saint Vincent,Saint Vincent Colony,Saint Vincent a Grenadiny,Saint Vincent a'r Grenadines,Saint Vincent agus na Grenadines,Saint Vincent an d'Grenadinen,Saint Vincent and the Grenadines,Saint Vincent ati awon Grenadini,Saint Vincent a’r Grenadines,Saint Vincent dan Grenadines,Saint Vincent dan the Grenadines,Saint Vincent e Grenadine,Saint Vincent e Grenadines,Saint Vincent e las Grenadinas,Saint Vincent en de Grenadines,Saint Vincent es Grenadines,Saint Vincent es a Grenadine-szigetek,Saint Vincent eta Grenadinak,Saint Vincent i Grenadyny,Saint Vincent i les Grenadines,Saint Vincent in Grenadine,Saint Vincent ja Grenadiinid,Saint Vincent ja Grenadiinit,Saint Vincent ja Grenadine,Saint Vincent ja Grenadines,Saint Vincent jeung Grenadin,Saint Vincent jeung Grénadin,Saint Vincent kple Grenadine nutome,Saint Vincent lan Grenadines,Saint Vincent na Grenadini,Saint Vincent ne Grenadines,Saint Vincent och Grenadinerna,Saint Vincent og Grenadinane,Saint Vincent og Grenadinene,Saint Vincent og Grenadinerne,Saint Vincent si Grenadines,Saint Vincent u Giraven Grenadin,Saint Vincent u l-Grenadini,Saint Vincent ug ang Grenadines,Saint Vincent va Grenadines,Saint Vincent ve Grenadines,Saint Vincent ve Grenadinler,Saint Vincent và Grenadines,Saint Vincent àti àwọn Grẹnadínì,Saint Vincent és Grenadines,Saint Vincent és a Grenadine-szigetek,Saint Vincent û Giravên Grenadîn,Saint Vincent și Grenadines,Saint Vincent  Grenadines,Saint Vinsen lan Grenadin,Saint Vinsen lan Grénadin,Saint Vinsent og Grenadineyjar,Saint Vinsent og Grenadíneyjar,Saint Winsent wan Grenadinak,Saint-Vincent-et-les Grenadines,Saint-Vincent-et-les-Grenadines,Saluda-Vinsenteaen e Grenadineaens,Saluda-Vinsenteän e Grenadineäns,San Binsan Da Girnadin,San Uinseann agus na Greanaidini,San Uinseann agus na Greanáidíní,San Vicente at ang Kagranadinahan,San Vicente e As Granadinas,San Vicente e Granadinas,San Vicente e Granadinas - Saint Vincent and the Grenadines,San Vicente ihuan in Granadinas,San Vicente ken dagiti Grenadito,San Vicente y Les Granadines,San Vicente y las Granadinas,San Vicente īhuān in Granadinas,San Vicenti i las Granainas,San Vincens e Grenadin-e,San Vincente asin an Granadinas,San Vincente ngan an Grenadines,San Vincenz e Grenadin,San Vincenzo e Grenadinn-e,San Vinçenzo e Grenadinn-e,San Weesaa ak Garanadin,Sancte Vincente e le Grenadinas,Sanctus Vincentius et Granatinae,Sankta Vincento kaj la Grenadinoj,Sankte Vinsent e li Grenadines,Sankti Vinsent og Grenadineyjar,Sankti Vinsent og Grenadíneyjar,Sant Vicent y as Granadinas,Sant Vincenc e las Grenadinas,Sant Vincenç e las Grenadinas,Sant Visant hag an Inizi Granadinas,Sant Visant hag ar Grenadinez,Sant-Vincent-et-les Grenadenes,Santa Vincent dan Grenadin,Santa Vincent e Grenadini,Santavisenti na Grenadini,Santu Vicent mpe Granadines,Santu Vicent mpé Granadines,Santu vesa ne Ngelenadine,Sao Vicente e Granadinas,Sao Vincente e Granadinas,Saunt Vincent an the Grenadines,Saŋ Weesaa ak Garanadin,See Weesaa e Garnadiin,Sejnt Vinsent i Grenadini,Sejnt Vinsunt i Grenadini,Sen Vensan ak Grenadin,Sen Vinsent ha'n Ynysow Grenadinek,Sen-Vensaean na aGrenadini,Sent Vinsent i Grenadini,Sent Vinsent uonna Grenadinnar,Sent Vinsent va Grenadinlar,Sent Vinsent ve Grenadinler,Sent Vinsentas ir Grenadinai,Sent Vinsunt i Grenadini,Sent Visent-Grenadinner,Sent-Vincento kaj la Grenadinoj,Sent-Vinsent a  Grenadinash a,Sent-Vinsent aemae Grenadintae,Sent-Vinsent ba Grenadin,Sent-Vinsent i Grehnadziny,Sent-Vinsent i Grenadini,Sent-Vinsent i Grenadiny,Sent-Vinsent i Grenadyny,Sent-Vinsent va Grenadin,Sent-Vinsent va Grenadina,Sent-Vinsent və Qrenadina,Sent-Vinsent və Qrenadinlər,Sent-Vinsent zhana Grenadinder,Sent-Vinsent zhəne Grenadin araldary,Sent-Vinsent һəm Grenadin,Sent-Winsent we Grenadinler,Senti Vinsenti ne Gurendadiini,Sentvinsenta un Grenadinas,Sentvinsenta un Grenadīnas,Sentʻ Vinsentʻ ev Grenadinner,Senvinsentin boln Grenadin Orn,Sevensa na Gerenadine,Sfantul Vicentiu si Grenadine,Sfantul Vincentiu si Grenadine,Sfântul Vicențiu și Grenadine,Sfântul Vincențiu și Grenadine,Shen Vincenti dhe Grenadinet,Shen-Vincent dhe Grenadine,Shën Vincenti dhe Grenadinet,Shën-Vincent dhe Grenadine,Sint Vincent en de Grenadinen,Sint Vincent en die Grenadine,St Vincent and Grenadines,St. Finsent & Girenadiins,St. Vincent & Grenadines,St. Vincent an Grenadiinen,St. Vincent an d'Grenadinnen,St. Vincent an d’Grenadinnen,St. Vincent en de Grenadines,St. Vincent en die Grenadines,St. Vincent na Grenadines,St. Vincent og Grenadinane,St. Vincent og Grenadinene,St. Vincent og Grenadinerne,St. Vincent un de Grenadinen,St. Vincent und die Grenadinen,St. Vinsent & Grenadinoyggjar,State of Saint Vincent,Sv. Vincent a Grenadiny,Sv. Vincent i Grenadini,Svaety Vincent,Svaety Vincent a Grenadiny,Svaty Vincenc a Grenadiny,Svaty Vincent a Grenadiny,Svatý Vincenc a Grenadiny,Svatý Vincent a Grenadiny,Sventasis Vincentas ir Grenadinai,Sveti Vincent i Grenadini,Sveti Vincent in Grenadini,Sveti Vinsent i Grenadin,Sveti Vinsent i Grenadine,Sveti Vinsent i Grenadini,Svätý Vincent,Svätý Vincent a Grenadíny,Sántu vesá mpé Gelenadinɛ,São Vicente e Granadinas,São Vincente e Granadinas,Sên-Vensäan na âGrenadîni,Sā Viniseni mo Kulenatini,Vincent na Grenadines Di nso,Vincent na Grenadines Dị nsọ,Vinisɛn-Senu-ni-Grenadini,Xan Vin-xen va Gre-na-din,Xan Vin-xen và Grê-na-din,Xanh Vin-xang va Grenad (Saint Vincent va Grenadines),Xanh Vin-xăng và Grênad (Saint Vincent và Grenadines),ceyint vincent & kirenatains,ceyint. vincent kirenetins,che'inta bhinacenta arau grainada'inacha,hcinbainnsangnhang garinaydine,i-Saint Vincent ne-Grenadines,qidusi viniseniti ʿina ግrenadinisi,qidusi vinisenitini ግrenadinisini,sant fnsnt wghrnadyn,sant fnsnt wjzr ghrynadyn,sant fnsynt waljrynadynz,sant fynsynt w aljrynadynz,santa vinsenta aura grenada'insa,saynt vynsېnt vە gyrېnadynېs,seinteu binsenteu geulenadin,seinteubinsenteu geulenadin,seinteubinsenteugeulenadin,senda vinsenda grenadinesca,senr viൻsenrum granedaiൻsum,sent vinsent mattu grenadins,sent. vinsent mattu grenedains,senta bhinasenta baro grenada'ina,senta bhinasenta ebam di grenadis,senta bhinasenta o grenada'ina dbipapunja,senta bhinasenta o grenadinasa,senta bhinasenta o grinedansa,senta bhinsenta ra grenadinsa,senta vhinsenta ani grenada'insa,senta vhinsenta ani grenedinsa,senta vinasainta ainda grenadinasa,senta vinasainta ate grenadinaza,senta vinsenta ane greneda'insa,senta vinsenta aura grenada'insa,sentobinsento jibigurenadin zhu dao,sentobinsento・gurenadin,sentwinsent læa ke rna dins,sentʼ-vinsentʼi da grenadinebi,seyint vinsent mariyu grenadins,sheng wen sen ji ge rui na ding,sheng wen sen te he ge lin na ding si,snt wynsnt w grnadyn,snt wynsnt whgrndynym,synt wynsnt w grnadynz,synٹ wynsؠٹ tہ grynaڑaynz,synټ wysnټynټ aw ګrynډynz,synٽ wnsnt ۽ grynaڊynz,syynt wynsnt whgrndyns,Šventasis Vincentas ir Grenadinai,Άγιος Βικέντιος και Γρεναδίνες,Свети Винсент и Гренадине,Свети Винсент и Гренадини,Свети Винцент и Гренадини,Сейнт Винсент и Гренадини,Сейнт Винсънт и Гренадини,Сенвинсентин болн Гренадин Орн,Сент Винсент и Гренадини,Сент Винсент уонна Гренадиннар,Сент Винсънт и Гренадини,Сент-Винсент æмæ Гренадинтæ,Сент-Винсент а  Гренадинаш а,Сент-Винсент ба Гренадин,Сент-Винсент ва Гренадина,Сент-Винсент жана Гренадиндер,Сент-Винсент және Гренадин аралдары,Сент-Винсент және Гренадиндер,Сент-Винсент и Гренадины,Сент-Винсент һәм Гренадин,Сент-Вінсент і Гренадини,Сент-Вінсент і Грэнадзіны,Сент-Вінсент і Ґренадіни,Сэнт-Вінсэнт і Грэнадыны,Սենթ Վինսենթ և Գրենադիններ,Սենտ Վիսենտ-Գրենադիններ,סיינט וינסנט והגרנדינס,סנט וינסנט ואיי גרנאדין,סנט וינסנט והגרנדינים,سانت فنسنت وجزر غرينادين,سانت فنسنت وغرنادين,سانت فنسينت والجرينادينز,سانت فينسينت و الجرينادينز,ساينت ۋىنسېنت ۋە گىرېنادىنېس,سنت وینسنت و گرنادین,سنت وینسنت و گرنادین‌ها,سینت وینسنت و گرنادینز,سینٹ ونسنٹ اور گرینیڈائنز,سینٹ ونسٹنٹ اینڈ دی گریناڈانز,سینٹ وینسؠٹ تہٕ گریناڑاینٕز,سینٹ وینسینٹ و گریناڈائنز,سینټ ویسنټینټ او ګرینډینز,سینٽ ونسنت ۽ گریناڊینز,سېنت ۋىنسېنت ۋە گرېنادىن ئاراللىرى,سېنټ وېنسېنټ او ګرېناډينز,سەینت ڤینسەنت و گرینادینز,ސަންތި ވިސެންޓޭ އަދި ގުރެނާޑީން,सन्त विन्सेण्ट और ग्रेनाडाइन्स,सेंट विंसेंट और ग्रेनाडाइंस,सेंट व्हिन्सेंट आणि ग्रेनडाइन्स,सेंट व्हिन्सेंट आणि ग्रेनेडीन्स,सेंड विन्सेन्ड ग्रेनदिनेश्च,सेन्ट भिन्सेन्ट र ग्रेनाडिन्स,ছেইণ্ট ভিনচেণ্ট আৰু গ্ৰীণাডাইনছ,সেন্ট ভিনসেন্ট ও গ্রেনাডাইন দ্বীপপুঞ্জ,সেন্ট ভিনসেন্ট ও গ্রেনাডিনস,সেন্ট ভিনসেন্ট বারো গ্রেনাডাইন,ਸੇਂਟ ਵਿਨਸੈਂਟ ਅਤੇ ਗ੍ਰੇਨਾਡੀਨਜ਼,ਸੇਂਟ ਵਿਨਸੈਂਟ ਐਂਡ ਗ੍ਰੇਨਾਡੀਨਸ,સેંટ વિન્સેંટ અને ગ્રેનેડાઇંસ,ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଦି ଗ୍ରେନାଡିସ୍,ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଓ ଗ୍ରିନେଡାନ୍ସ,செயிண்ட். வின்செண்ட் கிரெனேடின்ஸ்,செயின்ட் வின்சென்ட் & கிரெனடைன்ஸ்,సెయింట్ విన్సెంట్ మరియు గ్రెనడీన్స్,ಸೇಂಟ್ ವಿನ್ಸೆಂಟ್ ಮತ್ತು ಗ್ರೆನಡೀನ್ಸ್,ಸೇಂಟ್. ವಿನ್ಸೆಂಟ್ ಮತ್ತು ಗ್ರೆನೆಡೈನ್ಸ್,സെന്റ് വിൻസെന്റും ഗ്രനെഡൈൻസും,സെയ്ന്റ് വിൻസന്റ് ഗ്രനഡീൻസ്,ශානත වනසනට සහ ග‍රෙනඩනස,ශාන්ත වින්සන්ට් සහ ග්‍රෙනඩින්ස්,ประเทศเซนต์วินเซนต์และเกรนาดีนส์,เซนต์วินเซนต์และเกรนาดีนส์,ເຊນ ວນເຊນ ແລະ ເກຣເນດນ,ເຊນ ວິນເຊນ ແລະ ເກຣເນດິນ,སནཊ་ཝན་སནཌ ཨནཌ་ ག་ར་ན་དནས,སེན་ཊི་བིན་སེན་ཊི་དང་གི་རི་ན་ཌིན་སི།,སེནཊ་ཝིན་སེནཌ྄ ཨེནཌ་ གི་རེ་ན་དིནས྄,སེནྚ། ཝིན་སན། དང༌། གྷིརིན་ཌིན།,စိန့်ဗင်းဆင့်နှင့် ဂရိနေဒိုင်,စိန့်ဗင်းဆင့်နှင့်ဂရိနေဒိုင်နိုင်ငံ,სენტ-ვინსენტი და გრენადინები,ቅዱስ ቪንሴንት እና ግሬናዲንስ,ቅዱስ ቪንሴንትን ግሬናዲንስን,សាង​វាងសង នង ហគរេណាឌន,សាំង​វ៉ាំងសង់ និង ហ្គ្រេណាឌីន,セントビンセント・グレナディーン,セントビンセント及びグレナディーン諸島,圣文森特和格林纳丁斯,聖文森及格瑞那丁,세인트 빈센트 그레나딘,세인트빈센트 그레나딘,세인트빈센트그레나딘	13.08333	-61.2	A	PCLI	VC		00				110211		-9999	America/St_Vincent	2026-01-27
+3577816	Saint Vincent	Saint Vincent	Agios Vikentios,Ilha de Sao Vicente,Ilha de São Vicente,Insula Sancti Vincentii,Isla de San Vicente,SVD,Saint Vincent,Saint-Vincent,San Vicente,Sen-Vinsent,Sent Vinsent,Sent Vinsentas,Sent-Vinsent,St. Vincent,Svaty Vincenc,Svatý Vincenc,Sveti Vincent,Vostrau Sent-Vinsent,sant fynsnt,seinteubinsenteu seom,sentobinsento dao,setobinsento dao,sheng wen sen te dao,snt wynsnt,Άγιος Βικέντιος,Востраў Сент-Вінсент,Свети Винцент,Сент Винсент,Сент-Винсент,Сент-Вінсент,סנט וינסנט,سانت فينسنت,セトビンセント島,セントビンセント島,圣文森特岛,세인트빈센트 섬	13.25355	-61.1841	T	ISL	VC		00				100000		805	America/St_Vincent	2021-02-20
+3577817	Argyle International Airport	Argyle International Airport	Aeroport international d'Argyle,Aeroporto Internazionale di Argyle,Argyle International Airport,Aéroport international d'Argyle,SVD,TVSA,frwdgah byn‌almlly argayl,فرودگاه بین‌المللی آرگایل	13.15828	-61.14936	S	AIRP	VC		04				0		33	America/St_Vincent	2020-03-28
+3577818	Parish of Saint Patrick	Parish of Saint Patrick	Agios Patrikios,Parafija Sent-Patrik,Parish of Saint Patrick,Paroho Sankta Patriko,Paroki Saint Patrick,Paroĥo Sankta Patriko,Saint Patrick,Saint Patrick Parish,Saint Patrick parrokia,Saint Patrick sogn,Saint Patrickin pitaejae,Saint Patrickin pitäjä,Saint-Patrick,San Patricio,Sao Patricio,Sent Patrik,Sent-Patrik,Sent-Patrik Parish,Sentpatrika pagasts,Sv. Patriko parapija,São Patrício,abrshyt alqdys batryk,ceyint petrik paris,parrocchia di Saint Patrick,seinteupaeteuliggu,seniti ፓtiriki Parish,sent pyatrik pyaris,senta paitrika Parish,senta paitrika pairisa,senta petrika perisa,senta pyatrika pyarisa,seyint patrik paris,sheng pai qu ke qu,synټ patryk Parish,Šv. Patriko parapija,Άγιος Πατρίκιος,Парафія Сент-Патрік,Сент Патрик,Сент-Патрик,Сент-Патрик Parish,أبرشية القديس باتريك,سنت پاتریک پریش، سنت وینسنت و گرنادین‌ها,سینٹ پیٹرک پریش، سینٹ ونکنٹ و تھے گریندنس,سینټ پاتریک Parish,सेंट पॅट्रिक पॅरीश,सेंट पैट्रिक पैरिश,সেন্ট প্যাট্রিক প্যারিশ,ਸੇਂਟ ਪੈਟ੍ਰਿਕ Parish,સેન્ટ પેટ્રિક પૅરિશ,செயின்ட் பேட்ரிக் பாரிஸ்,సెయింట్ పాట్రిక్ పారిష్,ಸೇಂಟ್ ಪ್ಯಾಟ್ರಿಕ್ ಪ್ಯಾರಿಷ್,ශාන්ත පැට්‍රික් ප්‍රාන්තය,เซนต์ เพทริค แพริช,ሴንት ፓትሪክ Parish,セント・パトリック教区,圣派屈克区,聖派屈克區,세인트패트릭구	13.2399	-61.23449	A	ADM1	VC		05				6089		356	America/St_Vincent	2026-04-16
+3577819	Parish of Saint George	Parish of Saint George	Agios Georgios,Parafija Sent-Dzhordzh,Parish of Saint George,Paroho Sankta Georgo,Paroki Saint George,Paroĥo Sankta Georgo,Saint George,Saint George Parish,Saint George parrokia,Saint George sogn,Saint Georgen kunta,Saint-George,San Jorge,Sao Jorge Parish,Sent DZordz,Sent-Dzhordzh,Sent-Dzhordzh Parish,Sentdzordza pagasts,Sentdžordža pagasts,Sv. Jurgio parapija,São Jorge Parish,abrshyt sant jwrj,ceyint George paris,parrocchia di Saint George,seinteujojigu,seniti joriji Parish,sent jarj pyaris,senta jaraja Parish,senta jarja pyarisa,senta jorja pairisa,senta jorja perisa,senta jyorja perisa,senth ci xx ci pha lis,sentojoji,seyint jarji paris,sheng qiao zhi qu,synټ jarj Parish,Šv. Jurgio parapija,Άγιος Γεώργιος,Парафія Сент-Джордж,Сент Џорџ,Сент-Джордж,Сент-Джордж Parish,أبرشية سانت جورج,سنت جورج پریش، سنت وینسنت و گرنادین‌ها,سینٹ جارج پریش، سینٹ ونکنٹ و تھے گریندنس,سینټ جارج Parish,सेंट जॉर्ज पॅरीश,सेंट जॉर्ज पैरिश,সেন্ট জর্জ প্যারিশ,ਸੇਂਟ ਜਾਰਜ Parish,સેન્ટ જ્યોર્જ પૅરિશ,செயின்ட் George பரிஷ்,సెయింట్ జార్జి పారిష్,ಸೇಂಟ್ ಜಾರ್ಜ್ ಪ್ಯಾರಿಷ್,ශාන්ත ජෝජ් ප්‍රාන්තය,เซนท์ จีออจี พาลิซ,ሴንት ጆርጅ Parish,セントジョージ,圣乔治区,聖喬治區,세인트조지구	13.16524	-61.19282	A	ADM1	VC		04				53957		134	America/St_Vincent	2026-04-16
+3577820	Saint Elairs Cay	Saint Elairs Cay	Middle Cay,Saint Elairs Cay,Whale Cay	12.98051	-61.24116	T	ISL	VC		06				0		-9999	America/St_Vincent	2016-10-27
+3577821	Parish of Saint David	Parish of Saint David	Agios David,Parafija Sent-Devid,Parish of Saint David,Paroho Sankta Davido,Paroki Saint David,Paroĥo Sankta Davido,Saint David,Saint David Parish,Saint David parrokia,Saint David sogn,Saint Davidin pitaejae,Saint Davidin pitäjä,Saint-David,San David,Sao David,Sent Dejvid,Sent-Dehvid Parish,Sent-Dejvid,Sentdeivida pagasts,Sv. Dovydo parapija,São David,abrshyt alqdys dyfyd,ceyint tevit paris,parrocchia di Saint David,seinteudeibideugu,seniti davidi Parish,sent devid pyaris,sent dewid,senta debhida pyarisa,senta devhida perisa,senta devida Parish,senta devida pairisa,senta devida perisa,seyint devid paris,sheng da wei qu,synټ ډywyډ Parish,Šv. Dovydo parapija,Άγιος Δαβίδ,Парафія Сент-Девід,Сент Дејвид,Сент-Дейвид,Сент-Дэвид Parish,أبرشية القديس ديفيد,سنت دیوید پریش، سنت وینسنت و گرنادین‌ها,سینٹ ڈیوڈ پریش، سینٹ ونکنٹ و تھے گریندنس,سینټ ډیویډ Parish,सेंट डेविड पैरिश,सेंट डेव्हिड पॅरीश,সেন্ট ডেভিড প্যারিশ,ਸੇਂਟ ਡੇਵਿਡ Parish,સેન્ટ ડેવિડ પૅરિશ,செயின்ட் டேவிட் பரிஷ்,సెయింట్ డేవిడ్ పారిష్,ಸೇಂಟ್ ಡೇವಿಡ್ ಪ್ಯಾರಿಷ್,ශාන්ත ඩේවිඩ් ප්‍රාන්තය,เซนต์เดวิด,ሴንት ዳቪድ Parish,セント・デイヴィッド郡,圣大卫区,聖大衛區,聖大衞區,세인트데이비드구	13.3	-61.2	A	ADM1	VC		03				7033		470	America/St_Vincent	2026-04-16
+3577822	Parish of Saint Andrew	Parish of Saint Andrew	Agios Andreas,Parafija Sent-Andru,Parish of Saint Andrew,Paroho Sankta Andreo,Paroki Saint Andrew,Paroĥo Sankta Andreo,Saint Andrew,Saint Andrew Parish,Saint Andrew parrokia,Saint Andrew sogn,Saint Andrewin pitaejae,Saint Andrewin pitäjä,Saint-Andrew,San Andres,San Andrés,Santo Andre,Santo André,Sent Endru,Sent-Andru,Sent-Ehndrju Parish,Sentendru pagasts,Sentendrū pagasts,Sv. Andriaus parapija,abrshyt sant andrw,ceyint  anru paris,parrocchia di Saint Andrew,seinteuaendeulugu,seniti ʿenidiriው Parish,sent andryu pyaris,senta aindaru Parish,senta amdru parasa,senta endru pairisa,senta endru perisa,seyint andryu paris,sheng an de lu qu,synټ andryw Parish,Šv. Andriaus parapija,Άγιος Ανδρέας,Парафія Сент-Андру,Сент Ендру,Сент-Андру,Сент-Эндрю Parish,أبرشية سانت أندرو,سنت اندرو پریش، سنت وینسنت و گرنادین‌ها,سینٹ اینڈریو پریش، سینٹ ونکنٹ و تھے گریندنس,سینټ اندریو Parish,सेंट अँड्रू परश,सेंट एंड्रू पैरिश,সেন্ট অ্যান্ড্রু প্যারিশ,ਸੇਂਟ ਐਂਡਰੂ Parish,સેન્ટ એન્ડ્રુ પૅરિશ,செயின்ட்  அன்று பரிஷ்,సెయింట్ ఆండ్ర్యూ పారిష్,ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂ ಪ್ಯಾರಿಷ್,ශාන්ත ඇන්ඩ්රූ ප්‍රාන්තය,เซนท์ แอนดริว พาลิซ,ሴንት አንድሪው Parish,セント・アンドリューズ,圣安德鲁区,聖安德魯區,세인트앤드루구	13.20393	-61.23015	A	ADM1	VC		02				6700		167	America/St_Vincent	2026-04-16
+3577823	Mount Saint Andrew	Mount Saint Andrew	Mount Saint Andrew,Mount Saint Andrews	13.18946	-61.21515	T	MT	VC		00				0		455	America/St_Vincent	2024-07-10
+3577824	Sail Rock	Sail Rock		12.6202	-61.26197	T	RK	VC		06				0		-9999	America/St_Vincent	2016-10-26
+3577825	Rutland Vale	Rutland Vale	Rutland Vale,Rutland Vale Village	13.20993	-61.26283	P	PPL	VC		05				0		69	America/St_Vincent	2016-10-27
+3577826	Rosehall	Rosehall		13.27255	-61.24228	P	PPL	VC		03				954		341	America/St_Vincent	2025-09-21
+3577827	Richmond Vale	Richmond Vale		13.28364	-61.23788	P	PPL	VC		03				0		64	America/St_Vincent	2016-10-27
+3577828	Richmond River	Richmond River	Garou River,Richmond River,River Morne a Garou	13.30814	-61.23471	H	STM	VC		03				0		11	America/St_Vincent	2016-10-27
+3577829	Richmond Peak	Richmond Peak		13.29107	-61.1981	T	PK	VC		03				0		1033	America/St_Vincent	2016-10-27
+3577830	Richmond Bay	Richmond Bay		12.60805	-61.43164	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577831	Richmond	Richmond		13.30313	-61.22776	P	PPL	VC		03				0		51	America/St_Vincent	2016-10-27
+3577832	Richland Park	Richland Park	Richland Park,li qi lan pa ke,リッチランド・パーク,里奇兰帕克	13.19627	-61.17008	P	PPL	VC		01				0		252	America/St_Vincent	2024-07-10
+3577833	Ribishi	Ribishi		13.1481	-61.18612	P	PPL	VC		04				0		145	America/St_Vincent	2024-07-10
+3577834	Red Island	Red Island	Red Island,Red Islet	12.60159	-61.4085	T	ISL	VC		06				0		8	America/St_Vincent	2016-10-26
+3577835	Rameau Bay	Rameau Bay		12.72059	-61.33138	H	COVE	VC		06				0		6	America/St_Vincent	2016-10-26
+3577836	Rabbit Island	Rabbit Island		12.86667	-61.17505	T	ISL	VC		06				0		15	America/St_Vincent	2016-10-26
+3577837	Rabacca	Rabacca	Rabaca,Rabacca,Rabaka	13.30322	-61.11721	P	PPL	VC		01				0		29	America/St_Vincent	2023-06-14
+3577838	Rabacca Dry River	Rabacca Dry River	Rabacca Dry River	13.30103	-61.11634	H	STMI	VC		01				0		8	America/St_Vincent	2016-10-27
+3577839	Questelles	Questelles	Questelles	13.17619	-61.24893	P	PPL	VC		02				1163		107	America/St_Vincent	2025-09-21
+3577840	Isle à Quatre	Isle a Quatre	Isle Quatre,Isle a Quatre,Isle à Quatre,Quatre Island,Quatre Isle	12.95469	-61.25522	T	ISL	VC		06				0		72	America/St_Vincent	2016-10-27
+3577841	Palm Island	Palm Island	Illa Palm,Isla Palm,PLI,Palm,Palm Island,Palm-Ajlend,Palmiu sala,Palmių sala,Prune Island,Prune Islet,jzyrt alnkhyl,pamu dao,zong lu dao,Палм,Палм-Айленд,جزيرة النخيل,پام آئلينڊ، گرينڊائينز,パーム島,棕櫚島	12.58623	-61.39718	T	ISL	VC		06				0		6	America/St_Vincent	2016-02-28
+3577842	Palm Island	Palm Island	PLI,Palm Island Airport,Prune Island Airport	12.58675	-61.39624	S	AIRQ	VC		06				0		8	America/St_Vincent	2013-11-16
+3577843	Porter Point	Porter Point	Point Tarratee,Point Tarraty	13.38308	-61.16518	T	PT	VC		01				0		134	America/St_Vincent	2016-10-27
+3577844	Port Elizabeth	Port Elizabeth	BQU,Port Elizabeth,Port-Ehlizabet,Port-Elisabeth,bwrt alyzabyth,porata ailizabetha,porta elijabetha,poto・erizabesu,pwrt alyzabt,pwrٹ alzbtھ,pwrټ alzabt,Порт-Элизабет,بورت إليزابيث,پورت الیزابت,پورٹ الزبتھ,پورټ الزابت,पोर्ट एलिजाबेथ,পোর্ট এলিজাবেথ,ਪੋਰਟ ਐਲਿਜ਼ਾਬੇਥ,ፖriti ʿelizabeዝ,ፖርት ኤሊዛቤዝ,ポート・エリザベス	13.01102	-61.23548	P	PPLA	VC		06				839		10	America/St_Vincent	2026-04-14
+3577845	The Pillories	The Pillories	Pillories,The Pillories	12.91029	-61.17606	T	ISLS	VC		06				0		7	America/St_Vincent	2016-10-27
+3577846	Pigeon Island	Pigeon Island	Pidgeon Island,Pigeon Island,Pigeon Islet,Rambay	12.94731	-61.2747	T	ISL	VC		06				0		42	America/St_Vincent	2016-10-27
+3577847	Petit Tobac	Petit Tobac		12.62283	-61.34869	T	ISL	VC		06				0		-9999	America/St_Vincent	2013-05-09
+3577848	Petit Saint Vincent Island	Petit Saint Vincent Island	Little Saint Vincent,Little Saint Vincent Island,PSV,Petit Saint Vincent,Petit Saint Vincent Island,Petite Saint Vincent	12.53716	-61.38355	T	ISL	VC		06				0		19	America/St_Vincent	2019-01-18
+3577849	Petit Nevis Island	Petit Nevis Island	Nevis Island,Petit Nevis,Petit Nevis Island	12.97351	-61.24344	T	ISL	VC		06				0		61	America/St_Vincent	2014-04-17
+3577850	Petit Mustique	Petit Mustique	Petit Mustique Islet	12.83887	-61.19453	T	ISL	VC		06				0		85	America/St_Vincent	2016-10-26
+3577851	Petit Cay	Petit Cay		12.84716	-61.19777	T	ISL	VC		06				0		-9999	America/St_Vincent	2016-10-26
+3577852	Petit Canouan	Petit Canouan	Petit Cannouan,Petit Canouan	12.79224	-61.27961	T	ISL	VC		06				0		51	America/St_Vincent	2016-10-26
+3577853	Petit Bordel Bay	Petit Bordel Bay		13.29068	-61.25196	H	BAY	VC		03				0		25	America/St_Vincent	2016-10-27
+3577854	Petit Bonhomme	Petit Bonhomme		13.21653	-61.18088	T	MT	VC		01				0		477	America/St_Vincent	2024-07-10
+3577855	Peruvian Vale	Peruvian Vale	Peruvian Vale,bi lu wei er,mi lu wei er,ペルヴィアン・ヴェイル,祕魯韋爾,秘魯韋爾	13.17711	-61.14356	P	PPL	VC		01				1060		20	America/St_Vincent	2025-09-21
+3577856	Pembroke	Pembroke		13.18242	-61.25131	P	PPL	VC		02				0		65	America/St_Vincent	2016-10-28
+3577857	Paget Farm	Paget Farm		12.98777	-61.25371	P	PPL	VC		06				0		27	America/St_Vincent	2016-10-27
+3577858	Owia Bay	Owia Bay		13.37279	-61.13841	H	BAY	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577859	Orange Hill	Orange Hill		13.3136	-61.11999	P	PPL	VC		01				0		46	America/St_Vincent	2016-10-27
+3577860	Old Woman Point	Old Woman Point	Old Woman Point,Old Woman's Point,Old Woman’s Point	13.15426	-61.24188	T	PT	VC		02				0		18	America/St_Vincent	2016-10-28
+3577861	Old Wall	Old Wall		12.63854	-61.39431	P	PPL	VC		06				0		54	America/St_Vincent	2014-04-17
+3577862	O’Briens	O'Briens		13.28472	-61.14879	P	PPL	VC		01				0		323	America/St_Vincent	2014-08-07
+3577863	North Union Bay	North Union Bay		13.22336	-61.12493	H	COVE	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577864	North Union	North Union		13.2212	-61.13323	P	PPL	VC		01				0		9	America/St_Vincent	2024-07-10
+3577865	North Mayreau Channel	North Mayreau Channel		12.66667	-61.38333	H	CHNM	VC		06				0		-9999	America/St_Vincent	1993-12-22
+3577866	New Sandy Bay Village	New Sandy Bay Village		13.35113	-61.13072	P	PPL	VC		01				0		19	America/St_Vincent	2016-10-27
+3577867	Mustique	Mustique	MQS,Miustikas,Mjustik,Moustique,Mustique,Mustique Island,Mystik,ma si di ke dao,masutiku dao,Μυστίκ,Мюстик,マスティク島,馬斯蒂克島	12.87716	-61.18308	T	ISL	VC		06				0		103	America/St_Vincent	2017-09-26
+3577868	Morne Garu Mountains	Morne Garu Mountains	Morne Garu Mountains	13.29711	-61.18662	T	MTS	VC		03				0		511	America/St_Vincent	2023-06-14
+3577869	New Montrose	New Montrose		13.16344	-61.23144	P	PPL	VC		02				1598		58	America/St_Vincent	2025-09-21
+3577870	Montezuma Shoal	Montezuma Shoal	Long Reef	12.86808	-61.19694	H	SHOL	VC		06				0		1	America/St_Vincent	2016-10-26
+3577871	Moha Bay	Moha Bay	Maho Bay,Moha Bay	12.73906	-61.32251	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577872	Milligan Cay	Milligan Cay	Milligan Cay,Milligan's Cay,Milligan’s Cay	13.12567	-61.16445	T	ISL	VC		04				0		19	America/St_Vincent	2016-10-27
+3577873	Mesopotamia	Mesopotamia	Mesopatamia,Mesopotamia	13.17923	-61.1681	P	PPL	VC		01				443		153	America/St_Vincent	2025-09-21
+3577874	Mayreau	Mayreau	Mayaro Island,Mayero Island,Mayreau	12.64019	-61.39139	T	ISL	VC		06				0		58	America/St_Vincent	2016-10-26
+3577875	Martinique Channel	Martinique Channel	Martinique Channel	12.56667	-61.41667	H	CHNM	VC		00				0		-9999	America/St_Vincent	2012-05-06
+3577876	Mahault Bay	Mahault Bay		12.73588	-61.32122	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577877	Lovell Village	Lovell Village	Lovell Village	12.88352	-61.18786	P	PPL	VC		06				0		51	America/St_Vincent	2016-10-27
+3577878	L’Islot	L'Islot	Big L'Islet	12.69268	-61.34884	T	ISL	VC		06				0		14	America/St_Vincent	2016-10-26
+3577879	Layou	Layou	Laju,Layou,layau,layo,layu,layw,lyaw,rayu,Лайу,لايو,لایو,لیاؤ,लायौ,লায়ু,ਲਾਯੋ,ላዩ,ラユ	13.20175	-61.27014	P	PPLA	VC		02				140		12	America/St_Vincent	2026-04-14
+3577880	La Soufrière	La Soufriere	La Soufriere,La Soufrière,Soufriere,Soufriere Mountains,Soufrière	13.33333	-61.18333	T	MT	VC		00				0	1234	838	America/St_Vincent	2020-06-10
+3577881	Larikai Bay	Larikai Bay		13.341	-61.21694	H	COVE	VC		03				0		21	America/St_Vincent	2016-10-27
+3577882	L’Ansecoy Bay	L'Ansecoy Bay		12.89257	-61.17926	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-27
+3577883	Landing Bay	Landing Bay		12.94321	-61.14568	H	BAY	VC		06				0		3	America/St_Vincent	2016-10-27
+3577884	Lagoon Bay	Lagoon Bay		12.95111	-61.25874	H	BAY	VC		06				0		91	America/St_Vincent	2016-10-27
+3577885	Kukunjare	Kukunjare		13.28318	-61.23187	T	MT	VC		03				0		334	America/St_Vincent	2016-10-27
+3577886	Kingstown Bay	Kingstown Bay	Kingston Harbor,Washegunny Bay	13.14978	-61.23451	H	BAY	VC		04				0		1	America/St_Vincent	2019-03-22
+3577887	Kingstown	Kingstown	Kin'nkstaoun,Kingstaun,Kingstauna,Kingstaunas,Kingstauno,Kingstaŭno,Kingstown,Kinqstaun,SVD,jin si dui,khing s thawn,kigasata'una,kincutavun,kingsata'una,kingseutaun,kingusutaun,kynghstawn,kyngztawn,Κίνγκσταουν,Κινγκστάουν,Кингстаун,Киҥстаун,Кінгстаун,Кінгстаўн,קינגסטאון,كينغستاون,کنگز ٹاؤن,کینگزتاون,किंग्सटाउन,ਕਿੰਗਸਟਾਊਨ,கிங்சுடவுன்,คิงส์ทาวน์,ཁིན་སི་ཐོན།,კინგსტაუნი,ኪንግስታውን,キングスタウン,金斯敦,킹스타운	13.15527	-61.22742	P	PPLC	VC		04				24518		9	America/St_Vincent	2019-09-05
+3577888	Horse Shoe Reef	Horse Shoe Reef		12.63523	-61.34989	H	RF	VC		06				0		-9999	America/St_Vincent	2024-07-10
+3577889	Hope Bay	Hope Bay		13.00594	-61.21859	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-27
+3577890	Hermitage	Hermitage		13.24955	-61.21685	P	PPL	VC		05				0		357	America/St_Vincent	2016-10-27
+3577891	Grenadines	Grenadines	Granadinas,Grehnadziny,Grenadiinid,Grenadiinit,Grenadinai,Grenadinak,Grenadinane,Grenadinas,Grenadine,Grenadine Islands,Grenadinen,Grenadinene,Grenadinerna,Grenadines,Grenadinez,Grenadini,Grenadinoj,Grenadinur,Grenadiny,Grenadyny,Grenadínur,Grenadíny,Grenadīnas,Illas Granadinas,The Grenadines,ge lin na ding si qun dao,geulenadin jedo,ghrynadyn,grenada'inasa,grenadins,greneda'insa,grenedains,grenedinsa,gurenadin zhu dao,hgrndynym,jrynadynys,kirenetins,kri nadi nes,Γρεναδίνες,Гренадини,Гренадины,Грэнадзіны,הגרנדינים,جرینادینیس,غرينادين,گرنادین‌ها,ग्रेनेडाइन्स,ग्रेनेडीन्स,গ্রেনাডাইনস,ગ્રેનેડિન્સ,கிரெனேடின்ஸ்,గ్రెనేడైన్స్,ಗ್ರೆನಡೀನ್ಸ್,ග්‍රෙනෙඩයින්ස්,กรีนาดิเนส,グレナディーン諸島,格林納丁斯群島,格林纳丁斯群岛,그레나딘 제도	12.66667	-61.25	T	ISLS	VC		06				0		-9999	America/St_Vincent	2012-01-18
+3577892	Grenadines	Grenadines	Akruga Grehnadziny,Granadinas,Grenadinak parrokia,Grenadinane,Grenadinene,Grenadines,Grenadines Parish,Grenadines sogn,Grenadini,Grenadinu parapija,Grenadiny,Grenadiny Parish,Grenadinų parapija,Grenadyny,Paroho Grenadinoj,Paroĥo Grenadinoj,ge rui na ding qu,geulenadingu,grenada'inasa Parish,grenada'inaza Parish,gurenadinzu jun,parrocchia delle Grenadine,Акруга Грэнадзіны,Гренадини,Гренадины,Гренадины Parish,ګrynadynz Parish,ګرینادینز Parish,گرنادین‌ها پریش,گریناڈائنز پیرش,গ্রেনাডাইনস Parish,ਗ੍ਰੇਨਾਡਾਈਨਜ਼ Parish,ግrenadinisi Parish,ግሬናዲንስ Parish,グレナディーンズ郡,格瑞那丁区,格瑞那丁區,그레나딘구	12.8781	-61.18283	A	ADM1	VC		06				9200		115	America/St_Vincent	2026-04-16
+3577893	Greiggs	Greiggs	Greggs,Greiggs,gureigusu,グレイグス	13.21128	-61.16284	P	PPL	VC		01				1476		202	America/St_Vincent	2025-09-21
+3577894	Greathead River	Greathead River	Greathead River,River Greathead,Warrawaron River,Warrawarow River,Warrawarrou River	13.14033	-61.21131	H	STM	VC		04				0		5	America/St_Vincent	2016-10-28
+3577895	Greathead Bay	Greathead Bay	Warrawarou Bay	13.13843	-61.21569	H	BAY	VC		04				0		5	America/St_Vincent	2016-10-28
+3577896	Grand Bonhomme	Grand Bonhomme	Grand Bonhomme	13.22227	-61.2299	T	MT	VC		05				0	740	771	America/St_Vincent	2016-10-27
+3577897	Grand Bay	Grand Bay		12.95519	-61.24817	H	BAY	VC		06				0		-9999	America/St_Vincent	2016-10-27
+3577898	Grand Bay	Grand Bay	Britannia Bay	12.87845	-61.1896	H	BAY	VC		06				0		28	America/St_Vincent	2016-10-26
+3577899	Grand Balaine	Grand Balaine	Grand Balaine,Grand Baleine,Grand Ballien	13.37987	-61.18396	H	BAY	VC		03				0		1	America/St_Vincent	2016-10-27
+3577900	Georgetown	Georgetown	Dzhordzhtaun,Georgetown,jarajata'una,jarj ٹawn,jarj ټawn,jarjata'una,jojitaun,jorijitaውni,jorjata'una,jwrjtawn,Джорджтаун,جارج ٹاؤن,جارج ټاون,جورجتاون,जॉर्जटाउन,জর্জটাউন,ਜਾਰਜਟਾਉਨ,ጆርጅታውን,ジョージタウン	13.28054	-61.1185	P	PPLA	VC		01				1680		13	America/St_Vincent	2026-04-14
+3577901	Frigate Island	Frigate Island	Frigate Island,Frigate Islet	12.58011	-61.43666	T	ISL	VC		06				0		35	America/St_Vincent	2013-05-09
+3577902	Friendship Bay	Friendship Bay		12.98952	-61.23633	H	BAY	VC		06				0		1	America/St_Vincent	2014-04-17
+3577903	Friendship	Friendship		12.9923	-61.23934	P	PPL	VC		06				0		10	America/St_Vincent	2016-10-27
+3577904	Friendly	Friendly		13.23811	-61.11717	P	PPL	VC		01				0		33	America/St_Vincent	2016-10-27
+3577905	Francois	Francois		13.20586	-61.22024	P	PPL	VC		02				0		202	America/St_Vincent	2016-10-28
+3577906	Fancy	Fancy	Fancy	13.38132	-61.16854	P	PPL	VC		01				490		20	America/St_Vincent	2025-09-21
+3577907	Espagnol Point	Espagnol Point	Pointe Espagnole	13.37614	-61.13955	T	PT	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577908	Egg Reef	Egg Reef		12.62465	-61.33866	H	RF	VC		06				0		-9999	America/St_Vincent	2024-07-10
+3577909	Duvernette Islet	Duvernette Islet	Duvernette Islet	13.12799	-61.20412	T	ISL	VC		04				0		1	America/St_Vincent	2024-07-10
+3577910	Dubois	Dubois		13.19849	-61.23543	P	PPL	VC		02				0		216	America/St_Vincent	2024-07-10
+3577911	Dovers	Dovers		12.89186	-61.18521	P	PPL	VC		06				525		16	America/St_Vincent	2023-11-24
+3577912	Dove Cay	Dove Cay	Small L'Islet	12.68965	-61.35094	T	ISL	VC		06				0		-9999	America/St_Vincent	2016-10-26
+3577913	Double Rock	Double Rock	Wilks Cays	12.86341	-61.17533	T	RK	VC		06				0		1	America/St_Vincent	2016-10-26
+3577914	De Volet Point	De Volet Point		13.36701	-61.20523	T	PT	VC		03				0		60	America/St_Vincent	2016-10-27
+3577915	Derrick	Derrick	Derrick	12.99245	-61.26204	P	PPL	VC		06				0		20	America/St_Vincent	2016-10-27
+3577916	Cumberland Bay	Cumberland Bay	Washilabo Bay	13.26549	-61.2618	H	BAY	VC		05				0		85	America/St_Vincent	2016-10-27
+3577917	Crater Lake	Crater Lake		13.33438	-61.18093	H	LK	VC		03				0		810	America/St_Vincent	2016-10-27
+3577918	Cow and Calves	Cow and Calves		13.37895	-61.14091	T	ISLS	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577919	Commantawana Bay	Commantawana Bay		13.37841	-61.14915	H	COVE	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577920	Colonarie River	Colonarie River	Calonery River,Colanarie River,Colonarie River	13.23974	-61.11548	H	STMM	VC		01				0		5	America/St_Vincent	2016-10-27
+3577921	Colonarie Point	Colonarie Point	Colanarie Point,Colonarie Point,Point Calonery	13.23965	-61.115	T	PT	VC		01				0		3	America/St_Vincent	2016-10-27
+3577922	Colonarie Bay	Colonarie Bay		13.23341	-61.11986	H	COVE	VC		01				0		1	America/St_Vincent	2016-10-27
+3577923	Colonarie	Colonarie	Belle Vue,Colonarie,Kolonari,ke luo na li,koronari,Κολοναρί,Колонари,コロナリー,科洛納里	13.24041	-61.11641	P	PPL	VC		01				0		8	America/St_Vincent	2016-10-27
+3577924	Cloey Hole	Cloey Hole		12.72906	-61.30989	H	COVE	VC		06				0		3	America/St_Vincent	2016-10-26
+3577925	Clifton	Clifton	Clifton,Cliftons	12.59706	-61.41739	P	PPL	VC		06				0		8	America/St_Vincent	2016-10-26
+3577926	Clare Valley	Clare Valley	Clare Valley	13.17959	-61.25657	P	PPL	VC		02				0		14	America/St_Vincent	2016-10-28
+3577927	Church Cay	Church Cay	Church Island	12.95451	-61.13445	T	ISL	VC		06				0		1	America/St_Vincent	2016-10-27
+3577928	Cheltenham	Cheltenham		12.89253	-61.18404	P	PPL	VC		06				0		8	America/St_Vincent	2016-10-27
+3577929	Chauncey	Chauncey		13.1818	-61.24682	P	PPL	VC		02				0		147	America/St_Vincent	2024-07-10
+3577930	Chatham Bay	Chatham Bay		12.60085	-61.4537	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577931	Chateaubelair Island	Chateaubelair Island	Chateaubelair Island,Chateaubelair Islet	13.29801	-61.24685	T	ISL	VC		03				0		35	America/St_Vincent	2016-10-27
+3577932	Chateaubelair Bay	Chateaubelair Bay		13.30089	-61.23994	H	BAY	VC		03				0		11	America/St_Vincent	2016-10-27
+3577933	Chateaubelair	Chateaubelair	Chateaubelair,Richmond,Richmond Town,Shatobelehr,caitobeli'ara,cateውbelayiri,cetobeleyara,cyatobelayara,shatoberea,shatwblr,shatwblyr,shaٹw bylyr,Шатобелэр,شاتوبلر,شاتوبلير,شاٹو بیلیر,चेटोबेलेयर,চ্যাটোবেলায়ার,ਚੈਟੋਬੇਲਿਅਰ,ቻቴውቤላይር,シャトーベレア	13.29069	-61.24043	P	PPLA	VC		03				735		9	America/St_Vincent	2026-04-14
+3577934	Parish of Charlotte	Parish of Charlotte	Carlota,Charlotte,Charlotte Parish,Charlotte parrokia,Charlotte sogn,Charlotten kunta,Charlottr,Karlotta,Parafija Sharlotta,Parish of Charlotte,Paroho Carloto,Paroki Charlotte,Paroĥo Ĉarloto,Sarlotes pagasts,Sarlotes parapija,Sharlot,Sharlotta,Sharlotta Parish,abrshyt sharlwt,caralota Parish,carlata pyarisa,carlot paris,carlota perisa,carlotte paris,parrocchia di Charlotte,sarlata perisa,sarlet pyaris,serlota pairisa,shariloti Parish,sharlwټ Parish,sharotto jiao qu,syalleosgu,xia luo te qu,Šarlotes pagasts,Šarlotės parapija,Καρλόττα,Парафія Шарлотта,Шарлот,Шарлотта,Шарлотта Parish,أبرشية شارلوت,شارلوت پریش، سنت وینسنت و گرنادین‌ها,شارلوټ Parish,شارلٹ پیرش، سینٹ وینسینٹ و گریناڈائنز,शार्लट पॅरीश,शेर्लोट पैरिश,চার্লট প্যারিশ,ਚਾਰਲੋਟ Parish,ચાર્લોટ પૅરિશ,சார்லோட்டே பரிஷ்,చార్లోట్ పారిష్,ಷಾರ್ಲೆಟ್ ಪ್ಯಾರಿಷ್,චාලට් ප්‍රාන්තය,ชาร์ลอตต์ เซนต์วินเซนต์และเกรนาดีนส์,ሻርሎት Parish,シャーロット教区,夏洛特区,夏洛特區,샬럿구	13.25064	-61.15196	A	ADM1	VC		01				38000		264	America/St_Vincent	2026-04-16
+3577935	Fort Charlotte	Fort Charlotte		13.15788	-61.24225	S	FT	VC		02				0		154	America/St_Vincent	2016-10-28
+3577936	Charlestown Bay	Charlestown Bay		12.7157	-61.3413	H	BAY	VC		06				0		1	America/St_Vincent	2016-10-26
+3577937	Charlestown	Charlestown		12.70042	-61.33062	P	PPL	VC		06				0		8	America/St_Vincent	2013-10-21
+3577938	Chapmans	Chapmans		13.2862	-61.1188	P	PPL	VC		01				0		21	America/St_Vincent	2016-10-27
+3577939	Catholic Island	Catholic Island	Catholic Island,Catholic Islet	12.66073	-61.40147	T	ISL	VC		06				0		29	America/St_Vincent	2014-04-17
+3577940	Canouan Island	Canouan Island	CIW,Cannouan,Cannouan Island,Canouan	12.71608	-61.32581	T	ISL	VC		06				0		43	America/St_Vincent	2016-10-26
+3577941	Camden Park Bay	Camden Park Bay		13.17078	-61.25017	H	BAY	VC		02				0		1	America/St_Vincent	2016-10-28
+3577942	Campden Park	Campden Park	Camden Park	13.17455	-61.24447	P	PPL	VC		02				0		55	America/St_Vincent	2021-01-24
+3577944	Byera Village	Byera Village	Bjera Vilidzas,Bjera Vilidžas,Byera Village,bai la cun,بائرا گاؤں,バイエラ・ヴィレッジ,拜拉村	13.25636	-61.11954	P	PPL	VC		01				1365		9	America/St_Vincent	2016-10-27
+3577945	Bunkers Hill	Bunkers Hill		13.30018	-61.23153	T	HLL	VC		03				0		152	America/St_Vincent	2016-10-27
+3577946	Bullet	Bullet	Bequia Head Bullet	13.03995	-61.20267	T	RK	VC		06				0		-9999	America/St_Vincent	2016-10-27
+3577947	Buccament River	Buccament River	Bucament River,Buccament River,Queens River	13.19166	-61.26698	H	STM	VC		02				0		7	America/St_Vincent	2016-10-27
+3577948	Buccament Bay	Buccament Bay	Queen's Bay	13.1914	-61.26951	H	COVE	VC		02				0		1	America/St_Vincent	2016-10-27
+3577949	Brooks Rock	Brooks Rock		12.88536	-61.16079	T	RK	VC		06				0		-9999	America/St_Vincent	2016-10-27
+3577951	Mount Brisbane	Mount Brisbane		13.28648	-61.18775	T	MT	VC		03				0		797	America/St_Vincent	2016-10-27
+3577952	Brighton Village	Brighton Village	Brighton,Brighton Village	13.12972	-61.1727	P	PPL	VC		04				355		6	America/St_Vincent	2025-09-21
+3577953	Black Point	Black Point	Point Young	13.26172	-61.11502	T	PT	VC		01				0		10	America/St_Vincent	2016-10-27
+3577954	Biabou Bay	Biabou Bay	Biabo Bay	13.18674	-61.13945	H	COVE	VC		01				0		-9999	America/St_Vincent	2016-10-27
+3577955	Biabou	Biabou	Baiabu,Biabou,Biabu,bi ya bu,biabu,byabw,Биабоу,بیابو,ビアブー,比亚布,比亞布	13.1943	-61.13904	P	PPL	VC		01				1050		24	America/St_Vincent	2016-10-27
+3577956	Bequia Island	Bequia Island	Bequia,Bequia Island	13.00966	-61.2293	T	ISL	VC		06				0		148	America/St_Vincent	2014-04-17
+3577957	Chapmans	Chapmans		13.29228	-61.11724	P	PPL	VC		01				0		18	America/St_Vincent	2016-10-27
+3577958	Belmont	Belmont		13.00226	-61.23196	S	RUIN	VC		06				0		165	America/St_Vincent	2014-04-17
+3577959	Belmont	Belmont		13.16244	-61.17971	P	PPL	VC		04				314		264	America/St_Vincent	2025-09-21
+3577961	Battowia Island	Battowia Island	Battowia,Battowia Island,Battowia Islet	12.96232	-61.13076	T	ISL	VC		06				0		130	America/St_Vincent	2016-10-27
+3577962	Barrouallie	Barrouallie	Barawally,Barroualie,Barrouallie,Barrualli,Barrukalli,Princes Town,bairauli,baroari,barowali,barwaly,berauli,brwaly,byaruyali,Баррукалли,باروالي,باروالی,بروالی,बेरौली,ব্যারুয়ালি,ਬੈਰੌਲੀ,ባሮዋሊ,バロアリ	13.23676	-61.27275	P	PPLA	VC		05				1000		19	America/St_Vincent	2026-04-14
+3577963	Baliceaux Island	Baliceaux Island	Baliceaux,Baliceaux Island	12.94773	-61.14522	T	ISL	VC		06				0		40	America/St_Vincent	2016-10-27
+3577964	Baleine Bay	Baleine Bay	Petit Ballien	13.37228	-61.19529	H	COVE	VC		03				0		38	America/St_Vincent	2016-10-27
+3577965	Ashton Harbour	Ashton Harbour		12.59202	-61.43477	H	HBR	VC		06				0		70	America/St_Vincent	2016-10-26
+3577966	Ashton	Ashton		12.59496	-61.43533	P	PPL	VC		06				0		9	America/St_Vincent	2016-10-26
+3577967	Arnos Vale Airport	Arnos Vale Airport	Arnos Vale,Arnos Vale Airport	13.14487	-61.20974	S	AIRF	VC		04				0		12	America/St_Vincent	2016-10-28
+3577968	Arnos Vale	Arnos Vale		13.14339	-61.2073	T	VAL	VC		04				0		15	America/St_Vincent	2016-10-28
+3577969	Arnos Vale	Arnos Vale		13.14186	-61.20764	P	PPL	VC		04				0		16	America/St_Vincent	2016-10-28
+3577970	All Awash Island	All Awash Island	All Awash Island,All-awash	12.91847	-61.1401	T	ISL	VC		06				0		19	America/St_Vincent	2016-10-27
+3577971	Admiralty Bay	Admiralty Bay		13.00523	-61.24745	H	BAY	VC		06				0		1	America/St_Vincent	2014-04-17
+3577972	Adelphi	Adelphi		13.18993	-61.13922	P	PPL	VC		01				0		38	America/St_Vincent	2016-10-27
+3748715	Johnson Point	Johnson Point		13.15557	-61.246	T	PT	VC		02				0		19	America/St_Vincent	2019-03-22
+3748716	Ottley Hall Bay	Ottley Hall Bay	Ance Perdue	13.16067	-61.24648	H	BAY	VC		02				0		0	America/St_Vincent	2016-10-28
+3748717	Ottley Hall	Ottley Hall		13.16094	-61.24528	L	LCTY	VC		02				0		6	America/St_Vincent	2016-10-28
+3748718	Edinboro Bay	Edinboro Bay		13.15734	-61.2355	H	BAY	VC		02				0		11	America/St_Vincent	2016-10-28
+3748719	Edinboro	Edinboro		13.15981	-61.23644	P	PPL	VC		02				690		61	America/St_Vincent	2025-09-21
+3748720	Bleak House	Bleak House		13.15972	-61.2425	S	HSE	VC		02				0		67	America/St_Vincent	1996-06-05
+3748721	Coxheath	Coxheath		13.15917	-61.24194	S	BLDG	VC		02				0		118	America/St_Vincent	1996-06-05
+3748722	Graham	Graham		13.16667	-61.23611	S	BLDG	VC		02				0		129	America/St_Vincent	1996-06-05
+3748723	Liberty Lodge	Liberty Lodge		13.16554	-61.22466	P	PPL	VC		02				0		137	America/St_Vincent	2024-07-11
+3748724	Redemption	Redemption	Redemption Sharpes	13.16444	-61.22944	P	PPL	VC		02				1875		58	America/St_Vincent	2025-09-21
+3748725	Mackenzie Dam	Mackenzie Dam	Mackenzie Dam	13.16583	-61.22861	S	DAM	VC		02				0		73	America/St_Vincent	2018-12-05
+3748726	Kingstown Park	Kingstown Park		13.15924	-61.23161	L	PRK	VC		04				17994		21	America/St_Vincent	2023-11-16
+3748727	Pauls	Pauls		13.15764	-61.23093	S	BLDG	VC		04				0		10	America/St_Vincent	2016-10-28
+3748728	Riley	Riley		13.1572	-61.22907	S	BLDG	VC		04				0		12	America/St_Vincent	2016-10-28
+3748730	Dorsetshire Hill	Dorsetshire Hill		13.15639	-61.22333	T	HLL	VC		04				0		45	America/St_Vincent	1996-06-05
+3748731	Sion Lodge	Sion Lodge		13.1522	-61.21973	S	BLDG	VC		04				0		32	America/St_Vincent	2016-10-28
+3748732	Sion Hill	Sion Hill		13.15137	-61.2188	S	BLDG	VC		04				0		58	America/St_Vincent	2016-10-28
+3748733	Schooner Jetty	Schooner Jetty		13.15124	-61.2251	S	JTY	VC		04				0		8	America/St_Vincent	2016-10-28
+3748734	Puzzolano Quarry	Puzzolano Quarry		13.16578	-61.24187	S	MNQR	VC		04				0		25	America/St_Vincent	2016-10-28
+3748736	Greathead	Greathead		13.14157	-61.22421	P	PPL	VC		04				0		75	America/St_Vincent	2016-10-28
+3748737	Cane Hall	Cane Hall		13.15447	-61.20301	P	PPL	VC		04				0		127	America/St_Vincent	2024-07-11
+3748738	Cane Garden	Cane Garden		13.14259	-61.22294	S	BLDG	VC		04				0		86	America/St_Vincent	2016-10-28
+3748740	Cane Garden Point	Cane Garden Point		13.1397	-61.22883	T	PT	VC		04				0		1	America/St_Vincent	2019-03-22
+3748741	Washing Rock	Washing Rock		13.13779	-61.22183	T	RK	VC		04				0		1	America/St_Vincent	2016-10-28
+3748742	Black Rock	Black Rock		13.13772	-61.2219	T	RK	VC		04				0		1	America/St_Vincent	2024-07-11
+3748745	Dike Island	Dike Island	Dike Island	13.13474	-61.20584	T	ISL	VC		04				0		31	America/St_Vincent	2024-07-11
+3748746	Calliaqua	Calliaqua	Calliaqua,ka li ya kua,kalyakwa,kariakua,کالیاکوآ,カリアクア,卡利亚夸,卡利亞夸,卡利亞誇	13.12867	-61.19178	P	PPL	VC		04				24205		18	America/St_Vincent	2024-11-01
+3748747	Calliaqua River	Calliaqua River		13.13096	-61.19577	H	STM	VC		04				0		5	America/St_Vincent	2016-10-28
+3748748	Calliaqua Bay	Calliaqua Bay	Tyrrells Bay	13.12709	-61.19728	H	BAY	VC		04				0		5	America/St_Vincent	2016-10-28
+3748751	Ratho Mill	Ratho Mill		13.13319	-61.19724	S	MLWND	VC		04				0		9	America/St_Vincent	2016-10-28
+3748752	Prospect	Prospect		13.12722	-61.18136	P	PPL	VC		04				0		8	America/St_Vincent	2024-07-11
+3749754	Belle Point	Belle Point	Belle Point	12.99629	-61.25175	T	PT	VC		04				0		52	America/St_Vincent	2024-07-11
+3749755	Lower Bay	Lower Bay		12.99673	-61.24692	H	BAY	VC		04				0		73	America/St_Vincent	2024-07-11
+3749756	Lawler Point	Lawler Point		12.99979	-61.24296	T	PT	VC		04				0		73	America/St_Vincent	2014-04-17
+3749757	Wallace House	Wallace House		12.99889	-61.24056	S	BLDG	VC		04				0		57	America/St_Vincent	1996-06-05
+3749758	Princess Margaret Bay	Princess Margaret Bay		13.00167	-61.24167	H	BAY	VC		04				0		1	America/St_Vincent	1996-06-05
+3749759	Princess Point	Princess Point	Princess Point	13.00377	-61.24009	T	PT	VC		04				0		22	America/St_Vincent	2024-07-11
+3749760	Belmont Shoal	Belmont Shoal		13.00722	-61.24	H	SHOL	VC		04				0		32	America/St_Vincent	1996-06-05
+3749761	Union Pasture	Union Pasture		13.01444	-61.2325	L	AREA	VC		04				0		104	America/St_Vincent	1996-06-05
+3749762	Point Peter	Point Peter	Point Peter	13.01028	-61.24667	T	PT	VC		04				0		4	America/St_Vincent	2018-12-05
+3749763	Rocky Bay	Rocky Bay		13.01145	-61.24775	H	BAY	VC		04				0		4	America/St_Vincent	2024-07-11
+3749764	Devil’s Table	Devil's Table		13.01213	-61.24867	T	RK	VC		04				0		24	America/St_Vincent	2014-04-17
+3749765	Wash Rock	Wash Rock		13.01194	-61.24944	T	RK	VC		04				0		4	America/St_Vincent	1996-06-05
+3749766	Northwest Point	Northwest Point	North Point,Northwest Point	13.01745	-61.24861	T	PT	VC		04				0		35	America/St_Vincent	2024-07-11
+3756008	Tony Gibbons Beach	Tony Gibbons Beach	Princess Margaret Beach,Tony Gibbons Beach	13.00135	-61.24093	T	BCH	VC		06				0		32	America/St_Vincent	2014-04-17
+3756009	Ships Stern	Ships Stern		12.99529	-61.27393	T	PT	VC		00				0		1	America/St_Vincent	2016-10-27
+3756010	Upper Bight	Upper Bight		12.99442	-61.27092	H	COVE	VC		00				0		1	America/St_Vincent	2014-04-17
+3756011	Flat Point	Flat Point		12.99614	-61.26315	T	PT	VC		00				0		57	America/St_Vincent	2016-10-27
+3756012	Ocar Point	Ocar Point	Bequia Slip	13.0117	-61.23865	T	PT	VC		00				0		10	America/St_Vincent	2016-10-27
+3756013	Villa Point	Villa Point		13.13459	-61.20353	T	PT	VC		00				0		10	America/St_Vincent	2016-10-28
+3756014	Questelles Bay	Questelles Bay		13.17293	-61.25522	H	BAY	VC		00				0		5	America/St_Vincent	2016-10-28
+3756015	Questelles Point	Questelles Point		13.17066	-61.25507	T	PT	VC		00				0		17	America/St_Vincent	2016-10-28
+3756016	Cane Wood River	Cane Wood River		13.17072	-61.2486	H	STM	VC		00				0		40	America/St_Vincent	2024-07-11
+3756017	Lowmans Bay	Lowmans Bay		13.16457	-61.24655	H	BAY	VC		00				0		33	America/St_Vincent	2016-10-28
+3756018	Deep Water Wharf	Deep Water Wharf		13.14764	-61.22515	S	WHRF	VC		00				0		6	America/St_Vincent	2016-10-28
+3756019	Sion Hill Bay	Sion Hill Bay		13.13934	-61.22158	H	BAY	VC		00				0		1	America/St_Vincent	2016-10-28
+3756020	Indian Bay	Indian Bay		13.1362	-61.20728	H	BAY	VC		00				0		31	America/St_Vincent	2016-10-28
+3756021	Dove Island	Dove Island		13.13473	-61.20576	T	ISL	VC		00				0		31	America/St_Vincent	2016-10-28
+3756022	Carenage	Carenage	Carenage,Nanton's Harbour,Young Island Cut	13.133	-61.20252	H	ANCH	VC		00				0		1	America/St_Vincent	2016-10-28
+3756023	Rookes Point	Rookes Point		13.13093	-61.19924	T	PT	VC		00				0		7	America/St_Vincent	2016-10-28
+3756024	Johnson Point	Johnson Point		13.12321	-61.19401	T	PT	VC		00				0		5	America/St_Vincent	2016-10-27
+3756025	Lagoon	Lagoon		13.12667	-61.19167	H	COVE	VC		00				0		4	America/St_Vincent	1996-10-16
+3756026	Sharp’s Bay	Sharp's Bay		13.12423	-61.18604	H	BAY	VC		00				0		1	America/St_Vincent	2016-10-27
+3756027	Sharp’s Point	Sharp's Point		13.12299	-61.18483	T	PT	VC		00				0		7	America/St_Vincent	2016-10-27
+3756028	Cable Hut Bay	Cable Hut Bay		13.1246	-61.18301	H	BAY	VC		00				0		1	America/St_Vincent	2016-10-27
+3756029	Milikin Bay	Milikin Bay		13.12442	-61.17784	H	BAY	VC		00				0		1	America/St_Vincent	2024-07-11
+3756062	Point Bay	Point Bay		13.01137	-61.24393	H	BAY	VC		00				0		4	America/St_Vincent	2014-04-17
+6453419	J. F. Mitchell Airport	J. F. Mitchell Airport	Aeroportul J. F. Mitchell,BQU,J. F. Mitchell Airport,J. F. Mitchell ji chang,J. F. Mitchell oro uostas,J. F. Mitchell機場,J.F. Mitchell,Lapangan Terbang J.F. Mitchell,Maes Awyr J. F. Mitchell,Port lotniczy J.F. Mitchell,TVSB,bekia kong gang,Фурудгоҳи ҷий‌уф мичл,فرودگاه جی‌اف میچل,ベキア空港	12.98863	-61.26238	S	AIRP	VC		06				0	5	9	America/St_Vincent	2024-07-13
+6464671	Palm Island All Inclusive Resort	Palm Island All Inclusive Resort		12.58646	-61.39995	S	HTL	VC		06				0		8	America/St_Vincent	2013-10-06
+6466595	Grand View Beach Hotel	GRAND VIEW BEACH HOTEL		13.2463	-61.1901	S	HTL	VC						0		954	America/St_Vincent	2007-04-13
+6501325	Tamarind Beach Hotel & Yacht Club	Tamarind Beach Hotel & Yacht Club		12.70369	-61.32813	S	HTL	VC						0		4	America/St_Vincent	2013-10-21
+6509996	Raffles Resort  Canouan Island	RAFFLES RESORT  CANOUAN ISLAND		12.70113	-61.32886	S	HTL	VC						0		18	America/St_Vincent	2016-10-27
+6512068	Petit St Vincent Resort	PETIT ST VINCENT RESORT		12.53663	-61.38384	S	HTL	VC		06				0		18	America/St_Vincent	2016-10-26
+6526376	Haddon Hotel	HADDON HOTEL		13.2463	-61.1901	S	HTL	VC						0		954	America/St_Vincent	2007-04-14
+7668484	Canouan Airport	Canouan Airport	Aeroportul Canouan,Aeropuerto de Canouan,CIW,Canouan Airport,Lapangan Terbang Canouan,Port lotniczy Canouan,TVSC,frwdgah knwan,ka nu an ji chang,kanuan kong gang,Фурудгоҳи кнуон,فرودگاه کنوان,カヌアン空港,卡努安機場	12.699	-61.3424	S	AIRP	VC		06				0		3	America/St_Vincent	2013-10-21
+7668485	Mustique Airport	Mustique Airport	Aeroportul Mustique,Lapangan Terbang Mustique Is,MQS,Miustiko oro uostas,Mustique Airport,Port lotniczy Mustique,TVSM,aerodrome de Mustique,aérodrome de Mustique,frwdgah mwstyk,masutiku kong gang,Фурудгоҳи мстғонм,فرودگاه موستیک,マスティク空港,ꯃꯨꯁ꯭ꯇꯤꯛ ꯑꯦꯌꯔꯄꯣꯔꯠ	12.88778	-61.18009	S	AIRP	VC		06				0		7	America/St_Vincent	2023-05-29
+7701328	Rose Bank	Rose Bank	Rose Bank,luo si ban ke,罗斯班克	13.28418	-61.25825	P	PPL	VC						0		95	America/St_Vincent	2016-10-27
+7910474	Milton Cato Memorial Hospital	Milton Cato Memorial Hospital		13.15862	-61.23078	S	HSP	VC						0		14	America/St_Vincent	2011-07-26
+8521701	Union Island Airport	Union Island Airport	TVSU,UNI	12.60023	-61.41165	S	AIRP	VC		06				0		8	America/St_Vincent	2023-05-29
+8643414	Villa Beach	Villa Beach		13.13462	-61.20218	T	BCH	VC		04				0		14	America/St_Vincent	2016-10-28
+8985948	Lower Bight	Lower Bight		12.99297	-61.27629	H	COVE	VC						0		1	America/St_Vincent	2014-04-17
+8985949	Big Cay	Big Cay		12.99013	-61.28845	T	RK	VC						0		1	America/St_Vincent	2016-10-27
+8985950	L'Anse Chemin	L'Anse Chemin		13.03985	-61.21331	H	COVE	VC						0		146	America/St_Vincent	2016-10-27
+8985951	Man Point	Man Point		13.04779	-61.20595	T	PT	VC						0		16	America/St_Vincent	2014-04-17
+8985952	Bequia Head	Bequia Head		13.04064	-61.20754	T	HDLD	VC						0		181	America/St_Vincent	2014-04-17
+8985953	Diable Point	Diable Point	Shark Bay Point	13.03332	-61.20477	T	PT	VC						0		10	America/St_Vincent	2016-10-27
+8985954	Brute Point	Brute Point	Salvia Bay Point	13.02989	-61.20483	T	PT	VC						0		5	America/St_Vincent	2016-10-27
+8985955	Shark Bay	Shark Bay		13.03209	-61.20518	H	BAY	VC						0		7	America/St_Vincent	2014-04-17
+8985956	Park Bay	Park Bay		13.02559	-61.212	H	BAY	VC						0		13	America/St_Vincent	2014-04-17
+8985957	Industry Bay	Industry Bay		13.02344	-61.21659	H	BAY	VC						0		-9999	America/St_Vincent	2014-04-17
+8985958	Marley Bay	Marley Bay	Mali Bay	13.01715	-61.21729	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+8985959	La'Anse Coite	La'Anse Coite	Anse La Coite	13.0128	-61.21569	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+8985960	Mount Pleasant Bay	Mount Pleasant Bay	Kenat Bay	12.99766	-61.22312	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+8985961	Rocky Bay	Rocky Bay		12.99452	-61.22685	H	BAY	VC						0		1	America/St_Vincent	2014-04-17
+8985962	Ravine Bay	Ravine Bay		12.99314	-61.22904	H	BAY	VC						0		1	America/St_Vincent	2014-04-17
+8985963	Saint Hilaire Point	Saint Hilaire Point		12.98701	-61.2333	T	PT	VC						0		-9999	America/St_Vincent	2016-10-27
+8985964	Samples Cay	Samples Cay	Semples Cay	12.98449	-61.23827	T	ISL	VC						0		1	America/St_Vincent	2016-10-27
+9072630	Buccament	Buccament		13.19328	-61.26681	P	PPL	VC		02				0		9	America/St_Vincent	2016-10-27
+9072639	E. T. Joshua Airport	E. T. Joshua Airport	Arnos Vale Airport,E. T. Joshua Airport,SVD,TVSV	13.14486	-61.20972	S	AIRP	VC		04				0		12	America/St_Vincent	2017-03-04
+9261086	Three Rivers Road	Three Rivers Road		13.24632	-61.13446	R	RD	VC						0		74	America/St_Vincent	2016-10-27
+9261087	Silver Spoon	Silver Spoon		13.25381	-61.13686	P	PPLL	VC						0		165	America/St_Vincent	2014-08-07
+10177567	Tobago Cays Marine Park	Tobago Cays Marine Park		12.63277	-61.35848	L	RESN	VC						0		-9999	America/St_Vincent	2016-10-26
+10232403	Buccament Bay Resort	Buccament Bay Resort		13.18967	-61.26635	S	HTL	VC		02				0		6	America/St_Vincent	2015-09-19
+10233555	Bequia Beachfront Villas	Bequia Beachfront Villas		13.28276	-61.13392	S	HTL	VC						0		84	America/St_Vincent	2015-04-23
+10300296	Mt Grenan	Mt Grenan		13.23289	-61.12754	P	PPL	VC						0		27	America/St_Vincent	2015-06-02
+10793672	Owia	Owia		13.37522	-61.144	P	PPL	VC						0		63	America/St_Vincent	2016-10-27
+11281269	Petit Prune	Petit Prune		12.58371	-61.39109	T	ISLET	VC						0		4	America/St_Vincent	2016-10-26
+11281270	Point Lookout	Point Lookout		12.58433	-61.39147	T	PT	VC						0		4	America/St_Vincent	2016-10-26
+11281271	Mosquito Bay	Mosquito Bay		12.58659	-61.39189	H	BAY	VC						0		4	America/St_Vincent	2016-10-26
+11281272	Petite Martinique Bay	Petite Martinique Bay		12.58433	-61.39382	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281274	Pointciana Bay	Pointciana Bay		12.58396	-61.39737	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281275	Cactus Hill	Cactus Hill	Pepsi Peak	12.58563	-61.39885	T	HLL	VC						0		21	America/St_Vincent	2016-10-26
+11281276	Casuarina Beach	Casuarina Beach		12.58761	-61.40104	T	BCH	VC						0		1	America/St_Vincent	2016-10-26
+11281277	Happy Island	Happy Island		12.59365	-61.4099	T	ISL	VC						0		-9999	America/St_Vincent	2016-10-26
+11281278	Thompson Island	Thompson Island		12.59683	-61.40982	T	ISL	VC						0		-9999	America/St_Vincent	2016-10-26
+11281279	Clifton Harbour	Clifton Harbour		12.59599	-61.41435	H	HBR	VC						0		-9999	America/St_Vincent	2016-10-26
+11281280	Clifton Hill	Clifton Hill		12.59322	-61.41827	T	HLL	VC						0		35	America/St_Vincent	2016-10-26
+11281281	Belmont Salt Pond	Belmont Salt Pond		12.60212	-61.42327	H	PNDN	VC						0		6	America/St_Vincent	2016-10-26
+11281282	Belmont Bay	Belmont Bay		12.60514	-61.42138	H	BAY	VC						0		8	America/St_Vincent	2016-10-26
+11281283	Point Lookout	Point Lookout		12.60202	-61.4083	T	PT	VC						0		8	America/St_Vincent	2016-10-26
+11281284	Point Lookout Bay	Point Lookout Bay		12.60273	-61.41126	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281285	Petit Bay	Petit Bay		12.59151	-61.41945	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281286	Topion Bay	Topion Bay		12.59126	-61.42649	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281287	Ashton Lagoon	Ashton Lagoon		12.59237	-61.43061	H	LGN	VC						0		6	America/St_Vincent	2016-10-26
+11281288	Jerome Village	Jerome Village		12.59309	-61.42736	P	PPL	VC						0		12	America/St_Vincent	2016-10-26
+11281289	Goat Hill	Goat Hill		12.59572	-61.42142	P	PPL	VC						0		74	America/St_Vincent	2016-10-26
+11281290	Big Sands	Big Sands		12.60381	-61.42329	P	PPL	VC						0		5	America/St_Vincent	2016-10-26
+11281291	Knob Hill	Knob Hill		12.60349	-61.43417	T	HLL	VC						0		78	America/St_Vincent	2016-10-26
+11281292	Queensberry Point	Queensberry Point		12.58395	-61.44529	T	PT	VC						0		12	America/St_Vincent	2016-10-26
+11281293	Sand Bay	Sand Bay		12.58598	-61.44368	H	BAY	VC						0		12	America/St_Vincent	2016-10-26
+11281294	Miss Irene Bay	Miss Irene Bay		12.58596	-61.45077	H	BAY	VC						0		8	America/St_Vincent	2016-10-26
+11281295	Miss Irene Point	Miss Irene Point		12.58953	-61.46063	T	PT	VC						0		1	America/St_Vincent	2016-10-26
+11281296	Long Rock	Long Rock		12.59633	-61.45435	T	RK	VC						0		38	America/St_Vincent	2016-10-26
+11281297	Craby Rock	Craby Rock		12.60758	-61.45429	T	RK	VC						0		1	America/St_Vincent	2016-10-26
+11281298	Negman Bay	Negman Bay		12.60866	-61.45364	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281299	Bloody Bay	Bloody Bay		12.6123	-61.44342	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281300	Bloody Head	Bloody Head		12.61537	-61.44061	T	HDLD	VC						0		43	America/St_Vincent	2016-10-26
+11281301	Fort Hill	Fort Hill		12.60217	-61.41589	T	HLL	VC						0		106	America/St_Vincent	2016-10-26
+11281302	Big Hill	Big Hill	Mount Parnassus,Top Hill	12.59542	-61.43889	T	HLL	VC						0		196	America/St_Vincent	2016-10-26
+11281303	Mount Taboi	Mount Taboi	Mount Tibre	12.59603	-61.44271	T	MT	VC						0		271	America/St_Vincent	2016-10-26
+11281304	Mount Olympus	Mount Olympus		12.60809	-61.44125	T	MT	VC						0		156	America/St_Vincent	2016-10-26
+11281305	Thompson Reef	Thompson Reef		12.5976	-61.40954	H	RF	VC						0		-9999	America/St_Vincent	2016-10-26
+11281306	Newlands Reef	Newlands Reef		12.59207	-61.40914	H	RF	VC						0		-9999	America/St_Vincent	2016-10-26
+11281307	Monkey Point	Monkey Point		12.62867	-61.3994	T	PT	VC						0		1	America/St_Vincent	2016-10-26
+11281308	Salt Pond	Salt Pond		12.63383	-61.39441	H	PNDN	VC						0		25	America/St_Vincent	2016-10-26
+11281309	Lande-Ici Hill	Lande-Ici Hill		12.63054	-61.39613	T	HLL	VC						0		52	America/St_Vincent	2016-10-26
+11281310	Windward Bay	Windward Bay		12.6346	-61.38963	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281311	Mayreau Gardens	Mayreau Gardens		12.62964	-61.38298	H	HBR	VC						0		-9999	America/St_Vincent	2016-10-26
+11281312	L'Ase Bandeau	L'Ase Bandeau		12.64105	-61.38235	H	BAY	VC						0		5	America/St_Vincent	2016-10-26
+11281313	Happy Hole	Happy Hole		12.64231	-61.38291	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281314	Tamarind	Tamarind		12.64003	-61.3855	T	HLL	VC						0		70	America/St_Vincent	2016-10-26
+11281315	Jackfish Hill	Jackfish Hill		12.63651	-61.39368	T	HLL	VC						0		41	America/St_Vincent	2016-10-26
+11281316	Grande Col Point	Grande Col Point		12.63815	-61.39924	T	PT	VC						0		25	America/St_Vincent	2016-10-26
+11281317	Ballast Bay	Ballast Bay		12.6386	-61.39861	H	BAY	VC						0		25	America/St_Vincent	2016-10-26
+11281318	Twassante Bay	Twassante Bay		12.64185	-61.39667	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281319	Lady Rock	Lady Rock		12.64145	-61.39582	T	RK	VC						0		25	America/St_Vincent	2016-10-26
+11281320	Clefford Rock	Clefford Rock		12.64546	-61.39542	T	RK	VC						0		1	America/St_Vincent	2016-10-26
+11281321	Northlist Rock	Northlist Rock		12.64793	-61.39465	T	RK	VC						0		1	America/St_Vincent	2016-10-26
+11281322	Carnash Bay	Carnash Bay	Salt Whistle Bay	12.64754	-61.39137	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281323	North Point	North Point		12.65094	-61.38902	T	PT	VC						0		6	America/St_Vincent	2016-10-26
+11281324	Windward Carnash	Windward Carnash		12.64591	-61.38647	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281325	Jondell	Jondell		12.65912	-61.39566	T	ISL	VC						0		-9999	America/St_Vincent	2016-10-26
+11281326	Ellen Rock	Ellen Rock	Round Cay	12.65784	-61.41001	T	RK	VC						0		-9999	America/St_Vincent	2016-10-26
+11281327	Pelican Rock	Pelican Rock	Flat Cay	12.65554	-61.41166	T	RK	VC						0		-9999	America/St_Vincent	2016-10-26
+11281328	Petit Rameau	Petit Rameau	North Cay	12.63783	-61.35916	T	ISL	VC						0		19	America/St_Vincent	2016-10-26
+11281329	Petit Bateau	Petit Bateau		12.63351	-61.36096	T	ISL	VC						0		21	America/St_Vincent	2016-10-26
+11281330	Jamesby	Jamesby	South Cay	12.62859	-61.36064	T	ISL	VC						0		-9999	America/St_Vincent	2016-10-26
+11281331	Baradal	Baradal		12.63454	-61.35512	T	ISL	VC						0		-9999	America/St_Vincent	2016-10-26
+11281332	Little Savan	Little Savan		12.80318	-61.21595	T	ISL	VC						0		-9999	America/St_Vincent	2016-10-26
+11281334	Jupiter Head	Jupiter Head		12.73887	-61.33114	T	HDLD	VC						0		1	America/St_Vincent	2016-10-26
+11281335	Hyambook Bay	Hyambook Bay		12.73697	-61.3283	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281336	Little Mahault	Little Mahault		12.73499	-61.32547	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281337	Big Mahault	Big Mahault		12.73249	-61.32281	H	BAY	VC						0		68	America/St_Vincent	2016-10-26
+11281338	North Petit Tant	North Petit Tant		12.73496	-61.31792	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281339	South Petit Tant	South Petit Tant		12.73339	-61.31867	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281340	Point Moody	Point Moody		12.73847	-61.31411	T	PT	VC						0		10	America/St_Vincent	2016-10-26
+11281341	Corbec Bay	Corbec Bay		12.73092	-61.33362	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281342	L'Ance Guyac Bay	L'Ance Guyac Bay		12.72751	-61.33377	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281343	L'Ance Guyac Point	L'Ance Guyac Point		12.72626	-61.33403	T	PT	VC						0		1	America/St_Vincent	2016-10-26
+11281344	Little Bay	Little Bay		12.72503	-61.33243	H	BAY	VC						0		117	America/St_Vincent	2016-10-26
+11281345	Whaling Bay	Whaling Bay		12.72274	-61.33038	H	BAY	VC						0		6	America/St_Vincent	2016-10-26
+11281346	Cato Bay	Cato Bay		12.71712	-61.32921	H	BAY	VC						0		6	America/St_Vincent	2016-10-26
+11281347	Big Rock	Big Rock		12.71173	-61.32861	T	RK	VC						0		4	America/St_Vincent	2016-10-26
+11281348	Charles Bay	Charles Bay		12.7107	-61.32684	H	BAY	VC						0		4	America/St_Vincent	2016-10-26
+11281349	Grand Bay	Grand Bay		12.70792	-61.3307	H	BAY	VC						0		3	America/St_Vincent	2016-10-26
+11281350	Bachelor's Hall Bay	Bachelor's Hall Bay		12.70346	-61.33343	H	BAY	VC						0		27	America/St_Vincent	2016-10-26
+11281351	Bachelor's Hall Point	Bachelor's Hall Point		12.70493	-61.33696	T	PT	VC						0		27	America/St_Vincent	2016-10-26
+11281352	Moonhole Bay	Moonhole Bay		12.70333	-61.33828	H	BAY	VC						0		27	America/St_Vincent	2016-10-26
+11281353	Nen's Bay	Nen's Bay		12.70053	-61.34062	H	BAY	VC						0		27	America/St_Vincent	2016-10-26
+11281354	North Glossy Bay (historical)	North Glossy Bay (historical)		12.70337	-61.34952	H	BAY	VC						0		1	America/St_Vincent	2016-10-26
+11281355	Glossy Hill	Glossy Hill		12.70308	-61.35371	T	HLL	VC						0		49	America/St_Vincent	2016-10-26
+11281356	Taffia Bay	Taffia Bay		12.69746	-61.34689	H	BAY	VC						0		3	America/St_Vincent	2016-10-26
+11281357	Gangan Fanny	Gangan Fanny		12.69493	-61.34539	H	COVE	VC						0		3	America/St_Vincent	2016-10-26
+11281358	Taffia Hill	Taffia Hill		12.69483	-61.3421	T	HLL	VC						0		110	America/St_Vincent	2016-10-26
+11281359	Dallis Bay	Dallis Bay		12.69525	-61.33749	H	BAY	VC						0		4	America/St_Vincent	2016-10-26
+11281360	Rumerang Bay	Rumerang Bay		12.69664	-61.33372	H	BAY	VC						0		4	America/St_Vincent	2016-10-26
+11281361	Friendship Bay	Friendship Bay		12.69481	-61.3341	H	BAY	VC						0		4	America/St_Vincent	2016-10-26
+11281362	Jim Hill	Jim Hill		12.69539	-61.32792	T	HLL	VC						0		74	America/St_Vincent	2016-10-26
+11281363	Friendship Point	Friendship Point		12.69399	-61.32751	T	PT	VC						0		29	America/St_Vincent	2016-10-26
+11281364	Barbruce Bay	Barbruce Bay		12.69662	-61.32523	H	BAY	VC						0		81	America/St_Vincent	2016-10-26
+11281365	Happy Hill	Happy Hill		12.69855	-61.32471	T	HLL	VC						0		44	America/St_Vincent	2016-10-26
+11281366	Lukey Point	Lukey Point		12.69987	-61.32258	T	PT	VC						0		-9999	America/St_Vincent	2016-10-26
+11281367	Lukey Bay	Lukey Bay		12.70018	-61.32311	H	BAY	VC						0		9	America/St_Vincent	2016-10-26
+11281368	Riley Bay	Riley Bay		12.70173	-61.32296	H	BAY	VC						0		10	America/St_Vincent	2016-10-26
+11281369	Riley Hill	Riley Hill		12.70439	-61.32494	T	HLL	VC						0		77	America/St_Vincent	2016-10-26
+11281370	Windward Bay	Windward Bay		12.70685	-61.32071	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281371	Twin Bay	Twin Bay		12.70886	-61.3215	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281372	Point Siz	Point Siz		12.71031	-61.32064	T	PT	VC						0		-9999	America/St_Vincent	2016-10-26
+11281373	Godahl Bay	Godahl Bay		12.71313	-61.32019	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-26
+11281374	Quarry Point	Quarry Point		12.71544	-61.32044	T	PT	VC						0		2	America/St_Vincent	2016-10-26
+11281375	Carenage Bay	Carenage Bay		12.71725	-61.32116	H	BAY	VC						0		13	America/St_Vincent	2016-10-26
+11281376	Mysore Bay	Mysore Bay		12.71922	-61.31787	H	BAY	VC						0		13	America/St_Vincent	2016-10-26
+11281377	Point De Jour Bay	Point De Jour Bay		12.71926	-61.31446	H	BAY	VC						0		32	America/St_Vincent	2016-10-26
+11281378	Point De Jour	Point De Jour		12.71819	-61.31303	T	PT	VC						0		10	America/St_Vincent	2016-10-26
+11281379	Big Point	Big Point		12.71874	-61.30849	T	PT	VC						0		4	America/St_Vincent	2016-10-26
+11281380	Mount Royal	Mount Royal		12.72621	-61.31667	T	MT	VC						0		235	America/St_Vincent	2016-10-26
+11281381	Billy Hole	Billy Hole		12.72533	-61.30953	H	COVE	VC						0		2	America/St_Vincent	2016-10-26
+11281398	Dry Rock	Dry Rock		12.83647	-61.19669	T	RK	VC						0		2	America/St_Vincent	2016-10-26
+11281399	South Point	South Point		12.85583	-61.18316	T	PT	VC						0		7	America/St_Vincent	2016-10-26
+11281400	Goat Rock	Goat Rock	Gun Point	12.85732	-61.18315	T	HLL	VC						0		37	America/St_Vincent	2016-10-26
+11281401	Obsidian Bay	Obsidian Bay	Water Pan	12.85938	-61.18565	H	BAY	VC						0		14	America/St_Vincent	2016-10-26
+11281402	Deep Bay	Deep Bay	Downcae Hole	12.86132	-61.18846	H	COVE	VC						0		14	America/St_Vincent	2016-10-26
+11281403	Gelliceaux Bay	Gelliceaux Bay		12.86383	-61.19104	H	BAY	VC						0		14	America/St_Vincent	2016-10-26
+11281404	Little Lagoon	Little Lagoon		12.86588	-61.19134	H	BAY	VC						0		14	America/St_Vincent	2016-10-27
+11281405	Big Lagoon	Big Lagoon		12.86814	-61.19329	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281406	Borou Gulf	Borou Gulf		12.86057	-61.18011	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281407	Caster Hill	Caster Hill		12.86384	-61.17907	T	HLL	VC						0		2	America/St_Vincent	2016-10-27
+11281408	Tom Point	Tom Point		12.86603	-61.17807	T	PT	VC						0		1	America/St_Vincent	2016-10-27
+11281409	Black Sand Bay	Black Sand Bay		12.86551	-61.1793	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281410	Black Sand Beach	Black Sand Beach		12.86025	-61.18505	T	BCH	VC						0		14	America/St_Vincent	2016-10-27
+11281411	Pasture Bay	Pasture Bay		12.87151	-61.17793	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281412	Ellis Beach	Ellis Beach		12.87285	-61.19134	T	BCH	VC						0		118	America/St_Vincent	2016-10-27
+11281413	Dolly Beach	Dolly Beach		12.87432	-61.18951	T	BCH	VC						0		5	America/St_Vincent	2016-10-27
+11281414	Campbell Hills	Campbell Hills		12.87883	-61.1827	T	HLLS	VC						0		108	America/St_Vincent	2016-10-27
+11281415	Serenity Bay	Serenity Bay	Lamb Bay	12.8852	-61.19004	H	BAY	VC						0		11	America/St_Vincent	2016-10-27
+11281416	Plantain Bay	Plantain Bay		12.8878	-61.18775	H	BAY	VC						0		11	America/St_Vincent	2016-10-27
+11281417	Landing Bay	Landing Bay	Endeavour Bay	12.89	-61.18594	H	BAY	VC						0		11	America/St_Vincent	2016-10-27
+11281418	Lucy Bay	Lucy Bay	Honor Bay	12.89408	-61.18488	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281419	Point Lookout	Point Lookout		12.89508	-61.18282	T	PT	VC						0		1	America/St_Vincent	2016-10-27
+11281420	Opricot	Opricot		12.89882	-61.18111	T	RK	VC						0		1	America/St_Vincent	2016-10-27
+11281421	Ramier Bay	Ramier Bay		12.89437	-61.17488	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281422	Point Lookout	Point Lookout		12.89556	-61.17378	T	PT	VC						0		-9999	America/St_Vincent	2016-10-27
+11281423	North Point	North Point	Pelican Point	12.89621	-61.17065	T	PT	VC						0		-9999	America/St_Vincent	2016-10-27
+11281424	Ballis Bay	Ballis Bay		12.89504	-61.17177	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281425	Little Brooks	Little Brooks		12.89271	-61.16662	T	RK	VC						0		-9999	America/St_Vincent	2016-10-27
+11281426	Rutland Bay	Rutland Bay		12.88877	-61.16823	H	BAY	VC						0		32	America/St_Vincent	2016-10-27
+11281427	Lime Kiln Bay	Lime Kiln Bay		12.88197	-61.17235	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281428	Macaroni Bay	Macaroni Bay		12.87986	-61.17535	H	BAY	VC						0		32	America/St_Vincent	2016-10-27
+11281429	Simplicity Bay	Simplicity Bay		12.87676	-61.17623	H	BAY	VC						0		32	America/St_Vincent	2016-10-27
+11281430	Macaroni Beach	Macaroni Beach		12.88018	-61.17635	T	BCH	VC						0		8	America/St_Vincent	2016-10-27
+11281431	Adelphi	Adelphi		12.86289	-61.1842	T	HLL	VC						0		66	America/St_Vincent	2016-10-27
+11281432	Royston Park	Royston Park		12.88201	-61.18335	P	PPL	VC						0		75	America/St_Vincent	2016-10-27
+11281433	Crystal Beach	Crystal Beach		12.89338	-61.17438	T	BCH	VC						0		-9999	America/St_Vincent	2016-10-27
+11281434	Big Pillory	Big Pillory		12.91213	-61.17278	T	ISL	VC						0		38	America/St_Vincent	2016-10-27
+11281435	Middle Pillory	Middle Pillory		12.90949	-61.17767	T	ISL	VC						0		16	America/St_Vincent	2016-10-27
+11281436	Little Pillory	Little Pillory		12.90891	-61.18123	T	ISL	VC						0		10	America/St_Vincent	2016-10-27
+11281437	Caratoos	Caratoos		12.91617	-61.16211	T	RKS	VC						0		-9999	America/St_Vincent	2016-10-27
+11281438	North Bay	North Bay		12.94888	-61.14271	H	BAY	VC						0		3	America/St_Vincent	2016-10-27
+11281439	Bannana Wharf	Bannana Wharf		12.94766	-61.14678	H	BAY	VC						0		3	America/St_Vincent	2016-10-27
+11281440	Cassava Bay	Cassava Bay		12.95749	-61.14849	H	BAY	VC						0		32	America/St_Vincent	2016-10-27
+11281441	Garlin Cay	Garlin Cay		12.96121	-61.14725	T	ISLET	VC						0		1	America/St_Vincent	2016-10-27
+11281442	Bullet	Bullet		12.96671	-61.12756	T	ISL	VC						0		-3	America/St_Vincent	2016-10-27
+11281443	Battowia Point	Battowia Point		12.95735	-61.1329	T	PT	VC						0		-9999	America/St_Vincent	2016-10-27
+11281444	Sheep Pen Bay	Sheep Pen Bay		12.95842	-61.13166	H	BAY	VC						0		70	America/St_Vincent	2016-10-27
+11281445	West End	West End		12.9521	-61.2673	T	PT	VC						0		1	America/St_Vincent	2016-10-27
+11281446	Bellins Rock	Bellins Rock		12.94842	-61.26505	T	RK	VC						0		1	America/St_Vincent	2016-10-27
+11281447	Mahault Bay	Mahault Bay		12.94944	-61.25303	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281448	Bednoe Bay	Bednoe Bay		12.95693	-61.25605	H	BAY	VC						0		64	America/St_Vincent	2016-10-27
+11281449	Black Rock	Black Rock		12.95772	-61.24656	T	RK	VC						0		-9999	America/St_Vincent	2016-10-27
+11281450	Grand Bay Point	Grand Bay Point		12.96025	-61.24457	T	PT	VC						0		5	America/St_Vincent	2016-10-27
+11281451	Soldier Bay	Soldier Bay		12.96257	-61.2458	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281452	Dicks Bay	Dicks Bay		12.96184	-61.25105	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281454	Lagoon Bay	Lagoon Bay		12.97109	-61.24458	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281455	Chyrup Cay	Chyrup Cay		12.97598	-61.23997	T	RK	VC						0		5	America/St_Vincent	2016-10-27
+11281456	La Pompe Bay	La Pompe Bay		12.98681	-61.24153	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281457	Bluff Point	Bluff Point		12.98486	-61.24323	T	PT	VC						0		20	America/St_Vincent	2016-10-27
+11281458	Hog Hole	Hog Hole		13.00203	-61.21893	H	COVE	VC						0		9	America/St_Vincent	2016-10-27
+11281459	Hope Rock	Hope Rock		12.9989	-61.21937	T	RK	VC						0		-9999	America/St_Vincent	2016-10-27
+11281460	Hope Point	Hope Point		13.00861	-61.2161	T	PT	VC						0		-9999	America/St_Vincent	2016-10-27
+11281461	La'Anse Coite Point	La'Anse Coite Point	Anse La Coite Point	13.01525	-61.21529	T	PT	VC						0		-9999	America/St_Vincent	2016-10-27
+11281462	Mali Point	Mali Point	Marley Point	13.01673	-61.21576	T	PT	VC						0		6	America/St_Vincent	2016-10-27
+11281463	Spring Cay	Spring Cay		13.02119	-61.21762	T	ISL	VC						0		3	America/St_Vincent	2016-10-27
+11281464	Crowne Point	Crowne Point		13.02204	-61.21846	T	PT	VC						0		5	America/St_Vincent	2016-10-27
+11281465	Salvia Bay	Salvia Bay		13.02949	-61.2081	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281466	Bends Bay	Bends Bay		13.03473	-61.20559	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281467	Palmayra Rock	Palmayra Rock		13.03571	-61.20504	T	RK	VC						0		5	America/St_Vincent	2016-10-27
+11281468	Small Bullet	Small Bullet		13.0372	-61.2046	T	RK	VC						0		-9999	America/St_Vincent	2016-10-27
+11281469	Bullet Bay	Bullet Bay		13.03811	-61.20481	H	BAY	VC						0		4	America/St_Vincent	2016-10-27
+11281470	French Point	French Point		13.04616	-61.20462	T	PT	VC						0		73	America/St_Vincent	2016-10-27
+11281471	Man Hole	Man Hole		13.04663	-61.2056	H	COVE	VC						0		37	America/St_Vincent	2016-10-27
+11281472	Long Point	Long Point		13.04552	-61.21038	T	PT	VC						0		9	America/St_Vincent	2016-10-27
+11281473	Almond Bay	Almond Bay		13.03183	-61.22829	H	COVE	VC						0		16	America/St_Vincent	2016-10-27
+11281474	Browne's Bay	Browne's Bay		13.02707	-61.23365	H	BAY	VC						0		27	America/St_Vincent	2016-10-27
+11281475	Hamilton	Hamilton		13.01282	-61.24313	P	PPL	VC						0		15	America/St_Vincent	2016-10-27
+11281476	Bemont Beach	Bemont Beach		13.0054	-61.2386	T	BCH	VC						0		11	America/St_Vincent	2016-10-27
+11281477	Belmont	Belmont		13.00548	-61.23687	P	PPL	VC		06				0		38	America/St_Vincent	2020-06-11
+11281478	Retreat	Retreat		12.99918	-61.2432	P	PPL	VC						0		25	America/St_Vincent	2016-10-27
+11281479	Lower Bay	Lower Bay		12.99611	-61.24609	P	PPL	VC						0		13	America/St_Vincent	2016-10-27
+11281480	Ships Stern Bay	Ships Stern Bay		12.99508	-61.27451	H	COVE	VC						0		1	America/St_Vincent	2016-10-27
+11281481	Adams	Adams		12.99201	-61.27481	P	PPL	VC						0		11	America/St_Vincent	2016-10-27
+11281482	Long Point	Long Point		12.98978	-61.2867	T	PT	VC						0		1	America/St_Vincent	2016-10-27
+11281483	Master Mais Point	Master Mais Point		12.98914	-61.28231	T	PT	VC						0		20	America/St_Vincent	2016-10-27
+11281484	Fig Root	Fig Root		12.98902	-61.28139	T	RK	VC						0		15	America/St_Vincent	2016-10-27
+11281485	Adams Bay	Adams Bay		12.9908	-61.27423	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281486	Athneal Bay	Athneal Bay		12.99019	-61.26974	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281487	Gellizeau	Gellizeau		12.99262	-61.27083	P	PPL	VC						0		25	America/St_Vincent	2016-10-27
+11281488	La Pompe	La Pompe		12.98725	-61.24357	P	PPL	VC						0		28	America/St_Vincent	2016-10-27
+11281489	Little Bay	Little Bay		12.98484	-61.24837	H	BAY	VC						0		10	America/St_Vincent	2016-10-27
+11281490	Jetty Bay	Jetty Bay		12.98635	-61.25436	H	BAY	VC						0		11	America/St_Vincent	2016-10-27
+11281498	Gun Point	Gun Point		13.12296	-61.17033	T	PT	VC						0		6	America/St_Vincent	2016-10-27
+11281502	Ribishi Point	Ribishi Point	Rabishi Point	13.13379	-61.16262	T	PT	VC						0		1	America/St_Vincent	2016-10-27
+11281503	Brighton Beach	Brighton Beach		13.131	-61.16688	T	BCH	VC						0		8	America/St_Vincent	2016-10-27
+11281504	Diamond River	Diamond River	Rabishi River	13.13357	-61.16576	H	STM	VC						0		6	America/St_Vincent	2016-10-27
+11281505	Prospect	Prospect		13.13082	-61.17459	P	PPL	VC						0		46	America/St_Vincent	2016-10-27
+11281506	Ribishi Bay	Ribishi Bay	Rabishi Bay	13.13104	-61.16499	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281507	Cubaymarou River	Cubaymarou River		13.14536	-61.15778	H	STM	VC						0		1	America/St_Vincent	2016-10-27
+11281508	Rabaca Point	Rabaca Point		13.13955	-61.16032	T	PT	VC						0		6	America/St_Vincent	2016-10-27
+11281509	Rawacou Point	Rawacou Point	Racouacou Point	13.15024	-61.14682	T	PT	VC						0		2	America/St_Vincent	2016-10-27
+11281510	Yambou River	Yambou River	Jambou River	13.16423	-61.14365	H	STM	VC						0		4	America/St_Vincent	2020-09-23
+11281511	Biabou Point	Biabou Point	Bayabou Point,Byabou Point	13.18779	-61.13816	T	PT	VC						0		4	America/St_Vincent	2016-10-27
+11281512	Macariacaw Point	Macariacaw Point		13.20225	-61.13107	T	PT	VC						0		5	America/St_Vincent	2016-10-27
+11281513	Grant's Bay	Grant's Bay		13.20015	-61.13284	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281514	Massariacaw River	Massariacaw River	Macariacaw River,Union River	13.21514	-61.12678	H	STM	VC						0		7	America/St_Vincent	2016-10-27
+11281515	Camacaribou River	Camacaribou River		13.22209	-61.12638	H	STM	VC						0		16	America/St_Vincent	2016-10-27
+11281516	South Union Bay	South Union Bay		13.20982	-61.12883	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281517	Byera River	Byera River	Bayira River,Byeira River	13.25625	-61.1184	H	STM	VC						0		5	America/St_Vincent	2020-09-23
+11281518	Grand Sable South River	Grand Sable South River		13.26617	-61.11728	H	STM	VC						0		10	America/St_Vincent	2016-10-27
+11281519	Grand Sable North River	Grand Sable North River	Caratal River	13.28284	-61.11621	H	STM	VC						0		3	America/St_Vincent	2016-10-27
+11281520	Warwarau River	Warwarau River	Langley Park River	13.29124	-61.11583	H	STM	VC						0		6	America/St_Vincent	2016-10-27
+11281521	Caratal Village	Caratal Village		13.28387	-61.11724	P	PPL	VC						0		10	America/St_Vincent	2016-10-27
+11281522	Waribishi River	Waribishi River		13.31686	-61.11768	H	STM	VC						0		9	America/St_Vincent	2016-10-27
+11281523	Camaribou River	Camaribou River		13.32227	-61.11841	H	STM	VC						0		10	America/St_Vincent	2016-10-27
+11281524	Tourama River	Tourama River		13.33184	-61.11945	H	STM	VC						0		8	America/St_Vincent	2016-10-27
+11281525	Tourama Point	Tourama Point		13.33189	-61.11921	T	PT	VC						0		8	America/St_Vincent	2016-10-27
+11281526	God Save the Queen River	God Save the Queen River	Imayarou River	13.33439	-61.12128	H	STM	VC						0		19	America/St_Vincent	2016-10-27
+11281527	Noel River	Noel River		13.3371	-61.12279	H	STM	VC						0		3	America/St_Vincent	2016-10-27
+11281528	Robin Rock Point	Robin Rock Point		13.34085	-61.1234	T	PT	VC						0		5	America/St_Vincent	2016-10-27
+11281529	Overland	Overland		13.33371	-61.12282	P	PPL	VC						0		32	America/St_Vincent	2016-10-27
+11281530	London	London		13.34046	-61.12514	P	PPL	VC						0		20	America/St_Vincent	2016-10-27
+11281531	Pitt Clina River	Pitt Clina River	Acaricaw River,Agrika River	13.34113	-61.12369	H	STM	VC						0		5	America/St_Vincent	2016-10-27
+11281532	Karo Point	Karo Point		13.35145	-61.12986	T	PT	VC						0		4	America/St_Vincent	2016-10-27
+11281533	Karo River	Karo River	Caraw River	13.35149	-61.13	H	STM	VC						0		4	America/St_Vincent	2016-10-27
+11281534	Cayo River	Cayo River		13.35255	-61.131	H	STM	VC						0		7	America/St_Vincent	2016-10-27
+11281535	Chibarabu Point	Chibarabu Point	Kebariabou Point,Kebaribou Point	13.3585	-61.1308	T	PT	VC						0		9	America/St_Vincent	2016-10-27
+11281536	Agrabay River	Agrabay River		13.35948	-61.13255	H	STM	VC						0		18	America/St_Vincent	2016-10-27
+11281537	Old Sandy Bay	Old Sandy Bay	Warigara Bay	13.3629	-61.13188	H	BAY	VC						0		-9999	America/St_Vincent	2016-10-27
+11281538	Hoterabana River	Hoterabana River		13.34949	-61.12972	H	STM	VC						0		19	America/St_Vincent	2016-10-27
+11281539	Wyarrery River	Wyarrery River		13.34527	-61.12865	H	STM	VC						0		7	America/St_Vincent	2016-10-27
+11281540	Point Hungry	Point Hungry	False Pointe Espagnole	13.3673	-61.13175	T	PT	VC						0		12	America/St_Vincent	2016-10-27
+11281541	Goat Point	Goat Point		13.36987	-61.13243	T	PT	VC						0		6	America/St_Vincent	2016-10-27
+11281542	Acayou River	Acayou River		13.36485	-61.13513	H	STM	VC						0		13	America/St_Vincent	2016-10-27
+11281543	Owia Little River	Owia Little River		13.37165	-61.14187	H	STM	VC						0		5	America/St_Vincent	2016-10-27
+11281544	Owia Big River	Owia Big River		13.3756	-61.14633	H	STM	VC						0		-9999	America/St_Vincent	2016-10-27
+11281545	Mabuya Point	Mabuya Point		13.37952	-61.15405	T	PT	VC						0		5	America/St_Vincent	2016-10-27
+11281546	Dry River	Dry River		13.38216	-61.16654	H	STM	VC						0		3	America/St_Vincent	2016-10-27
+11281547	Krama River	Krama River	Hirebaque River	13.38063	-61.15659	H	STM	VC						0		7	America/St_Vincent	2016-10-27
+11281548	West Point	West Point		13.38183	-61.17503	T	PT	VC						0		13	America/St_Vincent	2016-10-27
+11281549	John Bull Point	John Bull Point		13.38056	-61.18089	T	PT	VC						0		78	America/St_Vincent	2016-10-27
+11281550	Charles Bay	Charles Bay	Gagarawaou Bay	13.38085	-61.17876	H	BAY	VC						0		78	America/St_Vincent	2016-10-27
+11281551	Cape Roll	Cape Roll		13.37975	-61.18619	T	PT	VC						0		1	America/St_Vincent	2016-10-27
+11281552	Quashie River	Quashie River		13.37898	-61.18448	H	STM	VC						0		1	America/St_Vincent	2016-10-27
+11281553	Ravine River	Ravine River		13.37906	-61.18041	H	STM	VC						0		8	America/St_Vincent	2016-10-27
+11281554	Charles Bay River	Charles Bay River		13.37862	-61.17942	H	STM	VC						0		29	America/St_Vincent	2016-10-27
+11281556	Tucker Bay	Tucker Bay		13.35814	-61.2097	H	BAY	VC						0		30	America/St_Vincent	2016-10-27
+11281559	Morne Ronde Point	Morne Ronde Point		13.3324	-61.22225	T	PT	VC						0		132	America/St_Vincent	2016-10-27
+11281561	Fitz-Hughes River	Fitz-Hughes River		13.29473	-61.23522	H	STM	VC						0		8	America/St_Vincent	2016-10-27
+11281562	Chateaubelair River	Chateaubelair River		13.29098	-61.24139	H	STM	VC						0		10	America/St_Vincent	2016-10-27
+11281563	Petit Bordel River	Petit Bordel River		13.28921	-61.24702	H	STM	VC						0		8	America/St_Vincent	2016-10-27
+11281566	Coulls Bay	Coulls Bay		13.27284	-61.26384	H	BAY	VC						0		144	America/St_Vincent	2016-10-27
+11281567	L'Anse Mahaut Bay	L'Anse Mahaut Bay	Ance a Mahaut	13.26117	-61.26616	H	BAY	VC						0		85	America/St_Vincent	2016-10-27
+11281568	Washilabo River	Washilabo River		13.26567	-61.2596	H	STM	VC						0		85	America/St_Vincent	2016-10-27
+11281569	Cumberland	Cumberland	Washilabo	13.2666	-61.25947	P	PPL	VC						0		14	America/St_Vincent	2016-10-27
+11281570	Wallilabou	Wallilabou		13.24821	-61.26919	P	PPL	VC						0		13	America/St_Vincent	2016-10-27
+11281571	Keartons Bay	Keartons Bay		13.24431	-61.27541	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281572	Keartons	Keartons		13.2432	-61.27268	P	PPL	VC						0		29	America/St_Vincent	2016-10-27
+11281573	Princes Bay	Princes Bay	Barawally Bay,Prince's Bay	13.23662	-61.27607	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281574	Peter's Hope Bay	Peter's Hope Bay	Ance Moulin	13.2285	-61.27599	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281575	Peter's Hope	Peter's Hope		13.2271	-61.26882	P	PPL	VC						0		87	America/St_Vincent	2016-10-27
+11281576	Mount Wynne Bay	Mount Wynne Bay	Ance Miroir	13.21755	-61.27693	H	BAY	VC						0		1	America/St_Vincent	2016-10-27
+11281577	Layou Bay	Layou Bay	Rutland Bay	13.20038	-61.27414	H	BAY	VC						0		68	America/St_Vincent	2016-10-27
+11281578	Ance Bonaventure	Ance Bonaventure		13.20625	-61.27818	H	BAY	VC						0		10	America/St_Vincent	2016-10-27
+11281579	Anse Cayenne	Anse Cayenne	Ance Cayenne	13.17765	-61.25942	H	BAY	VC						0		8	America/St_Vincent	2016-10-28
+11281581	York Bay	York Bay		13.16687	-61.2508	H	BAY	VC						0		5	America/St_Vincent	2016-10-28
+11281586	Villa	Villa		13.13377	-61.20044	P	PPL	VC						0		14	America/St_Vincent	2016-10-28
+12535690	Little Bay	Little Bay	Little Bay	13.28705	-61.25987	H	COVE	VC		03				0		18	America/St_Vincent	2023-06-16
+12535691	Dark View Bay	Dark View Bay	Dark View Bay	13.28741	-61.25301	H	COVE	VC		03				0		25	America/St_Vincent	2023-06-16
+12535692	Wind Blow Rock	Wind Blow Rock	Wind Blow Rock	13.37879	-61.1539	T	RK	VC		01				0		1	America/St_Vincent	2023-06-16
+12535693	Dixons	Dixons	Dixons	13.28544	-61.12814	P	PPL	VC		01				0		47	America/St_Vincent	2023-06-16
+12535694	Kramaku	Kramaku	Kramaku	13.38082	-61.15751	T	PT	VC		01				0		1	America/St_Vincent	2023-06-16
+12535695	Black Ridge	Black Ridge	Black Ridge	13.26397	-61.12808	T	RDGE	VC		01				0		84	America/St_Vincent	2023-06-16
+12535696	Coco Walk	Coco Walk	Coco Walk	13.35308	-61.14687	P	PPL	VC		01				0		281	America/St_Vincent	2023-06-16
+12535697	Sambo Stone	Sambo Stone	Sambo Stone	13.37959	-61.15767	P	PPL	VC		01				0		1	America/St_Vincent	2023-06-16
+12535698	Grand Sable	Grand Sable	Grand Sable	13.26596	-61.12053	P	PPL	VC		01				0		3	America/St_Vincent	2023-06-16
+12535699	Belmont	Belmont	Belmont	13.27217	-61.2519	P	PPL	VC		03				0		167	America/St_Vincent	2023-06-16
+12535700	Grand Bois	Grand Bois	Grand Bois	13.26	-61.2283	P	PPL	VC		03				0		349	America/St_Vincent	2023-06-16
+12535701	Palmyra	Palmyra	Palmyra	13.26053	-61.21952	P	PPL	VC		03				0		472	America/St_Vincent	2023-06-16
+12535702	Baleine	Baleine	Baleine	13.37148	-61.18829	P	PPL	VC		03				0		313	America/St_Vincent	2023-06-16
+12535703	Kings Pleasure	Kings Pleasure	Kings Pleasure	13.28567	-61.22179	P	PPL	VC		03				0		160	America/St_Vincent	2023-06-16
+12535704	Dandrade	Dandrade	Dandrade	13.32255	-61.14863	P	PPL	VC		01				0		287	America/St_Vincent	2023-06-16
+12535705	Coulls HIll	Coulls HIll	Coulls HIll	13.27547	-61.25851	P	PPL	VC		03				0		19	America/St_Vincent	2023-06-16
+12535706	Petit Wallibou	Petit Wallibou	Petit Wallibou	13.31399	-61.20285	P	PPL	VC		03				0		212	America/St_Vincent	2023-06-16
+12535707	Larikai Point	Larikai Point	Larikai Point	13.34702	-61.21459	T	PT	VC		03				0		175	America/St_Vincent	2023-06-16
+12535708	Jennings Valley	Jennings Valley	Jennings Valley	13.26432	-61.15202	P	PPL	VC		01				0		293	America/St_Vincent	2023-06-16
+12535709	Needle Point	Needle Point	Needle Point	13.28323	-61.262	T	PT	VC		03				0		19	America/St_Vincent	2023-06-16
+12535710	Congo Valley	Congo Valley	Congo Valley	13.27085	-61.14137	P	PPL	VC		01				0		136	America/St_Vincent	2023-06-16
+12535711	Campobello	Campobello	Campobello	13.37599	-61.18222	P	PPL	VC		03				0		78	America/St_Vincent	2023-06-16
+12535712	Windsor Forest	Windsor Forest	Windsor Forest	13.36652	-61.18994	V	FRST	VC		03				0		439	America/St_Vincent	2023-06-16
+12535713	Lowmans	Lowmans	Lowmans,McIntyre Village	13.2855	-61.14127	P	PPL	VC		01				0		129	America/St_Vincent	2023-06-16
+12535714	Sutherland Level	Sutherland Level	Sutherland Level	13.36816	-61.1354	P	PPL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535715	Louise Hill	Louise Hill	Louise Hill	13.37947	-61.16142	T	HLL	VC		01				0		134	America/St_Vincent	2023-06-16
+12535716	Mangrove	Mangrove	Mangrove	13.25263	-61.11865	P	PPL	VC		01				0		23	America/St_Vincent	2023-06-16
+12535717	Dry Gutter	Dry Gutter	Dry Gutter	13.38108	-61.16725	H	STM	VC		01				0		79	America/St_Vincent	2023-06-16
+12535718	Gorse River	Gorse River	Gorse River	13.25157	-61.11776	H	STM	VC		01				0		23	America/St_Vincent	2023-06-16
+12535719	Chateau	Chateau	Chateau	13.37763	-61.15608	P	PPL	VC		01				0		1	America/St_Vincent	2023-06-16
+12535720	Craigeburn	Craigeburn	Craigeburn	13.29111	-61.22901	P	PPL	VC		03				0		122	America/St_Vincent	2023-06-16
+12535721	Victoria Village	Victoria Village	Victoria Village	13.35486	-61.14479	P	PPL	VC		01				0		281	America/St_Vincent	2023-06-16
+12535722	Coco	Coco	Coco	13.25651	-61.24605	P	PPL	VC		05				0		157	America/St_Vincent	2023-06-16
+12535723	Basin Hole	Basin Hole	Basin Hole	13.29388	-61.1155	P	PPL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535724	Belleisle Gutter	Belleisle Gutter	Belleisle Gutter	13.36388	-61.1352	H	STM	VC		01				0		2	America/St_Vincent	2023-06-16
+12535725	Friendship	Friendship	Friendship	13.28228	-61.22361	P	PPL	VC		03				220		219	America/St_Vincent	2025-09-21
+12535726	Fancy River	Fancy River	Fancy River	13.3825	-61.17079	H	STM	VC		01				0		79	America/St_Vincent	2023-06-16
+12535727	Carib Settlement	Carib Settlement	Carib Settlement	13.33417	-61.2121	P	PPL	VC		03				0		159	America/St_Vincent	2023-06-16
+12535728	Petit Bordel	Petit Bordel	Petit Bordel	13.28711	-61.24458	P	PPL	VC		03				1084		43	America/St_Vincent	2025-09-21
+12535729	Cumberland River	Cumberland River	Cumberland River	13.2656	-61.25927	H	STM	VC		05				0		85	America/St_Vincent	2023-06-16
+12535730	Azier Bay	Azier Bay	Azier Bay	13.36488	-61.20561	H	BAY	VC		03				0		131	America/St_Vincent	2023-06-16
+12535731	Dark Head	Dark Head	Dark Head	13.28548	-61.26085	T	PT	VC		03				0		18	America/St_Vincent	2023-06-16
+12535732	Sharpe's	Sharpe's	Sharpe's	13.28287	-61.23727	P	PPL	VC		03				0		162	America/St_Vincent	2023-06-16
+12535733	Byera Valley	Byera Valley	Byera Valley	13.25778	-61.15104	P	PPL	VC		01				0		287	America/St_Vincent	2023-06-16
+12535734	Rouges Hill	Rouges Hill	Rouges Hill	13.36926	-61.13948	T	HLL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535735	Dells Hill	Dells Hill	Dells Hill	13.35714	-61.13244	P	PPL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535736	Mount Pleasant	Mount Pleasant	Mount Pleasant	13.28757	-61.16128	T	MT	VC		01				0		620	America/St_Vincent	2023-06-16
+12535737	Reading	Reading	Reading	13.27179	-61.12926	P	PPL	VC		01				0		86	America/St_Vincent	2023-06-16
+12535738	Soldier Hill	Soldier Hill	Soldier Hill	13.37995	-61.16683	T	HLL	VC		01				0		79	America/St_Vincent	2023-06-16
+12535739	Mount Bentinck	Mount Bentinck	Mount Bentinck	13.28893	-61.12744	P	PPL	VC		01				0		47	America/St_Vincent	2023-06-16
+12535740	Agouti Pasture	Agouti Pasture	Agouti Pasture	13.34267	-61.14156	L	LCTY	VC		01				0		159	America/St_Vincent	2023-06-16
+12535741	Campobello Bay	Campobello Bay	Campobello Bay	13.37926	-61.17954	H	BAY	VC		03				0		78	America/St_Vincent	2023-06-16
+12535742	Morgan Woods	Morgan Woods	Morgan Woods	13.30659	-61.21418	P	PPL	VC		03				0		290	America/St_Vincent	2023-06-16
+12535743	Gordon Village	Gordon Village	Gordon Village	13.2557	-61.24118	P	PPL	VC		05				0		202	America/St_Vincent	2023-06-16
+12535744	Langley Park	Langley Park	Langley Park	13.29623	-61.11615	P	PPL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535745	Dark View	Dark View	Dark View	13.28576	-61.25253	P	PPL	VC		03				0		25	America/St_Vincent	2023-06-16
+12535746	Morne Ronde Bay	Morne Ronde Bay	Morne Ronde Bay	13.33148	-61.22161	H	BAY	VC		03				0		132	America/St_Vincent	2023-06-16
+12535747	Dickson	Dickson	Dickson	13.2826	-61.14777	P	PPL	VC		01				0		194	America/St_Vincent	2023-06-16
+12535748	Locust Valley	Locust Valley	Locust Valley	13.29013	-61.14918	L	LCTY	VC		01				0		212	America/St_Vincent	2023-06-16
+12535749	Morne Ronde	Morne Ronde	Morne Ronde	13.32918	-61.21516	P	PPL	VC		03				0		232	America/St_Vincent	2023-06-16
+12535750	Jocelyn Bay	Jocelyn Bay	Jocelyn Bay	13.35513	-61.21038	H	BAY	VC		03				0		30	America/St_Vincent	2023-06-16
+12535751	L'anse Mahaut	L'anse Mahaut	L'anse Mahaut	13.2594	-61.25922	P	PPL	VC		05				0		85	America/St_Vincent	2023-06-16
+12535752	Richmond Beach	Richmond Beach	Richmond Beach	13.31043	-61.23505	T	BCH	VC		03				0		1	America/St_Vincent	2023-06-16
+12535753	Perseverance	Perseverance	Perseverance	13.27739	-61.14789	P	PPL	VC		01				0		194	America/St_Vincent	2023-06-16
+12535754	Chester Cottage	Chester Cottage	Chester Cottage	13.26162	-61.1206	P	PPL	VC		01				0		3	America/St_Vincent	2023-06-16
+12535755	Jumby Point	Jumby Point	Jumby Point	13.37917	-61.15428	T	PT	VC		01				0		1	America/St_Vincent	2023-06-16
+12535756	Upper Waterloo	Upper Waterloo	Upper Waterloo	13.34174	-61.13028	L	LCTY	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535757	New Works	New Works	New Works	13.24653	-61.24841	P	PPL	VC		05				0		288	America/St_Vincent	2023-06-16
+12535758	Coutts Corner	Coutts Corner	Coutts Corner	13.27709	-61.25151	P	PPL	VC		03				0		159	America/St_Vincent	2023-06-16
+12535759	Fitz-Hughes	Fitz-Hughes	Fitz-Hughes	13.29348	-61.23442	P	PPL	VC		03				0		12	America/St_Vincent	2023-06-16
+12535760	Mount William	Mount William	Mount William	13.25019	-61.12365	L	LCTY	VC		01				0		23	America/St_Vincent	2023-06-16
+12535761	Diamond	Diamond	Diamond	13.35318	-61.13716	P	PPL	VC		01				0		131	America/St_Vincent	2023-06-16
+12535762	Falls of Baleine	Falls of Baleine	Falls of Baleine	13.3662	-61.193	P	PPL	VC		03				0		284	America/St_Vincent	2023-06-16
+12535763	Westwood	Westwood	Westwood	13.27099	-61.25825	P	PPL	VC		03				0		167	America/St_Vincent	2023-06-16
+12535764	Schwartz	Schwartz	Schwartz	13.26497	-61.22653	P	PPL	VC		03				0		349	America/St_Vincent	2023-06-16
+12535765	Colemans Gutter	Colemans Gutter	Colemans Gutter	13.37033	-61.13996	H	STM	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535766	Gordon Yard	Gordon Yard	Gordon Yard	13.25241	-61.24613	P	PPL	VC		05				0		157	America/St_Vincent	2023-06-16
+12535767	Indian Estate	Indian Estate	Indian Estate	13.29114	-61.14157	L	LCTY	VC		01				0		129	America/St_Vincent	2023-06-16
+12535768	Three Rivers	Three Rivers	Three Rivers	13.25209	-61.14373	P	PPL	VC		01				0		164	America/St_Vincent	2023-06-16
+12535769	Hollow Acres	Hollow Acres	Hollow Acres	13.28017	-61.16332	P	PPL	VC		01				0		509	America/St_Vincent	2023-06-16
+12535770	Mangaroo	Mangaroo	Mangaroo	13.25896	-61.24976	P	PPL	VC		05				0		220	America/St_Vincent	2023-06-16
+12535771	Over River	Over River	Over River	13.30191	-61.13132	P	PPL	VC		01				0		70	America/St_Vincent	2023-06-16
+12535772	German Gutter	German Gutter	German Gutter	13.28439	-61.26099	H	STM	VC		03				0		18	America/St_Vincent	2023-06-16
+12535773	Grove	Grove	Grove	13.2446	-61.23234	P	PPL	VC		03				0		208	America/St_Vincent	2024-07-12
+12535774	Golden Grove	Golden Grove	Golden Grove	13.29078	-61.23516	P	PPL	VC		03				0		102	America/St_Vincent	2023-06-16
+12535775	Morgan	Morgan	Morgan	13.36558	-61.14167	P	PPL	VC		01				0		2	America/St_Vincent	2023-06-16
+12535776	Lot Fourteen	Lot Fourteen	Lot 14,Lot Fourteen	13.30613	-61.13001	P	PPL	VC		01				0		70	America/St_Vincent	2023-06-16
+12535777	Petite Anse Bay	Petite Anse Bay	Petite Anse Bay	13.26446	-61.26126	H	COVE	VC		05				0		85	America/St_Vincent	2023-06-16
+12535778	Gold Bay	Gold Bay	Gold Bay	13.27528	-61.26224	H	COVE	VC		03				0		19	America/St_Vincent	2023-06-16
+12535779	Rose Bank Bay	Rose Bank Bay	Rose Bank Bay	13.28682	-61.25703	H	COVE	VC		03				0		25	America/St_Vincent	2023-06-16
+12535780	Chili Village	Chili Village	Chili Village	13.28279	-61.12156	P	PPL	VC		01				0		12	America/St_Vincent	2023-06-16
+12535781	Swatt Hill	Swatt Hill	Swatt Hill	13.27314	-61.23403	T	HLL	VC		03				0		206	America/St_Vincent	2023-06-16
+12535782	Lett Woods	Lett Woods	Lett Woods	13.27573	-61.22924	V	FRST	VC		03				0		279	America/St_Vincent	2023-06-16
+12535783	Mount Alexander	Mount Alexander	Mount Alexander	13.27757	-61.23389	T	HLL	VC		03				0		162	America/St_Vincent	2023-06-16
+12535784	Jack Hill	Jack Hill	Jack Hill	13.25993	-61.23566	T	HLL	VC		03				0		308	America/St_Vincent	2023-06-16
+12535785	Happy Hill	Happy Hill	Happy Hill	13.29388	-61.13229	T	HLL	VC		01				0		67	America/St_Vincent	2023-06-16
+12535786	Mount Perseverance	Mount Perseverance	Mount Perseverance	13.27784	-61.13096	T	HLL	VC		01				0		98	America/St_Vincent	2023-06-16
+12535787	Big Level	Big Level	Big Level	13.34522	-61.1307	P	PPL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12535788	Upper Orange Hill	Upper Orange Hill	Upper Orange Hill	13.34702	-61.13099	P	PPL	VC		01				0		-9999	America/St_Vincent	2023-06-16
+12949688	Punaise	Punaise		12.54308	-61.40588	H	SHOL	VC		06				0		-9999	America/St_Vincent	2024-07-12
+12949693	Mopion	Mopion		12.5463	-61.39521	H	SHOL	VC		06				0		-9999	America/St_Vincent	2024-07-12
+12949705	Point Chevalier	Point Chevalier		12.53331	-61.37931	T	PT	VC		06				0		-9999	America/St_Vincent	2024-07-12
+12949706	La Roche	La Roche		12.5305	-61.37648	T	RK	VC		06				0		-9999	America/St_Vincent	2024-07-12
+12949712	Marni Hill	Marni Hill		12.53769	-61.38614	T	HLL	VC		06				0		38	America/St_Vincent	2024-07-12
+12949713	Telescope Hill	Telescope Hill		12.53638	-61.38191	T	HLL	VC		06				0		-9999	America/St_Vincent	2024-07-12
+12949714	Cross Point	Cross Point		12.53275	-61.38051	T	PT	VC		06				0		-9999	America/St_Vincent	2024-07-12
+13452277	Petit Baleine	Petit Baleine	Petit Baleine	13.37604	-61.18999	H	COVE	VC		03				0		1	America/St_Vincent	2025-07-19
+13452278	Sandy Bay	Sandy Bay	Sandy Bay	13.36035	-61.13399	P	PPL	VC		01				0		2	America/St_Vincent	2025-07-19
+13526713	Rose Place	Rose Place		13.15487	-61.22867	P	PPLX	VC		04				225		11	America/St_Vincent	2025-09-21
+13526714	Frenches	Frenches		13.15492	-61.22264	P	PPLX	VC		04				282		98	America/St_Vincent	2025-09-21
+13526715	Sion Hill	Sion Hill		13.15202	-61.21901	P	PPLX	VC		04				1387		98	America/St_Vincent	2025-09-21
+13526716	Old Montrose	Old Montrose	Montrose	13.16679	-61.22891	P	PPLX	VC		04				1146		154	America/St_Vincent	2025-09-21
+13526717	Fort Charlotte	Fort Charlotte	Ottley Hall,Rose Castle	13.16049	-61.24029	P	PPLX	VC		02				403		152	America/St_Vincent	2025-09-21
+13526718	Gomea	Gomea		13.16721	-61.19525	P	PPLX	VC		04				593		225	America/St_Vincent	2025-09-21
+13526719	Diamond	Diamond		13.14077	-61.16803	P	PPL	VC		04				1971		14	America/St_Vincent	2025-09-21
+13526720	Diamond Industrial Site and Housing Scheme	Diamond Industrial Site and Housing Scheme		13.14258	-61.17097	P	PPLX	VC		04				422		75	America/St_Vincent	2025-09-21
+13526721	Friendly Village	Friendly Village		13.22821	-61.12819	P	PPL	VC		01				1074		48	America/St_Vincent	2025-09-21
+13526722	Penniston	Penniston		13.19856	-61.24222	P	PPL	VC		02				468		129	America/St_Vincent	2025-09-21
+13526723	Retreat	Retreat		13.20089	-61.23118	P	PPL	VC		02				482		150	America/St_Vincent	2025-09-21
+13526724	Bottle and Glass	Bottle and Glass		13.24031	-61.2742	P	PPLX	VC		05				1666		76	America/St_Vincent	2025-09-21
+13526725	Town Extension	Town Extension		13.2934	-61.23475	P	PPLX	VC		03				257		12	America/St_Vincent	2025-09-21

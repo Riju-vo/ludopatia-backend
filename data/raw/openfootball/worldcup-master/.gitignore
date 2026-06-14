@@ -1,0 +1,24 @@
+####
+#  exclude all databases e.g. sport.db
+
+*.db
+
+###
+#  exclude log or generated stuff
+build.log
+_site/
+*.json
+
+
+##
+#  exclude for testing   sandbox/ and tmp/
+
+sandbox/
+tmp/
+
+
+##
+#  exclude inplace backups .v2.txt,.v26xxx.txt
+
+*.v2.txt
+*.v26*.txt

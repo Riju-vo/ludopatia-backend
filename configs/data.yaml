@@ -1,0 +1,9 @@
+# Valores documentales. La implementación actual recibe estos parámetros por CLI.
+minimum_match_date: "2021-01-01"
+include_only_fifa_members: true
+exclude_ambiguous_extra_time: true
+processed_matches_path: "data/processed/matches.csv"
+processed_fixtures_path: "data/processed/fixtures.csv"
+exclusions_path: "data/reports/match_exclusions.csv"
+quality_report_path: "data/reports/data_quality.json"
+

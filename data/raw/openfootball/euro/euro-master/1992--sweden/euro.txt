@@ -1,0 +1,50 @@
+= Euro 1992   # in Sweden, June 10-26
+
+# 8 teams in 4 venues (in 4 host cities)
+# All times are local, CEST (UTC+2).
+
+# Note
+# Due to political changes, the Soviet Union competed in the final tournament
+# as the Commonwealth of Independent States (CIS).
+#
+# After unification, Germany took over the fixtures of West Germany,
+# while thoseof East Germany were scratched.
+#
+# Yugoslavia not admitted to the final tournament due to UN sanctions.
+# Denmark replaced Yugoslavia.
+
+Group 1 |  Sweden       Denmark    France      England
+Group 2 |  Netherlands  Germany    Scotland    CIS
+
+
+▪ Group 1
+Sweden           1-1 France            
+Denmark          0-0 England            
+France           0-0 England            
+Sweden           1-0 Denmark          
+Sweden           2-1 England
+France           1-2 Denmark
+
+▪ Group 2 
+Netherlands      1-0 Scotland          
+Germany          1-1 CIS               
+Germany          2-0 Scotland           
+Netherlands      0-0 CIS               
+Scotland         3-0 CIS
+Netherlands      3-1 Germany
+
+▪ Semi-finals
+June 21 20:15   Sweden           2-3                   Germany   @ Stockholm
+June 22 20:15   Netherlands      2-2 a.e.t., 4-5 pen.  Denmark   @ Göteborg 
+
+
+▪ Final
+June 26 20:15 @ Göteborg
+Denmark          2-0 Germany
+    (Jensen 18', Vilfort 78')
+  Denmark: Schmeichel, Sivebaek (Christiansen), K. Nielsen, L. Olsen, Piechnik,
+           Christofte, J. Jensen, Vilfort, H. Larsen, Povlsen, B. Laudrup
+  Germany: Illgner, Helmer, Reuter, Kohler, Buchwald, Brehme, Hässler,
+           Sammer (Doll), Effenberg (Thom), Riedle, Klinsmann
+
+

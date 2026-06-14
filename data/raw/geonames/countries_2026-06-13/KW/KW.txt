@@ -1,0 +1,1004 @@
+89823	Khawr Umm Qaşr	Khawr Umm Qasr	Khawr Umm Qasr,Khawr Umm Qaşr,Khor Um Qasr,Khor Umm Qasr,Khōr Umm Qasr	30.00052	47.961	H	CHNM	KW		00				0		0	Asia/Kuwait	2020-06-10
+105658	Al Ḩuzaym	Al Huzaym	Al Hazaim,Al Huzaim,Al Huzaym,Al Ḩuzaym,Hamd al Huzaym,Hazaim,Hazim,Huzaym,Huzeem,Ḩamḑ al Ḩuzaym,Ḩazim,Ḩuzaym	28.49139	48.33114	L	AREA	KW	SA	06				0		35	Asia/Kuwait	2020-06-10
+285361	Ḑulay‘ Zunayf	Dulay` Zunayf	Dhulai Zinaif,Dulay` Zinaf,Dulay` Zunayf,Dulay` az Zunayf,ضُلَيْع زُنَيْف,Ḑulay‘ Zināf,Ḑulay‘ Zunayf,Ḑulay‘ az Zunayf	28.99944	48.07417	T	HLL	KW		00				0		108	Asia/Kuwait	2020-06-10
+285362	Ra’s az Zawr	Ra's az Zawr	Ra's az Zawr,Ras Al-Zour,Ras az Zaur,Ras az Zor,Ra’s az Zawr,Rās az Zaur,ras aalzawr,رَأْس اَلزَّوْر	28.74333	48.39639	T	PT	KW		04				0		-9999	Asia/Kuwait	2020-06-10
+285363	Jāl az Zawr	Jal az Zawr	Jal Az-Zor,Jal az Zaur,Jal az Zawr,Jal az Zor,Jāl az Zawr,jal aalzawr,جَال اَلزَّوْر	29.51278	47.8075	T	SCRP	KW		00				0		22	Asia/Kuwait	2020-06-10
+285364	Dawḩat az Zawr	Dawhat az Zawr	Dawhat az Zarq,Dawhat az Zawr,Dawḩat az Zarq,Dawḩat az Zawr,Dohat az Zaur,dawhat aalzawr,دَوْحَة اَلزَّوْر	28.80833	48.31667	H	BAY	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285365	Banīyat az Zawr	Baniyat az Zawr	Banaya az Zawr,Baniyat az Zawr,Baniyat az Zor,Banāyā az Zawr,Banīyat az Zawr,Banīyat az Zor,baniat aalzawr,بَنِيَّة اَلزَّوْر	28.76056	48.3075	T	DUNE	KW		04				0		0	Asia/Kuwait	2012-01-18
+285366	Ḩisū az̧ Z̧aby	Hisu az Zaby	Hasu Al-Thabi,Hissu adh Dhabi,Hisu az Zabi,Hisu az Zaby,hisu aalzabi,حِسُو أَلظَبِي,Ḩisū az̧ Z̧aby,Ḩisū az̧ Z̧abī	29.75	47.66667	H	WTRH	KW		00				0		69	Asia/Kuwait	2020-06-10
+285367	Qulbān Yāsīn	Qulban Yasin	Qulban Yasin,Qulbān Yāsīn,qulban yasin,قُلْبَان يَاسِين	29.28333	47.65	H	WLL	KW		00				0		76	Asia/Kuwait	2024-07-13
+285368	Ra’s al Yaḩī	Ra's al Yahi	Ra's Al-Yahi,Ra's al Yahi,Ra’s al Yaḩī,Rā’s Al-Yāhī,ras aalyahi,رَأْس اَلْيَحِي	29.40333	48.36222	T	PT	KW		02				0		2	Asia/Kuwait	2012-01-18
+285369	Mushāsh Wāwī	Mushash Wawi	Mashash Wawi,Mishash Wawi,Mishāsh Wāwī,Mushash Wawi,Mushāsh Wāwī,mushash wawi,مُشَاش وَاوِي	28.55	48.15	H	WLL	KW		00				0		77	Asia/Kuwait	2024-07-13
+285370	Warbah Spit	Warbah Spit	Al Warbah Spit,Warba Spit,Warbah,Warbah Spit,warbat spit,وَرْبَة سْپِت	30.00556	48.18528	T	SPIT	KW		05				0		-9999	Asia/Kuwait	2012-01-18
+285371	Warbah	Warbah	Al Warba Island,Al Warbah,Al-Warba,Dzazirat Warba,Dżazirat Warba,GJao Warbah,Ilha Warbah,Isla Warbah,Jazirat Warbah,Jazīrat Warbah,Ouarba,Varba,Varba adasi,Varba adası,Varbah,Wabra Island,Warba,Warbah,Warbah Island,jazirat warbat,waleubaseom,waruba dao,wrbh,Đảo Warbah,Варба,Վարբա,ורבה,جَزِيرَة وَرْبَة,وربه,ワルバ島,와르바섬	29.99389	48.06667	T	ISL	KW		05				0		8	Asia/Kuwait	2021-05-07
+285372	Tall Wārah	Tall Warah	Tall Warah,Tall Wārah,tal warat,تَلّ وَارَة	29.01667	47.96667	T	HLL	KW		00				0		67	Asia/Kuwait	2012-01-18
+285373	Wārah	Warah	War,Warah,Wārah,warat,وَارَة	28.98333	47.95	H	WLL	KW		00				0		77	Asia/Kuwait	2020-06-10
+285374	Makhfar al Wafrah	Makhfar al Wafrah	Makhfar al Wafrah,makhfar aalwafrat,مَخْفَر اَلْوَفْرَة	28.64528	47.93056	S	PP	KW		00				0		156	Asia/Kuwait	2012-01-18
+285375	‘Ushaysh al Jahrā’	`Ushaysh al Jahra'	`Ushaysh al Jahra',عُشَيْش اَلْجَهْرَاء,‘Ushaysh al Jahrā’	29.31583	47.66389	P	PPL	KW		00				0		46	Asia/Kuwait	2012-01-18
+285376	Ra’s ‘Ushayrij	Ra's `Ushayrij	Ra's `Ushayrij,Ra's `Ushayriq,Ra's ad Dawhah,Ras `Ashairij,Ras `Ashairiq,Ras `Ashairiz,Ras ‘Ashairij,Ras ‘Ashairiq,Ra’s ad Dawḩah,Ra’s ‘Ushayrij,Ra’s ‘Ushayriq,Rās ‘Ashairiz,رَأْس عُشَيْرِج	29.38528	47.84444	T	PT	KW		02				0		2	Asia/Kuwait	2012-01-18
+285377	Qiţ‘atayn ‘Ushayrij	Qit`atayn `Ushayrij	Kita Atain Ushairiz,Kita `Atain Ushairij,Kita ‘Atain Ushairij,Qit`atayn `Ushayrij,Qit`atayn `Ushayriq,Qita` `Utayn Ushayrij,Qiţa‘ ‘Utayn Ushayrij,Qiţ‘atayn ‘Ushayrij,Qiţ‘atayn ‘Ushayriq,قِطْعَتَيْن عُشَيْرِج	29.40083	47.81556	H	RF	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285378	‘Ushayrij	`Ushayrij	`Ushayrij,`Ushayriq,عُشَيْرِج,‘Ushayrij,‘Ushayriq	29.35	47.8	H	WLL	KW		00				0		3	Asia/Kuwait	2012-01-18
+285379	‘Ushayrij	`Ushayrij	Ashairij,Asheirij,Usharij,`Ushayrij,`Ushayriq,عُشَيْرِج,‘Ushayrij,‘Ushayriq	29.36306	47.78556	L	LCTY	KW		00				0		4	Asia/Kuwait	2020-06-10
+285380	Qiţ‘at ‘Urayfijān	Qit`at `Urayfijan	Kita al Araifiyan,Kita at Araifiyan,Qit`at `Urayfijan,Qiţ‘at ‘Urayfijān,قِطْعَة عُرَيْفِجَان	28.99639	48.25556	H	RF	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285381	Makhfar ‘Urayfijān	Makhfar `Urayfijan	Makhfar `Urayfijan,Makhfar ‘Urayfijān,`Urayfijan police post,مَخْفَر عُرَيْفِجَان,‘Urayfijān police post	28.84806	48.05778	S	PP	KW		00				0		68	Asia/Kuwait	2012-01-18
+285382	Banāyā ‘Urayfijān	Banaya `Urayfijan	Banaya Araifjan,Banaya `Urayfijan,Banaya `Urayfuan,Banaya ‘Urayfuān,Banāyā ‘Urayfijān,بَنَايَا عُرَيْفِجَان	28.79889	48.19667	T	DUNE	KW		00				0		20	Asia/Kuwait	2020-06-10
+285383	‘Urayfijān	`Urayfijan	Araifjan,`Urayfijan,عُرَيْفِجَان,‘Urayfijān	28.9	48.18333	H	WLL	KW		00				0		18	Asia/Kuwait	2020-06-10
+285384	‘Urayfijān	`Urayfijan	Arefjan,`Araifjan,`Urayfijan,عُرَيْفِجَان,‘Araifjān,‘Urayfijān	28.9	48.18333	P	PPL	KW		00				0		18	Asia/Kuwait	2020-06-10
+285385	‘Urayfijān	`Urayfijan	`Urayfijan,عُرَيْفِجَان,‘Urayfijān	28.875	48.14167	L	AREA	KW		00				0		54	Asia/Kuwait	2012-01-18
+285386	Umm Tuwaynij	Umm Tuwaynij	Umm Tuwaynij,Umm Utwaynii,Umm Utwaynij,aum tuaynij,أُمّ تُوَيْنِج	29.29417	47.60833	T	PLN	KW		00				0		84	Asia/Kuwait	2012-01-18
+285387	Thamīlat Umm Şafq	Thamilat Umm Safq	Thamilat Umm Safq,Thamīlat Umm Şafq,thamilat aum safq,ثَمِيلَة أُمّ صَفْق	28.6625	48.13806	H	WLL	KW		00				0		58	Asia/Kuwait	2012-01-18
+285388	Markaz Umm Şafq	Markaz Umm Safq	Markaz Umm Safq,Markaz Umm Şafq,markaz aum safq,مَرْكَز أُمّ صَفْق	28.65806	48.10083	S	PP	KW		00				0		78	Asia/Kuwait	2012-01-18
+285389	Umm Şafaq	Umm Safaq	Umm Safaq,Umm Şafaq,aum safaq,أُمّ صَفَق	28.93389	48.05222	H	WLL	KW		00				0		73	Asia/Kuwait	2014-11-05
+285390	Umm Ruqaybah	Umm Ruqaybah	Umm Rukaybah,Umm Ruqaybah,aum ruqaybat,أُمّ رُقَيْبَة	29.42833	47.75361	L	AREA	KW		00				0		4	Asia/Kuwait	2012-01-18
+285391	Umm Rujm	Umm Rujm	Um Rijm,Umm Rajam,Umm Rijm,Umm Rujm,aum rujm,أُمّ رُجْم	29.38222	47.35306	T	PROM	KW		00				0		194	Asia/Kuwait	2012-01-18
+285392	Umm Rujm	Umm Rujm	Umm Rajam,Umm Rijm,Umm Rujm,aum rujm,أُمّ رُجْم	29.29722	47.67778	T	HLL	KW		00				0		56	Asia/Kuwait	2012-01-18
+285393	Umm Qudayr 1	Umm Qudayr 1	Umm Gudair-1,Umm Quadayr-1,Umm Qudayr 1,aum qudayr 1,أُمّ قُدَيْر 1	28.85	47.68333	S	OILQ	KW		00				0		180	Asia/Kuwait	2012-01-18
+285394	Thamīlat Umm Qudayr	Thamilat Umm Qudayr	Thamilat Um Qudayr,Thamilat Umm Gudair,Thamilat Umm Qudayr,Thamīlat Um Qudayr,Thamīlat Umm Gudair,Thamīlat Umm Qudayr,Thumailet Umm Gadir,thamilat aum qudayr,ثَمِيلَة أُمّ قُدَيْر	28.94722	47.76444	H	WTRH	KW		00				0		134	Asia/Kuwait	2020-06-10
+285395	Umm Qudayr	Umm Qudayr	Haql Naft Umm Qadayr,Umm Gudair,Umm Gudair Oilfield,Umm Qudayr,aum qudayr,أُمّ قُدَيْر,Ḩaql Nafţ Umm Qadayr	28.915	47.72	L	OILF	KW		00				0		149	Asia/Kuwait	2012-01-18
+285396	Umm Qudayr	Umm Qudayr	Um Gudair,Umm Gadir,Umm Gudair,Umm Qudayr,aum qudayr,أُمّ قُدَيْر	28.88333	47.71667	T	HLLS	KW		00				0		169	Asia/Kuwait	2012-01-18
+285397	Umm Qaşabah	Umm Qasabah	Umm Casbah,Umm Qasabah,Umm Qaşabah,Umm Ugsubba,Umm Uqsubah,Umm Uqsubba,aum qasabat,أُمّ قَصَبَة	28.98333	48.16667	H	WLL	KW		00				0		5	Asia/Kuwait	2020-06-10
+285398	Umm Qaşbah	Umm Qasbah	Umm Qasabah,Umm Qasbah,Umm Qaşabah,Umm Qaşbah,aum qasbat,أُمّ قَصْبَة	28.99222	48.16556	P	PPL	KW		00				0		4	Asia/Kuwait	2012-01-18
+285399	Umm Niqqā	Umm Niqqa	Umm Negga,Umm Nigga,Umm Nijjah,Umm Niqqa,Umm Niqqah,Umm Niqqā,aum niqaa,أُمّ نِقَّا	29.95	47.85	H	WLL	KW		00				0		13	Asia/Kuwait	2024-07-13
+285400	Umm Niqqā	Umm Niqqa	Umm Nigga,Umm Niqqa,Umm Niqqah,Umm Niqqā,aum niqaa,أُمّ نِقَّا	30.03	47.84444	T	SAND	KW		00				0		26	Asia/Kuwait	2024-07-13
+285401	Umm Niqqā	Umm Niqqa	Bedu Camp,Umm Niqa,Umm Niqqa,Umm Niqqā,Umm Niqā,aum niqaa,أُمّ نِقَّا	29.94861	47.8675	S	CMP	KW		00				0		20	Asia/Kuwait	2024-07-13
+285402	Umm Khurjayn	Umm Khurjayn	Umm Khurjain,Umm Khurjayn,aum khurjayn,أُمّ خُرْجَيْن	28.71667	48.18333	H	WLL	KW		00				0		47	Asia/Kuwait	2012-01-18
+285403	Khabrat Umm Irţah	Khabrat Umm Irtah	Khabari Umm Irta,Khabrat Umm Irtah,Khabrat Umm Irţah,Khibret Umm Arta,khabrat aum airtat,خَبْرَة أُمّ إِرْطَة	29.45	47.41667	H	WTRH	KW		00				0		149	Asia/Kuwait	2020-06-10
+285404	Umm Arţah	Umm Artah	Khabari Umm Irta,Umm Arta,Umm Artah,Umm Artta,Umm Arţa,Umm Arţah,Umm Irtah,Umm Irţah,aum aartat,أُمّ أَرْطَة	29.43444	47.43028	L	LCTY	KW		00				0		167	Asia/Kuwait	2020-06-10
+285405	Khabrat Umm ‘Imārat Mahzūl	Khabrat Umm `Imarat Mahzul	Khabra Umm Amarat Mahazul,Khabrat Umm `Imarat Mahzul,Khabrat Umm ‘Imārat Mahzūl,Khara Umm Amarat Mahzul,Khara Umm Amarat Mahzūl,Umm 'Amarat al Mahazul,Umm ’Amárat al Mahazul,خَبْرَة أُمّ عِمَارَة مَهْزُول	29.23333	46.88333	H	WLL	KW		00				0		243	Asia/Kuwait	2020-06-10
+285406	Umm ‘Imārat ash Shaqq	Umm `Imarat ash Shaqq	Abu Amarat,Abu Amurath,Abu Amurtah,Abū Amurath,Abū Amūrtah,Umm Amarat ash Shaqq,Umm Amarat ash Shugg,Umm Amarat ash Shuqq,Umm Amaret Al-Shaq,Umm `Imarat ash Shaqq,Umm ‘Imārat ash Shaqq,أُمّ عِمَارَة اَلشَّقّ	29.11667	47.15	H	WTRH	KW		00				0		231	Asia/Kuwait	2020-06-10
+285407	Umm ‘Imārat ar Ruq‘ī	Umm `Imarat ar Ruq`i	Umm Amarat ar Raga`i,Umm Amarat ar Raga‘i,Umm Amaret Al Ruqie,Umm `Imarat ar Ruq`i,Umm ‘Imārat ar Ruq‘ī,أُمّ عِمَارَة اَلرُّقْعِي	29.13333	47.16667	H	WTRH	KW		00				0		235	Asia/Kuwait	2020-06-10
+285408	Umm Ḩujūl	Umm Hujul	Khabrat Umm Hujul,Khabrat Umm Ḩujūl,Umm Hjul,Umm Hujul,Umm Ḩujūl,aum hujul,أُمّ حُجُول	28.60306	47.70972	T	DPR	KW		00				0		198	Asia/Kuwait	2024-07-13
+285409	Umm at Tanak	Umm at Tanak	Umm al Tannak,Umm al Tannuk,Umm at Tanak,aum aaltanak,أُمّ اَلتَّنَك	29.56667	47.43333	T	RDGE	KW		00				0		129	Asia/Kuwait	2012-01-18
+285410	Khabrat Umm Arţā ad Dikākah	Khabrat Umm Arta ad Dikakah	Khabrat Umm Arta ad Dikakah,Khabrat Umm Arţā ad Dikākah,khabrat aum aarta aaldikakat,خَبْرَة أُمّ أَرْطَا اَلدِّكَاكَة	29.53333	47.36667	H	WTRH	KW		00				0		149	Asia/Kuwait	2012-01-18
+285411	Khabrat Umm ar Ruwaysāt	Khabrat Umm ar Ruwaysat	Khabra Umm Ruwaisat,Khabrat Umm Ru'aysat,Khabrat Umm Ru’aysāt,Khabrat Umm ar Ru'aysat,Khabrat Umm ar Ruwaysat,Khabrat Umm ar Ruwaysāt,Khabrat Umm ar Ru’aysāt,Khibret Umm Al-Ruwaisat,khabrat aum aalruwaysat,خَبْرَة أُمّ اَلرُّوَيْسَات	29.43333	47.03333	H	WTRH	KW		00				0		215	Asia/Kuwait	2020-06-10
+285412	Umm ar Ruwaysāt	Umm ar Ruwaysat	Umm Ru'aysat,Umm Ruwaisat,Umm Ruwaysat,Umm Ruwaysāt,Umm Ru’aysāt,Umm ar Ru'aysat,Umm ar Ruwaysat,Umm ar Ruwaysāt,Umm ar Ru’aysāt,aum aalruwaysat,أُمّ اَلرُّوَيْسَات	29.58333	47.01667	T	HLL	KW		00				0		184	Asia/Kuwait	2020-06-10
+285413	Umm ar Ruwaysāt	Umm ar Ruwaysat	Umm ar Ruwaysat,Umm ar Ruwaysāt,aum aalruwaysat,أُمّ اَلرُّوَيْسَات	29.55	47	L	LCTY	KW		00				0		204	Asia/Kuwait	2012-01-18
+285414	Khabrat Umm ar Rūs	Khabrat Umm ar Rus	Khabra Umm ar Rus,Khabra Umm ar Rūs,Khabrat Umm ar Ru'us,Khabrat Umm ar Rus,Khabrat Umm ar Ru’ūs,Khabrat Umm ar Rūs,khabrat aum aalruws,خَبْرَة أُمّ اَلرُّوس	29.21667	47.55	H	WTRH	KW		00				0		152	Asia/Kuwait	2012-01-18
+285415	Umm ar Rūs	Umm ar Rus	Umm Al-Roos,Umm Ruus,Umm Ruūs,Umm ar Ru'us,Umm ar Rus,Umm ar Ru’ūs,Umm ar Rūs,aum aalruws,أُمّ اَلرُّوس	29.2	47.55	T	HLL	KW		00				0		154	Asia/Kuwait	2020-06-10
+285416	Umm ar Rimam	Umm ar Rimam	Rumamain,Rumāmain,Umm Al-Ramam,Umm al-Rimam,Umm ar Rimam,aum aalrimam,أُمّ اَلرِّمَم	29.56667	47.81667	T	DPR	KW		00				0		58	Asia/Kuwait	2012-01-18
+285417	Jazīrat Umm an Naml	Jazirat Umm an Naml	Isla Umm an Namil,Jazirat Umm Naml,Jazirat Umm al-Namil,Jazirat Umm an Namal,Jazirat Umm an Nami,Jazirat Umm an Namil,Jazirat Umm an Naml,Jazīrat Umm Naml,Jazīrat Umm al-Namil,Jazīrat Umm an Namal,Jazīrat Umm an Naml,Jazīrat Umm an Namī,Um-an-Naml',Umm Al-Nemmel,Umm an Namil,Umm an Namil Island,Umm-ehn-Namil,Umm-ən-Namil adası,jazirat aum aalnaml,Ум-ан-Намль,Умм-эн-Намил,ام‌النمل,جَزِيرَة أُمّ اَلنَّمْل	29.38167	47.86694	T	ISL	KW		05				0		5	Asia/Kuwait	2020-07-02
+285418	Umm al Qawāţī	Umm al Qawati	Umm al Qawati,Umm al Qawāţī,aum aalqawati,أُمّ اَلْقَوَاطِي	29.56056	47.46028	L	LCTY	KW		00				0		127	Asia/Kuwait	2012-01-18
+285419	Umm al Qashīsh	Umm al Qashish	Umm al Gashish,Umm al Qashish,Umm al Qashīsh,aum aalqashish,أُمّ اَلْقَشِيش	29.35	47.8	H	WLL	KW		00				0		3	Asia/Kuwait	2020-06-10
+285420	Jazīrat Umm al Marādim	Jazirat Umm al Maradim	Island Umm Al-Maradem,Jazirat Umm al Maradim,Jazīrat Umm al Marādim,Umm Al Maradim Island,Umm al Maradim,Umm al Maradim Island,jzyrt am almradm,جزيرة أم المرادم	28.68025	48.65171	T	ISL	KW	KW,SA	02				0		2		2020-07-02
+285421	Khabrat Umm al Madāfi‘	Khabrat Umm al Madafi`	Khabra Amm al Madata,Khabra Umm al Madafa,Khabrat Umm al Madafi`,Khabrat Umm al Madāfi‘,Khibrat Umm Al-Madafa,خَبْرَة أُمّ اَلْمَدَافِع	29.8175	47.29	H	WTRH	KW		00				0		120	Asia/Kuwait	2020-06-10
+285422	Umm al Madāfi‘	Umm al Madafi`	Umm al Madafi`,Umm al Madāfi‘,أُمّ اَلْمَدَافِع	29.78861	47.36444	L	AREA	KW		00				0		123	Asia/Kuwait	2012-01-18
+285423	Umm al Lihūd	Umm al Lihud	Umm al Lihud,Umm al Lihūd,Umm al Luhud,Umm al Luḩūd,aum aallihud,أُمّ اَللِّهُود	29.12528	47.85278	H	WLL	KW		00				0		61	Asia/Kuwait	2014-11-05
+285424	Khabrat Umm al Jathāthīl	Khabrat Umm al Jathathil	Khabra Umm al Chithathin,Khabrat Umm al Jathathil,Khabrat Umm al Jathāthīl,Khabrat Umm al Kathathin,Khabrat Umm al Kathāthin,khabrat aum aaljathathil,خَبْرَة أُمّ اَلْجَثَاثِيل	29.1325	47.51667	H	WTRH	KW		00				0		164	Asia/Kuwait	2020-06-10
+285425	Umm al Jathāthīl	Umm al Jathathil	Chithathin,Kathathin,Kathāthin,Umm al Jathathil,Umm al Jathāthīl,aum aaljathathil,أُمّ اَلْجَثَاثِيل	29.09639	47.50917	T	DPR	KW		00				0		175	Asia/Kuwait	2020-06-10
+285426	Khabrat Umm al Ḩīrān	Khabrat Umm al Hiran	Khabra Umm al Hiran,Khabrat Umm al Hayran,Khabrat Umm al Hiran,Khabrat Umm al Ḩayrān,Khabrat Umm al Ḩīrān,khabrat aum aalhiran,خَبْرَة أُمّ اَلْحِيرَان	29.41667	47.23333	H	WTRH	KW		00				0		175	Asia/Kuwait	2020-06-10
+285427	Umm al Falā	Umm al Fala	Umm al Fala,Umm al Falā,aum aalfalaa,أُمّ اَلْفَلاَ	28.76667	48.175	L	AREA	KW		00				0		34	Asia/Kuwait	2012-01-18
+285428	Khabrat Umm al ‘Aysh	Khabrat Umm al `Aysh	Khabra Umm al A`ish,Khabra Umm al A‘ish,Khabrat Umm al `Aysh,Khabrat Umm al ‘Aysh,Khibret Umm Al-Aish,Umm al Aish,خَبْرَة أُمّ اَلْعَيْش	29.76833	47.77194	H	WTRH	KW		00				0		25	Asia/Kuwait	2020-06-10
+285429	Umm al ‘Aysh	Umm al `Aysh	Umm al `Aysh,Umm al ‘Aysh,أُمّ اَلْعَيْش	29.79	47.64444	L	AREA	KW		00				0		69	Asia/Kuwait	2012-01-18
+285430	Umgharah	Umgharah	Amarah,Imghara,Magharah,Maghārah,Umgharah,Umm Qarah,aumgharat,أُمْغَرَة	29.3	47.73333	H	WLL	KW		00				0		37	Asia/Kuwait	2012-01-18
+285431	Khashm al ‘Udhaybah	Khashm al `Udhaybah	Khashm al `Adhaiba,Khashm al `Udhaybah,Khashm al ‘Adhaiba,Khashm al ‘Udhaybah,خَشْم اَلْعُذَيْبَة	29.63333	47	T	SPUR	KW		00				0		139	Asia/Kuwait	2012-01-18
+285432	Khabrat al Khillah	Khabrat al Khillah	Khabra Idaira al Khulla,Khabrat Udayri` al Khullah,Khabrat Udayri‘ al Khullah,Khabrat Udhayri` al Khullah,Khabrat Udhayri‘ al Khullah,Khabrat al Khillah,khabrat aalkhilat,خَبْرَة اَلْخِلَّة	29.56972	47.35889	H	WTRH	KW		00				0		147	Asia/Kuwait	2012-01-18
+285433	Udayri‘ al Ḩişn	Udayri` al Hisn	Adebra Al-Husn,Idaira al Hush,Idaira` al Husn,Idaira‘ al Husn,Udari` al Hisn,Udari‘ al Ḩişn,Udayra` al Hisn,Udayra‘ al Ḩişn,Udayri` al Hisn,Udayri‘ al Ḩişn,Udhayri` al Hisn,Udhayri‘ al Ḩişn,أُدَيْرِع اَلْحِصْن	29.56667	47.7	L	AREA	KW		00				0		83	Asia/Kuwait	2020-06-10
+285434	Udayri‘ al Ḩamḑ	Udayri` al Hamd	Adera Al-Hamadh,Idaira al Hamth,Udayra' al Hamd,Udayra’ al Ḩamḑ,Udayri` al Hamd,Udayri‘ al Ḩamḑ,Udhayri` al Hamd,Udhayri‘ al Ḩamḑ,أُدَيْرِع اَلْحَمْض	29.58333	47.58333	L	AREA	KW		00				0		101	Asia/Kuwait	2020-06-10
+285435	Thamīlat Turkī	Thamilat Turki	Thamilat Turki,Thamīlat Turkī,thamilat turki,ثَمِيلَة تُرْكِي	28.78111	47.85722	H	WTRH	KW		00				0		137	Asia/Kuwait	2012-01-18
+285436	Ţiyān	Tiyan	Tayyan,Tiyan,Tyan,tian,Ţayyān,Ţiyān,طِيَان	29.71667	48.05	H	WLL	KW		00				0		12	Asia/Kuwait	2020-06-10
+285437	Thamīlat ath Thawīlah	Thamilat ath Thawilah	Thamilat ath Tawilah,Thamilat ath Thawilah,Thamīlat ath Tawīlah,Thamīlat ath Thawīlah,thamilat aalthawilat,ثَمِيلَة اَلثَّوِيلَة	28.66111	48.13472	H	WLL	KW		00				0		60	Asia/Kuwait	2012-01-18
+285438	Khabrat ath Thamīlah	Khabrat ath Thamilah	Khabrat ath Thamilah,Khabrat ath Thamīlah,Khibret Al-Thumailah,khabrat aalthamilat,خَبْرَة اَلثَّمِيلَة	29.36667	47.51667	H	WTRH	KW		00				0		133	Asia/Kuwait	2020-06-10
+285439	Thamāmīyah	Thamamiyah	Ath Thamamiya,Mushash ath Thumamiyah,Mushāsh ath Thumāmīyah,Thamamiya,Thamamiyah,Thamamyah,Thamāmīyah,thamamiat,ثَمَامِيَّة	28.59917	48.12278	H	WLL	KW		00				0		80	Asia/Kuwait	2020-06-10
+285440	Umm al ‘Aysh	Umm al `Aysh	'Umm al Aish,Taylor Rock,Umm al `Aysh,Umm al ‘Aysh,أُمّ اَلْعَيْش,’Umm al Aish	29.02556	48.57583	H	RF	KW		07				0		-9999	Asia/Kuwait	2020-06-10
+285441	Tall Suwayrah	Tall Suwayrah	Tal Suwaira,Tall Suwairah,Tall Suwayrah,tal suayrat,تَلّ سُوَيْرَة	29.3	47.91667	T	HLL	KW		00				0		23	Asia/Kuwait	2012-01-18
+285442	Markaz as Sūr	Markaz as Sur	Markaz as Sur,Markaz as Sūr,markaz aalsuwr,مَرْكَز اَلسُّور	28.56056	47.71611	S	PP	KW		00				0		203	Asia/Kuwait	2012-01-18
+285443	Ḑulay‘at as Sūr	Dulay`at as Sur	Dhulai`at as Sur,Dhulai‘at as Sur,Dulay as Sur,Dulay`at as Sur,ضُلَيْعَة اَلسُّور,Ḑulay as Sūr,Ḑulay‘at as Sūr	28.57056	47.78	T	HLL	KW		00				0		205	Asia/Kuwait	2012-01-18
+285444	Shiqqat aş Şuqayhīyah	Shiqqat as Suqayhiyah	Shaqqat as Suqayhiyah,Shaqqat aş Şuqayhīyah,Shiqqat as Suqayhiyah,Shiqqat aş Şuqayhīyah,shiqat aalsuqayhiat,شِقَّة اَلصُّقَيْهِيَّة	29.68611	47.10583	T	DPR	KW		00				0		153	Asia/Kuwait	2012-01-18
+285445	Şūlah	Sulah	Sulah,sulat,Şūlah,صُولَة	28.73333	48.31667	H	WLL	KW		00				0		21	Asia/Kuwait	2014-11-05
+285446	Şukhaybirīyāt	Sukhaybiriyat	Sukhaybiriyat,sukhaybiriaat,Şukhaybirīyāt,صُخَيْبِرِيَّات	29.97444	47.53083	L	AREA	KW		00				0		64	Asia/Kuwait	2012-01-18
+285447	Makhfar aş Şubayḩīyah	Makhfar as Subayhiyah	Makhfar as Subayhiyah,Makhfar aş Şubayḩīyah,makhfar aalsubayhiat,مَخْفَر اَلصُّبَيْحِيَّة	28.86861	47.86889	S	PP	KW		00				0		99	Asia/Kuwait	2012-01-18
+285448	Şubayḩ	Subayh	Sibeeh,Subaith,Subayh,subayh,Şubayḩ,صُبَيْح	28.91667	47.9	H	WLL	KW		00				0		83	Asia/Kuwait	2020-06-10
+285449	Şubayb	Subayb	Subaib,Subaibe,Subayb,Sublib,sbyb,subayb,Şubayb,صبيب,صُبَيْب	29.58111	48.14806	T	DPR	KW		00				0		10	Asia/Kuwait	2020-06-10
+285450	Khabrat Sidrah	Khabrat Sidrah	Khabra Sidra,Khabrat Sidrah,khabrat sidrat,خَبْرَة سِدْرَة	29.6	47.4	T	DPR	KW		00				0		139	Asia/Kuwait	2012-01-18
+285451	Qalīb ash Shuyūkh	Qalib ash Shuyukh	Jabib ash Shayukh,Jalesh al Shoukh,Jalib ash Shuyukh,Jlaib Al-Shiukh,Qalib ash Shuyukh,Qalīb ash Shuyūkh,qalib aalshuyukh,قَلِيب اَلشُّيُوخ	29.22778	47.90889	H	WLL	KW		00				0		41	Asia/Kuwait	2020-06-10
+285452	Bandar ash Shuwaykh	Bandar ash Shuwaykh	Bandar ash Shuwaik,Bandar ash Shuwaikh,Bandar ash Shuwaykh,bandar aalshuwaykh,بَنْدَر اَلشُّوَيْخ	29.33639	47.89056	H	ANCH	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285453	Mushāsh ash Shunayţī	Mushash ash Shunayti	Mushash ash Shunayti,Mushāsh ash Shunayţī,mushash aalshunayti,مُشَاش اَلشُّنَيْطِي	28.88583	48.025	H	WLL	KW		00				0		69	Asia/Kuwait	2012-01-18
+285454	Ḑulay‘ ash Shunayţī	Dulay` ash Shunayti	Ash Shunayti,Ash Shunayţī,Daley Shaniti,Dulai ash Shinaiti,Dulay` ash Shunayti,ضُلَيْع اَلشُّنَيْطِي,Ḑulay‘ ash Shunayţī	28.85833	48.04167	T	HLLS	KW		00				0		76	Asia/Kuwait	2020-06-10
+285455	Shumaymah	Shumaymah	Shumaymah,shmymt,shumaymat,شميمة,شُمَيْمَة	29.61778	48.15056	P	PPL	KW		05				0		5	Asia/Kuwait	2012-01-18
+285456	Mīnā’ ash Shu‘aybah	Mina' ash Shu`aybah	Mina' ash Shu`aibah,Mina' ash Shu`aybah,Minā’ ash Shu‘aibah,Mīnā’ ash Shu‘aybah,Shuaiba Port,ميناء الشعيبة,مِينَاء اَلشُّعَيْبَة	29.04472	48.15917	H	HBR	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285457	Shamīmah	Shamimah	Shamimah,Shamīmah,shamimat,شَمِيمَة	29.7	48.08333	H	WLL	KW		00				0		7	Asia/Kuwait	2014-11-05
+285458	Sanām al Baqarah	Sanam al Baqarah	Sanam al Baqarah,Sanām al Baqarah,sanam aalbaqarat,سَنَام اَلْبَقَرَة	28.71028	47.785	T	HLL	KW		00				0		201	Asia/Kuwait	2012-01-18
+285459	Markaz Ḩudūd as Sālmī	Markaz Hudud as Salmi	Al-Salmi Border,As Salimi Border Post,As Sālimī Border Post,Markaz Hudud as Salmi,Markaz Ḩudūd as Sālmī,markaz hudud aalsaalmi,مَرْكَز حُدُود اَلسَّالْمِي	29.1	46.67917	S	PSTB	KW		00				0		289	Asia/Kuwait	2020-06-10
+285460	Şafawī	Safawi	Safawi,safawi,Şafawī,صَفَوِي	28.91722	48.04806	H	WLL	KW		00				0		75	Asia/Kuwait	2014-11-05
+285461	Sa‘d wa Sa‘īd	Sa`d wa Sa`id	Sa`d,Sa`d wa Sa`id,Saad wa Saeed,Sa‘d,Sa‘d wa Sa‘īd,سَعْد وَ سَعِيد	29.43222	48.28139	S	TMB	KW		02				0		3	Asia/Kuwait	2020-06-10
+285462	Ra’s aş Şabīyah	Ra's as Sabiyah	Ra's Himar,Ra's al Udayniyah,Ra's as Sabiyah,Ras Himar,Ra’s al Udayniyah,Ra’s aş Şabīyah,Ra’s Ḩimār,Rās Ḩimār,ras aalsabiat,ras alsbyt,راس الصبية,رَأْس اَلصَّبِيَّة	29.51306	48.16417	T	CAPE	KW		05				0		-9999	Asia/Kuwait	2016-06-04
+285463	Khawr aş Şabīyah	Khawr as Sabiyah	Bubian,Bubiyan,Hor es Sabiyeh,Khawr Sabiyah,Khawr as Sabihiyah,Khawr as Sabiyah,Khawr aş Şabīyah,Khawr aş Şabīḩīyah,Khawr Şabīyah,Khor AS-Subiyah,Khor AS-S̄ubiyah,Khor Al-Sabiyah,Khor Sabiye,Khor as Sabiya,Khor as Subiya,Khor as Subiyah,Khor as Subīya,Khor as̄ S̄ubiyah,Khor-as-Sabiyah,Khor-as-Sabīyah,khawr aalsabiat,خَوْر اَلصَّبِيَّة	29.64167	48.15056	H	CHNM	KW		05				0		-9999	Asia/Kuwait	2020-06-10
+285464	Darb ar Ruq‘ī	Darb ar Ruq`i	Darb Al-Raqie,Darb ar Ruq`i,Darb ar Ruq‘ī,دَرْب اَلرُّقْعِي	29.13333	47	R	RD	KW		00				0		260	Asia/Kuwait	2020-06-10
+285465	Sha‘īb Rujm al Jahţān	Sha`ib Rujm al Jahtan	Sha`ib Rujm al Jahtan,Sha‘īb Rujm al Jahţān,شَعِيب رُجْم اَلْجَهْطَان	28.96	47.64333	H	WAD	KW		00				0		153	Asia/Kuwait	2012-01-18
+285466	Sha‘īb ar Rukhām	Sha`ib ar Rukham	Sha`ib ar Ruckham,Sha`ib ar Rukham,Sha‘īb ar Ruckhām,Sha‘īb ar Rukhām,شَعِيب اَلرُّخَام	29.73389	48.00333	H	WAD	KW		05				0		23	Asia/Kuwait	2012-01-18
+285467	Ra’s ar Ruwaysīyah	Ra's ar Ruwaysiyah	Ra's Allugfah,Ra's ar Ru'aysiyah,Ra's ar Ruwaysiyah,Ra’s ar Ruwaysīyah,Ra’s ar Ru’aysīyah,Rā’s Allugfah,ras aalruwaysiat,رَأْس اَلرُّوَيْسِيَّة	29.47472	48.31111	T	PT	KW		02				0		0	Asia/Kuwait	2012-01-18
+285468	Ra’s al Yahī	Ra's al Yahi	Ra's al Yahi,Ra’s al Yahī,ras aalyahi,رَأْس اَلْيَهِي	29.38333	48.46667	H	RF	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285469	Markaz ar Radīfah	Markaz ar Radifah	Markaz al Radifah,Markaz al Radīfah,Markaz ar Radifah,Markaz ar Radīfah,markaz aalradifat,مَرْكَز اَلرَّدِيفَة	28.91694	47.55194	S	PP	KW		00				0		175	Asia/Kuwait	2012-01-18
+285470	Khabrat ar Radīfah	Khabrat ar Radifah	Khabrat ar Radifa,Khabrat ar Radifah,Khabrat ar Radīfah,Khirbet Al-Rudaifah,khabrat aalradifat,خَبْرَة اَلرَّدِيفَة	28.91056	47.59611	H	WTRH	KW		00				0		172	Asia/Kuwait	2020-06-10
+285471	Fasht Qushayr	Fasht Qushayr	Fasht Oushair,Fasht Qushair,Fasht Qushayr,`Ushayr,fasht qushayr,فَشْت قُشَيْر,‘Ushayr	29.45	47.81667	H	RF	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285472	Qurayyah 1	Qurayyah 1	Graya-1,Qurayyah 1,qurayat 1,قُرَيَّة 1	28.68333	47.61667	S	OILQ	KW		00				0		194	Asia/Kuwait	2012-01-18
+285473	Qurayn 1	Qurayn 1	Qarayn-1,Qurayn 1,qurayn 1,قُرَيْن 1	28.7	48	S	OILQ	KW		00				0		111	Asia/Kuwait	2012-01-18
+285474	Quraynīyah	Qurayniyah	Geraniya,Qrainiyah,Qrainīyah,Qurainiya,Qurayniyah,Quraynīyah,qurayniat,قُرَيْنِيَّة	29.45611	48.33472	L	LCTY	KW		02				0		2	Asia/Kuwait	2020-06-10
+285475	Qalīb Quraynīs	Qalib Quraynis	Qalib Quraynis,Qalīb Quraynīs,qalib quraynis,قَلِيب قُرَيْنِيس	28.80917	47.79861	H	WTRH	KW		00				0		154	Asia/Kuwait	2012-01-18
+285476	Khabrā’ Quraynīs	Khabra' Quraynis	Jalib Grainis,Jalih Graims,Jalīb Grainis,Jleeb Krainees,Khabra' Quraynis,Khabrā’ Quraynīs,Qalib Quraynis,Qalīb Quraynīs,خَبْرَاء قُرَيْنِيس	28.69111	47.60139	H	WTRH	KW		00				0		200	Asia/Kuwait	2020-06-10
+285477	Makhfar Quraynīs	Makhfar Quraynis	Makhfar Quraynis,Makhfar Quraynīs,makhfar quraynis,مَخْفَر قُرَيْنِيس	28.69028	47.61583	S	PP	KW		00				0		201	Asia/Kuwait	2012-01-18
+285478	Makhfar al Qurayn	Makhfar al Qurayn	Al Qurayn Police Post,Makhfar al Qurayn,makhfar aalqurayn,مَخْفَر اَلْقُرَيْن	28.80417	48.03472	S	PP	KW		00				0		83	Asia/Kuwait	2012-02-02
+285479	Khawr al Qurayn	Khawr al Qurayn	Khawr al Qurayn,khawr aalqurayn,خَوْر اَلْقُرَيْن	28.71611	47.97556	H	WAD	KW		00				0		107	Asia/Kuwait	2012-01-18
+285480	Jazīrat Qurayn	Jazirat Qurayn	Grain,Graine,Jazirat Kurein,Jazirat Qurain,Jazirat Qurayn,Jazirat al Quraiyin,Jazirat ash Shuwaikh,Jazīrat Qurayn,Jazīrat al Quraiyin,Jazīrat ash Shuwaikh,Jezirat Kurain,Kurein Island,Shuwaikh Island,jazirat qurayn,جَزِيرَة قُرَيْن	29.35444	47.90972	T	ISLT	KW		02				0		4	Asia/Kuwait	2020-07-02
+285481	Mushāsh al Qurayn	Mushash al Qurayn	Gurain,Mushash al Qurayn,Mushāsh al Qurayn,Qurayn,Umm Khurjain,mushash aalqurayn,مُشَاش اَلْقُرَيْن	28.76694	48.0325	H	WLL	KW		00				0		69	Asia/Kuwait	2020-06-10
+285482	Al Qurayn	Al Qurayn	Al Qurayn,Carin,Grain,Gurain,Qarin,Qarīn,Qurain,Qurayn,aalqurayn,اَلْقُرَيْن	28.77	47.97306	T	HLL	KW		00				0		109	Asia/Kuwait	2012-01-18
+285483	Qurādān	Quradan	Quradan,Qurādān,quradan,قُرَادَان	28.58333	48.3	H	WLL	KW		00				0		26	Asia/Kuwait	2024-07-13
+285484	Qulaysīyah	Qulaysiyah	Qalaisiyah,Qalaisīyah,Qulaysiyah,Qulaysīyah,qulaysiat,قُلَيْسِيَّة	29.25	48.08333	H	WLL	KW		00				0		19	Asia/Kuwait	2012-01-18
+285485	Qulay‘at al Ḩarār	Qulay`at al Harar	Dawhat Julay`at al Harrar,Dawḩat Julay‘at al Ḩarrār,Jilai`at Al Harar,Jilai`at al Harar Bay,Jilai‘at Al Harar,Jilai‘at al Harar Bay,Jlay'at Al-Harar,Jlay’at Al-Harar,Qulay`at al Harar,Qulay‘at al Ḩarār,قُلَيْعَة اَلْحَرَار	28.89528	48.25222	H	BGHT	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285486	Qulay‘at al ‘Abīd	Qulay`at al `Abid	Jilaat al Abid,Qulay`at al `Abid,Qulay‘at al ‘Abīd,Qulay‘āt al ‘Abīd,قُلَيْعَة اَلْعَبِيد	28.90722	48.22361	S	RUIN	KW		00				0		13	Asia/Kuwait	2020-06-10
+285487	Ra’s al Qulay‘ah	Ra's al Qulay`ah	Al Julay`ah,Al Julay‘ah,Jilai`a,Jilai‘a,Ra's al Jilai`a,Ra's al Qaliyah,Ra's al Qulay`ah,Ras Al Jlay'ah,Ras Al Jlay’ah,Ras al Qaliya,Ras-al-Qalai'ah,Ra’s al Jilai‘a,Ra’s al Qalīyah,Ra’s al Qulay‘ah,Rās al Qalīya,Rās-al-Qalai’ah,رَأْس اَلْقُلَيْعَة	28.875	48.29167	T	CAPE	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285488	Ra’s al Qiḩḩah	Ra's al Qihhah	Ra's al Qihhah,Ra's al-Qihah,Ra’s al Qiḩḩah,Ra’s al-Qiḩah,ras aalqihat,رَأْس اَلْقِحَّة	29.42861	48.26917	T	CAPE	KW		02				0		3	Asia/Kuwait	2016-06-04
+285489	Ra’s al Qayd	Ra's al Qayd	Ra's Al-Gayed,Ra's al Gayed,Ra's al Qayd,Ras al Qaid,Ra’s al Qayd,Rās al Qaid,Rā’s Al-Gayed,Rā’s al Gayed,ras aalqayd,ras alqyd,راس القيد,رَأْس اَلْقَيْد	29.79778	48.36583	T	PT	KW		00				0		1	Asia/Kuwait	2012-01-18
+285490	Qaţqaţī	Qatqati	Qatqati,Qaţqaţī,Qutqatai,qatqati,قَطْقَطِي	29.03333	48.1	H	WLL	KW		00				0		61	Asia/Kuwait	2020-07-09
+285491	Qaşr aş Şabīyah	Qasr as Sabiyah	As - Subiyaha,As̄ - S̄ubiyaha,Qasr Al-Sobiya,Qasr Sabiya,Qasr Subiya,Qasr as Sabihiyah,Qasr as Sabiya,Qasr as Sabiyah,Qasr-al-Sabiyah,Qaşr aş Şabīyah,Qaşr aş Şabīḩīyah,Sabihiyah,Sabiya,Sabiyah,Sabīhīyah,Sabīya,Subaihiya,Subayhiyah,Subiya,qasr aalsabiat,qsralsbyt,Şabīyah,Şubayḩīyah,قصرالصبية,قَصْر اَلصَّبِيَّة	29.57333	48.17139	S	RUIN	KW		05				0		5	Asia/Kuwait	2020-06-10
+285492	Khabrat al Qaşr	Khabrat al Qasr	Khabra Kasr,Khabra Qasr,Khabrat Qasr,Khabrat Qaşr,Khabrat al Qasr,Khabrat al Qaşr,Khibret Al-Kaser,khabrat aalqasr,خَبْرَة اَلْقَصْر	29.28333	47.3	H	WTRH	KW		00				0		184	Asia/Kuwait	2020-06-10
+285493	Mushāsh Qar‘ūţ	Mushash Qar`ut	Carout,Mushash Qar`ut,Mushāsh Qar‘ūţ,Qar`ut,Qar‘ūţ,مُشَاش قَرْعُوط	28.795	48.07306	H	WLL	KW		00				0		62	Asia/Kuwait	2020-06-10
+285494	Jazīrat Qārūh	Jazirat Qaruh	Jazirat Karu,Jazirat Qaruh,Jazīrat Kārū,Jazīrat Qārūh,Jezirat Karu,Qarawah,Qarawh,Qaru,Qaruh Island,Qārawh,Qārū,jzyrt qarwh,جزيرة قاروه	28.81762	48.77638	T	ISL	KW	KW,SA	00				0		-9999		2020-07-02
+285495	Qar‘ah	Qar`ah	Gara'a,Gara’a,Qar`ah,Qara`ah,Qaraa,Qarā‘ah,Qar‘ah,Qra'ah,Qrā’ah,قَرْعَة	29.13333	48.1	L	LCTY	KW		00				0		40	Asia/Kuwait	2020-06-10
+285496	Jalīb ash Shuyūkh	Jalib ash Shuyukh	Jalib ash Shuyukh,Jalīb ash Shuyūkh,Qalib al Shuyukh,Qalib ash Shuyukh,Qalīb al Shuyūkh,Qalīb ash Shuyūkh,jalib aalshuyukh,جَلِيب اَلشُّيُوخ	29.25861	47.92417	P	PPLX	KW		00				0		41	Asia/Kuwait	2012-01-18
+285497	Shiqqat al Qalīb	Shiqqat al Qalib	Shagat Al-Jleeb,Shaqqat al Qalib,Shaqqat al Qalīb,Shiggat al Jalib,Shiqqat al Jalib,Shiqqat al Jalīb,Shiqqat al Qalib,Shiqqat al Qalīb,Shiqqat el Jelib,shiqat aalqalib,شِقَّة اَلْقَلِيب	29.59972	47.23083	T	DPR	KW		00				0		162	Asia/Kuwait	2020-06-10
+285498	Khabrat al Qalīb	Khabrat al Qalib	Khabra Jalib,Khabrat Qalib,Khabrat Qalīb,Khabrat al Jali,Khabrat al Jalī,Khabrat al Qalib,Khabrat al Qalīb,Khibrat Al-Glaib,khabrat aalqalib,خَبْرَة اَلْقَلِيب	29.64611	47.32306	T	DPR	KW		00				0		137	Asia/Kuwait	2020-06-10
+285499	Qalamat al Manāqīsh	Qalamat al Manaqish	Qalamat al Manaqish,Qalamat al Manāqīsh,qalamat aalmanaqish,قَلَمَة اَلْمَنَاقِيش	28.9525	47.5875	H	WLL	KW		00				0		169	Asia/Kuwait	2012-01-18
+285500	Kaḩlūlah	Kahlulah	Gahailila,Gahlula,Kahlulah,Kaḩlūlah,Qahloolah,Qahlulah,Qaḩlūlah,kahlulat,كَحْلُولَة	29.29611	47.35444	T	HLLS	KW		00				0		183	Asia/Kuwait	2020-06-10
+285501	Khawr al Qad	Khawr al Qad	Khawr al Qad,Khor al Gayed,khawr aalqad,خَوْر اَلْقَد	29.73111	48.36944	H	CHNM	KW		00				0		1	Asia/Kuwait	2012-01-18
+285502	Qābjī	Qabji	Qabji,Qābjī,qabji,قَابْجِي	29.05	48.06667	H	WLL	KW		00				0		98	Asia/Kuwait	2014-11-05
+285503	Palinurus Shoal	Palinurus Shoal	Palinurus Shoal,palinurus shaul,پَلِنُرُس شَُل	29.66667	48.66667	H	SHOL	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285504	Markaz an Nuwayşīb	Markaz an Nuwaysib	Makhfar al-Nuwaisib,Makhfar an Nuwaysib,Makhfar an Nuwayşīb,Markaz an Nuwaysib,Markaz an Nuwayşīb,Nuwaysib Police Post,Nuwayşīb Police Post,markaz aalnuwaysib,مَرْكَز اَلنُّوَيْصِيب	28.54278	48.38917	S	PP	KW		04				0		21	Asia/Kuwait	2020-06-10
+285505	Mushāsh an Nuwā‘imah	Mushash an Nuwa`imah	Mashash Al-Nawa'mah,Mashash Al-Nawa’mah,Mishash Nuw`ama,Mishāsh Nuw‘ama,Mushash Nuw`ama,Mushash an Nawa`imah,Mushash an Nuwa`imah,Mushāsh Nuw‘ama,Mushāsh an Nawā‘imah,Mushāsh an Nuwā‘imah,مُشَاش اَلنُّوَاعِمَة	28.61583	48.04833	H	WLL	KW		00				0		101	Asia/Kuwait	2012-01-18
+285506	An Nuqrah	An Nuqrah	An Nuqrah,Muqrah,Nigra,Nugra,Nuqrah,aalnuqrat,اَلنُّقْرَة	29.3375	48.01056	P	PPLX	KW		00				0		27	Asia/Kuwait	2012-01-18
+285507	Khawr an Nahm	Khawr an Nahm	Khawr an Nahm,khawr aalnahm,خَوْر اَلنَّهْم	28.60556	48.39444	H	COVE	KW		04				0		-9999	Asia/Kuwait	2012-01-18
+285508	Ḑulay‘ an Nuhaydayn	Dulay` an Nuhaydayn	Daley Nihaideem,Dulay` Nuhaydayn,Dulay` an Nuhaydayn,ضُلَيْع اَلنُّهَيْدَيْن,Ḑulay‘ Nuhaydayn,Ḑulay‘ an Nuhaydayn	29.23389	48.05972	T	HLL	KW		00				0		47	Asia/Kuwait	2020-06-10
+285509	An Nuhaydayn	An Nuhaydayn	An Nuhaydayn,Inhaidain,Nahaidain,Nahaldain,Nuhaydayn,aalnuhaydayn,اَلنُّهَيْدَيْن	29.27306	47.45778	T	HLLS	KW		00				0		162	Asia/Kuwait	2012-01-18
+285510	North Fuwaris I	North Fuwaris I	North Fuwaris I	28.6	47.8	H	WLL	KW		00				0		199	Asia/Kuwait	2012-01-18
+285511	Sha‘īb an Na‘āyim	Sha`ib an Na`ayim	Sha`ib an Na`ayim,Sha`ib an Nu`ayyim,Sha‘īb an Na‘āyim,Sha‘īb an Nu‘ayyim,شَعِيب اَلنَّعَايِم	29.4	47.16667	H	WAD	KW		00				0		198	Asia/Kuwait	2012-01-18
+285512	Ḩaql Muţribah	Haql Mutribah	Haql Mutribah,haql mutribat,حَقْل مُطْرِبَة,Ḩaql Muţribah	29.9025	47.28306	L	OILF	KW		00				0		102	Asia/Kuwait	2012-01-18
+285513	Bi’r Muţribah	Bi'r Mutribah	Bi'r Mutribah,Bi’r Muţribah,Mutriba,Mutribah,Muţribah,bir mutribat,بِئْر مُطْرِبَة	29.9	47.28333	H	WLL	KW		00				0		105	Asia/Kuwait	2020-06-10
+285514	Muţribah	Mutribah	Mutribah,Muţribah,mutribat,مُطْرِبَة	29.92333	47.25889	L	AREA	KW		00				0		111	Asia/Kuwait	2012-01-18
+285515	Muţayr	Mutayr	Mutair,Mutayr,Muţayr,mutayr,مُطَيْر	29.2	46.85	L	TRB	KW		00				0		263	Asia/Kuwait	2020-06-10
+285516	Khabrat al Muţaylī	Khabrat al Mutayli	Khabra Mutaili,Khabrat Mataili,Khabrat Mutayli`,Khabrat Muţaylī‘,Khabrat al Mutayli,Khabrat al Muţaylī,khabrat aalmutayli,خَبْرَة اَلْمُطَيْلِي	29.39194	47.6025	H	WTRH	KW		00				0		104	Asia/Kuwait	2020-06-10
+285517	Al Muţawwa‘īyah	Al Mutawwa`iyah	Al Mutawwa`iyah,Al Muţawwa‘īyah,المطوعية,اَلْمُطَوَّعِيَّة	29.73222	48.08361	H	SBKH	KW		00				0		1	Asia/Kuwait	2012-01-18
+285518	Mu‘tariḑah	Mu`taridah	Mu`taridah,Mu‘tariḑah,مُعْتَرِضَة	29.46667	47.73333	H	WLL	KW		00				0		98	Asia/Kuwait	2012-01-18
+285519	Muşlān	Muslan	Muslan,Muşlān,muslaan,مُصْلاَن	29.03333	47.88333	T	SAND	KW		00				0		82	Asia/Kuwait	2024-07-13
+285520	Qaşr Mushrif	Qasr Mushrif	Fort Mushirif,Mashrf,Mushrif Hill Fort,Qasr Mishrif,Qasr Mushrif,Qaşr Mushrif,Sirra Hill Fort,qasr mushrif,قَصْر مُشْرِف	29.28361	48.03861	S	FT	KW		00				0		49	Asia/Kuwait	2020-06-10
+285521	Khabrat Musay‘īd	Khabrat Musay`id	Khabari Imsai`d,Khabari Umm Sa`id,Khabarī Umm Sa‘īd,Khabrat Musay`id,Khabrat Musay‘īd,Khabāri Imsai‘d,Khibret Musaeed,خَبْرَة مُسَيْعِيد	29.28333	47.36667	H	WTRH	KW		00				0		176	Asia/Kuwait	2020-06-10
+285522	Ḑulay‘āt Musay‘īd	Dulay`at Musay`id	Daley' Musaeed,Daley’ Musaeed,Dhulai`at Imsai`id,Dhulai‘at Imsaī‘id,Dulay` Musay`id,Dulay`at Musay`id,Dulay`at Umm Sa`id,Dulay‘at Musay‘īd,ضُلَيْعَات مُسَيْعِيد,Ḑulay‘ Musay‘īd,Ḑulay‘at Umm Sa‘īd,Ḑulay‘āt Musay‘īd	29.32667	47.39861	T	HLL	KW		00				0		178	Asia/Kuwait	2012-01-18
+285523	Rujm Muşlān	Rujm Muslan	Rijm Musallam,Rujm Musallam,Rujm Musallan,Rujm Muslan,Rujm Muşallān,Rujm Muşlān,rujm muslaan,رُجْم مُصْلاَن	29.06667	47.88333	S	CARN	KW		00				0		72	Asia/Kuwait	2024-07-14
+285524	Mushāsh Muşlān	Mushash Muslan	Mashash Maslan,Mushash Musallan,Mushash Muslan,Mushāsh Muşallān,Mushāsh Muşlān,mushash muslaan,مُشَاش مُصْلاَن	29.03889	47.95389	H	WLL	KW		00				0		55	Asia/Kuwait	2024-07-14
+285525	Murayţibah	Muraytibah	Maraitabah,Muraytibah,Murayţibah,muraytibat,مُرَيْطِبَة	29.32639	47.65722	T	PLN	KW		00				0		38	Asia/Kuwait	2020-06-10
+285526	Murayr	Murayr	Marair,Murayr,murayr,مُرَيْر	29.03333	48.1	H	WLL	KW		00				0		61	Asia/Kuwait	2012-01-18
+285527	Mulkashī	Mulkashi	Mulkashi,Mulkashī,mulkashi,مُلْكَشِي	29.33333	47.81667	H	WLL	KW		00				0		3	Asia/Kuwait	2012-01-18
+285528	Mujaylis	Mujaylis	Majailis,Mujaylis,mujaylis,مُجَيْلِس	29.58861	47.74667	T	HLL	KW		00				0		70	Asia/Kuwait	2012-01-18
+285529	Muhayzil	Muhayzil	Mahaizil,Muhaizeel,Muhayzil,Muhayzīl,mhyzyl,muhayzil,مهيزيل,مُهَيْزِل	29.33333	46.85	T	HLL	KW		00				0		241	Asia/Kuwait	2012-01-18
+285530	Qulbān Mughayrah	Qulban Mughayrah	Mghairah,Mughaira,Mughairah,Qulban Mughayrah,Qulbān Mughayrah,qulban mughayrat,قُلْبَان مُغَيْرَة	29.62611	48.01333	H	WLL	KW		00				0		4	Asia/Kuwait	2020-06-10
+285531	Mughaţţī	Mughatti	Mughatti,Mughaţţī,mughatiy,مُغَطِّي	29.61667	48.08333	T	HLL	KW		00				0		28	Asia/Kuwait	2012-01-18
+285532	Khawr al Mufattaḩ	Khawr al Mufattah	Khawr al Mufattah,Khawr al Mufattaḩ,Khawr al Mufattih,Khor al Mufatta,Khor el Muffata,Mufatta,khawr aalmufatah,خَوْر اَلْمُفَتَّح	28.64611	48.37889	H	INLT	KW		04				0		-3	Asia/Kuwait	2020-06-10
+285533	Mudayyarah	Mudayyarah	Mdairah,Mudaira,Mudayrah,Mudayyarah,Mudayyirah,mudayarat,مُدَيَّرَة	29.55	47.9	H	WLL	KW		00				0		3	Asia/Kuwait	2012-01-18
+285534	Mudayyarah	Mudayyarah	Mudayyarah,mudayarat,مُدَيَّرَة	29.565	47.90833	L	AREA	KW		00				0		19	Asia/Kuwait	2012-01-18
+285535	Kasr Mudayrah	Kasr Mudayrah	Kasr Madayrah,Kasr Mudayrah,Madaira Reef,Mudayrah,kasr mudayrat,كَسْر مُدَيْرَة	28.93056	48.775	H	RF	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285536	Mubghir	Mubghir	Mubghar,Mubgher,Mubghir,mubghir,مُبْغِر	28.6	48.16667	H	WLL	KW		00				0		73	Asia/Kuwait	2012-01-18
+285537	Mubghir	Mubghir	Mubghir,mubghir,مُبْغِر	28.60833	48.21667	T	HLL	KW		00				0		55	Asia/Kuwait	2012-01-18
+285538	Mu‘ayzīlāt	Mu`ayzilat	Al Mu`ayzilah,Al Mu‘ayzīlah,Ma`aizilat,Ma`alizilat,Ma‘aizilat,Ma‘alizilat,Mu`ayzilat,Mu`azilat,Mu‘ayzīlāt,Mu‘azīlat,مُعَيْزِيلاَت	28.94306	48.095	T	HLLS	KW		00				0		94	Asia/Kuwait	2012-01-18
+285539	Khabrat al Mityāhah	Khabrat al Mityahah	Khabra Mitiyaha,Khabra Mitlyaha,Khabrat Matyahah,Khabrat al Mityahah,Khabrat al Mityāhah,khabrat aalmityahat,خَبْرَة اَلْمِتْيَاهَة	29.21667	46.95	H	WTRH	KW		00				0		247	Asia/Kuwait	2020-06-10
+285540	Makhfar al Mirfī	Makhfar al Mirfi	Makhfar al Mirfi,Makhfar al Mirfī,makhfar aalmirfi,مَخْفَر اَلْمِرْفِي	29.49833	47.72222	S	PP	KW		00				0		81	Asia/Kuwait	2012-01-18
+285541	Mīnā’ az Zawr	Mina' az Zawr	Mena Saud,Mina Sa`ud,Mina Saud Terminal,Mina Sa‘ud,Mina' az Zawr,Mīnā’ az Zawr,مِينَاء اَلزَّوْر	28.73333	48.38667	S	TRMO	KW		04				0		6	Asia/Kuwait	2020-06-10
+285542	Az Zawr	Az Zawr	Az Zawr,Mina' Sa`ud,Mina' az Zawr,Mina' az-Zor,Minā’ az-Zor,Mīnā’ Sa‘ūd,Mīnā’ az Zawr,aalzawr,اَلزَّوْر	28.7375	48.37278	P	PPL	KW		04				0		5	Asia/Kuwait	2012-01-18
+285543	Mīnā’ al Aḩmadī	Mina' al Ahmadi	Mena-al-Ahmadi,Mina al Hahmadi,Mina al Khmadi,Mina' al Ahmadi,Minā’ al Aḩmadi,Mīnā al Khmadi,Mīnā’ al Aḩmadī,مِينَاء اَلأَحْمَدِي	29.06389	48.14194	S	TRMO	KW		00				0		14	Asia/Kuwait	2020-06-10
+285544	Mīnā’ ‘Abd Allāh	Mina' `Abd Allah	Aminoil Loading Terminal,Mena Abdullah,Mina Abdullah,Mina' `Abd Allah,Mina' `Abdullah,Mina' al `Abd Allah,Mina-al-Abdullah,Minā’ ‘Abdullah,Mīnā’ al ‘Abd Allāh,Mīnā’ ‘Abd Allāh,Port Abdullah,مِينَاء عَبْد اَللَّٰه	29.01694	48.16028	S	TRMO	KW		00				0		3	Asia/Kuwait	2020-10-24
+285545	Mushāsh Milḩ	Mushash Milh	Malah,Millah,Mishash Milah,Mishash Milh,Mishāsh Milah,Mishāsh Milḩ,Mushash Milah,Mushash Milh,Mushāsh Milāḩ,Mushāsh Milḩ,mushash milh,مُشَاش مِلْح	29.08333	47.98333	H	WLL	KW		00				0		48	Asia/Kuwait	2024-07-13
+285546	Khawr al Milḩ	Khawr al Milh	Khawr al Milh,Khawr al Milhah,Khawr al Milḩ,Khawr al Milḩah,Khor Al Mesah,Khor al Milah,Khor al Mileh,Khor al Milha,Khur al Milh,khawr aalmilh,خَوْر اَلْمِلْح	29.96694	48.09778	H	CHNM	KW		00				0		7	Asia/Kuwait	2020-06-10
+285547	Khabrat al Mijmad	Khabrat al Mijmad	Khabrat al Mijmad,Khibret Al-Mugamad,khabrat aalmijmad,خَبْرَة اَلْمِجْمَد	29.41639	47.56028	H	WTRH	KW		00				0		132	Asia/Kuwait	2012-01-18
+285548	Ḑulay‘ al Mijmad	Dulay` al Mijmad	Daley Al-Mugamad,Dhulai` al Mijmad,Dhulai‘ al Mijmad,Dulay` al Mijmad,ضُلَيْع اَلْمِجْمَد,Ḑulay‘ al Mijmad	29.45056	47.58944	T	HLLS	KW		00				0		126	Asia/Kuwait	2020-06-10
+285549	Markaz al Mazra‘ah	Markaz al Mazra`ah	Al Mazra`ah Police Post,Al Mazra‘ah Police Post,Markaz al Mazra`ah,Markaz al Mazra‘ah,مَرْكَز اَلْمَزْرَعَة	28.5475	48.115	S	PP	KW		00				0		87	Asia/Kuwait	2012-01-18
+285550	Rujm al Mazāri‘	Rujm al Mazari`	Rijm al Mazara,Rujm al Mazari`,Rujm al Mazāri‘,رُجْم اَلْمَزَارِع	29.01667	48.03333	S	CARN	KW		00				0		67	Asia/Kuwait	2020-06-10
+285551	Markaz al Maţlā‘	Markaz al Matla`	Al Matla`,Al Maţla‘,Al Mutla,Al-Mutlaa Police Station,Markaz al Matla`,Markaz al Maţlā‘,Multa,Mutla`,Muţla‘,مَرْكَز اَلْمَطْلاَع	29.39444	47.62278	S	PP	KW		00				0		97	Asia/Kuwait	2020-06-10
+285552	Khabrat al Maţlā‘	Khabrat al Matla`	Khabra al Mutla,Khabrat al Matla`,Khabrat al Maţlā‘,Khabrat al Motla,خَبْرَة اَلْمَطْلاَع	29.40222	47.63278	H	WTRH	KW		00				0		86	Asia/Kuwait	2020-06-10
+285553	Jazīrat Miskān	Jazirat Miskan	Jazirat Mashjan,Jazirat Miskan,Jazirat Miskān,Jazīrat Mashjan,Jazīrat Miskān,Machiane,Mashjan Island,Mashjang,Mashjān Island,Mashyan,Mashyān,Maskan,Maskan Island,Maskān,Mischan,Miskan,Miskan Island,Miskān,jazirat miskan,جَزِيرَة مِسْكَان	29.48472	48.25139	T	ISL	KW		02				0		4	Asia/Kuwait	2020-07-02
+285554	Mazār al Khiḑr	Mazar al Khidr	Maqam al Khidr,Maqām al Khiḑr,Mazar al Khidr,Mazār al Khiḑr,mazar aalkhidr,مَزَار اَلْخِضْر	29.46917	48.28722	S	SHRN	KW		02				0		2	Asia/Kuwait	2012-01-18
+285555	Ra’s al Manqaf	Ra's al Manqaf	Al Mangaf,Ra's al Manqaf,Ra's al Minqaf,Ras al Mangaf,Ra’s al Manqaf,Ra’s al Minqāf,Rās al Mangaf,ras aalmanqaf,رَأْس اَلْمَنْقَف	29.10444	48.13917	T	PT	KW		00				0		6	Asia/Kuwait	2020-06-10
+285556	Manīfah	Manifah	Manifah,Manīfah,Munifah,Munīfah,manifat,مَنِيفَة	29.16083	48.08111	P	PPL	KW		00				0		53	Asia/Kuwait	2012-01-18
+285557	Manāqīsh 1	Manaqish 1	Manaqish 1,Manāqīsh 1,Minagish,Minaqish-1,manaqish 1,مَنَاقِيش 1	28.93333	47.6	S	OILW	KW		00				0		183	Asia/Kuwait	2020-06-10
+285558	Thamīlat al Manāqīsh	Thamilat al Manaqish	Thamilat al Manaqish,Thamilat al Minagish,Thamīlat al Manāqīsh,Thumailet Al-Manageesh,thamilat aalmanaqish,ثَمِيلَة اَلْمَنَاقِيش	28.96667	47.56667	H	WTRH	KW		00				0		171	Asia/Kuwait	2020-06-10
+285559	Khawr al Mamlāḩah	Khawr al Mamlahah	Khawr al Mamlahah,Khawr al Mamlāḩah,khawr aalmamlaahat,خَوْر اَلْمَمْلاَحَة	28.65167	48.38056	H	INLT	KW		04				0		-3	Asia/Kuwait	2012-01-18
+285560	Mahzūl	Mahzul	Mahazul,Mahzool,Mahzul,Mahzūl,mahzul,مَهْزُول	29.29722	46.84	T	HLL	KW		00				0		256	Asia/Kuwait	2020-06-10
+285561	Madanīyah 1	Madaniyah 1	Madaniyah 1,Madaniyat-1,Madanīyah 1,madaniat 1,مَدَنِيَّة 1	29.15	47.85	S	OILW	KW		00				0		55	Asia/Kuwait	2020-06-10
+285562	Lu’lu’	Lu'lu'	Lu'lu',Lu’lu’,لُؤْلُء	28.64611	49.41056	L	OILF	KW		00				0		-9999	Asia/Kuwait	2024-07-14
+285563	Khabrat al Liyāḩ	Khabrat al Liyah	Khabra al Liya,Khabrat al Liyah,Khabrat al Liyāḩ,Khibret Al-Laiyah,khabrat aalliyah,خَبْرَة اَللِّيَاح	29.61667	47.53333	H	WTRH	KW		00				0		120	Asia/Kuwait	2020-06-10
+285564	Jāl al Liyāḩ	Jal al Liyah	Jal al Liya,Jal al Liyah,Jāl al Liyāḩ,jal aalliyah,جَال اَللِّيَاح	29.61139	47.52611	T	SCRP	KW		00				0		119	Asia/Kuwait	2020-06-10
+285565	Jāl al Liyāḩ	Jal al Liyah	Al-Liyah,Jal al Liya,Jal al Liyah,Jal-al-Yah,Jāl al Liyāḩ,Jāl-al-Yāh,jal aalliyah,جَال اَللِّيَاح	29.4925	47.1725	T	RDGE	KW		00				0		190	Asia/Kuwait	2020-06-10
+285566	Ra’s al Līwān	Ra's al Liwan	Ra's Al-Liwan,Ra's al Liwan,Ra’s al Līwān,Rā’s Al-Liwān,ras aalliywan,رَأْس اَللِّيوَان	29.39278	48.38722	T	PT	KW		02				0		2	Asia/Kuwait	2012-01-18
+285567	Kuwait Bay	Kuwait Bay	Jun al Kuwayt,Jūn al Kuwayt,Khalij al Kuwayt,Khalīj al Kuwayt,Kuwait Bay,jun aalkuayt,جُون اَلْكُوَيْت	29.43194	47.92556	H	BAY	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285568	Kuwaykib	Kuwaykib	Al Chuwaichib,Al Kuwaykib,Kawaikib,Kuwaykib,kuaykib,كُوَيْكِب	29.48333	47.7	H	WLL	KW		00				0		87	Asia/Kuwait	2012-01-18
+285569	Khalij Al-Kuwait	Khalij Al-Kuwait	Al Kuwayt Harbour,Khalij Al - Kuwait,Khalij Al-Kuwait,Kuwait Harbour	29.41667	48.08333	H	HBR	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285570	State of Kuwait	State of Kuwait	Al Kuwait,Al Kuwayt,Al Kuweit,Ciwait,Co-oet,Cuait,Cubhait,Cuibheit,Cuibhèit,Cuvaitum,Cuáit,Cô-oét,Dawlat al Kuwayt,Dawlat al-Kuwait,Dowlat al Kuwait,Khuweiti,Koeity,Koeweit,Koeweti,Kouveit,Kovaetaen,Koveyit,Kovätän,Kowait,Koweit,Kowet,Koweti,Koweyt,Koweït,Kowɛti,Kueiti,Kueveyt,Kuvait,Kuvajt,Kuvajti,Kuvajto,Kuveit,Kuveita,Kuveitas,Kuvejt,Kuveyt,Kuwait,Kuwait nutome,Kuwaiti,Kuwayt,Kuweit,Kuwejt,Kuwete,Kuweti,Kuweyt,Kuweyti,Kuweýt,Kwiyat,Kôeity,Köwêti,Kúveit,Kûweit,Küveyt,Kʻuveytʻ,Kˌuvajt,Kүvəjt,Quvayt,Shaikhdom of Kuwait,Sheikhdom of Kuwait,State of Kuwait,alkwyt,dawlat aalkuayt,i-Kuwait,il-Kuwajt,ke wei te,khuwet,kiweti,ku'et,kurae'ita,kuueto,kuvairr,kuvait,kuvaita,kuveiti,kuveta,kuweiteu,kuyeta,kuyt,kwwyt,kwwyyt,kwyt,kۇvەyt,prathes khuwet,Κουβέιτ,Кувајт,Кувейт,Күвәйт,Қувайт,Քուվեյթ,כוויית,כווית,الكويت,دَوْلَة اَلْكُوَيْت,كۇۋەيت,کويت,کویت,کوەیت,کُویت,ڪwyt,ڪويت,ܟܘܘܝܬ,कुवेत,कुवैत,কুয়েত,কুৱেইট,ਕੁਵੈਤ,કુવૈત,କୁଏତ୍,குவைத்,కువైట్,ಕುವೈತ್,കുവൈറ്റ്,කුවේටය,คูเวต,ประเทศคูเวต,ກູເວດ,ກເວດ,ཀ་ཝཊ,ཀུ་ཝེཊ,ཀུ་ཝེད་རྒྱལ་ཁབ།,ကူဝိတ်,კუვეიტი,ქუვეითი,ኩዌት,ክዌት,កវែត,កូវ៉ែត,クウェート,科威特,쿠웨이트	29.5	47.75	A	PCLI	KW		00				4137309		79	Asia/Kuwait	2024-09-05
+285571	Jazīrat Kubbar	Jazirat Kubbar	Ab Kubr Island,Al Kubbar,Al Kuber,Al Kubr,Jazirat Kubar,Jazirat Kubbar,Jazirat al Kubr,Jazīrat Kubbar,Jazīrat Kubār,Jazīrat al Kubr,Kubbar Island,Kuber,Kubra Island,jazirat kubar,جَزِيرَة كُبَّر	29.07222	48.49333	T	ISL	KW		00				0		1	Asia/Kuwait	2020-07-02
+285572	Kubaydah	Kubaydah	Chubaida,Gbaidah,Jubaydah,Kabaidah,Kubaida,Kubaydah,Kubaydh,Little Kabd,kubaydat,كُبَيْدَة	29.10528	47.67972	T	HLL	KW		00				0		133	Asia/Kuwait	2012-01-18
+285573	Kola Patch	Kola Patch	Kola Patch,kulat patch,كُلَة پَتْچ	29.28333	48.1	H	RF	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285574	Kirā‘ al Marū	Kira` al Maru	Kira` al Maru,Kirā‘ al Marū,Kra` al Maru,Kra‘ al Maru,Kura Al Maru,Qira al Maru,Qira al-Marru,Qirā al-Marru,كِرَاع اَلْمَرُو	29.43583	47.32778	T	HLLS	KW		00				0		191	Asia/Kuwait	2020-06-10
+285575	Khuwaysāt	Khuwaysat	Al Khuwaisat,Al Khuwaysat,Al Khuwāysat,Al Kuwaisat,Al Quwaysat,Al Quwaysāt,Khuwaysat,Khuwaysāt,Khwaisat,Khwesat,Umm-al-Khuwaisah,khuaysat,خُوَيْسَات	29.38333	47.68333	H	WLL	KW		00				0		5	Asia/Kuwait	2020-06-10
+285576	Khuwaysāt	Khuwaysat	Al Khuwaysat,Al Khuwaysāt,Al Kuwaisat,Khuwaysat,Khuwaysāt,Khwesat,khuaysat,خُوَيْسَات	29.37667	47.70194	S	LDNG	KW		00				0		2	Asia/Kuwait	2020-06-10
+285577	Rawḑat Khuraym	Rawdat Khuraym	Raudhat Khraim,Rawdat Khuraym,Rawdhat Kharim,Rawḑat Khuraym,rawdat khuraym,رَوْضَة خُرَيْم	29.69667	47.79472	T	DPR	KW		00				0		41	Asia/Kuwait	2020-06-10
+285578	Udayri‘ al Khillah	Udayri` al Khillah	Adera-Al Khillah,Idaira al Khulla,Udayri` al Khillah,Udayri` al Khullah,Udayri‘ al Khillah,Udayri‘ al Khullah,Udhayri` al Khullah,Udhayri‘ al Khullah,أُدَيْرِع اَلْخِلَّة	29.57778	47.32611	T	HLL	KW		00				0		161	Asia/Kuwait	2020-06-10
+285579	Khawr al Mufattaḩ	Khawr al Mufattah	Aminoil Base Camp,Khawr al Mufattah,Khawr al Mufattaḩ,Khor al Mufattah,Khor el Muffata,khawr aalmufatah,خَوْر اَلْمُفَتَّح	28.65	48.38333	S	CMPO	KW		00				0		8	Asia/Kuwait	2020-06-10
+285580	Rujm Khashmān	Rujm Khashman	Ragem Khashman,Rijm Khashman,Rujm Khashman,Rujm Khashmān,rujm khashman,رُجْم خَشْمَان	29.18056	47.85111	S	CARN	KW		00				0		58	Asia/Kuwait	2020-06-10
+285581	Khashmān	Khashman	Khashman,Khashmān,khashman,خَشْمَان	29.25	47.85	L	OILF	KW		00				0		33	Asia/Kuwait	2012-01-18
+285582	Khabrat Khashm al ‘Ifrī	Khabrat Khashm al `Ifri	Khabra Khasham al `Afri,Khabra Khasham al ‘Afri,Khabrat Khashm al `Afri,Khabrat Khashm al `Ifri,Khabrat Khashm al ‘Afrī,Khabrat Khashm al ‘Ifrī,خَبْرَة خَشْم اَلْعِفْرِي	29.35	47.38333	H	WTRH	KW		00				0		168	Asia/Kuwait	2012-01-18
+285583	Mushāsh Khalīfah	Mushash Khalifah	Mishash Khalifa,Mishash Khalifah,Mishhash Khalifa,Mishhāsh Khalifa,Mishāsh Khalīfah,Mushash Khalifah,Mushāsh Khalīfah,mushash khalifat,مُشَاش خَلِيفَة	29.26667	48.08333	H	WLL	KW		00				0		-5	Asia/Kuwait	2020-06-10
+285584	Radīfat Khabrat ‘Aydā	Radifat Khabrat `Ayda	Radifa Khabra Aida,Radifat Khabrat `A'idah,Radifat Khabrat `Ayda,Radīfat Khabrat ‘Aydā,Radīfat Khabrat ‘Ā’idah,رَدِيفَة خَبْرَة عَيْدَا	29.53333	47.43333	H	WTRH	KW		00				0		138	Asia/Kuwait	2020-06-10
+285585	Ra’s Kāz̧imah	Ra's Kazimah	Ra's Kazimah,Ras Kadhama,Ras Kadhamah,Ras Kádhama,Ras al Kadhima,Ras al Kādhima,Ra’s Kāz̧imah,Rās Kādhamah,ras kazimat,رَأْس كَاظِمَة	29.3975	47.74306	T	PT	KW		00				0		2	Asia/Kuwait	2012-01-18
+285586	Dawḩat Kāz̧imah	Dawhat Kazimah	Dawhat Kazimah,Dawḩat Kāz̧imah,Dohat Kadhama,Dohat Kadhamah,Dohat Kadhima,Dohat Kādhamah,Dohat Kādhima,Dohāt Kadhāma,dawhat kazimat,دَوْحَة كَاظِمَة	29.38389	47.725	H	COVE	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285587	Kāz̧imah	Kazimah	Kadhamah,Kathma,Kazimah,Khadhama,Khādhāma,Kāz̧imah,kazimat,كَاظِمَة	29.42194	47.73278	S	PP	KW		00				0		7	Asia/Kuwait	2020-06-10
+285588	Kāz̧imah	Kazimah	Kadhmah,Kazimah,Kāz̧imah,kazimat,كَاظِمَة	29.40528	47.745	L	AREA	KW		00				0		3	Asia/Kuwait	2020-06-10
+285589	Kayfān	Kayfan	Kaifan,Kayfan,Kayfān,kayfan,كَيْفَان	29.31667	48.05	H	WLL	KW		00				0		16	Asia/Kuwait	2020-06-10
+285590	Kayfān	Kayfan	Kaifan,Kayfan,Kayfān,Keefan,Kifan,Kīfān,kayfan,كَيْفَان	29.34139	47.96333	P	PPLX	KW		02				0		13	Asia/Kuwait	2020-06-10
+285591	Karādī	Karadi	Karadi,Karādī,karadi,كَرَادِي	29.3	48.01667	H	WLL	KW		00				0		38	Asia/Kuwait	2012-01-18
+285592	Thamīlat Kabd	Thamilat Kabd	Thamilat Chabd,Thamilat Kabd,Thamilat al Kabd,Thamīlat Kabd,Thamīlat al Kabd,thamilat kabd,ثَمِيلَة كَبْد	29.12583	47.63028	H	WTRH	KW		00				0		131	Asia/Kuwait	2020-06-10
+285593	Al Kabd	Al Kabd	Al Kabd,Chabd,Gabed,Jabd,Kabd,aalkabd,اَلْكَبْد	29.14361	47.62806	L	AREA	KW		00				0		148	Asia/Kuwait	2012-01-18
+285594	Thamīlat al Juwaysirī	Thamilat al Juwaysiri	Al Juwaisiri,Al Quwaysiri,Al Quwayşirī,Jawasirah,Thamilat al Juwaisiri,Thamilat al Juwaysiri,Thamilat al Quwaysiri,Thamīlat al Juwaysirī,Thamīlat al Quwayşirī,thamilat aaljuaysiri,ثَمِيلَة اَلْجُوَيْسِرِي	29.33333	47.46667	H	WTRH	KW		00				0		153	Asia/Kuwait	2020-06-10
+285595	Qulbān al Juwayhil	Qulban al Juwayhil	Juwaiheel,Juwaihil,Juwayhil,Juwayhīl,Qulban Al Juwayhil,Qulbān Al Juwayhil,qulban aaljuayhil,قُلْبَان اَلْجُوَيْهِل	29.09861	47.82778	H	WLL	KW		00				0		74	Asia/Kuwait	2026-05-12
+285596	Markaz Julhum	Markaz Julhum	Markaz Julhum,markaz julhum,مَرْكَز جُلْهُم	28.83167	47.60167	S	PP	KW		00				0		180	Asia/Kuwait	2012-01-18
+285597	Markaz al Julaydah	Markaz al Julaydah	Markaz al Julaydah,markaz aaljulaydat,مَرْكَز اَلْجُلَيْدَة	28.54667	48.20278	S	PP	KW		00				0		66	Asia/Kuwait	2012-01-18
+285598	Judaylīyāt	Judayliyat	Al Judayliyat,Al Judaylīyāt,Al-Jadailiat,Jadailiyat,Judayliyat,Judaylīyāt,judayliaat,جُدَيْلِيَّات	29.35	47.8	T	HLLS	KW		00				0		3	Asia/Kuwait	2020-06-10
+285599	Ju‘aydān	Ju`aydan	Ju`aydan,Juaidan,Ju‘aydān,جُعَيْدَان	28.96667	47.96722	P	PPL	KW		00				0		69	Asia/Kuwait	2020-06-10
+285600	Jirthāmah	Jirthamah	Jirthama,Jirthamah,Jirthāmah,jirthamat,جِرْثَامَة	29.31667	47.81667	H	WLL	KW		00				0		12	Asia/Kuwait	2020-06-10
+285601	Jirīshān	Jirishan	Jarishan,Jarishān,Jirishan,Jirīshān,Jraischan,jirishan,جِرِيشَان	29.96667	47.16667	T	HLL	KW		00				0		117	Asia/Kuwait	2024-07-13
+285602	Fasht al Jathir	Fasht al Jathir	Fasht al Jather,Fasht al Jathir,fasht aaljathir,فَشْت اَلْجَثِر	29.38944	47.73361	H	SHOL	KW		00				0		-9999	Asia/Kuwait	2019-05-08
+285603	Janūb as Surrah	Janub as Surrah	Janub as Surrah,Janūb as Surrah,South Surra,janub aalsurat,جَنُوب اَلسُّرَّة	29.26917	47.97806	P	PPL	KW		07				18496		49	Asia/Kuwait	2015-01-04
+285604	Jalīb ash Shuyūkh	Jalib ash Shuyukh	Jalib ash Shuyukh,Jalīb ash Shuyūkh,Jleeb al Shuyoukh,jalib aalshuyukh,جَلِيب اَلشُّيُوخ	29.26667	47.93333	P	PPLX	KW		00				0		33	Asia/Kuwait	2020-06-10
+285605	Rujm al Jahţān	Rujm al Jahtan	Cairn of Jahtan,Cairn of Jahtán,Ragam Gehtan,Rijm al Jahtan,Rijm al Jahtán,Rijm al Jihtan,Rijm al Jihtān,Rujm al Jahtan,Rujm al Jahţān,Rujm al Qahtan,Rujm al Qaḩţān,rujm aaljahtan,رُجْم اَلْجَهْطَان	28.9625	47.69611	S	CARN	KW		00				0		162	Asia/Kuwait	2020-06-10
+285606	Jadādīyah	Jadadiyah	Ash Shidhaniyah,Ash Shīdhānīyah,Chadabiyeh,Chadadiyah,Chitadiya,Hadadiyyah,Jadadiya,Jadadiyah,Jadādīyah,Jududiyah,Qatadiyah,Qatādīyah,Shidadiya,jadadiat,جَدَادِيَّة	29.25	47.86667	H	WLL	KW		00				0		33	Asia/Kuwait	2020-06-10
+285607	Khawr Iskandar	Khawr Iskandar	Khawr Iskandar,khawr aiskandar,خَوْر إِسْكَنْدَر	28.62028	48.38556	H	COVE	KW		04				0		4	Asia/Kuwait	2012-01-18
+285608	‘Uqlat Ibn Şuqayyah	`Uqlat Ibn Suqayyah	Uglat Ibn Sugaih,`Uqla Ibn Suqayh,`Uqlat Ibn Suqayh,`Uqlat Ibn Suqayyah,عُقْلَة إِبْن صُقَيَّة,‘Uqla Ibn Şuqayḩ,‘Uqlat Ibn Şuqayh,‘Uqlat Ibn Şuqayyah	29.65694	47.07694	H	WLL	KW		00				0		157	Asia/Kuwait	2020-06-10
+285609	Shaqqat Ibn Şuqayh	Shaqqat Ibn Suqayh	Shagat Bin Sigiyyah,Shaqqat Ibn Suqayh,Shaqqat Ibn Şuqayh,Shiggat Ibn Sugaib,Shiggat Ibn Sugaih,Shiqqat Ibn Sugaih,Shiqqat Ibn Suqayh,Shiqqat Ibn Şuqayh,shaqat aibn suqayh,شَقَّة إِبْن صُقَيْه	29.65	47.11667	T	DPR	KW		00				0		164	Asia/Kuwait	2020-06-10
+285610	Thamīlat Ibn Hadbah	Thamilat Ibn Hadbah	Mishash Ibn Dabbus,Mishāsh Ibn Dabbūs,Thamilat Ibn Hadba,Thamilat Ibn Hadbah,Thamīlat Ibn Hadba,Thamīlat Ibn Hadbah,thamilat aibn hadbat,ثَمِيلَة إِبْن هَدْبَة	29.03333	47.61667	H	WTRH	KW		00				0		165	Asia/Kuwait	2012-01-18
+285611	Ibn Dabbūs	Ibn Dabbus	Ibin Dabboos,Ibn Dabbus,Ibn Dabbūs,Mishash Ibn Dabbus,Mishāsh Ibn Dabbūs,Mushash Ibn Dabbus,Mushāsh Ibn Dabbūs,aibn dabuws,إِبْن دَبُّوس	29.03333	48.01667	H	WLL	KW		00				0		58	Asia/Kuwait	2020-06-10
+285612	Mushāsh Ibn ‘Awsaj	Mushash Ibn `Awsaj	'Aqailah,Mashash Abu Awsag,Mishash Ibn Ausaj,Mishash Ibn `Awasaj,Mishāsh Ibn ‘Awasaj,Mushash Abu `Awsaj,Mushash Ibn `Awsaj,Mushāsh Abū ‘Awsaj,Mushāsh Ibn ‘Awsaj,Umm-al-'Ausaj,Umm-al-’Ausaj,مُشَاش إِبْن عَوْسَج,’Aqailah	28.88583	48.21139	H	WLL	KW		00				0		13	Asia/Kuwait	2020-06-10
+285613	Markaz al Ḩuzaym	Markaz al Huzaym	Markaz al Huzaym,Markaz al Ḩuzaym,markaz aalhuzaym,مَرْكَز اَلْحُزَيْم	28.54194	48.2775	S	PP	KW		00				0		46	Asia/Kuwait	2012-01-18
+285614	Shiqqat al Huwaymilīyah	Shiqqat al Huwaymiliyah	Shagat Al-Huwamillyyah,Shaqqat al Huwaymiliyah,Shaqqat al Huwaymilīyah,Shiggat al Huwaimaliyah,Shiqqat al Huwaimaliya,Shiqqat al Huwaymiliyah,Shiqqat al Huwaymilīyah,shiqat aalhuaymiliat,شِقَّة اَلْهُوَيْمِلِيَّة	29.80083	47.18833	T	DPR	KW		00				0		128	Asia/Kuwait	2020-06-10
+285615	Ḩūt 1	Hut 1	Al Hout,Houf,Hout,Hout Oilfield,Hut 1,hut 1,حُوت 1,Ḩūt 1	28.7	49.025	L	OILF	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285616	Ḩunayz̧il	Hunayzil	Hanaidhil,Hanaidhit,Hunaydil,Hunayzil,hunayzil,حُنَيْظِل,Ḩunayz̧il,Ḩunayḑil	29.2	48.1	H	WLL	KW		00				0		9	Asia/Kuwait	2020-06-10
+285617	Ḩulw	Hulw	Hilu,Hulw,hulw,حُلْو,Ḩulw	29.03333	48.05	H	WLL	KW		00				0		85	Asia/Kuwait	2024-07-13
+285618	Mushāsh Hulayyil	Mushash Hulayyil	Mushash Hulayyil,Mushāsh Hulayyil,mushash hulayil,مُشَاش هُلَيِّل	28.91778	48.01194	H	WLL	KW		00				0		68	Asia/Kuwait	2012-01-18
+285619	Mushāsh Ḩubaynān	Mushash Hubaynan	Mishash Habainan,Mushash Hubaynan,Mushāsh Ḩubaynān,mushash hubaynan,مُشَاش حُبَيْنَان	28.75	48.25	H	WLL	KW		00				0		9	Asia/Kuwait	2020-06-10
+285620	Ḩisū az̧ Z̧aby	Hisu az Zaby	Hasu Al-Thabi,Hisu az Zabi,Hisu az Zaby,hisu aalzabi,حِسُو أَلظَبِي,Ḩisū az̧ Z̧aby,Ḩisū az̧ Z̧abī	29.7675	47.71333	L	LCTY	KW		00				0		45	Asia/Kuwait	2020-06-10
+285621	Ābār Hirshān	Abar Hirshan	Abar Hirshan,Bi'r Hirshan,Bi’r Hirshan,Harshan Wells,abar hirshan,Ābār Hirshān,آبَار هِرْشَان	28.55	48.13333	H	WLL	KW		00				0		81	Asia/Kuwait	2024-07-13
+285622	Ra’s al Ḩimārah	Ra's al Himarah	Ra's al Himarah,Ra’s al Ḩimārah,ras aalhimarat,رَأْس اَلْحِمَارَة	28.58083	48.40139	T	PT	KW		04				0		1	Asia/Kuwait	2012-01-18
+285623	Ḩadd al Ḩimārah	Hadd al Himarah	Hadd al Hamara,Hadd al Himarah,had aalhimarat,حَدّ اَلْحِمَارَة,Ḩadd al Ḩimārah	28.56111	48.4175	H	SHOL	KW		04				0		-9999	Asia/Kuwait	2020-06-10
+285624	Radīfāt Ḩawmah	Radifat Hawmah	Radifa Hauma,Radifat Hawmah,Radīfāt Ḩawmah,Raudifa Hauma,radifat hawmat,رَدِيفَات حَوْمَة	29.5325	47.13833	H	WTRH	KW		00				0		177	Asia/Kuwait	2020-06-10
+285625	Khabrat Ḩawmah	Khabrat Hawmah	Khabra Hauma,Khabrat Hawmah,Khabrat Hawnah,Khabrat Ḩawmah,Khabrat Ḩawnah,khabrat hawmat,خَبْرَة حَوْمَة	29.58333	47.18333	H	WTRH	KW		00				0		169	Asia/Kuwait	2020-06-10
+285626	Ḩawmah	Hawmah	Hawmah,Houmah,hawmat,حَوْمَة,Ḩawmah	29.57444	47.10889	L	AREA	KW		00				0		187	Asia/Kuwait	2020-06-10
+285627	Khawr Ḩawbān	Khawr Hawban	Khawr Hawban,Khawr Ḩawbān,Khor Hauban,Khor Hoban,khawr hawban,خَوْر حَوْبَان	29.48083	47.59139	H	WAD	KW		00				0		103	Asia/Kuwait	2020-06-10
+285628	Muḩāfaz̧at Ḩawallī	Muhafazat Hawalli	Havallib,Hawalli,Khavalli,Khavally,Muhafazat Hawalli,Muḩāfaz̧at Ḩawallī,Province of Hawali,ha'oyali,havali,hawali,hawari,hwaly,muhafazat hawaliy,Хавалли,Хаваллы,Ҳavalli,Ҳавалли,حوالی,مُحَافَظَة حَوَلِّي,হাওয়ালি,ਹਾਵਾਲੀ,ሃዋሊ,Ḩawallī,ハワリー	29.3	48.05	A	ADM1	KW		08				714876		21	Asia/Kuwait	2026-04-16
+285629	Ḩawallī	Hawalli	Havalli,Hawali-nogra,Hawalli,Hawally,Hawaly,Khavalli,ha'oyali,havali,havalli,hawali,hawaliy,hawari,hwly,Хавалли,Ҳavalli,Ҳавалли,حولي,حولی,حَوَلِّي,ہawly,ہاولی,हवल्ली,হাওয়ালি,ਹਾਵਲੀ,ሃዋሊ,Ḩawallī,ハワリ	29.33278	48.02861	P	PPLA	KW		08				164212		19	Asia/Kuwait	2026-04-14
+285630	Ḩaswān	Haswan	Haswan,haswan,حَسْوَان,Ḩaswān	29.78333	48.01667	H	WLL	KW		00				0		6	Asia/Kuwait	2014-11-05
+285631	Ḩamrān	Hamran	Hamran,hamran,حَمْرَان,Ḩamrān	29.48944	47.77056	L	AREA	KW		00				0		41	Asia/Kuwait	2012-01-18
+285632	Sha‘īb al Ḩamāţīyāt	Sha`ib al Hamatiyat	Hamatiyah,Sha`ib al Hamatiyat,Sha‘īb al Ḩamāţīyāt,Shuaib Al-Hamatiyyat,شَعِيب اَلْحَمَاطِيَّات	29.13333	47.4	H	WAD	KW		00				0		183	Asia/Kuwait	2020-06-10
+285633	Baḩrat al Ḩafīrah	Bahrat al Hafirah	Bahrat al Hafirah,Bahret Al-Hafirah,Baḩrat al Ḩafīrah,bahrat aalhafirat,بَحْرَة اَلْحَفِيرَة	28.58333	48.25	H	WLL	KW		00				0		43	Asia/Kuwait	2020-06-10
+285634	Fasht al Hadibah	Fasht al Hadibah	Fasht al Hadaibah,Fasht al Hadiba,Fasht al Hadibah,fasht aalhadibat,فَشْت اَلْهَدِبَة	29.41667	47.96667	H	RF	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285635	Abraq al Ḩabārī	Abraq al Habari	Abrag Al-Habari,Abrag al Habari,Abraq al Habari,Abraq al Ḩabārī,aabraq aalhabari,أَبْرَق اَلْحَبَارِي	29.48472	46.95333	T	SCRP	KW		00				0		225	Asia/Kuwait	2020-06-10
+285636	Ghuḑayy	Ghudayy	Ghadai,Ghaday,Ghadhai,Ghudayy,Ghuḑayy,Ighdhai,ghuday,غُضَيّ	29.48333	47.81667	H	WLL	KW		00				0		4	Asia/Kuwait	2020-06-10
+285637	Ghuḑayy	Ghudayy	Ghada,Ghaday,Ghudayy,Ghuḑayy,ghuday,غُضَيّ	29.41722	47.75833	L	LCTY	KW		00				0		1	Asia/Kuwait	2020-06-10
+285638	Jazīrat Faylakā	Jazirat Faylaka	Faijlaka Island,Failaka Island,Failakah Island,Failicha,Faylakah,Felaka ,Fulayka',Fulaykā’,Fēlaka ,Jazirat Failaka,Jazirat Falaka,Jazirat Faylaka,Jazirat Faylakah,Jazirat al-Falakah,Jazīrat Failaka,Jazīrat Falakā,Jazīrat Faylakah,Jazīrat Faylakā,Jazīrat al-Falakah,Pheleechi,jazirat faylaka,جَزِيرَة فَيْلَكَا	29.44056	48.33472	T	ISL	KW		02				147		3	Asia/Kuwait	2020-07-02
+285639	Markaz al Fawāris	Markaz al Fawaris	Markaz al Fawaris,Markaz al Fawāris,markaz aalfawaris,مَرْكَز اَلْفَوَارِس	28.55167	47.8325	S	PP	KW		00				0		202	Asia/Kuwait	2012-01-18
+285640	Khawr al Fawāris	Khawr al Fawaris	Khawr al Fawaris,Khawr al Fawāris,khawr aalfawaris,خَوْر اَلْفَوَارِس	28.585	47.80806	T	DPR	KW		00				0		198	Asia/Kuwait	2012-01-18
+285641	Ḑulay‘at al Fawāris	Dulay`at al Fawaris	Al Fuwaris,Dulay`at al Fawaris,Jabal Fnaris,Jabal Fnáris,Jabal Fuaris,Jabal Fuáris,ضُلَيْعَة اَلْفَوَارِس,Ḑulay‘at al Fawāris,Ḑulay‘āt al Fawāris	28.62583	47.81556	T	HLL	KW		00				0		214	Asia/Kuwait	2020-06-10
+285642	Shiqqat aḑ Ḑuwayjah	Shiqqat ad Duwayjah	Shagat Al-Dowaijah,Shaqqat ad Duwayjah,Shaqqat aḑ Duwayjah,Shiggat adh Dhuwaija,Shiqqat ad Duwayjah,Shiqqat adh Dhuwaija,Shiqqat aḑ Ḑuwayjah,shiqat aalduwayjat,شِقَّة اَلضُّوَيْجَة	29.58778	47.09944	T	DPR	KW		00				0		171	Asia/Kuwait	2020-06-10
+285643	Duwaydāt	Duwaydat	Duwaydat,Duwaydāt,duaydat,دُوَيْدَات	28.58278	48.39917	P	PPL	KW		04				0		10	Asia/Kuwait	2012-01-18
+285644	Duwaydāt	Duwaydat	Duwaidat,Duwaydat,Duwaydāt,duaydat,دُوَيْدَات	28.585	48.39694	T	HLL	KW		00				0		8	Asia/Kuwait	2020-06-10
+285645	Durrah	Durrah	Dorra,Dura,Durra,Durrah,durat,دُرَّة	28.8	49.23333	L	OILF	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285646	Ḑulay‘ Su‘ūd	Dulay` Su`ud	Dhulai` Sa`ud,Dhulai‘ Sa‘ūd,Dulay` Sa`ud,Dulay` Su`ud,ضُلَيْع سُعُود,Ḑulay‘ Sa‘ūd,Ḑulay‘ Su‘ūd	29.20111	48.11111	P	PPL	KW		09				0		4	Asia/Kuwait	2017-06-22
+285647	Thamīlat ad Dughmah	Thamilat ad Dughmah	Thamilat ad Dughmah,Thamīlat ad Dughmah,thamilat aaldughmat,ثَمِيلَة اَلدُّغْمَة	28.81611	47.85972	H	WTRH	KW		00				0		119	Asia/Kuwait	2012-01-18
+285648	Khabrat Du‘ayj	Khabrat Du`ayj	Khabrat Du`ayj,Khabrat Du‘ayj,خَبْرَة دُعَيْج	29.45722	47.535	H	WTRH	KW		00				0		131	Asia/Kuwait	2012-01-18
+285649	Dikākat Milwāḩ	Dikakat Milwah	Dikakat Milwah,Dikākat Milwāḩ,dikakat milwah,دِكَاكَة مِلْوَاح	29.47806	47.26333	T	SAND	KW		00				0		177	Asia/Kuwait	2012-01-18
+285650	Khabrat Julhum	Khabrat Julhum	Khabra ad Duwish,Khabrat Jilhim,Khabrat Julhum,Khabrat ad Dawish,Khabrat ad Dawīsh,Khibret Al-Dwaish,khabrat julhum,خَبْرَة جُلْهُم	28.85861	47.61639	H	WTRH	KW		00				0		167	Asia/Kuwait	2012-01-18
+285651	Dasmah	Dasmah	Dasma,Dasmah,dasmat,دَسْمَة	29.05	48.05	H	WLL	KW		00				0		97	Asia/Kuwait	2012-01-18
+285652	Banīyat ad Dasht	Baniyat ad Dasht	Banaya ad Dasht,Baniyat ad Dasht,Banāyā ad Dasht,Banīyat ad Dasht,baniat aaldasht,بَنِيَّة اَلدَّشْت	28.855	48.195	T	DUNE	KW		00				0		23	Asia/Kuwait	2012-01-18
+285653	Ḑārub	Darub	Darub,Dharub,Dharūb,darub,ضَارُب,Ḑārub	29.53306	48.17361	H	FLTT	KW		00				0		2	Asia/Kuwait	2012-01-18
+285654	Dant	Dant	Dant,dant,دَنْت	29.16667	48.11667	P	PPL	KW		00				0		13	Asia/Kuwait	2012-01-18
+285655	Ḑulay‘āt aḑ Ḑab‘ah	Dulay`at ad Dab`ah	Dhulai`at adh Dhaba,Dhulai‘at adh Dhaba,Dlay at Al-Dabah,Dulay`at ad Dab`,Dulay`at ad Dab`ah,ضُلَيْعَات اَلضَّبْعَة,Ḑulay‘at aḑ Ḑab‘,Ḑulay‘āt aḑ Ḑab‘ah	29.09667	47.56222	T	HLLS	KW		00				0		176	Asia/Kuwait	2020-06-10
+285656	Al Burqān	Al Burqan	Al Burgan,Al Burqan,Al Burqān,Bargon,Burgan,Burqan,Burqān,aalburqan,اَلْبُرْقَان	28.91806	47.9775	L	AREA	KW		00				0		78	Asia/Kuwait	2024-07-13
+285657	Ḑulay‘ Buqay‘	Dulay` Buqay`	Dulay` Bugay`,Dulay` Buqay`,ضُلَيْع بُقَيْع,Ḑulay‘ Bugay‘,Ḑulay‘ Buqay‘	28.61667	48.16667	T	HLL	KW		00				0		53	Asia/Kuwait	2012-01-18
+285658	Khawr Būbiyān	Khawr Bubiyan	Khawr Bubiyan,Khawr Būbiyān,Khor Bubiyan,Khor Bubyan,Khor Būbyān,Khor Būbīyān,khawr bubian,خَوْر بُوبِيَان	29.99528	48.1625	H	CHNM	KW		00				0		-9999	Asia/Kuwait	2012-02-02
+285659	Jazīrat Būbiyān	Jazirat Bubiyan	Bubiyan,Bubiyan Island,Būbiyān,Jazirat Bubiyan,Jazirat Bubyan,Jazirat Būbyān,Jazīrat Būbiyān,Jazīrat Būbyān,jazirat bubian,جَزِيرَة بُوبِيَان	29.76972	48.25556	T	ISL	KW		05				0		3	Asia/Kuwait	2021-05-07
+285660	Sha‘īb Bin Hadmah	Sha`ib Bin Hadmah	Sha`ib Bin Hadbah,Sha`ib Bin Hadmah,Sha‘īb Bin Hadbah,Sha‘īb Bin Hadmah,شَعِيب بِن هَدْمَة	29.06472	47.6	H	WAD	KW		00				0		144	Asia/Kuwait	2012-01-18
+285661	Bayḑat aş Şubayḩīyah	Baydat as Subayhiyah	Baydat as Subayhiyah,Bayḑat aş Şubayḩīyah,baydat aalsubayhiat,بَيْضَة اَلصُّبَيْحِيَّة	28.86556	47.9175	L	AREA	KW		00				0		89	Asia/Kuwait	2012-01-18
+285662	Qulbān Bayḑat an Nathīl	Qulban Baydat an Nathil	Qulban Bardat an Nathil,Qulban Baydat an Nathil,Qulbān Barḑat an Nathil,Qulbān Bayḑat an Nathīl,qulban baydat aalnathil,قُلْبَان بَيْضَة اَلنَّثِيل	28.63972	48.07556	H	WLL	KW		00				0		90	Asia/Kuwait	2014-11-05
+285663	Bayān	Bayan	Bajan,Bayan,Bayān,bayan,byan,Баян,بيان,بَيَان	29.3032	48.04881	P	PPLX	KW		08				30635		20	Asia/Kuwait	2016-09-13
+285665	Ra’s al Barshah	Ra's al Barshah	Ra's Al-Barsha,Ra's al Barishah,Ra's al Barshah,Ra's al Barshar,Ra's al Burshah,Ras Al-Barsha,Ras al Buraisha,Ras-as-Barshah,Ra’s al Barshah,Ra’s al Barshar,Ra’s al Barīshah,Ra’s al Burshah,Rās-as-Barshah,Rā’s Al-Barsha,Rā’s al Barshah,ras aalbarshat,ras albrysht,رأس البريشة,رَأْس اَلْبَرْشَة	29.58194	48.21944	T	CAPE	KW		05				0		2	Asia/Kuwait	2020-06-10
+285666	Banīyāt as Sawā‘idī	Baniyat as Sawa`idi	Baniyat as Sawa`idi,Baniyat as Suwadi,Banīyat as Suwādi,Banīyāt as Sawā‘idī,Bunayat Al-Sawaidi,بَنِيَّات اَلسَّوَاعِدِي	29.115	46.94833	L	LCTY	KW		00				0		261	Asia/Kuwait	2020-06-10
+285667	Mushāsh Banīyah	Mushash Baniyah	Mushash Baniyah,Mushāsh Banīyah,mushash baniat,مُشَاش بَنِيَّة	28.78917	48.14056	H	WLL	KW		00				0		46	Asia/Kuwait	2012-01-18
+285668	Banāyā al Khīrān	Banaya al Khiran	Al Banaiya,Al Banaya,Al Banāiya,Al Banāyā,Banaya al Khayran,Banaya al Khiran,Banayah,Baniyat al Khawr,Baniyat-al-Khor,Banāyah,Banāyā al Khayrān,Banāyā al Khīrān,Banīyat al Khawr,Banīyat-al-Khor,Baraya al Khiran,Barāyā al Khīrān,Jabal Banna,Jabal Bannah,banaya aalkhiran,بَنَايَا اَلْخِيرَان	28.61667	48.36667	T	HLL	KW		00				0		1	Asia/Kuwait	2020-06-10
+285669	Jabal al Banāyā	Jabal al Banaya	Jabal al Banaya,Jabal al Banāyā,jabal aalbanaya,جَبَل اَلْبَنَايَا	28.65972	48.38667	T	HLL	KW		00				0	10	5	Asia/Kuwait	2012-01-18
+285670	Khabrat al Ba‘l	Khabrat al Ba`l	Khabrat al Ba`l,Khabrat al Ba‘l,خَبْرَة اَلْبَعْل	29.31083	47.63556	H	WTRH	KW		00				0		65	Asia/Kuwait	2012-01-18
+285671	Baḩrat Mawshān	Bahrat Mawshan	Baharat Hoshan,Baharat Hoshān,Bahra Mawshan,Bahra Mawshān,Bahrat Hawshan,Bahrat Mawshan,Bahrat Moshan,Baḩrat Mawshān,bahrat mawshan,بَحْرَة مَوْشَان	30.08333	47.41667	H	WAD	KW		00				0		62	Asia/Kuwait	2020-06-10
+285672	Mushāsh al Baḩrah	Mushash al Bahrah	Mashash Al-Bahra,Mishash al Bahara,Mishash al Bahrah,Mishāsh al Bahara,Mishāsh al Baḩrah,Mushash al Bahrah,Mushāsh al Baḩrah,mushash aalbahrat,مُشَاش اَلْبَحْرَة	29.03333	48.06667	H	WLL	KW		00				0		98	Asia/Kuwait	2020-06-10
+285673	Az Zawr	Az Zawr	Az Zaur,Az Zawr,Az Zor,Failakka Village,Zor,aalzawr,اَلزَّوْر	29.4425	48.27472	P	PPL	KW		02				5750		5	Asia/Kuwait	2012-01-18
+285674	Khabrat az Zaqlah	Khabrat az Zaqlah	Az Zaghla,Az Zaghlā,Az Zagla,Khabrat Az Zaqlah,Zagla,khabrat aalzaqlat,خَبْرَة اَلزَّقْلَة	29.43556	47.64306	H	WTRH	KW		00				0		90	Asia/Kuwait	2026-05-12
+285675	Az Zaqlah	Az Zaqlah	Al-Zaklah,Az Zaqlah,Zaqla,Zaqlah,aalzaqlat,اَلزَّقْلَة	29.41917	47.60278	L	LCTY	KW		00				0		123	Asia/Kuwait	2012-01-18
+285676	Z̧ahr al ‘Adāl	Zahr al `Adal	Adh Dhahar,Al-Thahar,Az Zahr,Az̧ Z̧ahr,Dhahar al 'Adan,Dhahar al ’Adán,Zahr al `Adal,Z̧ahr al ‘Adāl,ظَهْر اَلْعَدَال	29.14917	48.04361	T	RDGE	KW		00				0		95	Asia/Kuwait	2020-06-10
+285677	Fasht al Ayk	Fasht al Ayk	Aich,Al - Ayje,Al Ayje,Fasht al Aik,Fasht al Ayk,fasht aalaayk,فَشْت اَلأَيْك	29.75	48.51667	H	BNK	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285678	Khabrat ‘Ā’idah	Khabrat `A'idah	Khabra Aida,Khabrat `A'idah,Khabrat `Ayda,Khabrat ‘Aydā,Khabrat ‘Ā’idah,خَبْرَة عَائِدَة	29.56222	47.40861	H	WTRH	KW		00				0		133	Asia/Kuwait	2020-06-10
+285679	Sha‘īb al ‘Awjā’	Sha`ib al `Awja'	Sha`ib al `Awja',Sha`ib al `Awjah,Sha‘īb al ‘Awjah,Sha‘īb al ‘Awjā’,شَعِيب اَلْعَوْجَاء	29.55	47.68333	H	WAD	KW		00				0		80	Asia/Kuwait	2012-01-18
+285680	Jazīrat ‘Awhah	Jazirat `Awhah	Auha,Auhah Island,Awha,Jazirat Auha,Jazirat Auhah,Jazirat Auħah,Jazirat Awha,Jazirat `Awhah,Jazīrat Auha,Jazīrat ‘Awhah,`Auha Island,`Awhah,جَزِيرَة عَوْهَة,‘Auha Island,‘Awhah	29.37778	48.43917	T	ISL	KW		02				0		3	Asia/Kuwait	2024-11-03
+285681	Khabrat al ‘Awāzim	Khabrat al `Awazim	Khabari al `Awazim,Khabrat al `Awazim,Khabrat al ‘Awāzim,Khabārī al ‘Awāzim,Khibret Al-Awazem,خَبْرَة اَلْعَوَازِم	29.43333	47.48333	H	WTRH	KW		00				0		153	Asia/Kuwait	2020-06-10
+285682	Khabārī al ‘Awāzim	Khabari al `Awazim	Khabari Al-Awazem,Khabari al `Awazim,Khabārī al ‘Awāzim,خَبَارِي اَلْعَوَازِم	29.9	47.18333	H	WTRH	KW		00				0		117	Asia/Kuwait	2020-06-10
+285683	Ḑulay‘āt al ‘Awāzim	Dulay`at al `Awazim	Daley Al-Awazim,Dhulai`at al Awazim,Dhulai`at al Awzim,Dhulai‘at al Awzim,Dhulai‘at al Awāzim,Dulay` al `Awazim,Dulay`at al `Awazim,Dulay‘at al ‘Awāzim,ضُلَيْعَات اَلْعَوَازِم,Ḑulay‘ al ‘Awāzim,Ḑulay‘āt al ‘Awāzim	29.05028	47.6525	T	HLLS	KW		00				0		145	Asia/Kuwait	2020-06-10
+285684	Ḑulay‘āt al Atyās	Dulay`at al Atyas	Dulay`at al Atyas,ضُلَيْعَات اَلأَتْيَاس,Ḑulay‘āt al Atyās	28.53111	47.9775	T	HLLS	KW		00				0		134	Asia/Kuwait	2012-01-18
+285685	Thamīlat al ‘Atūl	Thamilat al `Atul	Thamilat al `Atul,Thamīlat al ‘Atūl,ثَمِيلَة اَلْعَتُول	29.03333	48.03333	H	WTRH	KW		00				0		72	Asia/Kuwait	2012-01-18
+285686	Aţ Ţawīl	At Tawil	Al-Taweel,At Tawil,Aţ Ţawīl,Tawail,Tawil,Tawīl,aaltawil,اَلطَّوِيل	28.96667	47.9	H	WLL	KW		00				0		82	Asia/Kuwait	2020-06-10
+285687	Aţ Ţawīl	At Tawil	At Tawil,Aţ Ţawīl,aaltawil,اَلطَّوِيل	28.98528	47.85167	L	AREA	KW		00				0		91	Asia/Kuwait	2012-01-18
+285688	Aţ Ţarfāwī	At Tarfawi	Al Tarfawi,Al Tarfāwi,Al-Tarfawe,At Tarfawi,Aţ Ţarfāwī,Turfaiwa,Turfawi,Turfāwi,aaltarfawi,اَلطَّرْفَاوِي	29.76194	48.03611	H	WLL	KW		00				0		2	Asia/Kuwait	2020-06-10
+285689	Markaz al Aţrāf	Markaz al Atraf	Markaz al Atraf,Markaz al Aţrāf,markaz aalaatraf,مَرْكَز اَلأَطْرَاف	29.32361	47.55278	S	PP	KW		00				0		144	Asia/Kuwait	2012-01-18
+285690	Khabrat al Aţrāf	Khabrat al Atraf	Khabari al Airaf,Khabari al Atraf,Khabrat al Atraf,Khabrat al Aţrāf,Khabārī al Aţrāf,Khibrat Ali-Atraf,khabrat aalaatraf,خَبْرَة اَلأَطْرَاف	29.33333	47.51667	H	WTRH	KW		00				0		149	Asia/Kuwait	2020-06-10
+285691	Athan Shoal	Athan Shoal	Athan Shoal,aathan shaul,أَثَن شَُل	28.73333	48.58333	H	SHOL	KW		00				0		-9999	Asia/Kuwait	2012-01-18
+285692	As Surrah	As Surrah	Al-Srairat,As Sirra,As Sirrah,As Surrah,aalsurat,اَلسُّرَّة	29.28333	48.06667	H	WLL	KW		00				0		12	Asia/Kuwait	2014-11-05
+285693	As Surrah	As Surrah	Al Sorrah,As Surrah,Qasr as Sirra,aalsurat,اَلسُّرَّة	29.28333	48.06667	S	HSE	KW		00				0		12	Asia/Kuwait	2012-01-18
+285694	As Sūr ash Shimālī	As Sur ash Shimali	As Sur ash Shimala,As Sur ash Shimali,As Sūr ash Shimālā,As Sūr ash Shimālī,aalsuwr aalshimali,اَلسُّور اَلشِّمَالِي	28.58333	47.85	H	WTRH	KW		00				0		193	Asia/Kuwait	2012-01-18
+285695	As Sūr al Awsaţ	As Sur al Awsat	As Sur al Awsat,As Sūr al Awsaţ,aalsuwr aalaawsat,اَلسُّور اَلأَوْسَط	28.55	47.8	H	WTRH	KW		00				0		193	Asia/Kuwait	2012-01-18
+285696	As Sulū‘	As Sulu`	As Sulu`,As Sulū‘,اَلسُّلُوع	28.70333	48.26056	T	SAND	KW		04				0		22	Asia/Kuwait	2024-07-13
+285697	Aş Şulaybīyah	As Sulaybiyah	Al Salaibiyak,Al Salaibīyak,Al-Sulibiyyah,As Sulaibiya,As Sulaybiyah,Aş Şulaybīyah,Sulabiyah,Sulaibiya,Sulaibiyah,aalsulaybiat,اَلصُّلَيْبِيَّة	29.25333	47.78778	H	WLL	KW		00				0		42	Asia/Kuwait	2020-06-10
+285698	Aş Şulaybīkhāt	As Sulaybikhat	Al-Sulaibikhat,As Sulaybikhat,Aş Şulaybīkhāt,Sulaibikhat,Suleibikhat,aalsulaybikhat,اَلصُّلَيْبِيخَات	29.31528	47.83583	P	PPLX	KW		00				0		9	Asia/Kuwait	2020-06-10
+285699	Aş Şulaybīkhāt	As Sulaybikhat	As Sulaybikhat,Aş Şulaybīkhāt,Sulaibikhat,Sulaybikhat,aalsulaybikhat,Şulaybīkhāt,اَلصُّلَيْبِيخَات	29.31722	47.87222	T	DUNE	KW		00				0		12	Asia/Kuwait	2020-06-10
+285700	Aş Şubayḩīyah	As Subayhiyah	As Sabahiyah,As Subaihiya,As Subaihīya,As Subayhah,As Subayhiyah,Aş Şabāḩīyah,Aş Şubayḩah,Aş Şubayḩīyah,Sbahiyyah,Subaihiya,Subaihiyah,Subaihīya,Subaithiya,Subayhiyah,aalsubayhiat,Şubayḩīyah,اَلصُّبَيْحِيَّة	28.88333	47.91667	H	WLL	KW		00				0		83	Asia/Kuwait	2020-06-10
+285701	Sha‘īb aş Şīr	Sha`ib as Sir	Al-Seer,As Sir,Aş Şīr,Sha`ib as Sir,Sha‘īb aş Şīr,aalsiyr,اَلصِّير	29.88333	47.66667	H	WAD	KW		00				0		39	Asia/Kuwait	2020-06-10
+285702	Aş Şīr	As Sir	As Sir,Aş Şīr,aalsiyr,اَلصِّير	29.73222	47.46722	L	AREA	KW		00				0		115	Asia/Kuwait	2012-01-18
+285703	As Sīf	As Sif	As Sif,As Sīf,aalsiyf,اَلسِّيف	29.43611	47.77778	T	BCH	KW		05				0		5	Asia/Kuwait	2024-07-13
+285704	As Sālimīyah	As Salimiyah	Ad Dumna,Ad Dumnah,Al Salmiya,As Salimiyah,As Sālimīyah,As-Salimiyah,As-Sālimiyah,Dimnah,Salimiyah,Salmiya,Salmiyah,Salmiyyeh,aalsaalimiat,alsalmyt,السالمية,اَلسَّالِمِيَّة	29.33389	48.07611	P	PPLX	KW		08				147649		11	Asia/Kuwait	2024-05-31
+285705	Aş Şafāwīyah	As Safawiyah	As Safawiyah,Aş Şafāwīyah,aalsafawiat,اَلصَّفَاوِيَّة	28.71667	48.025	H	SBKH	KW		00				0		90	Asia/Kuwait	2012-01-18
+285706	As Sāddah	As Saddah	Al-Sada,Al-Saddah,As Sadah,As Sadda,As Saddah,As Sādah,As Sāddah,Khad as Sa'ada,Khad as Sa’ada,Khadd-as-Saddah,Khadd-as-Sāddah,aalsaadat,اَلسَّادَّة	29.2275	47.44444	T	HLL	KW		00				0		196	Asia/Kuwait	2020-06-10
+285707	Aş Şabīyah	As Sabiyah	Al-Subiyah,As Sabiyah,Aş Şabīyah,aalsabiat,alsbyt,الصبية,اَلصَّبِيَّة	29.6	48.11667	L	AREA	KW		00				0		20	Asia/Kuwait	2020-06-10
+285708	Aş Şābirīyah	As Sabiriyah	Al-Sabriyah,As Sabiriyah,As Sabriya,As Sabriyah,Aş Şabrīyah,Aş Şābirīyah,Sabariyah,Sabriya,Sabriyah,Sābarīyah,aalsaabiriat,Şabrīyah,اَلصَّابِرِيَّة	29.88333	47.98333	H	WLL	KW		00				0		1	Asia/Kuwait	2020-06-10
+285709	Ḩaql aş Şābrīyah	Haql as Sabriyah	As Sabriyah Oil Field,Aş Şābrīyah Oil Field,Haql as Sabiriyah,Haql as Sabriyah,Sabriya,Sabriya Field,Sabriyah Oilfields,haql aalsabiriat,حَقْل أَلصَابِرِيَّة,Ḩaql aş Şābirīyah,Ḩaql aş Şābrīyah	29.8	47.83333	L	OILF	KW		00				0		35	Asia/Kuwait	2020-06-10
+285710	Aş Şābirīyah	As Sabiriyah	Al-Sabriyah,As Sabiriyah,As Sabriyah,Aş Şābirīyah,Aş Şābrīyah,aalsaabiriat,اَلصَّابِرِيَّة	29.84028	47.92083	L	AREA	KW		00				0		40	Asia/Kuwait	2020-06-10
+285711	Aş Şabāḩīyah	As Sabahiyah	Al-Sabahiyah,As Sabahiyah,Aş Şabāḩīyah,Subahiya,aalsabahiat,alsbahyt,الصباحية,اَلصَّبَاحِيَّة	29.10583	48.10806	P	PPL	KW		04				0		40	Asia/Kuwait	2020-07-09
+285712	As Sab‘ah	As Sab`ah	As Sab`ah,As Sab‘ah,السبعة,اَلسَّبْعَة	29.59444	48.0975	L	LCTY	KW		00				0		18	Asia/Kuwait	2012-01-18
+285713	Ash Shuwaykh	Ash Shuwaykh	Al Shuwaikh,Ash Shuwaykh,Bandar Shuwaik,Bandar Shuwaikh,Bandar ash Shuwaykh,Bander Shweikh,Port Shuwaikh,Shuwaikh,Shuwaikh Port,Shuwoikh,aalshuwaykh,اَلشُّوَيْخ	29.34361	47.94611	P	PPLX	KW		02				0		11	Asia/Kuwait	2016-09-13
+285714	Ash Shuqayq	Ash Shuqayq	Al-Shaqeeq,Ash Shaqiq,Ash Shaqīq,Ash Shigaig,Ash Shuqayq,aalshuqayq,اَلشُّقَيْق	28.6925	47.73194	L	AREA	KW		00				0		187	Asia/Kuwait	2012-01-18
+285715	Ash Shunayţī	Ash Shunayti	Al-Shaniti,Ash Shinaiti,Ash Shunauti,Ash Shunauţī,Ash Shunayti,Ash Shunayţī,aalshunayti,اَلشُّنَيْطِي	28.88333	48.01667	H	WLL	KW		00				0		74	Asia/Kuwait	2020-06-10
+285716	Ash Shu‘aybah	Ash Shu`aybah	Al-Shuaiba,As Shu`aiba,As Shu‘aiba,Ash Shu`aiba,Ash Shu`aybah,Ash Shu‘aiba,Ash Shu‘aybah,Sha'iba,Shaab,Shaabah,Shauiba,Sha’iba,Shi'aibah,Shi’aibah,Shu`aybah,Shua'ibah,Shuaiba,Shua’ibah,Shu‘aybah,اَلشُّعَيْبَة	29.04111	48.1375	P	PPL	KW		04				0		15	Asia/Kuwait	2020-06-10
+285717	Ash Shiqq	Ash Shiqq	Ash Shiqq,aalshiq,اَلشِّقّ	29.15	47.48333	T	HLL	KW		00				0		170	Asia/Kuwait	2012-01-18
+285718	Wādī ash Shaqq	Wadi ash Shaqq	Al-Shakk,Ash Shaqq,Ash Shugg,Shaqq,Wadi ash Shaqq,Wādī ash Shaqq,wadi aalshaq,وَادِي اَلشَّقّ	28.21694	47.91778	H	WAD	KW		00				0		156	Asia/Kuwait	2020-06-10
+285719	Ash Shiqq	Ash Shiqq	Al-Shaq,Ash Shaqq,Ash Shiqq,Ash Shugg,Ash Shuq,aalshiq,اَلشِّقّ	29.15361	47.48056	L	AREA	KW		00				0		176	Asia/Kuwait	2012-01-18
+285720	Ash Shiqāyā	Ash Shiqaya	Al-Shagayah,Ash Shaqay,Ash Shaqaya,Ash Shaqāyā,Ash Shigaiya,Ash Shigaya,Ash Shiqaya,Ash Shiqāyā,Ash Shuqayyah,aalshiqaya,اَلشِّقَايَا	29.17861	46.68778	L	AREA	KW		00				0		263	Asia/Kuwait	2024-07-13
+285721	Ash Shāmīyah	Ash Shamiyah	Al Shamiya,Ash Shamiyah,Ash Shāmīyah,Shamiya,Shamiyah,Shamiyeh,Shamiyyeh,Shamīyah,aalshaamiat,اَلشَّامِيَّة	29.34722	47.96167	P	PPLX	KW		02				13762		9	Asia/Kuwait	2020-06-10
+285722	Ash Shadādīyah	Ash Shadadiyah	Ash Shadadiyah,Ash Shadādīyah,aalshadadiat,اَلشَّدَادِيَّة	29.26806	47.84556	P	PPLL	KW		00				0		21	Asia/Kuwait	2012-01-18
+285723	Arţāwīyah	Artawiyah	Artawiyah,Artawyeh,Arţāwīyah,aartawiat,أَرْطَاوِيَّة	28.63333	48.13333	H	WLL	KW		00				0		69	Asia/Kuwait	2020-06-10
+285724	Ḩaql ar Ruq‘	Haql ar Ruq`	Haql ar Ruq`,Rugei,حَقْل اَلرُّقْع,Ḩaql ar Ruq‘	29	47.16667	L	OILF	KW		00				0		246	Asia/Kuwait	2020-06-10
+285725	Ar Rumaythīyah	Ar Rumaythiyah	Ar Rumaithiya,Ar Rumaythiyah,Ar Rumaythīyah,Irmathiah,Rnaithiya,Rumaithiyah,Rumaithiyeh,Rumaithiyyeh,aalrumaythiat,اَلرُّمَيْثِيَّة	29.3	48.06667	H	WLL	KW		00				0		13	Asia/Kuwait	2020-06-10
+285726	Ar Rumaythīyah	Ar Rumaythiyah	Ar Rumaythiyah,Ar Rumaythīyah,Rumaithiya,aalrumaythiat,alrmythyt,الرميثية,اَلرُّمَيْثِيَّة	29.31167	48.07417	P	PPLX	KW		08				58135		9	Asia/Kuwait	2020-06-10
+285727	Ar Ruḩayl	Ar Ruhayl	Ar Ruhail,Ar Ruhayl,Ar Ruḩayl,aalruhayl,اَلرُّحَيْل	29.66667	47.03333	T	HLL	KW		00				0		161	Asia/Kuwait	2020-06-10
+285728	Ar Riqqah	Ar Riqqah	Al-Riqqah,Ar Riqqah,Reqqa,aalriqat,alrqt,الرقة,اَلرِّقَّة	29.14583	48.09472	P	PPL	KW		04				52068		45	Asia/Kuwait	2012-01-18
+285729	Riksah	Riksah	Ar Riksah,Riksah,riksat,رِكْسَة	29.49806	47.47306	L	AREA	KW		00				0		144	Asia/Kuwait	2012-01-18
+285730	Ḩaql ar Rawḑatayn	Haql ar Rawdatayn	Al-Rawdatain,Ar Rawdatayn Oil Field,Ar Rawdatayn Oilfield,Ar Rawḑatayn Oil Field,Ar Rawḑatayn Oilfield,Haql ar Rawdatayn,Raudhatain,Raudhatein,Rawdatain,Rawdatayn Oilfields,Rawdhatain,Rawḑatayn Oilfields,Rhawdatain Field,Rodatein Zone,haql aalrawdatayn,حَقْل اَلرَّوْضَتَيْن,Ḩaql ar Rawḑatayn	29.90479	47.72177	L	OILF	KW		00				0		52	Asia/Kuwait	2020-06-10
+285731	Ar Rawḑatayn	Ar Rawdatayn	Al-Raudhatin,Ar Rawdatayn,Ar Rawḑatayn,Raudhatain,Rhawdatain,Rodhatain,Rowdhatein Camp,aalrawdatayn,اَلرَّوْضَتَيْن	29.86667	47.71667	L	LCTY	KW		00				0		41	Asia/Kuwait	2020-06-10
+285732	Ar Rawḑah	Ar Rawdah	Ar Raudha,Ar Rawdah,Ar Rawḑah,aalrawdat,اَلرَّوْضَة	29.91667	47.66667	H	WTRH	KW		00				0		37	Asia/Kuwait	2020-06-10
+285733	Ar Rawḑah	Ar Rawdah	Ar Raudha,Ar Rawdah,Ar Rawḑah,aalrawdat,اَلرَّوْضَة	29.85	47.7	H	WTRH	KW		00				0		39	Asia/Kuwait	2020-06-10
+285734	Ar Rawḑah	Ar Rawdah	Ar Raudha,Ar Rawdah,Ar Rawḑah,Rowda,aalrawdat,اَلرَّوْضَة	29.32472	48.00139	P	PPLX	KW		02				0		28	Asia/Kuwait	2020-06-10
+285735	Ar Rukhām	Ar Rukham	Al-Rakham,Ar Rakham,Ar Rakhām,Ar Rukham,Ar Rukhām,Rakham,Rakkam,aalrukham,اَلرُّخَام	29.65944	47.90417	T	PLN	KW		05				0		71	Asia/Kuwait	2024-07-13
+285736	Ar Rabţah	Ar Rabtah	Ar Rabtah,Ar Rabţah,aalrabtat,اَلرَّبْطَة	28.70833	48.15833	L	AREA	KW		00				0		56	Asia/Kuwait	2012-01-18
+285737	Ar Raḩīyah	Ar Rahiyah	'Arhaiyah,Ar Rahiyah,Ar Rahiyyah,Ar Raḩīyah,Ar Raḩīyyah,Arhaiya,Arhayyah,Arhiyyah,Arḩayyah,Rahaiyah,Ruhaiyah,Ruhayyah,Ruḩayyah,aalrahiat,اَلرَّحِيَّة,’Arhaiyah	29.26389	47.63333	T	HLL	KW		00				0		102	Asia/Kuwait	2020-06-10
+285738	Arḩayyah	Arhayyah	'Arhaiyah,Arhaiya,Arhayyah,Arhiyah,Arhiyyah,Arḩayyah,Arḩīyah,Rahaiyah,Ruhaiyah,Ruhayyah,Ruḩayyah,aarhayat,أَرْحَيَّة,’Arhaiyah	28.53333	47.91667	T	HLL	KW		00				0		157	Asia/Kuwait	2020-06-10
+285739	Arḑ az Zawr	Ard az Zawr	Ard az Zawr,Ardh az Zor,Arḑ az Zawr,aard aalzawr,أَرْض اَلزَّوْر	28.75667	48.26444	L	LCTY	KW		04				0		3	Asia/Kuwait	2020-06-10
+285740	Arḑ al Khawr	Ard al Khawr	Arah al Khor,Ard al Khawr,Arḑ al Khawr,aard aalkhawr,أَرْض اَلْخَوْر	28.64583	48.29556	L	LCTY	KW		04				0		10	Asia/Kuwait	2020-06-10
+285741	Arḑ ad Dasht	Ard ad Dasht	Ard ad Dasht,Arḑ ad Dasht,aard aaldasht,أَرْض اَلدَّشْت	28.85833	48.18333	L	LCTY	KW		00				0		29	Asia/Kuwait	2012-01-18
+285742	Ra’s al Arḑ	Ra's al Ard	Ra's Al-Ardh,Ra's Al-`Ardh,Ra's al Ard,Ra's al `Ardh,Ras Al-Ard,Ras al Ardh,Ra’s Al-Ardh,Ra’s Al-‘Ardh,Ra’s al Arḑ,Rā’s Al-‘Ardh,Rā’s al ‘Ardh,ras aalaard,ras alard,رأس الارض,رَأْس اَلأَرْض	29.35083	48.09778	T	CAPE	KW		00				0		8	Asia/Kuwait	2020-06-10
+285745	An Nuwaynīs	An Nuwaynis	An Nuwaynis,An Nuwaynīs,An Nuwaynīş,aalnuwaynis,alnwynys,النوينيص,اَلنُّوَيْنِيس	29.64611	48.02083	L	AREA	KW		05				0		43	Asia/Kuwait	2012-01-18
+285746	An Nuqayyāt	An Nuqayyat	Al-Nigaiyat,An Niggaiyat,An Nugayyat,An Nugayyāt,An Nuqay`at,An Nuqayyat,An Nuqayyāt,An Nuqay‘āt,aalnuqayaat,اَلنُّقَيَّات	28.94306	48.19861	P	PPL	KW		00				0		7	Asia/Kuwait	2020-06-10
+285747	An Nijfah	An Nijfah	Al Mijifa,Al Nijifa,Al-Najafa,An Nijfah,aalnijfat,اَلنِّجْفَة	29.24639	48.07583	P	PPL	KW		09				0		21	Asia/Kuwait	2017-06-22
+285748	An Naq‘	An Naq`	An Naq`,An Naq‘,اَلنَّقْع	28.63472	48.39278	T	PT	KW		04				0		2	Asia/Kuwait	2012-01-18
+285749	An Nimratayn	An Nimratayn	An Namiratayn,An Nimratayn,aalnimratayn,اَلنِّمْرَتَيْن	29.09472	47.02722	L	AREA	KW		00				0		261	Asia/Kuwait	2012-01-18
+285750	An Nāmī	An Nami	An Nami,An Nāmī,aalnaami,اَلنَّامِي	28.63972	48.36444	P	PPL	KW		00				0		1	Asia/Kuwait	2024-07-13
+285751	An Na‘āyim	An Na`ayim	Al Na'yem,Al Na’yem,Al-Naayem,An Na`ayim,An Na‘āyim,اَلنَّعَايِم	29.28528	47.22917	T	HLLS	KW		00				0		201	Asia/Kuwait	2020-06-10
+285752	Khabrat al ‘Anāq	Khabrat al `Anaq	Khabra al Anaq,Khabra al `Anag,Khabra al ‘Anāg,Khabrat al `Anaq,Khabrat al ‘Anāq,خَبْرَة اَلْعَنَاق	29.45	47.13333	H	WTRH	KW		00				0		195	Asia/Kuwait	2020-06-10
+285753	Aminoil Camp	Aminoil Camp	Aminoil Camp	28.63333	47.93333	S	CMPO	KW		00				0		163	Asia/Kuwait	2012-02-02
+285754	Amgharah	Amgharah	Amgharah,Umgharah,aamgharat,أَمْغَرَة	29.28083	47.76472	L	AREA	KW		00				0		25	Asia/Kuwait	2012-01-18
+285755	‘Amārat ash Shiqq	`Amarat ash Shiqq	`Amarat ash Shiqq,عَمَارَة اَلشِّقّ,‘Amārat ash Shiqq	29.1375	47.36583	L	LCTY	KW		00				0		204	Asia/Kuwait	2012-01-18
+285756	‘Amārat ar Ruq‘ī	`Amarat ar Ruq`i	`Amarat ar Ruq`i,عَمَارَة اَلرُّقْعِي,‘Amārat ar Ruq‘ī	29.10361	46.80333	L	LCTY	KW		00				0		276	Asia/Kuwait	2012-01-18
+285757	‘Amārat ad Darb	`Amarat ad Darb	`Amarat ad Darb,عَمَارَة اَلدَّرْب,‘Amārat ad Darb	29.16833	47.13056	L	AREA	KW		00				0		239	Asia/Kuwait	2012-01-18
+285758	Khawr al A‘má	Khawr al A`ma	Khawr al A`ma,Khawr al A‘má,Khawr al `Ami,Khawr al ‘Amī,Khor Al-Amah,Khor al A`ami,Khor al A`ma,Khor al A‘ma,Khor al A‘āmi,Khor-al-'Ami,Khor-al-’Ami,خَوْر اَلأَعْمَى	28.67028	48.37417	H	INLT	KW		04				0		-2	Asia/Kuwait	2020-06-10
+285759	Al Wafrah	Al Wafrah	Al Wafirah,Al Wafra',Al Wafrah,Al Wafrā’,Al Wāfirah,Wafrah,Watra,aalwafrat,اَلْوَفْرَة	28.55833	48.04333	H	WLL	KW		00				0		109	Asia/Kuwait	2014-11-05
+285760	Al Wafrah	Al Wafrah	Al Wafrah,aalwafrat,اَلْوَفْرَة	28.63917	47.93056	P	PPL	KW		04				10017		164	Asia/Kuwait	2013-05-04
+285761	Ḩaql al Wafrah	Haql al Wafrah	Al Wafrah Oilfield,Haql Naft al Wafrah,Haql al Wafrah,Wafirah,Wafra,Wafrah,Wāfirah,haql aalwafrat,حَقْل اَلْوَفْرَة,Ḩaql Nafţ al Wafrah,Ḩaql al Wafrah	28.70778	47.93472	L	OILF	KW		00				0		121	Asia/Kuwait	2020-06-10
+285762	Al Wafrah	Al Wafrah	Al Wafrah,Wafirah,Wafra,Wafrah,Wāfirah,aalwafrat,اَلْوَفْرَة	28.59472	47.97028	L	LCTY	KW		00				0		139	Asia/Kuwait	2012-01-18
+285764	Al ‘Uqaylah	Al `Uqaylah	Al `Uqaylah,Al `Uqlah,Al ‘Uqaylah,Al ‘Uqlah,Ugla,`Uqaila,`Uqallah,`Uqlah,اَلْعُقَيْلَة,‘Uqaila,‘Uqallah,‘Uqlah	29.17778	48.09472	P	PPLL	KW		00				0		28	Asia/Kuwait	2020-06-10
+285765	Al ‘Uḑaylīyah	Al `Udayliyah	Al Eddailiya,Al `Udayliyah,Al ‘Uḑaylīyah,Al-Adaliyyah,Aladailiya,Udailiyah,`Adailiyah,اَلْعُضَيْلِيَّة,‘Adailiyah	29.2	47.96667	H	WLL	KW		00				0		50	Asia/Kuwait	2020-06-10
+285766	Al ‘Udaylīyah	Al `Udayliyah	Al `Udayliyah,Al ‘Udaylīyah,اَلْعُدَيْلِيَّة	29.3	47.96667	P	PPL	KW		00				0		30	Asia/Kuwait	2012-01-18
+285767	Al Quşūr	Al Qusur	Al Qasur,Al Qusur,Al Quşūr,aalqusur,اَلْقُصُور	28.96667	48.15	L	LCTY	KW		00				0		34	Asia/Kuwait	2024-07-13
+285768	Al Qulay‘ah	Al Qulay`ah	Al Qulay`ah,Al Qulay‘ah,اَلْقُلَيْعَة	28.86583	48.27472	P	PPLL	KW		00				0		4	Asia/Kuwait	2012-01-18
+285769	Al Qash‘ānīyah	Al Qash`aniyah	Al Qash`aniya,Al Qash`aniyah,Al Qash‘aniya,Al Qash‘ānīyah,Al-Khashaniya,Qash`aniyah,Qash‘ānīyah,اَلْقَشْعَانِيَّة	29.98333	47.81667	H	WLL	KW		00				0		14	Asia/Kuwait	2020-06-10
+285770	Al Qash‘ānīyah	Al Qash`aniyah	Al Qash`aniya,Al Qash`aniyah,Al Qash‘aniya,Al Qash‘ānīyah,القشعانية,اَلْقَشْعَانِيَّة	29.98337	47.75866	P	PPLF	KW		05				0		30	Asia/Kuwait	2017-12-07
+285771	Al Qalīb	Al Qalib	Al Jalib,Al Jleeb,Al Qalib,Al Qalīb,aalqalib,اَلْقَلِيب	28.81667	47.81667	T	HLL	KW		00				0		145	Asia/Kuwait	2020-06-10
+285772	Al Musannāt	Al Musannat	Al Musannah,Al Musannat,Al Musannāh,Al Musannāt,Al Mussanat,Musannah Ridge,Musannat,Musannāh Ridge,Musannāt,Mussanat,aalmusanaat,اَلْمُسَنَّات	29.05611	47.28722	T	RDGE	KW		00				0		234	Asia/Kuwait	2020-06-10
+285773	Al Mityāhah	Al Mityahah	Al Mityahah,Al Mityāhah,aalmityahat,اَلْمِتْيَاهَة	29.25	46.98333	L	AREA	KW		00				0		244	Asia/Kuwait	2012-01-18
+285774	Al Mazāri‘	Al Mazari`	Al Mazara,Al Mazari`,Al Mazarie,Al Mazāra,Al Mazāri‘,Mazara',Mazāra’,اَلْمَزَارِع	28.98333	48.01667	H	WLL	KW		00				0		60	Asia/Kuwait	2020-06-10
+285775	Al Muţlā‘	Al Mutla`	Al Matla`,Al Maţlā‘,Al Mutla`,Al Muţlā‘,Mutla',Mutlā’,اَلْمُطْلاَع	29.41444	47.67833	T	HLL	KW		00				0		60	Asia/Kuwait	2024-07-13
+285776	Al Maqwa‘	Al Maqwa`	Al Magwa,Al Maqwa`,Al Maqwa‘,Magwa,Majiwah,Majīwah,Maqwa,Maqwah,اَلْمَقْوَع	29.16667	47.98333	P	PPL	KW		00				0		46	Asia/Kuwait	2020-06-10
+285777	Ḩaql al Maqwa‘	Haql al Maqwa`	Haql al Maqwa`,Magwa,Magwa Field,Maqwa` Oilfields,Maqwa‘ Oilfields,حَقْل اَلْمَقْوَع,Ḩaql al Maqwa‘	29.10694	47.95917	L	OILF	KW		00				0		51	Asia/Kuwait	2020-06-10
+285778	Al Manqaf	Al Manqaf	Al Manjaf,Al Manqaf,Al-Mangaf,Manqaf,aalmanqaf,almnqf,المنقف,اَلْمَنْقَف	29.09611	48.13278	P	PPL	KW		04				39025		14	Asia/Kuwait	2012-01-18
+285779	Ḩaql al Manāqīsh	Haql al Manaqish	Haql al Manaqish,Manageesh Field,Minagish,haql aalmanaqish,حَقْل اَلْمَنَاقِيش,Ḩaql al Manāqīsh	29.03333	47.53333	L	OILF	KW		00				0		181	Asia/Kuwait	2020-06-10
+285780	Al Manāqīsh	Al Manaqish	Al Manaqish,Al Manāqīsh,Al-Manageesh,Manaqish,Manāqīsh,Minagish,Minaqish,Mināqīsh,aalmanaqish,اَلْمَنَاقِيش	28.97944	47.57778	T	HLLS	KW		00				0		169	Asia/Kuwait	2020-06-10
+285781	Al Maḩraqah	Al Mahraqah	Al Mahraga,Al Mahraqah,Al Maḩraqah,Al Muhraqah,Al Muḩraqah,Mahraqah,aalmahraqat,اَلْمَحْرَقَة	29.52861	47.85306	H	WTLD	KW		05				0		4	Asia/Kuwait	2020-06-10
+285782	Al Mahbūlah	Al Mahbulah	Al Mahbulah,Al Mahbūlah,Al-Mahabulah,Al-Mahabūlah,Mahboola,aalmahbulat,almhbwlt,المهبولة,اَلْمَهْبُولَة	29.145	48.13028	P	PPL	KW		04				18178		7	Asia/Kuwait	2020-06-10
+285783	Al Maghāsil	Al Maghasil	Al Maghasil,Al Maghāsil,aalmaghasil,almghasl,المغاسل,اَلْمَغَاسِل	29.74194	48.09444	P	PPL	KW		00				0		3	Asia/Kuwait	2012-01-18
+285784	Al Ma‘ādinīyāt	Al Ma`adiniyat	Al Ma`adiniyat,Al Ma‘ādinīyāt,Al Mu`aidniyat,Al Mu`aydiniyat,Al Mu‘aidniyat,Al Mu‘aydinīyāt,Ma'adaniyat,Ma’adaniyat,Mi'aidniyat,Mi’aidniyāt,Mu'aidiniyat,Mu’aidiniyat,اَلْمَعَادِنِيَّات	29.14611	47.9025	T	HLLS	KW		00				0		57	Asia/Kuwait	2012-01-18
+285785	Al Liyāḩ	Al Liyah	Al Liyah,Al Liyāḩ,Liyah,Yah,aalliyah,اَللِّيَاح	29.58333	47.66667	L	LCTY	KW		00				0		84	Asia/Kuwait	2024-07-13
+285786	Al Laqīţ	Al Laqit	Al Lakeet,Al Laqit,Al Laqīţ,Al Lugit,Al Luqait,Al Luqayt,Al Luqayţ,Laqait,Laqit,Laqīt,aallaqit,اَللَّقِيط	28.90667	48.05222	H	WLL	KW		00				0		67	Asia/Kuwait	2020-06-10
+285787	Kuwait City	Kuwait City	Al Kuwait,Al Kuwayt,Al-Kuwait,Ciudad de Kuwait,Ehl'-Kuvejt,KWI,Koeweit,Kota Kuwait,Koveyit,Koweit,Koweït,Kuvaeyt,Kuvajt,Kuvajto,Kuvajturbo,Kuveitas,Kuväyt,Kuwait,Kuwait City,Kuwait Stad,Kuwait by,Kuwait-Stadt,Kuwait-Urbo,Kuwayt,Kuweit,Kuwejt,Madinat al Kuwayt,Madinat al-Kuwait,Madīnat al Kuwayt,Pole tou Koubeit,aalkuayt,ke wei te shi,khuwet si ti,kuueto shi,kuweiteu,kuweiteusiti,kwwyt syty,mdyntalkwyt,Πόλη του Κουβέιτ,Эль-Кувейт,כווית סיטי,اَلْكُوَيْت,مدينة الكويت,คูเวตซิตี,クウェート市,科威特市,쿠웨이트,쿠웨이트시티	29.367	47.97429	P	PPLC	KW		02				60064		11	Asia/Kuwait	2025-06-12
+285788	Al Asimah Governorate	Al Asimah Governorate	Al 'Asimah  Governorate,Al Asimah,Al `Asimah,Al ‘Āşimah,Al ‘Āşimah  Governorate,Capital Governorate,Governorate of Metropolis,Muhafazat al Kuwayt,Muhafazat al `Asimah,Muḩāfaz̧at al Kuwayt,Muḩāfaz̧at al ‘Āşimah,ala asima,alʿasmt,aru・asuima,Əl-Asima,Əl-Əsimə,ʿeል ʿesiima,Әл-Асима,العاصمة,مُحَافَظَة اَلْعَاصِمَة,আল আসিমা,ਅਲ ਆਸਿਮਾ,አል አስiማ,アル・アースィマ	29.33333	47.91667	A	ADM1	KW		02				511001		7	Asia/Kuwait	2026-04-16
+285789	Al Khīrān	Al Khiran	Al Khiran,Al Khīrān,aalkhiran,اَلْخِيرَان	28.64472	48.34194	H	SHOL	KW		04				0		2	Asia/Kuwait	2024-07-13
+285790	Al Khīrān	Al Khiran	Al Khiran,Al Khīrān,aalkhiran,اَلْخِيرَان	28.663	48.379	P	PPL	KW		04				0		12	Asia/Kuwait	2024-07-13
+285791	Al Kabd	Al Kabd	Al Kabd,aalkabd,اَلْكَبْد	29.16667	47.6	L	AREA	KW		00				0		149	Asia/Kuwait	2012-01-18
+285792	Al Juwayhilīyah	Al Juwayhiliyah	Al Juwayhiliyah,Al Juwayhilīyah,Al-Juwaihilyah,Juwaihiliya,aaljuayhiliat,اَلْجُوَيْهِلِيَّة	29.11667	47.66667	H	WLL	KW		00				0		123	Asia/Kuwait	2020-06-10
+285793	Al Julaydah	Al Julaydah	Al Julaydah,aaljulaydat,اَلْجُلَيْدَة	28.575	48.175	T	SAND	KW		00				0		71	Asia/Kuwait	2012-01-18
+285794	Al Judaylīyāt	Al Judayliyat	Al Judayliyat,Al Judaylīyāt,aaljudayliaat,اَلْجُدَيْلِيَّات	29.365	47.77083	L	AREA	KW		00				0		0	Asia/Kuwait	2012-01-18
+285795	Al Jathāthīl	Al Jathathil	Al Jathathil,Al Jathāthīl,aaljathathil,اَلْجَثَاثِيل	28.9775	47.51944	T	HLL	KW		00				0		179	Asia/Kuwait	2012-01-18
+285796	Al Jathāthīl	Al Jathathil	Al Jathathil,Al Jathāthīl,Jathathi,Jathāthī,aaljathathil,اَلْجَثَاثِيل	29.06444	47.47389	L	AREA	KW		00				0		186	Asia/Kuwait	2012-01-18
+285797	Al Jahannamīyah	Al Jahannamiyah	Al Jahannamiyah,Al Jahannamīyah,Al Janhannamiyah,Al Janhannamīyah,aaljahanamiat,اَلْجَهَنَّمِيَّة	28.67083	48.29111	T	SAND	KW		04				0		10	Asia/Kuwait	2012-01-18
+285798	Muḩāfaz̧at al Jahrā’	Muhafazat al Jahra'	Al Dzahros muchafaza,Al Džahros muchafaza,Al Jahra,Al Jahra Governorate,Al Jahra Govrenorate,Al Jahra',Al Jahrāʼ,Al Jahrā’,Al-Dzahra,Al-Dżahra,Al-Jahra,Dzhakhra,Dzsahra kormanyzosag,Dzsahrá kormányzóság,El Cehra,El Cehrâ,El Jahra,Gouvernement al-Dschahra,Governacio d'Al Jahra,Governació d'Al Jahra,Jahra,Jahra guvernement,Kegubernuran Al-Jahra,Muhafazat al Jahra',Muhafazat al Jahrah,Muḩāfaz̧at al Jahrah,Muḩāfaz̧at al Jahrā',Muḩāfaz̧at al Jahrā’,Yahra,al jahra alunarakam,ala jahara Governorate,aljalaju,aljhraʾ,astan jhra,jahara gabharnareta,jahara xian,jhra awstany,jie he la sheng,Əl-Cahara Governorate,Əl-Dzhakhra Governorate,ʿeል jahira Governorate,Джахра,Әл-Джахра Governorate,Էլ Ջահրա,استان جهرا,الجهراء,جهرا اوستانی,محافظه الجهراء,محافظہ جہراء,مُحَافَظَة الجَهْرَاء,پارێزگای جەھرا,জাহরা গভর্নরেট,ਅਲ ਜਾਹਰਾ Governorate,அல் ஜஹ்ரா ஆளுநரகம்,አል ጃህራ Governorate,ジャハラー県,傑赫拉省,杰赫拉省,알자라주	29.5	47.5	A	ADM1	KW		05				307316		139	Asia/Kuwait	2026-04-16
+285799	Al Jahrā’	Al Jahra'	Al Jahara,Al Jahra,Al Jahra',Al Jahrah,Al Jahrā’,Al-Jaharah,Ehl'-Dzhakhra,El Chra,Iahara,Jahra Village,Jahrah,ala jahara,aljhraʾ,aljہra,arujafura,jhra,Əl-Cahra,Əl-Dzhakhra,Əl-Jakhra,ʿeል jahira,Эль-Джахра,Әл-Јахра,Әл-Джахра,الجهراء,الجہرا,اَلْجَهْرَاء,جهرا,अल जहरा,আল জাহরা,ਅਲ ਜਾਹਰਾ,አል ጃህራ,アルジャフラ	29.3375	47.65806	P	PPLA	KW		05				24281		40	Asia/Kuwait	2026-04-14
+285800	Al ‘Afrī	Al `Afri	Al `Afri,Al `Ifri,Al ‘Afri,Al ‘Afrī,Al ‘Ifrī,Al-Afrie,اَلْعَفْرِي	29.38639	47.43194	T	PROM	KW		00				0		181	Asia/Kuwait	2024-07-13
+285801	Qalīb ‘Alī	Qalib `Ali	Jalib Ali,Jalihah,Qalib `Ali,Qalīb ‘Alī,قَلِيب عَلِي	29.15	47.45	H	WLL	KW		00				0		177	Asia/Kuwait	2020-06-10
+285802	Al Ḩurayjah	Al Hurayjah	Al Hurayjah,Al Ḩurayjah,aalhurayjat,اَلْحُرَيْجَة	29.95806	47.38556	L	AREA	KW		00				0		91	Asia/Kuwait	2012-01-18
+285803	Al Ḩujayjah	Al Hujayjah	Al Hujayjah,Al Ḩujayjah,Al-Hijajah,Hagaija,Haqaija,Haqaijah,Hugaija,aalhujayjat,alhjyjt,الحجيجة,اَلْحُجَيْجَة	29.65472	48.13111	P	PPL	KW		05				0		3	Asia/Kuwait	2020-06-10
+285804	Al Ḩimār	Al Himar	Al Hamar,Al Hammar,Al Himar,Al Ḩammār,Al Ḩamār,Al Ḩimār,Al-Hammar,alhmar,الحمار	30.05357	47.50056	T	SAND	KW		05				0		74	Asia/Kuwait	2020-06-10
+285805	Al Ḩarīqah	Al Hariqah	Al Harija,Al Hariqah,Al Ḩarīqah,aalhariqat,اَلْحَرِيقَة	29.96667	47.36667	L	AREA	KW		00				0		92	Asia/Kuwait	2020-06-10
+285806	Al Ḩanabīyah	Al Hanabiyah	Al Hanabiya,Al Hanabiyah,Al Hannabiyah,Al Ḩanabīyah,Al Ḩannābīyah,Hannabiya,aalhanabiat,اَلْحَنَبِيَّة	30.025	47.775	L	LCTY	KW		00				0		15	Asia/Kuwait	2020-06-10
+285807	Al Ḩamār	Al Hamar	Al Hamar,Al Ḩamār,Al-Hammar,aalhamar,اَلْحَمَار	29.98333	47.6	T	SAND	KW		00				0		49	Asia/Kuwait	2012-01-18
+285808	Al Ḩafīrah	Al Hafirah	Al Hafira,Al Hafirah,Al Ḩafīrah,aalhafirat,اَلْحَفِيرَة	28.60639	48.30556	H	WLL	KW		04				0		16	Asia/Kuwait	2020-06-10
+285809	Al Ḩadīqah	Al Hadiqah	Al Hadeeqa,Al Hadiqah,Al Ḩadīqah,aalhadiqat,اَلْحَدِيقَة	29.33333	47.98333	P	PPLX	KW		00				0		22	Asia/Kuwait	2020-06-10
+285810	Al Funayţīs	Al Funaytis	Al Fanaitis,Al Funaitis,Al Funaytis,Al Funayţīs,Al-Finaitees,Fanaitis,Fneitees,Fraitsass,Funaitis,Funaitís,Funaytis,Funayţīs,aalfunaytis,alfnytys,الفنيطيس,اَلْفُنَيْطِيس	29.22528	48.10167	P	PPL	KW		09				1878		4	Asia/Kuwait	2017-06-22
+285811	Al Faḩāḩīl	Al Fahahil	Al Fahahil,Al Faḩāḩīl,Al Fuhaihil,Al Fuhayhil,Al Fuħaiħil,Al Fuḩayḩīl,Al Ifhaihil,Al-Fahaheel,Al-Fahahhel,Al-Fahahil,Fahaheel,Fahahil,Fahaihil,Fahaihīl,Fahayhil,Fahāhīl,Faḩayḩīl,Fuhayhil,Fuḩayḩīl,aalfuhayhil,alfhahyl,الفحاحيل,اَلْفُحَيْحِيل	29.0825	48.13028	P	PPL	KW		04				68290		18	Asia/Kuwait	2023-12-11
+285812	Al Finţās	Al Fintas	Al Fantas,Al Fintas,Al Fintass,Al Fintās,Al Finţās,Fantas,Fantass,Fanţās,Finatus,Fintas,Fintass,Finţās,Funtas,Funtás,aalfintas,alfntas,الفنطاس,اَلْفِنْطَاس	29.17389	48.12111	P	PPL	KW		04				23071		8	Asia/Kuwait	2024-07-13
+285813	Al Fayḩā’	Al Fayha'	Al Fayha',Al Fayḩā’,Fayha,اَلْفَيْحَاء	29.33639	47.97583	P	PPLX	KW		00				0		19	Asia/Kuwait	2020-06-10
+285814	Al Fawāris	Al Fawaris	Al Fawares,Al Fawaris,Al Fawāris,aalfawaris,اَلْفَوَارِس	28.63333	47.7	T	HLLS	KW		00				0		202	Asia/Kuwait	2020-06-10
+285815	Al Farwānīyah	Al Farwaniyah	Al Farvaniya,Al Farwania,Al Farwaniyah,Al Farwānīyah,Al-Farawaniyah,Al-Farwaniyyah,Ehl'-Farvanija,El Farvaniye,Farwaniah,Farwaniyyeh,aalfarwaniat,ala phara'oyaniyaha,ala pharavani'a,ala pharavaniya,alfrwanyt,alfrwanyہ,arufaruwaniya,frwanyh,Əl-Farvaniya,Əl-Farvaniə,ʿeል ፋriwaniya,Эль-Фарвания,Әл-Фарваниә,الفروانية,الفروانیہ,اَلْفَرْوَانِيَّة,فروانیه,अल फरवानिया,আল ফারওয়ানিয়াহ,ਅਲ ਫਰਵਾਨੀਆ,አል ፋርዋኒያ,アルファルワニーヤ	29.2775	47.95861	P	PPLA	KW		07				86525		44	Asia/Kuwait	2026-04-14
+285816	Muḩāfaz̧at al Farwānīyah	Muhafazat al Farwaniyah	Al Farvanigia Nkovernorate,Al Farvanijos muchafaza,Al Farwaniyah,Al Farwaniyah Governorate,Al Farwaniyah Govrenorate,Al Farwaniyahn kuvernoraatti,Al Farwānīyah,Al-Farwanijja,Al-Farwaniyah,El Farvaniyah,El Fervaniye Valiligi,El Fervaniye Valiliği,Faruanija,Farvanija,Farvanijas muhafaza,Farvanijja kormanyzosag,Farvánijja kormányzóság,Farvānijas muhāfaza,Farwaniya,Farwaniya guvernement,Gouvernement Al Farwaniya,Kegubernuran Al-Farwaniyah,Menicipalitet El'-Farvanija,Muhafazat al Farwaniyah,Muḩāfaz̧at al Farwānīyah,Tinh Al Farwaniyah,Tỉnh Al Farwaniyah,al pharvaniya gavarnaret,al pharvaniya gavarnet,ala pharabaniyaha gabharnoreta,ala pharavani'a,ala pharavaniya gavarnareta,ala pharavaniyaha gavarnoreta,ala pharaviniya gavharnoreta,alfrwanyt,alpaleuwaniyaju,astan frwanyh,faruwaniya xian,fei er wa ni ye sheng,frwanyh awstany,khe txalfar wa ni yah,muhafazat aalfarwaniat,parvaniya kavarnaret,Əl-Farvanija,Əl-Farvaniya,ʿeል ፋriwaniya,Αλ Φαρβανιγιά Γκοβερνοράτε,Меніципалітет Ель-Фарванія,Фарвания,Фаруания,Әл-Фарванийа,Էլ Ֆարվանիյահ,استان فروانیه,الفروانية,فروانیه اوستانی,محافظہ فروانیہ,مُحَافَظَة اَلْفَرْوَانِيَّة,پارێزگای فەروانیە,अल फरवानिया गवर्नरेट,अल फरविनिया गव्हर्नोरेट,আল ফারবানিয়াহ গভর্নোরেট,ਅਲ ਫਰਵਾਨੀਆ,અલ ફરવાનિયાહ ગવર્નોરેટ,பர்வானியா கவர்னரேட்,అల్ ఫర్వానియా గవర్నరేట్,ಅಲ್ ಫರ್ವಾನಿಯಾ ಗವರ್ನೇಟ್,අල් ෆවානියා පළාත,เขตอัลฟาร์วะนียะห์,አል ፋርዋኒያ,ファルワーニーヤ県,費爾瓦尼耶省,费尔瓦尼耶省,알파르와니야주	29.25	47.91667	A	ADM1	KW		07				1245502		41	Asia/Kuwait	2026-04-16
+285817	Al Farrīdah	Al Farridah	Al Faridah,Al Farridah,Al Farrīdah,Al Farīdah,Farida,Faridah,Farīdah,aalfariydat,اَلْفَرِّيدَة	29.3	47.53333	T	HLL	KW		00				0		165	Asia/Kuwait	2020-06-10
+285818	Ḩaql al Burqān	Haql al Burqan	Al Burqan Oilfield,Al Burqān Oilfield,Bargon,Burgan,Burghan,Burqan oilfield,Burqān oilfield,Haql al Burqan,haql aalburqan,حَقْل اَلْبُرْقَان,Ḩaql al Burqān	28.925	47.91306	L	OILF	KW		00				0		86	Asia/Kuwait	2020-06-10
+285819	Al Buqay‘	Al Buqay`	Al Buqay`,Al Buqay‘,Al-Bogua,اَلْبُقَيْع	28.68333	48.16667	H	WLL	KW		00				0		47	Asia/Kuwait	2020-06-10
+285820	Al Buḩayth	Al Buhayth	Al Buhaith,Al Buhayth,Al Buḩayth,Bahaith,Buhayth,Buḩayth,aalbuhayth,اَلْبُحَيْث	29.95	47.96667	H	WLL	KW		00				0		5	Asia/Kuwait	2020-06-10
+285821	Al Biţānah	Al Bitanah	Al Bitanah,Al Biţānah,aalbitanat,اَلْبِطَانَة	29.47639	47.79528	L	AREA	KW		00				0		4	Asia/Kuwait	2012-01-18
+285822	Al Bida‘	Al Bida`	Al Bid`,Al Bida`,Al Bida‘,Al Biddah,Al Bid‘,Al-Bidde,Bad'ah,Bad’ah,اَلْبِدَع	29.3025	48.08694	P	PPL	KW		00				0		6	Asia/Kuwait	2024-07-13
+285823	Al Bhar	Al Bhar	Al Bhar,aalbhar,اَلْبْهَر	29.38333	47.83333	P	PPL	KW		00				0		3	Asia/Kuwait	2012-01-18
+285824	Al Banāyā	Al Banaya	Al Banaya,Al Banāyā,aalbanaya,اَلْبَنَايَا	28.6	48.15	L	LCTY	KW		00				0		69	Asia/Kuwait	2012-01-18
+285825	Al Baḩrah 1	Al Bahrah 1	Al Bahrah 1,Al Baḩrah 1,Bahrah-1,aalbahrat 1,اَلْبَحْرَة 1	29.61667	47.95	S	OILW	KW		00				0		4	Asia/Kuwait	2020-06-10
+285826	Al Baḩrah	Al Bahrah	Al Bahrah,Al Baḩrah,Bahara,Bahra,Bahrah,Baḩrah,aalbahrat,اَلْبَحْرَة	29.91667	47.96667	H	WLL	KW		00				0		11	Asia/Kuwait	2020-06-10
+285827	Al Baḩrah	Al Bahrah	Al Bahara,Al Bahrah,Al Baḩrah,Bahra,Bahrah,aalbahrat,اَلْبَحْرَة	29.6375	47.98472	S	PP	KW		00				0		14	Asia/Kuwait	2020-06-10
+285828	Bahra	Bahra	Al Bahrah,Al Baḩrah,Al-Bahra,Bahra,Bahrah,Baḩrah,aalbahrat,اَلْبَحْرَة	29.66667	47.86667	P	PPL	KW		00				0		54	Asia/Kuwait	2012-01-18
+285829	Al Baḩrah	Al Bahrah	Al Bahrah,Al Baḩrah,Bahrah,aalbahrat,اَلْبَحْرَة	29.65	47.9	L	OILF	KW		00				0		74	Asia/Kuwait	2020-06-10
+285830	Al Baḩrah	Al Bahrah	Al Bahrah,Al Baḩrah,aalbahrat,اَلْبَحْرَة	29.92306	47.95778	L	AREA	KW		00				0		12	Asia/Kuwait	2012-01-18
+285831	Al Baḩrah	Al Bahrah	Al Bahrah,Al Baḩrah,aalbahrat,اَلْبَحْرَة	29.61861	47.95111	H	WTLD	KW		05				0		9	Asia/Kuwait	2012-01-18
+285832	Al ‘Awjā’	Al `Awja'	Al Auja,Al `Awja',Al `Awjah,Al ‘Awjah,Al ‘Awjā’,Khawr al `Awjat,Khawr al ‘Awjat,اَلْعَوْجَاء	29.59333	47.83583	H	WLL	KW		00				0		56	Asia/Kuwait	2024-07-13
+285833	Al ‘Awjā’	Al `Awja'	Al `Awja',Al `Awjah,Al ‘Awjah,Al ‘Awjā’,اَلْعَوْجَاء	29.53333	47.75	T	DPR	KW		00				0		53	Asia/Kuwait	2024-07-13
+285834	Al Aţrāf	Al Atraf	Al Atraf,Al Aţrāf,Atraf,Atrāf,aalaatraf,اَلأَطْرَاف	29.31667	47.55	T	HLLS	KW		00				0		128	Asia/Kuwait	2024-07-13
+285835	Al ‘Arfajīyah	Al `Arfajiyah	Al Arfajiya,Al `Arfajiyah,Al ‘Arfajīyah,Arafajiya,`Arfajiyah,العرفجية,اَلْعَرْفَجِيَّة,‘Arfajīyah	29.72139	48.03444	L	LCTY	KW		05				0		18	Asia/Kuwait	2020-06-10
+285836	Al ‘Aqrabīyāt	Al `Aqrabiyat	'Aqrabi,Agrabiyat,Al Akrabiya,Al `Aqrabiyah,Al `Aqrabiyat,Al ‘Aqrabīyah,Al ‘Aqrabīyāt,Al-Akrabiyyat,اَلْعَقْرَبِيَّات,’Aqrabi	28.6	48.35	H	WLL	KW		00				0		7	Asia/Kuwait	2020-06-10
+285837	Al ‘Anāq	Al `Anaq	Al `Anag,Al `Anaq,Al ‘Anāg,Al ‘Anāq,اَلْعَنَاق	29.42194	47.04889	T	RDGE	KW		00				0		218	Asia/Kuwait	2024-07-13
+285838	Al ‘Akāz	Al `Akaz	Al `Akar,Al `Akaz,Al `Akraz,Al ‘Akraz,Al ‘Akār,Al ‘Akāz,Al-Akkaz,`Akaz,اَلْعَكَاز,‘Akāz	29.36778	47.91	H	RF	KW		02				0		-9999	Asia/Kuwait	2024-07-13
+285839	Al Aḩmadī	Al Ahmadi	Ahmad,Ahmadi,Ahmedi,Al Ahmadi,Al Aħmadi,Al Aḩmadī,Ehl'-Akhmadi,El Ahmedi,aalaahmadi,ahmdy,ala ahamadi,alahmdy,aruahamadi,Əl-Ahmadi,Əl-Akhmadi,ʿeል ʿehimadi,Эль-Ахмади,Әл-Ахмади,احمدی,الأحمدي,الاحمدي,الاحمدی,اَلأَحْمَدِي,अल अहमदी,আল আহমাদি,ਅਲ ਅਹਮਦੀ,አል አህማዲ,アルアハマディ	29.07694	48.08389	P	PPLA	KW		04				637411		70	Asia/Kuwait	2026-04-14
+285840	Ḩaql al Aḩmad	Haql al Ahmad	Ahmadi,Ahmadi Field,Haql al Ahmad,Haql al Ahmadi,haql aalaahmad,حَقْل اَلأَحْمَد,Ḩaql al Aḩmad,Ḩaql al Aḩmadī	29.13333	48.03333	L	OILF	KW		00				0		84	Asia/Kuwait	2020-06-10
+285841	Muḩāfaz̧at al Aḩmadī	Muhafazat al Ahmadi	Ahmadi,Ahmadi guvernement,Ahmadi kormanyzosag,Ahmadi kormányzóság,Ahmadí,Ahmedi,Ahmedi muhafaza,Ahmedi muhāfaza,Akhmadi,Al Achmadzio muchafaza,Al Achmadžio muchafaza,Al Achmanti Nkovernorate,Al Ahmadi,Al Ahmadi Governorate,Al Ahmadi Govrenorate,Al Ahmadin kuvernoraatti,Al Aḩmadī,Al-Ahmad,Al-Ahmadi,Ehl'-Akhmadi,El Ahmadi,El Ahmedi Valiligi,El Ahmedî Valiliği,Gouvernement Ahmadi,Governacio d'Ahmadi,Governació d'Ahmadí,Kegubernuran Al-Ahmadi,Muhafazat al Ahmadi,Municipalitet El'-Akhmadi,Muḩāfaz̧at al Aḩmadi,Muḩāfaz̧at al Aḩmadī,Province of Ahmadi,Tinh Al Ahmadi,Tỉnh Al Ahmadi,ahamadi prasasanika ancala,ahamadi xian,ahmdy awstany,ai ha mai di sheng,al ahmadi gavarnaret,al ahmadi gavarnet,al ahmati kavarnaret,al-amadiju,ala ahamadi,ala ahamadi gavarnareta,ala ahamadi gavarnoreta,ala ahamadi gavharnoreta,alahmdy,astan ahmdy,muhafazat aalaahmadi,xal xah ma di,Əl-Ahmadi,Əl-Akhmadi,ʿeል ʿehimadi,Αλ Αχμάντι Γκοβερνοράτε,Ахмади,Муніципалітет Ель-Ахмаді,Эль-Ахмади,Әл-Ахмади,Էլ Ահմադի,אל-אחמדי,احمدی اوستانی,استان احمدی,الأحمدي,محافظہ احمدی,مُحَافَظَة اَلأَحْمَدِي,پارێزگای ئەحمەدی,अल अहमदी गवर्नरेट,अल अहमदी गव्हर्नोरेट,আহমাদি প্রশাসনিক অঞ্চল,ਅਲ ਅਹਮਦੀ,અલ અહમદી ગવર્નોરેટ,அல் அஹ்மதி கவர்னரேட்,అల్ అహ్మది గవర్నరేట్,ಅಲ್ ಅಹ್ಮದಿ ಗವರ್ನೇಟ್,අල් අහමදි පළාත,อัลอาห์มาดี,አል አህማዲ,アハマディ県,艾哈迈迪省,알아마디주	28.91667	48	A	ADM1	KW		04				430923		76	Asia/Kuwait	2026-04-16
+285842	Al Afwāh	Al Afwah	Al Afwah,Al Afwāh,Al Aiwah,aalaafwah,اَلأَفْوَاه	29.89583	47.31806	L	LCTY	KW		00				0		104	Asia/Kuwait	2024-07-13
+285843	Al ‘Afajīyah	Al `Afajiyah	Al `Afajiyah,Al `Arfajiyah,Al ‘Afajīyah,Al ‘Arfajīyah,اَلْعَفَجِيَّة	29.76556	47.94611	L	AREA	KW		00				0		43	Asia/Kuwait	2012-01-18
+285844	Al ‘Adān	Al `Adan	'Adan,Al `Adan,Al ‘Adān,Kabd Adan,اَلْعَدَان,’Adān	28.91667	48	L	AREA	KW		00				0		76	Asia/Kuwait	2024-07-13
+285845	Al Ad‘amī	Al Ad`ami	Al Ad`ami,Al Ad‘amī,اَلأَدْعَمِي	28.81667	48.26667	P	PPL	KW		00				0		1	Asia/Kuwait	2012-01-18
+285846	Al ‘Adāl	Al `Adal	Al `Adal,Al ‘Adāl,اَلْعَدَال	29	48.11667	L	AREA	KW		00				0		57	Asia/Kuwait	2024-07-13
+285847	Al Abraq	Al Abraq	Al Abraq,Al Abraq Army Barracks,aalaabraq,اَلأَبْرَق	29.37	46.955	S	BRKS	KW		00				0		232	Asia/Kuwait	2012-01-18
+285848	Al ‘Abdalīyah	Al `Abdaliyah	Al `Abdaliyah,Al ‘Abdalīyah,اَلْعَبْدَلِيَّة	29.0425	47.70611	P	PPL	KW		00				0		116	Asia/Kuwait	2012-01-18
+285849	Al Abāţiḩ	Al Abatih	Al Abata,Al Abatah,Al Abatih,Al Abāţiḩ,Al `Abtah,Al ‘Abţah,Al-Abateh,aalaabatih,اَلأَبَاطِح	29.88361	47.53278	L	AREA	KW		00				0		80	Asia/Kuwait	2024-07-13
+285850	Ra’s ‘Ajūzah	Ra's `Ajuzah	Ra's `Ajuzah,Ras Ajousah,Ras Azuzah,Ras Azūzah,Ras `Ajuza,Ra’s ‘Ajūzah,Rās ‘Ajūza,رَأْس عَجُوزَة	29.39167	48.00444	T	PT	KW		02				0		1	Asia/Kuwait	2020-06-10
+285851	Khabrat al Afrāq	Khabrat al Afraq	Al Khabrat Afraq,Al Khabrat Afrāq,Khabra al Afrag,Khabrah Faraq,Khabrah Farāq,Khabrat al Afraq,Khabrat al Afrāq,Khibret Al-Afraq,khabrat aalaafraq,خَبْرَة اَلأَفْرَاق	29.2	47.41667	H	WTRH	KW		00				0		176	Asia/Kuwait	2020-06-10
+285852	Ad Dibdibah	Ad Dibdibah	Ad Dibdibah,Al-Dibdibah,Al-Dibdibba,Dibdibah,aaldibdibat,اَلدِّبْدِبَة	29.2075	47.1475	L	AREA	KW		00				0		234	Asia/Kuwait	2012-01-18
+285853	Aḑ Ḑibā‘īyah	Ad Diba`iyah	Ad Diba`iyah,Al Adhaba-iyah,Al-Dhubaiyah,Aḑ Ḑibā‘īyah,Dhuba`iyah,Dhuba‘iyah,Dubayeiha,اَلضِّبَاعِيَّة	28.93333	48.16667	P	PPL	KW		00				0		20	Asia/Kuwait	2020-07-09
+285854	Aḑ Ḑibā‘īyah	Ad Diba`iyah	Ad Diba`iyah,Adh Dhaba`iya,Adh Dhaba‘iya,Adhba`iyah,Adhba‘iyah,Al Adhaba`iyah,Al Adhaba‘iyah,Al-Dba'iyyah,Al-Dba’iyyah,Al-Dhubaiyah,Aḑ Ḑibā‘īyah,اَلضِّبَاعِيَّة	28.91667	48.21667	H	BGHT	KW		00				0		-9999	Asia/Kuwait	2020-07-09
+285855	Ad Dawḩah	Ad Dawhah	Ad Dawhah,Ad Dawḩah,Al Doha,Dauha,Doha,aaldawhat,اَلدَّوْحَة	29.36778	47.81	P	PPL	KW		00				0		5	Asia/Kuwait	2020-06-10
+285856	Ad Dasmah	Ad Dasmah	Ad Dasma',Ad Dasmah,Ad Dasmā’,Dasma,Dasmah,aaldasmat,اَلدَّسْمَة	29.365	48.00139	P	PPL	KW		02				17585		9	Asia/Kuwait	2015-01-04
+285857	Ad Da‘īyah	Ad Da`iyah	Ad Da`iyah,Ad Da‘īyah,Al Diya,Al Edeiya,اَلدَّعِيَّة	29.33333	47.98333	P	PPLX	KW		00				0		22	Asia/Kuwait	2020-06-10
+285858	Jabal al Ad‘amī	Jabal al Ad`ami	Jabal al Ad`ami,Jabal al Ad‘amī,جَبَل اَلأَدْعَمِي	28.84167	48.24583	T	HLL	KW		00				0		6	Asia/Kuwait	2012-01-18
+285859	Qiţ‘at Abū Ţalḩah	Qit`at Abu Talhah	Kutat Abu Taleh,Qit`at Abu Talhah,Qit`at Abu Talih,Qit‘at Abu Talih,Qiţ‘at Abū Ţalḩah,Qiţ‘at Abū Ţāliḩ,قِطْعَة أَبُو طَلْحَة	29.39806	47.80861	H	RF	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285860	Dawḩat Abū Ţalḩah	Dawhat Abu Talhah	Dawhat Abu Tala,Dawhat Abu Talhah,Dawhat Abu Talih,Dawḩat Abū Ţalḩah,Dawḩat Abū Ţāliḩ,Dohat Abu Tala,dawhat aabu talhat,دَوْحَة أَبُو طَلْحَة	29.36333	47.83306	H	BAY	KW		00				0		-9999	Asia/Kuwait	2020-06-10
+285861	Abū Sidrah	Abu Sidrah	Abu Sadrah,Abu Sidrah,Abū Sadrah,Abū Sidrah,Mishash Abu Sidra,Mishāsh Abu Sidra,Mushash Abu Sidrah,Mushāsh Abū Sidrah,aabu sidrat,أَبُو سِدْرَة	29.01667	48.01667	H	WLL	KW		00				0		60	Asia/Kuwait	2012-01-18
+285862	Sha‘īb Abū ash Shaḩam	Sha`ib Abu ash Shaham	Sha`ib Abu Shahm,Sha`ib Abu ash Shaham,Shaib Abu-Shaham,Sha‘īb Abū Shaḩm,Sha‘īb Abū ash Shaḩam,شَعِيب أَبُو شَحْم	29.91667	47.66667	H	WAD	KW		00				0		37	Asia/Kuwait	2020-06-10
+285863	Abū Khurjayn	Abu Khurjayn	Abu Khurjayn,Abū Khurjayn,aabu khurjayn,أَبُو خُرْجَيْن	28.71667	48.1	L	AREA	KW		00				0		71	Asia/Kuwait	2012-01-18
+285864	Abū Ḩulayfah	Abu Hulayfah	Abi Huleifa,Abu Halaifa,Abu Halaifah,Abu Halifah,Abu Hulaifa,Abu Hulaifah,Abu Hulayfah,Abu Ḩulaifah,Abu-Hleifa,Abū Ḩulayfah,Halaifa,aabu hulayfat,abw hlyft,أَبُو حُلَيْفَة,ابو حليفة	29.13222	48.12611	P	PPL	KW		04				0		9	Asia/Kuwait	2020-06-10
+285865	Sha‘īb Abū al Jirfān	Sha`ib Abu al Jirfan	Bil Jirfan,Bil Jirfān,Sha`ib Abu Jirfan,Sha`ib Abu al Jirfan,Shaib Abu Jarfan,Sha‘īb Abū Jirfān,Sha‘īb Abū al Jirfān,شَعِيب أَبُو اَلْجِرْفَان	30.03333	47.7	H	WAD	KW		00				0		31	Asia/Kuwait	2020-06-10
+285866	Abraq Khayţān	Abraq Khaytan	Abrag Khitan,Abrag Khīţān,Abrak Khetan,Abraq Haytan,Abraq Khaitan,Abraq Khaytan,Abraq Khayţān,Abraq Khetan,Abraq Khitan,Abraq Khīţān,Khaitan,Khitan,Koetan,aabraq khaytan,أَبْرَق خَيْطَان	29.2925	47.96889	P	PPL	KW		07				0		37	Asia/Kuwait	2020-06-10
+285867	Khabrat al Abraq	Khabrat al Abraq	Khabra Abrag,Khabra Abraq,Khabrat Abraq,Khabrat al Abraq,Khibret Al-Abraq,khabrat aalaabraq,خَبْرَة اَلأَبْرَق	29.36667	46.88333	H	WTRH	KW		00				0		239	Asia/Kuwait	2012-01-18
+285868	’Abdalīyah	'Abdaliyah	'Abdaliyah,Abd Allsh,`Abd Allah,aabdaliat,أَبْدَلِيَّة,‘Abd Allāh,’Abdalīyah	29.05444	47.695	H	WLL	KW		00				0		125	Asia/Kuwait	2020-06-10
+285869	Thamīlat al ‘Abdalī	Thamilat al `Abdali	Abduliyah,Thamilat al 'Abdaliyah,Thamilat al `Abdali,Thamīlat al ‘Abdalī,Thamīlat al ’Abdalīyah,Thumailet Al-Abdali,Thumailet Al-Abdāli,`Abdaliyah,ثَمِيلَة اَلْعَبْدَلِي,‘Abdalīyah	29.03222	47.71667	H	WLL	KW		00				0		115	Asia/Kuwait	2020-06-10
+285870	Markaz Ḩudūd al ‘Abdalī	Markaz Hudud al `Abdali	Al-Abdali Border,Markaz Hudud al `Abdali,Markaz Ḩudūd al ‘Abdalī,مَرْكَز حُدُود اَلْعَبْدَلِي	30.06944	47.35	S	CSTM	KW		00				0		74	Asia/Kuwait	2020-06-10
+384600	Khawr as Sūr	Khawr as Sur	Khawr as Sur,Khawr as Sūr,khawr aalsuwr,خَوْر اَلسُّور	28.54361	47.78556	T	DPR	KW		00				0		193	Asia/Kuwait	2012-01-19
+384601	Aţ Ţawīl	At Tawil	At Tawil,Aţ Ţawīl,aaltawil,اَلطَّوِيل	28.97861	47.90722	P	PPL	KW		00				0		81	Asia/Kuwait	2012-01-19
+384610	Şubayḩīyah	Subayhiyah	Subayhiyah,subayhiat,Şubayḩīyah,صُبَيْحِيَّة	28.87944	47.91389	P	PPL	KW		00				0		84	Asia/Kuwait	2012-01-19
+384611	Khabrat Quraynīs	Khabrat Quraynis	Khabrat Quraynis,Khabrat Quraynīs,khabrat quraynis,خَبْرَة قُرَيْنِيس	28.73333	47.67056	H	WTRH	KW		00				0		197	Asia/Kuwait	2012-01-19
+384612	Baḩrat aş Şubayḩīyah	Bahrat as Subayhiyah	Bahrat as Subayhiyah,Baḩrat aş Şubayḩīyah,bahrat aalsubayhiat,بَحْرَة اَلصُّبَيْحِيَّة	28.8125	47.85667	H	WLL	KW		00				0		122	Asia/Kuwait	2012-01-19
+384613	Tall Wārah	Tall Warah	Tall Warah,Tall Wārah,tal warat,تَلّ وَارَة	28.99111	47.95306	T	HLL	KW		00				0		77	Asia/Kuwait	2012-01-19
+384614	Wārah	Warah	Warah,Wārah,warat,وَارَة	28.99611	47.98222	P	PPL	KW		00				0		70	Asia/Kuwait	2012-01-19
+387823	Khashm al Abraq	Khashm al Abraq	Khashm al Abraq,khashm aalaabraq,خَشْم اَلأَبْرَق	29.42333	46.90556	T	SPUR	KW		00				0		238	Asia/Kuwait	2012-01-19
+387824	Al Ubayriq	Al Ubayriq	Al Ubayriq,aalaubayriq,اَلأُبَيْرِق	29.46361	46.92667	S	PP	KW		00				0		234	Asia/Kuwait	2012-01-19
+387825	Baḩrat al Abraq	Bahrat al Abraq	Bahrat al Abraq,Baḩrat al Abraq,bahrat aalaabraq,بَحْرَة اَلأَبْرَق	29.33	46.88833	H	WAD	KW		00				0		242	Asia/Kuwait	2012-01-19
+387829	‘Amārat Mahzūl	`Amarat Mahzul	`Amarat Mahzul,عَمَارَة مَهْزُول,‘Amārat Mahzūl	29.29167	46.90056	T	HLL	KW		00				0		252	Asia/Kuwait	2012-01-19
+387843	An Nimratayn	An Nimratayn	An Nimratayn,aalnimratayn,اَلنِّمْرَتَيْن	29.07667	46.86	S	PP	KW		00				0		280	Asia/Kuwait	2012-01-19
+387852	Qalamat ash Shiqāyā	Qalamat ash Shiqaya	Qalamat ash Shiqaya,Qalamat ash Shiqāyā,qalamat aalshiqaya,قَلَمَة اَلشِّقَايَا	29.12528	46.74583	S	PP	KW		00				0		279	Asia/Kuwait	2012-01-19
+387854	An Nuwayşīb	An Nuwaysib	An Nuwaysib,An Nuwayşīb,aalnuwaysib,اَلنُّوَيْصِيب	28.54694	48.39917	L	LCTY	KW		00				0		12	Asia/Kuwait	2012-01-19
+387856	Al Ubayriq	Al Ubayriq	Al Ubayriq,aalaubayriq,اَلأُبَيْرِق	29.43917	46.95111	T	HLL	KW		00				0		221	Asia/Kuwait	2012-01-19
+387857	Makhfar ar Ruḑayyān	Makhfar ar Rudayyan	Makhfar ar Rudayyan,Makhfar ar Rudhayyan,Makhfar ar Ruḑayyān,Makhfar ar Ruḑhayyān,makhfar aalrudayaan,مَخْفَر اَلرُّضَيَّان	29.49361	47.80306	S	PP	KW		00				0		11	Asia/Kuwait	2012-01-19
+387859	Al Abraq	Al Abraq	Al Abraq,aalaabraq,اَلأَبْرَق	29.36833	46.96361	S	PP	KW		00				0		233	Asia/Kuwait	2012-01-19
+387860	Umm ar Rimam	Umm ar Rimam	Umm ar Rimam,aum aalrimam,أُمّ اَلرِّمَم	29.49111	47.69139	L	AREA	KW		00				0		86	Asia/Kuwait	2012-01-19
+387862	Riksah	Riksah	Riksah,riksat,رِكْسَة	29.49111	47.52944	L	AREA	KW		00				0		132	Asia/Kuwait	2012-01-19
+387871	Al Kharfashi	Al Kharfashi	Al Kharfashi,aalkharfashi,اَلْخَرْفَشِ	29.45417	47.77278	L	AREA	KW		00				0		13	Asia/Kuwait	2012-01-19
+387874	Al Kuwaykib	Al Kuwaykib	Al Kuwaykib,aalkuaykib,اَلْكُوَيْكِب	29.4375	47.76306	L	AREA	KW		00				0		5	Asia/Kuwait	2012-01-19
+387876	Jāl az Zawr	Jal az Zawr	Jal az Zawr,Jāl az Zawr,jal aalzawr,جَال اَلزَّوْر	29.4875	47.76167	T	RDGE	KW		00				0		74	Asia/Kuwait	2012-01-19
+387878	Ḑulay‘ Mādī	Dulay` Madi	Dulay` Maadi,Dulay` Madi,ضُلَيْع مَادِي,Ḑulay‘ Maādī,Ḑulay‘ Mādī	29.45611	47.72222	T	HLL	KW		00				0		106	Asia/Kuwait	2012-01-19
+387882	Al Mu‘ţaridah	Al Mu`taridah	Al Mu`taridah,Al Mu‘ţaridah,اَلْمُعْطَرِدَة	29.4425	47.73306	T	HLL	KW		00				0		48	Asia/Kuwait	2012-01-19
+387885	Umm al Ghurbān	Umm al Ghurban	Umm al Ghurban,Umm al Ghurbān,aum aalghurban,أُمّ اَلْغُرْبَان	29.43556	47.72167	L	AREA	KW		00				0		46	Asia/Kuwait	2012-01-19
+387890	Abū Ra’sayn	Abu Ra'sayn	Abu Ra'sayn,Abū Ra’sayn,aabu rasayn,أَبُو رَأْسَيْن	29.44917	47.6775	H	LKI	KW		00				0		100	Asia/Kuwait	2012-01-19
+387892	Al Ḩafīrah	Al Hafirah	Al Hafirah,Al Ḩafīrah,aalhafirat,اَلْحَفِيرَة	28.61028	48.29222	L	LCTY	KW		00				0		23	Asia/Kuwait	2012-01-19
+387894	Al Wafrah	Al Wafrah	Al Wafrah,aalwafrat,اَلْوَفْرَة	28.6	48.03333	L	LCTY	KW		00				0		113	Asia/Kuwait	2012-01-19
+387897	Al Wafrah	Al Wafrah	Al Wafrah,aalwafrat,اَلْوَفْرَة	28.55417	48.05306	P	PPL	KW		00				0		110	Asia/Kuwait	2012-01-19
+387898	Al Khuwaymāt	Al Khuwaymat	Al Khuwaymat,Al Khuwaymāt,aalkhuaymat,اَلْخُوَيْمَات	29.40361	47.52278	T	HLL	KW		00				0		155	Asia/Kuwait	2012-01-19
+387900	Khabrat al Khuwaymāt	Khabrat al Khuwaymat	Khabrat al Khuwaymat,Khabrat al Khuwaymāt,khabrat aalkhuaymat,خَبْرَة اَلْخُوَيْمَات	29.37	47.55111	H	WTRH	KW		00				0		121	Asia/Kuwait	2012-01-19
+387902	Biţānat az Zawr	Bitanat az Zawr	Bitanat az Zawr,Biţānat az Zawr,bitanat aalzawr,بِطَانَة اَلزَّوْر	29.38528	47.65917	H	LKI	KW		00				0		26	Asia/Kuwait	2012-01-19
+387904	Al Muţaylī‘	Al Mutayli`	Al Mutayli`,Al Muţaylī‘,اَلْمُطَيْلِيع	29.38389	47.62444	T	HLL	KW		00				0		128	Asia/Kuwait	2012-01-19
+387905	Silsilat Tilāl al Muţlā‘	Silsilat Tilal al Mutla`	Silsilat Tilal al Mutla`,Silsilat Tilal al Mutlar,Silsilat Tilāl al Muţlār,Silsilat Tilāl al Muţlā‘,سِلْسِلَة تِلاَل اَلْمُطْلاَع	29.41139	47.67	T	HLLS	KW		00				0		126	Asia/Kuwait	2012-01-19
+387907	Thamīlat Ghatrah	Thamilat Ghatrah	Thamilat Ghatrah,Thamīlat Ghatrah,thamilat ghatrat,ثَمِيلَة غَتْرَة	29.40667	47.70167	H	WTRH	KW		00				0		13	Asia/Kuwait	2012-01-19
+387913	Al Khuwaysāt	Al Khuwaysat	Al Khuwaysat,Al Khuwaysāt,aalkhuaysat,اَلْخُوَيْسَات	29.40333	47.71111	P	PPL	KW		00				0		7	Asia/Kuwait	2012-01-19
+387924	Al Fawwār	Al Fawwar	Al Fawwar,Al Fawwār,aalfawaar,اَلْفَوَّار	28.66639	48.20861	L	LCTY	KW		00				0		42	Asia/Kuwait	2012-01-19
+387927	Mīnā’ ad Dawḩah	Mina' ad Dawhah	Mina' ad Dawhah,Mīnā’ ad Dawḩah,مِينَاء اَلدَّوْحَة	29.38111	47.79889	L	PRT	KW		00				0		4	Asia/Kuwait	2020-10-31
+387937	Al Khiḑr	Al Khidr	Al Khidr,Al Khiḑr,aalkhidr,اَلْخِضْر	29.46444	48.28833	P	PPLL	KW		02				0		2	Asia/Kuwait	2024-07-13
+387938	Al Bulţ	Al Bult	Al Bult,Al Bulţ,aalbult,اَلْبُلْط	29.4575	48.28139	P	PPLL	KW		00				0		4	Asia/Kuwait	2024-07-14
+387939	Ash Shubaykah	Ash Shubaykah	Ash Shubaykah,aalshubaykat,اَلشُّبَيْكَة	29.43167	48.29917	P	PPLL	KW		02				0		6	Asia/Kuwait	2012-01-19
+387940	Maskar ad Dasht	Maskar ad Dasht	Maskar ad Dasht,maskar aaldasht,مَسْكَر اَلدَّشْت	29.46611	48.31806	H	COVE	KW		00				0		1	Asia/Kuwait	2012-01-19
+387941	Ad Dasht	Ad Dasht	Ad Dasht,aaldasht,اَلدَّشْت	29.4625	48.31389	P	PPLL	KW		02				0		2	Asia/Kuwait	2012-01-19
+387942	Al Qullah	Al Qullah	Al Qullah,aalqulat,اَلْقُلَّة	29.4525	48.31	L	LCTY	KW		00				0		2	Asia/Kuwait	2012-01-19
+387943	Qullat Shujayr	Qullat Shujayr	Qullat Shujayr,qulat shujayr,قُلَّة شُجَيْر	29.45917	48.29972	P	PPL	KW		02				0		5	Asia/Kuwait	2012-01-19
+387944	Sa‘īdah	Sa`idah	Sa`idah,Sa‘īdah,سَعِيدَة	29.45722	48.29139	L	LCTY	KW		00				0		2	Asia/Kuwait	2012-01-19
+387945	Qaşr al Qal‘ah	Qasr al Qal`ah	Qasr al Qal`ah,Qaşr al Qal‘ah,قَصْر اَلْقَلْعَة	29.45528	48.33667	S	RUIN	KW		02				0		2	Asia/Kuwait	2012-01-19
+387946	Al Quşūr	Al Qusur	Al Qusur,Al Quşūr,aalqusur,اَلْقُصُور	29.43667	48.31861	L	AREA	KW		02				0		1	Asia/Kuwait	2024-07-13
+387947	Aş Şabāḩīyah	As Sabahiyah	Al Sabahiyah,As Sabahiyah,Aş Şabāḩīyah,aalsabahiat,alsbahyt,الصباحية,اَلصَّبَاحِيَّة	29.65278	48.11583	S	ANS	KW		05				0		6	Asia/Kuwait	2020-07-10
+387948	Al ‘Awāzim	Al `Awazim	Al `Awazim,Al ‘Awāzim,اَلْعَوَازِم	29.42028	48.385	P	PPL	KW		02				0		4	Asia/Kuwait	2024-07-13
+387949	Manşab ‘Iyāl al May‘ān	Mansab `Iyal al May`an	Mansab Ayal Amai'an,Mansab Ayal Amai’an,Mansab `Iyal al May`an,Manşab ‘Iyāl al May‘ān,مَنْصَب عِيَال اَلْمَيْعَان	29.41194	48.3975	L	LCTY	KW		02				0		3	Asia/Kuwait	2012-01-19
+387950	Ar Rā’s	Ar Ra's	Ar Ra's,Ar Ra’s,Ar Rā’s,Ar-Ra's,Ar-Rā’s,aalraas,اَلرَّأْس	29.39472	48.4025	T	PT	KW		02				0		0	Asia/Kuwait	2012-01-19
+387951	Bunayd al Qār	Bunayd al Qar	Bunayd al Qar,Bunayd al Qār,bunayd aalqar,بُنَيْد اَلْقَار	29.37556	48.0025	P	PPLX	KW		02				0		8	Asia/Kuwait	2012-01-19
+387952	Ad Da‘īyah	Ad Da`iyah	Ad Da`iyah,Ad Da‘īyah,Daiya,الدعية,اَلدَّعِيَّة	29.35806	48.01472	P	PPLX	KW		00				0		9	Asia/Kuwait	2020-06-11
+387953	Ash Sha‘b	Ash Sha`b	Ash Sha`b,Ash Sha‘b,Sha'ab,Sha’ab,الشعب,اَلشَّعْب	29.34694	48.025	P	PPLX	KW		00				0		12	Asia/Kuwait	2012-01-19
+387954	Al Qādisīyah	Al Qadisiyah	Al Qadisiyah,Al Qādisīyah,aalqadisiat,اَلْقَادِسِيَّة	29.35028	48.00694	P	PPLX	KW		00				0		14	Asia/Kuwait	2012-01-19
+387955	Maydān Ḩawallī	Maydan Hawalli	Maydan Hawalli,Maydān Ḩawallī,Sharq Hawalli,Sharq Ḩawallī,mydan hwly,sharq hawaliy,شَرْق حَوَلِّي,ميدان حولي	29.33611	48.0425	P	PPLX	KW		00				0		17	Asia/Kuwait	2012-01-19
+387956	Ar Rawḑah	Ar Rawdah	Ar Rawdah,Ar Rawḑah,aalrawdat,اَلرَّوْضَة	29.31583	48.00639	P	PPLX	KW		00				0		33	Asia/Kuwait	2012-01-19
+387957	Al Jābirīyah	Al Jabiriyah	Al Jabiriyah,Al Jābirīyah,aaljabiriat,اَلْجَابِرِيَّة	29.32222	48.02361	P	PPLX	KW		00				0		26	Asia/Kuwait	2012-01-19
+387958	Salwá	Salwa	Sal'va,Salwa,Salwá,salway,slwy,Сальва,سلوى,سَلْوَى	29.29583	48.07861	P	PPLX	KW		08				40945		15	Asia/Kuwait	2020-06-11
+387959	Mishrif	Mishrif	Mishref,Mishrif,Mushrif,mshrf,mushrif,مشرف,مُشْرِف	29.28917	48.05	P	PPLL	KW		00				0		16	Asia/Kuwait	2012-01-19
+387961	Al Minţaqah al Wisţá	Al Mintaqah al Wista	Al Mintaqah al Wista,Al Minţaqah al Wisţá,As Surayrat,As Surayrāt,Wista Area,aalsurayrat,almntqt alwsty,المنطقة الوسطى,اَلسُّرَيْرَات	29.23297	48.02229	L	AREA	KW		00				0		64	Asia/Kuwait	2020-06-11
+387962	Al Masīlah	Al Masilah	Al Masilah,Al Massilah,Al Massīlah,Al Masīlah,Messila,aalmasilat,almsylt,المسيلة,اَلْمَسِيلَة	29.26194	48.07972	P	PPLL	KW		09				0		4	Asia/Kuwait	2020-06-11
+387963	Qaşr ash Sha‘b	Qasr ash Sha`b	Qasr She'eb,Qasr ash Sha`b,Qaşr She’eb,Qaşr ash Sha‘b,قصر الشعب,قَصْر اَلشَّعْب	29.34583	48.03806	S	PAL	KW		08				0		8	Asia/Kuwait	2012-01-19
+387964	Al Badawīyah	Al Badawiyah	Al Badawiyah,Al Badawīyah,aalbadawiat,اَلْبَدَوِيَّة	29.08139	48.11778	P	PPLX	KW		00				0		33	Asia/Kuwait	2012-01-19
+387965	Baḩrat ash Shu‘aybah	Bahrat ash Shu`aybah	Bahrat ash Shu`aybah,Baḩrat ash Shu‘aybah,بَحْرَة اَلشُّعَيْبَة	29.05083	48.15444	H	DTCH	KW		00				0		1	Asia/Kuwait	2012-01-19
+387966	Baḩrat al Fuḩayḩīl	Bahrat al Fuhayhil	Al Fuhaihil,Al Fuḩaiḩil,Bahrat al Fuhayhil,Baḩrat al Fuḩayḩīl,bahrat aalfuhayhil,بَحْرَة اَلْفُحَيْحِيل	29.0775	48.11111	H	DTCH	KW		00				0		35	Asia/Kuwait	2016-06-05
+387967	Baḩrat Abū Ḩulayfah	Bahrat Abu Hulayfah	Bahrat Abu Hulayfah,Baḩrat Abū Ḩulayfah,bahrat aabu hulayfat,بَحْرَة أَبُو حُلَيْفَة	29.12944	48.11	H	DTCH	KW		00				0		27	Asia/Kuwait	2012-01-19
+387968	Baḩrat al Finţās	Bahrat al Fintas	Al Fintas,Al Fintās,Bahrat al Fintas,Baḩrat al Finţās,bahrat aalfintas,بَحْرَة اَلْفِنْطَاس	29.16722	48.10917	H	DTCH	KW		00				0		16	Asia/Kuwait	2012-01-19
+387969	Baḩrat ar Rukbān	Bahrat ar Rukban	Bahrat al-Rukban,Bahrat ar Rukban,Baḩrat al-Rukban,Baḩrat ar Rukbān,bahrat aalrukban,بَحْرَة اَلرُّكْبَان	29.15	48.01944	H	DTCH	KW		00				0		70	Asia/Kuwait	2012-01-19
+387970	Ad Dawḩah al Kabīrah	Ad Dawhah al Kabirah	Ad Dawhah al Kabirah,Ad Dawḩah al Kabīrah,aaldawhat aalkabirat,اَلدَّوْحَة اَلْكَبِيرَة	29.42694	48.38056	H	BAY	KW		00				0		1	Asia/Kuwait	2012-01-19
+387971	Qaşr al Masīlah	Qasr al Masilah	Qasr al Masilah,Qaşr al Masīlah,qasr aalmasilat,قَصْر اَلْمَسِيلَة	29.24167	48.09806	S	PAL	KW		00				0		6	Asia/Kuwait	2012-01-19
+387972	Khabārī Dulayyil	Khabari Dulayyil	Khabari Dulayyil,Khabārī Dulayyil,khabari dulayil,خَبَارِي دُلَيِّل	29.39972	47.34667	H	WTRH	KW		00				0		177	Asia/Kuwait	2012-01-19
+387973	Al Arţawīyah	Al Artawiyah	Al Artawiyah,Al Arţawīyah,aalaartawiat,اَلأَرْطَوِيَّة	28.61333	48.1125	L	LCTY	KW		00				0		77	Asia/Kuwait	2012-01-19
+387974	Baţn ash Shaqq	Batn ash Shaqq	Batn ash Shaqq,Batn ash Shiqq,Baţn ash Shaqq,Baţn ash Shiqq,Wadi Ash Shiqq,Wādī Ash Shiqq,batn aalshaq,بَطْن اَلشَّقّ	28.68361	47.67472	T	DPR	KW		00				0		207	Asia/Kuwait	2012-01-19
+387975	Khashm al ‘Afrī	Khashm al `Afri	Khashm al `Afri,Khashm al ‘Afrī,خَشْم اَلْعَفْرِي	29.37194	47.41222	T	SPUR	KW		00				0		182	Asia/Kuwait	2012-01-19
+387976	Qarādān	Qaradan	Qaradan,Qarādān,qaradan,قَرَادَان	28.55139	48.30194	L	LCTY	KW		00				0		28	Asia/Kuwait	2012-01-19
+387977	Makhfar aş Şabīyah	Makhfar as Sabiyah	As Sabiyah,Aş Şabīyah,Makhfar as Sabiyah,Makhfar aş Şabīyah,makhfar aalsabiat,mkhfr alsbyt,مخفر الصبية,مَخْفَر اَلصَّبِيَّة	29.57306	48.1725	S	PP	KW		05				0		5	Asia/Kuwait	2012-01-19
+387978	As Sab‘ah	As Sab`ah	As Sab`ah,As Sab‘ah,السبعة,اَلسَّبْعَة	29.59361	48.09944	L	AREA	KW		05				0		17	Asia/Kuwait	2012-01-19
+387979	Al ‘Aqrabī	Al `Aqrabi	Al `Aqrabi,Al ‘Aqrabī,اَلْعَقْرَبِي	28.58194	48.32306	L	AREA	KW		04				0		20	Asia/Kuwait	2012-01-19
+387981	‘Ashīsh ad Dawḩah	`Ashish ad Dawhah	`Ashish ad Dawhah,عَشِيش اَلدَّوْحَة,‘Ashīsh ad Dawḩah	29.38528	47.84222	P	PPL	KW		05				0		3	Asia/Kuwait	2012-01-19
+387982	Ad Dalmānīyah	Ad Dalmaniyah	Ad Dalmaniyah,Ad Dalmānīyah,aaldalmaniat,aldlmanyt,الدلمانية,اَلدَّلْمَانِيَّة	29.60528	48.06694	T	HLL	KW		00				0		18	Asia/Kuwait	2012-01-19
+387985	Ţubayj	Tubayj	Tayyij,Tubayj,tubayj,tyyj,Ţayyij,Ţubayj,طييج,طُبَيْج	29.6125	48.03389	H	FLTT	KW		05				0		2	Asia/Kuwait	2012-01-19
+387987	Khabrat al Julaydah	Khabrat al Julaydah	Khabrat al Julaydah,khabrat aaljulaydat,خَبْرَة اَلْجُلَيْدَة	28.53417	48.22861	H	WTRH	KW		00				0		53	Asia/Kuwait	2012-01-19
+387988	Jāl az Zawr	Jal az Zawr	Jak az Zawr,Jal az Zawr,Jāk az Zawr,Jāl az Zawr,jak alzwr,jal aalzawr,جاك الزور,جَال اَلزَّوْر	29.62833	48.05028	T	SCRP	KW		05				0		33	Asia/Kuwait	2012-01-19
+387989	Ash Sharq	Ash Sharq	Ash Sharq,aalsharq,اَلشَّرْق	29.37944	47.98722	P	PPLX	KW		02				0		7	Asia/Kuwait	2012-01-19
+387990	Al Qiblah	Al Qiblah	Al Qiblah,aalqiblat,اَلْقِبْلَة	29.37361	47.97167	P	PPLX	KW		00				0		15	Asia/Kuwait	2012-01-19
+387991	Mughayrah	Mughayrah	Mughayrah,mughayrat,مُغَيْرَة	29.58667	48.08306	L	LCTY	KW		00				0		1	Asia/Kuwait	2012-01-19
+387993	Qalamat Şabbāḩ	Qalamat Sabbah	Qalamat Sabbah,Qalamat Şabbāḩ,qalamat sabaah,قَلَمَة صَبَّاح	29.05083	47.03722	S	PP	KW		00				0		262	Asia/Kuwait	2012-01-19
+387994	Al Murqāb	Al Murqab	Al Murqab,Al Murqāb,aalmurqab,اَلْمُرْقَاب	29.36556	47.97806	P	PPLX	KW		02				3699		11	Asia/Kuwait	2024-11-08
+387995	Aş Şāliḩīyah	As Salihiyah	As Salihiyah,Aş Şāliḩīyah,aalsaalihiat,اَلصَّالِحِيَّة	29.36333	47.96889	P	PPLX	KW		02				0		18	Asia/Kuwait	2012-01-19
+387997	Al Manşūrīyah	Al Mansuriyah	Al Mansuriyah,Al Manşūrīyah,aalmansuriat,اَلْمَنْصُورِيَّة	29.35556	47.98056	P	PPLX	KW		00				0		18	Asia/Kuwait	2012-01-19
+387998	Al Mufarrad	Al Mufarrad	Al Mufarrad,aalmufarad,اَلْمُفَرَّد	29.04667	47.24028	S	PP	KW		00				0		245	Asia/Kuwait	2012-01-19
+387999	Şubayḩ	Subayh	Subayh,subayh,Şubayḩ,صُبَيْح	28.91222	47.90444	L	LCTY	KW		00				0		81	Asia/Kuwait	2012-01-19
+388001	Al Maghāsil	Al Maghasil	Al Maghasil,Al Maghāsil,Makhfar al Maghasil,Makhfar al Maghāsil,aalmaghasil,mkhfr almghasl,اَلْمَغَاسِل,مخفر المغاسل	29.74833	48.03222	S	PP	KW		00				0		8	Asia/Kuwait	2012-02-02
+388005	Aţ Ţiyān	At Tiyan	At Tayyan,At Tiyan,Aţ Ţayyān,Aţ Ţiyān,aaltiyan,altyan,الطيان,اَلطِّيَان	29.74806	48.04833	L	LCTY	KW		00				0		6	Asia/Kuwait	2024-07-14
+388006	Al Biţānah	Al Bitanah	Al Bitanah,Al Biţānah,Al Butaynah,Al Buţaynah,aalbitanat,albtynt,البطينة,اَلْبِطَانَة	29.78	48.015	L	AREA	KW		00				0		7	Asia/Kuwait	2012-01-19
+388007	Qalamat Shāyi’	Qalamat Shayi'	Qalamat Shayi',Qalamat Shāyi’,قَلَمَة شَايِء	29.02417	47.33667	S	PP	KW		00				0		230	Asia/Kuwait	2012-01-19
+388010	Mīnā’ ash Shuwaykh	Mina' ash Shuwaykh	Mina' ash Shuwaykh,Mīnā’ ash Shuwaykh,مِينَاء اَلشُّوَيْخ	29.3525	47.92917	L	PRT	KW		00				0		-9999	Asia/Kuwait	2020-10-31
+388012	Al Khālidīyah	Al Khalidiyah	Al Khalidiyah,Al Khālidīyah,aalkhalidiat,اَلْخَالِدِيَّة	29.32806	47.96556	P	PPLX	KW		00				0		21	Asia/Kuwait	2012-01-19
+388014	Al ‘Adīlīyah	Al `Adiliyah	Al `Adiliyah,Al `Udayliyah,Al ‘Adīlīyah,Al ‘Udaylīyah,اَلْعَدِيلِيَّة	29.32056	47.97694	P	PPLX	KW		00				0		30	Asia/Kuwait	2012-01-19
+388015	An Nuzhah	An Nuzhah	An Nuzhah,aalnuzhat,اَلنُّزْهَة	29.34167	47.98972	P	PPLX	KW		00				0		22	Asia/Kuwait	2012-01-19
+388016	Khabrat ar Radīfah	Khabrat ar Radifah	Khabrat ar Radifah,Khabrat ar Radīfah,khabrat aalradifat,خَبْرَة اَلرَّدِيفَة	28.9275	47.53139	T	HLL	KW		00				0		174	Asia/Kuwait	2012-01-19
+388017	Qalamat Shāyi’	Qalamat Shayi'	Qalamat Shayi',Qalamat Shāyi’,qalamat shay,قَلَمَة شاﺉ	29.03722	47.38139	H	WLL	KW		00				0		207	Asia/Kuwait	2012-01-19
+388018	Al Qādisīyah	Al Qadisiyah	Al Qadisiyah,Al Qādisīyah,aalqadisiat,اَلْقَادِسِيَّة	29.3475	47.985	P	PPLX	KW		00				0		21	Asia/Kuwait	2012-01-19
+388019	Būbiyān	Bubiyan	Bubiyan,Būbiyān,bubian,بُوبِيَان	29.78194	48.37417	S	PP	KW		00				0		1	Asia/Kuwait	2024-07-14
+388021	Ḑāhiyat ‘Abd Allāh as Sālim	Dahiyat `Abd Allah as Salim	Dahiyat `Abd Allah as Salim,ضَاهِيَة عَبْد اَللَّٰه اَلسَّالِم,Ḑāhiyat ‘Abd Allāh as Sālim	29.35139	47.98	P	PPLX	KW		00				0		19	Asia/Kuwait	2012-01-19
+388022	Ra’s al Oayd	Ra's al Oayd	Ra's Al-Gayed,Ra's al Gayed,Ra's al Oayd,Ra's al Qayd,Ra’s al Oayd,Ra’s al Qayd,Rā’s Al-Gayed,Rā’s al Gayed,ras aalaauyd,ras alqyd,راس القيد,رَأْس اَلأَُيْد	29.79972	48.36972	T	CAPE	KW		00				0		0	Asia/Kuwait	2012-01-19
+388024	Al Mīnā’	Al Mina'	Al Mina',Al Mīnā’,اَلْمِينَاء	29.32972	47.93611	P	PPLX	KW		00				0		8	Asia/Kuwait	2024-07-14
+388026	Khabārī al ‘Awāzim	Khabari al `Awazim	Khabari al `Awazim,Khabārī al ‘Awāzim,خَبَارِي اَلْعَوَازِم	29.9025	47.18806	S	PP	KW		00				0		125	Asia/Kuwait	2012-01-19
+388027	Shiqqat al ‘Awāzim	Shiqqat al `Awazim	Shiqqat al `Awazim,Shiqqat al ‘Awāzim,شِقَّة اَلْعَوَازِم	29.85667	47.19333	T	DPR	KW		00				0		113	Asia/Kuwait	2012-01-19
+388029	Şawlah	Sawlah	Sawlah,sawlat,Şawlah,صَوْلَة	28.73111	48.31722	L	LCTY	KW		04				0		8	Asia/Kuwait	2012-01-19
+388030	Umm Kashīsh	Umm Kashish	Umm Kashish,Umm Kashīsh,aum kashish,أُمّ كَشِيش	29.36417	47.72861	L	AREA	KW		00				0		-1	Asia/Kuwait	2012-01-19
+388031	Al Jirthāmah	Al Jirthamah	Al Jirthamah,Al Jirthāmah,aaljirthamat,اَلْجِرْثَامَة	29.3525	47.71611	L	AREA	KW		00				0		1	Asia/Kuwait	2012-01-19
+388032	Al Mamlaḩah	Al Mamlahah	Al Mamlahah,Al Mamlaḩah,aalmamlahat,اَلْمَمْلَحَة	29.36861	47.69583	L	AREA	KW		00				0		4	Asia/Kuwait	2012-01-19
+388034	As Suqayhīyah	As Suqayhiyah	As Suqayhiyah,As Suqayhīyah,aalsuqayhiat,اَلسُّقَيْهِيَّة	29.63861	47.01861	S	PP	KW		00				0		170	Asia/Kuwait	2012-01-19
+388036	Al Murayţibah	Al Muraytibah	Al Muraytibah,Al Murayţibah,aalmuraytibat,اَلْمُرَيْطِبَة	29.36472	47.6525	P	PPLX	KW		00				0		26	Asia/Kuwait	2012-01-19
+388037	Umm Ghār	Umm Ghar	Umm Ghar,Umm Ghār,aum ghar,أُمّ غَار	29.35639	47.63806	L	AREA	KW		00				0		53	Asia/Kuwait	2024-07-14
+388039	Udayri‘ al Ḩamḑ	Udayri` al Hamd	Udayri` al Hamd,Udayri‘ al Ḩamḑ,أُدَيْرِع اَلْحَمْض	29.58778	47.45083	T	HLL	KW		00				0		134	Asia/Kuwait	2012-01-19
+388040	Bahrat Umm Ghār	Bahrat Umm Ghar	Bahrat Umm Ghar,Bahrat Umm Ghār,bahrat aum ghar,بَهْرَة أُمّ غَار	29.35972	47.6275	H	WLL	KW		00				0		59	Asia/Kuwait	2012-01-19
+388041	Shiqqat Ḩawmah	Shiqqat Hawmah	Shiqqat Hawmah,Shiqqat Ḩawmah,shiqat hawmat,شِقَّة حَوْمَة	29.6175	47.17056	T	DPR	KW		00				0		175	Asia/Kuwait	2012-01-19
+388042	Umm Qudayr	Umm Qudayr	Haql Naft Umm Qudayr al Janubi,Umm Gudair Oilfield (South),Umm Qudayr,aum qudayr,أُمّ قُدَيْر,Ḩaql Nafţ Umm Qudayr al Janūbi	28.80889	47.7175	L	OILF	KW		00				0		187	Asia/Kuwait	2012-01-19
+388043	Arḑ az Zawr	Ard az Zawr	Ard az Zawr,Arḑ az Zawr,aard aalzawr,أَرْض اَلزَّوْر	28.76222	48.27694	S	PP	KW		04				0		13	Asia/Kuwait	2012-01-19
+388045	Jāl al Aţrāf	Jal al Atraf	Jal al Atraf,Jāl al Aţrāf,jal aalaatraf,جَال اَلأَطْرَاف	29.36361	47.59306	T	RDGE	KW		00				0		142	Asia/Kuwait	2012-01-19
+388046	Umm al Ba‘l	Umm al Ba`l	Umm al Ba`l,Umm al Ba‘l,أُمّ اَلْبَعْل	29.32722	47.62861	L	AREA	KW		00				0		48	Asia/Kuwait	2012-01-19
+388047	Baḩrat aş Şubayḩīyah	Bahrat as Subayhiyah	Bahrat as Subayhiyah,Baḩrat aş Şubayḩīyah,bahrat aalsubayhiat,بَحْرَة اَلصُّبَيْحِيَّة	28.86222	47.87889	H	WTRH	KW		00				0		95	Asia/Kuwait	2012-01-19
+388048	‘Ashīsh al Jahrā’	`Ashish al Jahra'	Ashish al Jahrah,Ashīsh al Jahrah,`Ashish al Jahra',عَشِيش اَلْجَهْرَاء,‘Ashīsh al Jahrā’	29.31722	47.67778	P	PPL	KW		00				0		39	Asia/Kuwait	2012-01-19
+388049	Şayhad al Muz̧ayhīr	Sayhad al Muzayhir	Sayhad al Muzayhir,sayhad aalmuzayhir,Şayhad al Muz̧ayhīr,صَيْهَد اَلْمُظَيْهِير	29.34528	47.715	L	AREA	KW		00				0		9	Asia/Kuwait	2012-01-19
+388050	Umm al Kashīsh	Umm al Kashish	Umm al Kashish,Umm al Kashīsh,Umm al Qashish,Umm al Qashīsh,aum aalkashish,أُمّ اَلْكَشِيش	29.32833	47.78028	T	HLL	KW		00				0		6	Asia/Kuwait	2012-01-19
+388051	Al Burqān	Al Burqan	Al Burqan,Al Burqan Oilfield,Al Burqān,Al Burqān Oilfield,Haql Naft Al Burqan,aalburqan,اَلْبُرْقَان,Ḩaql Nafţ Al Burqān	28.95056	47.95111	L	OILF	KW		00				0		77	Asia/Kuwait	2024-07-14
+388052	Ad Dawḩah	Ad Dawhah	Ad Dawhah,Ad Dawḩah,aaldawhat,اَلدَّوْحَة	29.31444	47.81194	P	PPL	KW		00				0		13	Asia/Kuwait	2012-01-19
+388053	Mustashfá aş Şulaybīkhāt	Mustashfa as Sulaybikhat	As Sulaybikhat (3),Aş Şulaybīkhāt (3),Mustashfa as Sulaybikhat,Mustashfá aş Şulaybīkhāt,Sulaibikhat Hospital,Sulaibīkhat Hospital,mustashfay aalsulaybikhat,مُسْتَشْفَى اَلصُّلَيْبِيخَات	29.30667	47.88667	S	HSP	KW		00				0		11	Asia/Kuwait	2012-01-19
+388054	Al Mubārakīyah	Al Mubarakiyah	Al Mubarakiyah,Al Mubārakīyah,Mu`askarat al Mubarakiyah,Mu‘askarāt al Mubārakīyah,aalmubarakiat,اَلْمُبَارَكِيَّة	29.31722	47.9125	S	BRKS	KW		00				0		10	Asia/Kuwait	2012-01-19
+388055	Ar Rayy	Ar Rayy	Ar Rayy,aalray,اَلرَّيّ	29.30917	47.93417	P	PPLX	KW		00				0		13	Asia/Kuwait	2012-01-19
+388056	Al Yarmūk	Al Yarmuk	Al Yarmuk,Al Yarmūk,aalyarmuk,اَلْيَرْمُوك	29.30778	47.9675	P	PPLX	KW		00				0		30	Asia/Kuwait	2012-01-19
+388058	Qurţubah	Qurtubah	Qortuba,Qurtuba,Qurtubah,Qurţubah,qurtubat,قُرْطُبَة	29.31222	47.98556	P	PPLX	KW		02				0		26	Asia/Kuwait	2016-09-13
+388060	As Surrah	As Surrah	As Surrah,aalsurat,اَلسُّرَّة	29.27528	47.99	P	PPLX	KW		07				0		50	Asia/Kuwait	2015-01-04
+388061	Aş Şafwānīyah	As Safwaniyah	As Safwaniyah,Aş Şafwānīyah,aalsafwaniat,اَلصَّفْوَانِيَّة	28.67611	48.05972	T	HLL	KW		00				0		86	Asia/Kuwait	2012-01-19
+388062	Janūb Khayţān	Janub Khaytan	Janub Khaytan,Janūb Khayţān,janub khaytan,جَنُوب خَيْطَان	29.27222	47.97778	P	PPLX	KW		00				0		45	Asia/Kuwait	2012-01-19
+388064	Al ‘Umarīyah	Al `Umariyah	Al `Umariyah,Al ‘Umarīyah,اَلْعُمَرِيَّة	29.29333	47.95333	P	PPLX	KW		00				0		28	Asia/Kuwait	2012-01-19
+388065	Ar Rābiyah	Ar Rabiyah	Ar Rabiyah,Ar Rābiyah,aalraabiat,اَلرَّابِيَة	29.295	47.93306	P	PPLX	KW		02				36447		24	Asia/Kuwait	2012-10-19
+388066	Makhfar aţ Ţuwārī	Makhfar at Tuwari	Makhfar at Tuwari,Makhfar aţ Ţuwārī,makhfar altuari,مَخْفَر الطُوَارِي	29.26889	47.91361	S	PP	KW		00				0		26	Asia/Kuwait	2012-02-02
+388067	Al Qurayn	Al Qurayn	Al Qurayn,aalqurayn,اَلْقُرَيْن	28.8	48	L	AREA	KW		00				0		95	Asia/Kuwait	2012-01-19
+388069	Khawr al Qurayn	Khawr al Qurayn	Khawr al Qurayn,khawr aalqurayn,خَوْر اَلْقُرَيْن	28.77639	48.00194	H	WAD	KW		00				0		89	Asia/Kuwait	2012-01-19
+388071	Al ‘Āriḑīyah	Al `Aridiyah	Al Aridiyah,Al `Aridiyah,Al Āridīyah,Al ‘Āriḑīyah,اَلْعَارِضِيَّة	29.28417	47.875	P	PPLX	KW		00				0		18	Asia/Kuwait	2012-01-19
+388078	Makhfar aş Şulaybīyah	Makhfar as Sulaybiyah	As Sulaybiyah,Aş Şulaybīyah,Makhfar as Sulaybiyah,Makhfar aş Şulaybīyah,Markaz Shurtat as Sulaybiyah,Markaz Shurţat aş Şulaybīyah,makhfar aalsulaybiat,مَخْفَر اَلصُّلَيْبِيَّة	29.26694	47.78472	S	PP	KW		00				0		38	Asia/Kuwait	2012-01-19
+388079	Al Farrīdah	Al Farridah	Al Farridah,Al Farrīdah,aalfariydat,اَلْفَرِّيدَة	29.30833	47.525	L	AREA	KW		00				0		157	Asia/Kuwait	2012-01-19
+388080	Aş Şulaybīyah	As Sulaybiyah	As Sulaybiyah,Aş Şulaybīyah,aalsulaybiat,اَلصُّلَيْبِيَّة	29.245	47.71694	L	AREA	KW		00				0		57	Asia/Kuwait	2012-01-19
+388081	Ash Shadādīyah	Ash Shadadiyah	Ash Shadadiyah,Ash Shadādīyah,aalshadadiat,اَلشَّدَادِيَّة	29.23528	47.86306	L	AREA	KW		00				0		55	Asia/Kuwait	2012-01-19
+388083	Makhfar ash Shadādīyah	Makhfar ash Shadadiyah	Makhfar ash Shadadiyah,Makhfar ash Shadādīyah,makhfar aalshadadiat,مَخْفَر اَلشَّدَادِيَّة	29.25444	47.85583	S	PP	KW		00				0		28	Asia/Kuwait	2012-01-19
+388084	Şayhad al ‘Awāzim	Sayhad al `Awazim	Sayhad al `Awazim,Şayhad al ‘Awāzim,صَيْهَد اَلْعَوَازِم	29.24694	47.89944	T	HLL	KW		00				0		41	Asia/Kuwait	2012-01-19
+388088	Al ‘Abbāsīyah	Al `Abbasiyah	Al `Abbasiyah,Al ‘Abbāsīyah,اَلْعَبَّاسِيَّة	29.25028	47.93111	P	PPL	KW		00				0		45	Asia/Kuwait	2012-01-19
+388090	Ad Dawghah	Ad Dawghah	Ad Dawghah,Ad-Doghah,aaldawghat,اَلدَّوْغَة	29.26222	47.94694	L	AREA	KW		00				0		43	Asia/Kuwait	2012-01-19
+388091	Banīyat ‘Urayfijān	Baniyat `Urayfijan	Baniyat `Urayfijan,Banīyat ‘Urayfijān,بَنِيَّة عُرَيْفِجَان	28.80833	48.21667	T	DUNE	KW		00				0		17	Asia/Kuwait	2012-01-19
+388092	Umm ar Rūs	Umm ar Rus	Umm ar Rus,Umm ar Rūs,aum aalruws,أُمّ اَلرُّوس	29.21111	47.52639	L	AREA	KW		00				0		169	Asia/Kuwait	2012-01-19
+388093	Qulbān Malah	Qulban Malah	Qulban Malah,Qulbān Malah,qulban malat,قُلْبَان مَلَة	29.13306	47.99556	H	WLL	KW		00				0		51	Asia/Kuwait	2012-01-19
+388095	Al Ad‘amī	Al Ad`ami	Al Ad`ami,Al Ad‘amī,اَلأَدْعَمِي	28.82556	48.26611	T	DUNE	KW		00				0		5	Asia/Kuwait	2012-01-19
+388097	Qulay‘at al Ahrār	Qulay`at al Ahrar	Qulay`at al Ahrar,Qulay‘at al Ahrār,قُلَيْعَة اَلأَهْرَار	28.88917	48.24778	S	RUIN	KW		00				0		18	Asia/Kuwait	2012-01-19
+388099	Baḩrat Ḩawshān	Bahrat Hawshan	Bahrat Hawshan,Bahrat Mawshan,Baḩrat Mawshān,Baḩrat Ḩawshān,bahrat hawshan,بَحْرَة حَوْشَان	30.0725	47.34972	H	WAD	KW		00				0		73	Asia/Kuwait	2012-01-19
+388102	Aḑ Ḑubā‘īyah	Ad Duba`iyah	Ad Duba`iyah,Aḑ Ḑubā‘īyah,اَلضُّبَاعِيَّة	28.92361	48.20722	P	PPL	KW		00				0		7	Asia/Kuwait	2012-01-19
+388114	Mushāsh Malah	Mushash Malah	Mushash Malah,Mushāsh Malah,mushash malat,مُشَاش مَلَة	29.08167	47.95028	H	WLL	KW		00				0		45	Asia/Kuwait	2012-01-19
+388116	Al Burquān	Al Burquan	Al Burquan,Al Burquān,Burgan Oilfield,aalburqan,اَلْبُرْقَان	29.01167	47.96833	L	OILF	KW		00				0		61	Asia/Kuwait	2024-07-14
+388120	Al Mu‘ayzilāt	Al Mu`ayzilat	Al Mu`ayzilah,Al Mu`ayzilat,Al Mu‘ayzilāt,Al Mu‘ayzīlah,اَلْمُعَيْزِلاَت	28.94167	48.08333	L	LCTY	KW		00				0		92	Asia/Kuwait	2012-01-19
+388123	Al Burqān	Al Burqan	Al Burqan,Al Burqān,aalburqan,اَلْبُرْقَان	28.94278	48.00806	L	LCTY	KW		00				0		76	Asia/Kuwait	2024-07-14
+388124	Khawr Bin Hadmah	Khawr Bin Hadmah	Khawr Bin Hadmah,khawr bin hadmat,خَوْر بِن هَدْمَة	29.085	47.61722	H	WLL	KW		00				0		146	Asia/Kuwait	2012-01-19
+388125	Makhfar al Manāqīsh	Makhfar al Manaqish	Makhfar al Manaqish,Makhfar al Manāqīsh,makhfar aalmanaqish,مَخْفَر اَلْمَنَاقِيش	29.0225	47.60056	S	PPQ	KW		00				0		170	Asia/Kuwait	2018-01-10
+388126	Al Manāqīsh	Al Manaqish	Al Manaqish,Al Manāqīsh,aalmanaqish,اَلْمَنَاقِيش	29.04444	47.5675	L	OILF	KW		00				0		184	Asia/Kuwait	2012-01-19
+388127	Ḑulay‘ az Zunayf	Dulay` az Zunayf	Dulay` az Zunayf,ضُلَيْع اَلزُّنَيْف,Ḑulay‘ az Zunayf	28.99056	48.08111	L	LCTY	KW		00				0		106	Asia/Kuwait	2012-01-19
+388128	Al Jathāthīl	Al Jathathil	Al Jathathil,Al Jathāthīl,aaljathathil,اَلْجَثَاثِيل	29.01194	47.50778	L	AREA	KW		00				0		176	Asia/Kuwait	2012-01-19
+388154	Umm al Haymān	Umm al Hayman	Umm al Hayman,Umm al Haymān,aum aalhayman,أُمّ اَلْهَيْمَان	28.93972	48.1875	T	DUNE	KW		00				0		7	Asia/Kuwait	2012-01-19
+388159	Ad Diyūd	Ad Diyud	Ad Diyud,Ad Diyūd,aaldiyud,اَلدِّيُود	28.63028	48.37472	T	RDGE	KW		04				0		3	Asia/Kuwait	2024-07-14
+388438	tsst	tsst	tsst,tst,تسّْت	28.74861	48.30528	T	PT	KW		00				0		3	Asia/Kuwait	2011-11-06
+388584	Umm ar Ruwaysāt	Umm ar Ruwaysat	Umm ar Ruwaysat,Umm ar Ruwaysāt,aum aalruwaysat,أُمّ اَلرُّوَيْسَات	29.5	47.01917	L	LCTY	KW		00				0		207	Asia/Kuwait	2012-01-19
+388585	Abraq al Ḩabārī	Abraq al Habari	Abraq al Habari,Abraq al Ḩabārī,aabraq aalhabari,أَبْرَق اَلْحَبَارِي	29.50028	46.96	T	SCRP	KW		00				0		212	Asia/Kuwait	2012-01-19
+391287	Ahmadi	Ahmadi	Ahmadi,aahmadi,أَهْمَدِ	29.03727	48.06298	S	AIRQ	KW		00				0	112	105	Asia/Kuwait	2018-04-07
+391292	Al Aḩmadi	Al Ahmadi	Al Ahmadi,Al Aḩmadi,aalaahmadi,اَلأَحْمَدِ	29.04556	48.00583	L	OILF	KW		00				0		51	Asia/Kuwait	2012-01-19
+391316	Failaka Helipad	Failaka Helipad	Failaka,Failaka Helipad,faylakat,فَيْلَكَة	29.44333	48.28333	S	AIRH	KW		02				0	20	3	Asia/Kuwait	2018-04-07
+393280	Ar Rawḑatayn	Ar Rawdatayn	Ar Rawdatayn,Ar Rawḑatayn,aalrawdatayn,اَلرَّوْضَتَيْن	29.88167	47.63028	L	AREA	KW		00				0		45	Asia/Kuwait	2012-01-19
+393283	Ali Al Salem Airbase	Ali Al Salem Airbase	Ali Al Salem Airbase,Ali al Salem Airbase,OKAS,عَلِ اَلسَّلَم أَِرْبَسَة	29.34726	47.52222	S	AIRB	KW		00				0	150	142	Asia/Kuwait	2018-04-07
+393305	Shiqqat Umm al Madāfi‘	Shiqqat Umm al Madafi`	Shiqqat Umm al Madafi`,Shiqqat Umm al Madāfi‘,شِقَّة أُمّ اَلْمَدَافِع	29.79194	47.29833	T	VAL	KW		00				0		119	Asia/Kuwait	2012-01-19
+393311	Jirīshān Police Post	Jirishan Police Post	Jirishan Police Post,Jirīshān Police Post	29.94917	47.13944	S	PP	KW		00				0		112	Asia/Kuwait	2024-07-14
+393526	Raudhatain	Raudhatain	Raudhatain	29.89193	47.73748	S	AIRQ	KW		00				0	45	50	Asia/Kuwait	2018-04-07
+393528	Umm al Aish	Umm al Aish	aum aalaaish,أُمّ اَلأَِش	29.81667	47.73167	S	AIRQ	KW		00				0		33	Asia/Kuwait	2006-08-23
+393537	Khashm Ghuḑayy	Khashm Ghudayy	Khashm Ghudayy,Khashm Ghuḑayy,khashm ghuday,خَشْم غُضَيّ	29.5025	47.77444	T	PK	KW		00				0	110	104	Asia/Kuwait	2012-01-19
+393569	Al ‘Awjah	Al `Awjah	Al `Awjah,Al ‘Awjah,اَلْعَوْجَة	29.57917	47.88361	T	HLL	KW		00				0	61	57	Asia/Kuwait	2012-01-19
+393884	Ahmed Al Jaber Air Base	Ahmed Al Jaber Air Base	Ahmed Al Jaber Air Base,OKAJ,XIJ	28.93956	47.79078	S	AIRB	KW		00				0	124	121	Asia/Kuwait	2014-04-20
+393907	Qalamat al Manāqīsh	Qalamat al Manaqish	Qalamat al Manaqish,Qalamat al Manāqīsh,qalamat aalmanaqish,قَلَمَة اَلْمَنَاقِيش	28.95278	47.59389	L	LCTY	KW		00				0		169	Asia/Kuwait	2012-01-19
+394030	Khafjī Oilfield	Khafji Oilfield	Khafji Oilfield,Khafjī Oilfield,khafji auilfaild,خَفْجِي أُِلْفَِلْد	28.45833	48.94167	L	OILF	KW		00				0		-9999	Asia/Kuwait	2012-01-19
+394049	Burgan Field	Burgan Field	Burgan Field	28.95833	48.06667	L	OILF	KW		00				0		90	Asia/Kuwait	2012-01-19
+394259	Markaz al Ḩamāţīyāt	Markaz al Hamatiyat	Markaz al Hamatiyat,Markaz al Ḩamāţīyāt,markaz aalhamatiaat,مَرْكَز اَلْحَمَاطِيَّات	28.88694	47.52306	S	PP	KW		00				0		184	Asia/Kuwait	2012-01-19
+412756	Jazīrat Warbah	Jazirat Warbah	Jazirat Warbah,Jazīrat Warbah,jazirat warbat,جَزِيرَة وَرْبَة	30.00167	48.08167	T	ISL	KW		05				0		-2	Asia/Kuwait	2010-08-03
+412757	Markaz Warbah	Markaz Warbah	Markaz Warbah,markaz warbat,مَرْكَز وَرْبَة	30.01194	48.12611	S	PP	KW		05				0		6	Asia/Kuwait	2012-01-19
+412798	Qaşm Dasmān	Qasm Dasman	Qasm Dasman,Qaşm Dasmān,qasm dasman,قَصْم دَسْمَان	29.38	47.99611	P	PPLX	KW		00				0		8	Asia/Kuwait	2012-01-19
+412799	Al Bid‘	Al Bid`	Al Bid`,Al Bid‘,اَلْبِدْع	29.31222	48.08778	P	PPLX	KW		00				0		8	Asia/Kuwait	2024-07-13
+412800	Şabāḩ as Sālim	Sabah as Salim	Sabah Al Salem,Sabah as Salim,Sabah as Salim as Sabbah,sabah aalsaalim,Şabāḩ as Salim aş Sabbāḩ,Şabāḩ as Sālim,صَبَاح اَلسَّالِم	29.25722	48.05722	P	PPL	KW		09				139163		32	Asia/Kuwait	2024-05-23
+412801	Umm Ghār	Umm Ghar	Umm Ghar,Umm Ghār,aum ghar,أُمّ غَار	29.3525	47.65056	L	AREA	KW		00				0		33	Asia/Kuwait	2024-07-13
+412802	Al Aţrāf	Al Atraf	Al Atraf,Al Aţrāf,aalaatraf,اَلأَطْرَاف	29.315	47.59167	L	AREA	KW		00				0		87	Asia/Kuwait	2024-07-13
+412803	Rujm Khashmān	Rujm Khashman	Rujm Khashman,Rujm Khashmān,rujm khashman,رُجْم خَشْمَان	29.20667	47.89944	L	AREA	KW		00				0		41	Asia/Kuwait	2012-01-19
+412804	Umm al Qashīsh	Umm al Qashish	Umm al Qashish,Umm al Qashīsh,aum aalqashish,أُمّ اَلْقَشِيش	29.35806	47.74361	L	AREA	KW		00				0		6	Asia/Kuwait	2012-01-19
+412805	Fasht Qushayr	Fasht Qushayr	Fasht Qushayr,fasht qushayr,فَشْت قُشَيْر	29.37306	47.7675	H	SHOL	KW		00				0		-9999	Asia/Kuwait	2012-01-19
+412808	Baḩrat al Mirfī	Bahrat al Mirfi	Bahrat al Mirfi,Baḩrat al Mirfī,bahrat aalmirfi,بَحْرَة اَلْمِرْفِي	29.39889	47.70722	H	WAD	KW		00				0		1	Asia/Kuwait	2012-01-19
+412809	Thamīlat Ghathah	Thamilat Ghathah	Thamilat Ghathah,Thamīlat Ghathah,thamilat ghathat,ثَمِيلَة غَثَة	29.40722	47.70111	H	WAD	KW		00				0		13	Asia/Kuwait	2012-01-19
+412810	Baḩrat Umm Ghār	Bahrat Umm Ghar	Bahrat Umm Ghar,Baḩrat Umm Ghār,bahrat aum ghar,بَحْرَة أُمّ غَار	29.35917	47.62917	H	WAD	KW		00				0		60	Asia/Kuwait	2012-01-19
+412811	Khabrat Rājī	Khabrat Raji	Khabrat Raji,Khabrat Rājī,khabrat raji,خَبْرَة رَاجِي	29.48944	47.72944	H	WTRH	KW		00				0		73	Asia/Kuwait	2012-01-19
+412812	Khabrat al Mijmad	Khabrat al Mijmad	Khabrat al Mijmad,khabrat aalmijmad,خَبْرَة اَلْمِجْمَد	29.42111	47.58639	H	WTRH	KW		00				0		121	Asia/Kuwait	2012-01-19
+412843	Jazīrat Būbiyān	Jazirat Bubiyan	Jazirat Bubiyan,Jazīrat Būbiyān,jazirat bubian,جَزِيرَة بُوبِيَان	29.74472	48.35083	T	ISL	KW		05				0		1	Asia/Kuwait	2010-08-10
+413266	Qiţ‘at Bida‘	Qit`at Bida`	Qit`at Bida`,Qit‘at Bida‘,Qiţ‘at Bida‘,قِطْعَة بِدَع	29.29194	48.10611	H	RF	KW		08				0		-9999	Asia/Kuwait	2012-02-02
+413267	Qiţ‘at Funayţīs	Qit`at Funaytis	Qit`at Funaitis,Qit`at Funaytis,Qit‘at Funaitis,Qit‘at Funaitis̄,Qiţ‘at Funayţīs,قِطْعَة فُنَيْطِيس	29.22722	48.11528	H	RF	KW		09				0		-9999	Asia/Kuwait	2012-01-19
+413270	Qiţ‘at al Bunayyah	Qit`at al Bunayyah	Qit`at al Bunayyah,Qiţ‘at al Bunayyah,قِطْعَة اَلْبُنَيَّة	28.61667	48.42917	H	RF	KW		04				0		-9999	Asia/Kuwait	2012-01-19
+413271	Qiţ‘at Salāmah	Qit`at Salamah	Qit`at Salamah,Qiţ‘at Salāmah,قِطْعَة سَلاَمَة	28.79583	48.38944	H	RF	KW		05				0		-9999	Asia/Kuwait	2012-01-19
+414900	Dawḩat az Zawr	Dawhat az Zawr	Dawhat az Zawr,Dawḩat az Zawr,dawhat aalzawr,دَوْحَة اَلزَّوْر	28.76389	48.45083	H	BAY	KW		04				0		-9999	Asia/Kuwait	2012-01-19
+414930	Jazīrat Qurayn	Jazirat Qurayn	Jazirat Qurayn,Jazīrat Qurayn,jazirat qurayn,جَزِيرَة قُرَيْن	29.35861	47.90639	T	ISLT	KW		02				0		-9999	Asia/Kuwait	2010-08-10
+414934	Qaşr as Sayf	Qasr as Sayf	Qasr as Sayf,Qaşr as Sayf,qasr aalsayf,قَصْر اَلسَّيْف	29.38	47.975	S	PAL	KW		02				0		9	Asia/Kuwait	2012-01-19
+414939	Umm Şiddah	Umm Siddah	Umm Siddah,Umm Şiddah,aum sidat,أُمّ صِدَّة	29.36194	47.9925	P	PPLX	KW		02				0		18	Asia/Kuwait	2012-01-19
+414949	Khawr al ‘Awjah	Khawr al `Awjah	Khawr al `Awjah,Khawr al ‘Awjah,خَوْر اَلْعَوْجَة	29.59694	47.87028	T	DPR	KW		05				0		44	Asia/Kuwait	2012-01-19
+414950	Baḩrat al ‘Awjah	Bahrat al `Awjah	Bahrat al `Awjah,Baḩrat al ‘Awjah,بَحْرَة اَلْعَوْجَة	29.59306	47.90528	T	DPR	KW		05				0		21	Asia/Kuwait	2012-01-19
+414973	Ghuḑayy	Ghudayy	Ghudayy,Ghuḑayy,ghuday,غُضَيّ	29.5075	47.82861	H	SBKH	KW		05				0		2	Asia/Kuwait	2012-01-19
+414974	Ḑulay‘ ar Rukhām	Dulay` ar Rukham	Dulay` ar Rukham,ضُلَيْع اَلرُّخَام,Ḑulay‘ ar Rukhām	29.65667	47.92167	T	HLL	KW		05				0		93	Asia/Kuwait	2012-01-19
+414975	Markaz Mudayyarah	Markaz Mudayyarah	Markaz Mudayyarah,markaz mudayarat,مَرْكَز مُدَيَّرَة	29.55722	47.91306	S	PP	KW		00				0		10	Asia/Kuwait	2012-01-19
+414976	Şakhrat Mudayyarah	Sakhrat Mudayyarah	Sakhrat Mudayyarah,sakhrat mudayarat,Şakhrat Mudayyarah,صَخْرَة مُدَيَّرَة	29.54778	47.89306	T	RK	KW		00				0		5	Asia/Kuwait	2012-01-19
+414977	Umm Ghaţţī	Umm Ghatti	Umm Ghatti,Umm Ghaţţī,aum ghatiy,أُمّ غَطِّي	29.63639	47.9675	T	SAND	KW		05				0		3	Asia/Kuwait	2012-01-19
+414978	Al ‘Arfajīyah	Al `Arfajiyah	Al `Arfajiyah,Al ‘Arfajīyah,العرفجية,اَلْعَرْفَجِيَّة	29.70028	48.09556	P	PPL	KW		05				0		4	Asia/Kuwait	2012-01-19
+414979	Al ‘Ulaymīyah	Al `Ulaymiyah	Al Alaymah,Al `Ulaymiyah,Al ‘Ulaymīyah,Al-`Alaimah,Al-‘Alaimah,العليميه,اَلْعُلَيْمِيَّة	29.68806	48.11417	P	PPL	KW		05				0		2	Asia/Kuwait	2020-06-11
+415008	Ḩadd al Ḩimārah	Hadd al Himarah	Hadd al Himarah,had aalhimarat,حَدّ اَلْحِمَارَة,Ḩadd al Ḩimārah	28.55944	48.41056	L	LCTY	KW		04				0		9	Asia/Kuwait	2012-01-19
+6300091	Kuwait International Airport	Kuwait International Airport	KWI,Kuwait International,Kuwait International Airport,OKKK,kuayt aintarnatuinal,كُوَيْت إِنْتَرْنَتُِنَل	29.22657	47.96893	S	AIRP	KW		07				0	62	43	Asia/Kuwait	2023-05-29
+6492536	Ramada Hotel Kuwait	Ramada Hotel Kuwait		29.33	47.98	S	HTL	KW		02				0		27	Asia/Kuwait	2007-04-14
+6501992	Moevenpick Hotel & Convention Centre Kuwait	Moevenpick Hotel & Convention Centre Kuwait		29.37	47.97	S	HTL	KW		02				0		11	Asia/Kuwait	2007-04-14
+6512340	Lc Sheraton Kuwait Htl And Twr	LC SHERATON KUWAIT HTL AND TWR		29.3333	47.9833	S	HTL	KW		02				0		22	Asia/Kuwait	2007-04-13
+6516438	Jw Marriott Kuwait	JW MARRIOTT KUWAIT		29.3697	47.9783	S	HTL	KW		02				0		16	Asia/Kuwait	2007-04-12
+6516686	Radisson Sas Hotel Kuwait	RADISSON SAS HOTEL KUWAIT		29.3697	47.9783	S	HTL	KW		02				0		16	Asia/Kuwait	2007-04-12
+6518484	Moevenpick Resort And Residence	MOEVENPICK RESORT AND RESIDENCE		29.3333	47.9833	S	HTL	KW		02				0		22	Asia/Kuwait	2007-04-15
+6526661	Safir International Hotel Kuwai	SAFIR INTERNATIONAL HOTEL KUWAI		29.3697	47.9783	S	HTL	KW		02				0		16	Asia/Kuwait	2007-04-14
+6527674	The Palms Beach Hotel And Spa	THE PALMS BEACH HOTEL AND SPA		29.3697	47.9783	S	HTL	KW		02				0		16	Asia/Kuwait	2007-04-14
+6528550	Four Points  Kuwait	FOUR POINTS  KUWAIT		29.3333	47.9833	S	HTL	KW		02				0		22	Asia/Kuwait	2007-04-14
+6528684	Le Meridien Kuwait	LE MERIDIEN KUWAIT		29.3295	47.6831	S	HTL	KW						0		22	Asia/Kuwait	2007-04-14
+6528956	Courtyard Kuwait	COURTYARD KUWAIT		29.3333	47.9833	S	HTL	KW		02				0		22	Asia/Kuwait	2007-04-14
+6532112	Kempinski Hotel Julaia	KEMPINSKI HOTEL JULAIA		29.3295	47.6831	S	HTL	KW						0		22	Asia/Kuwait	2007-04-14
+6751189	Makhfar Shurţat al ‘Abdalī	Makhfar Shurtat al `Abdali	Al `Abdali Police Post,Al ‘Abdalī Police Post,Makhfar Shurtat al `Abdali,Makhfar Shurţat al ‘Abdalī,مخفر شرطة العبدلي	30.09116	47.71018	S	PP	KW	IQ	05				0		13	Asia/Kuwait	2017-06-07
+6942029	Highway of Death	Highway of Death	Auto-put smrti,Autocesta smrti,Autoestrada da Morte,Autopista de la muerte,Autostrada della morte,Doedens motorvaeg,Dödens motorväg,Kuoleman moottoritie,Mirties greitkelis,Shosse smerti,Snelweg des Doods,sinohaiuei,tryq almwt,Ауто-пут смрти,Шоссе смерти,طريق الموت,死のハイウェイ	29.3842	47.6518	P	PPL	KW						0		44	Asia/Kuwait	2025-11-01
+7325098	Umm al ‘Aysh KOC Camp	Umm al `Aysh KOC Camp	Umm al `Aysh KOC Camp,Umm al ‘Aysh KOC Camp	29.81154	47.73372	S	CMP	KW		00				0		33	Asia/Kuwait	2012-02-02
+7326228	Bridge Būbyān	Bridge Bubyan		29.60366	48.16416	S	BDG	KW		00				0		-9999	Asia/Kuwait	2010-08-06
+7329407	Markaz al Fanţās	Markaz al Fantas		29.17097	48.0993	L	AREA	KW		00				0		24	Asia/Kuwait	2011-12-08
+7329408	Maktab Barīd al Fnţās	Maktab Barid al Fntas		29.17213	48.11636	S	PO	KW		00				0		11	Asia/Kuwait	2010-08-06
+7329409	Al Quşūr	Al Qusur		29.21748	48.0726	P	PPL	KW		09				0		35	Asia/Kuwait	2017-06-22
+7329410	Al Qurayn	Al Qurayn		29.2043	48.0757	P	PPL	KW		09				0		37	Asia/Kuwait	2017-06-22
+7329411	Mubārak al Kabīr	Mubarak al Kabir	Mubarak Al-Kabeer,Mubarak al Kabir,Mubarak al'-Kabir,Muebarak el Kebir,Mübarak el Kebir,mbark alkbyr,mbark kbyr,mubaraka ala kabira,mubaraku・aru・kabiru,mubareki ʿeል kabiri,Мубарак аль-Кабир,مبارك الكبير,مبارک الکبیر,مبارک کبیر,मुबारक अल कबीर,মুবারক আল কাবির,ਮੁਬਾਰਕ ਅਲ ਕਬੀਰ,ሙባረክ አል ካቢር,ムバラク・アル・カビール	29.18979	48.08716	P	PPLA	KW		09				0		37	Asia/Kuwait	2026-04-14
+7329412	Aţ Ţarīq ad Dā’irī as Sābi‘ as Sarī‘	At Tariq ad Da'iri as Sabi` as Sari`		29.17838	48.07273	R	RD	KW		00				0		65	Asia/Kuwait	2010-08-06
+7628194	Sulabiyah transmitter, Tower Northwest	Sulabiyah transmitter, Tower Northwest		29.13511	47.76509	S	TOWR	KW		04				0		99	Asia/Kuwait	2011-01-03
+7628195	Sulabiyah transmitter, Tower Northeast	Sulabiyah transmitter, Tower Northeast		29.13482	47.76648	S	TOWR	KW		04				0		97	Asia/Kuwait	2011-01-03
+7628196	Sulabiyah transmitter, Tower Southwest	Sulabiyah transmitter, Tower Southwest		29.13273	47.76439	S	TOWR	KW		04				0		92	Asia/Kuwait	2011-01-03
+7628197	Sulabiyah transmitter, Tower Southeast	Sulabiyah transmitter, Tower Southeast		29.13242	47.76577	S	TOWR	KW		04				0		96	Asia/Kuwait	2011-01-03
+7648189	Sulaibiyah Mediumwave Transmitter, Tower Northwest	Sulaibiyah Mediumwave Transmitter, Tower Northwest		29.14635	47.77984	S	TOWR	KW		04				0		79	Asia/Kuwait	2011-01-30
+7648190	Sulaibiyah Mediumwave Transmitter, Tower Southwest	Sulaibiyah Mediumwave Transmitter, Tower Southwest		29.14578	47.77991	S	TOWR	KW		04				0		87	Asia/Kuwait	2011-01-30
+7648191	Sulaibiyah Mediumwave Transmitter, Tower Northeast	Sulaibiyah Mediumwave Transmitter, Tower Northeast		29.14658	47.78117	S	TOWR	KW		04				0		82	Asia/Kuwait	2011-01-30
+7648192	Sulaibiyah Mediumwave Transmitter, Tower Southeast	Sulaibiyah Mediumwave Transmitter, Tower Southeast		29.146	47.78125	S	TOWR	KW		04				0		76	Asia/Kuwait	2011-01-30
+7648618	Al Maqwa Mediumwave Transmitter, Tower East	Al Maqwa Mediumwave Transmitter, Tower East		29.18408	48.04545	S	TOWR	KW		04				0		85	Asia/Kuwait	2011-02-03
+7648619	Al Maqwa Mediumwave Transmitter, Tower West1	Al Maqwa Mediumwave Transmitter, Tower West1		29.18252	48.03914	S	TOWR	KW		04				0		94	Asia/Kuwait	2011-02-03
+7648621	Al Maqwa Mediumwave Transmitter, Tower West2	Al Maqwa Mediumwave Transmitter, Tower West2		29.18237	48.03968	S	TOWR	KW		04				0		92	Asia/Kuwait	2011-02-03
+7649089	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 1	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 1		29.50339	47.68656	S	TOWR	KW						0		99	Asia/Kuwait	2011-02-07
+7649090	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 2	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 2		29.50344	47.68707	S	TOWR	KW						0		99	Asia/Kuwait	2011-02-07
+7649091	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 3	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 3		29.50252	47.68678	S	TOWR	KW						0		102	Asia/Kuwait	2011-02-07
+7649092	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Central Tower	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Central Tower		29.50299	47.68694	S	TOWR	KW						0		99	Asia/Kuwait	2011-02-07
+7649093	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 4	Umm Al-Rimam Mediumwave Transmitter ( 1548 kHz), Ring Tower 4		29.5026	47.68726	S	TOWR	KW						0		99	Asia/Kuwait	2011-02-07
+7649154	Umm Al-Rimam Mediumwave Transmitter, Tower Southwest	Umm Al-Rimam Mediumwave Transmitter, Tower Southwest		29.50167	47.68694	S	TOWR	KW						0		104	Asia/Kuwait	2011-02-08
+7649155	Umm Al-Rimam Mediumwave Transmitter, Tower Southeast	Umm Al-Rimam Mediumwave Transmitter, Tower Southeast		29.50173	47.68742	S	TOWR	KW						0		105	Asia/Kuwait	2011-02-08
+7732322	Future Communications Company Global	Future Communications Company Global		29.38206	47.98535	S	BLDO	KW		02				0		18	Asia/Kuwait	2011-03-28
+7733358	Muḩāfaz̧at Mubārak al Kabīr	Muhafazat Mubarak al Kabir	Mubarak al Kabir,Mubarak əl-Kabir,Mubārak al Kabīr,Muhafazat Mubarak al Kabir,Muḩāfaz̧at Mubārak al Kabīr,mbark alkbyr,mubaraka ala kabira,mubaraku・aru・kabiru,mubareki ʿeል kabiri,Мубарак әл-Кабир,مبارك الكبير,মুবারক আল কাবির,ਮੁਬਾਰਕ ਅਲ ਕਾਬਿਰ,ሙባረክ አል ካቢር,ムバーラク・アル・カービル	29.225	48.05	A	ADM1	KW		09				223716		54	Asia/Kuwait	2026-04-16
+8300014	Al ‘Adan	Al 'Adan	Al `Adan,Al ‘Adan,Al-Adan	29.23274	48.0685	P	PPL	KW		09				0		36	Asia/Kuwait	2017-06-22
+8986155	Jaber Al Ali	Jaber Al Ali	Jaber Al Ali,XIJ	29.17082	48.0724	P	PPLL	KW		04				0		57	Asia/Kuwait	2014-04-20
+9252708	Shuaiba Power Plant	Shuaiba Power Plant		29.0359	48.1536	S	PS	KW						0		3	Asia/Kuwait	2014-07-21
+9884371	Marina	Marina		29.34347	48.06404	S	HTL	KW						0		-9999	Asia/Kuwait	2015-01-02
+9958961	Le Royal Tower	Le Royal Tower		29.36737	47.96772	S	HTL	KW		02				0		21	Asia/Kuwait	2015-01-16
+9958963	Le Royal Hotel	Le Royal Hotel		29.37604	48.0045	S	HTL	KW						0		8	Asia/Kuwait	2015-01-16
+9958964	Four Points Sheraton	Four Points Sheraton		29.3612	47.9626	S	HTL	KW		02				0		11	Asia/Kuwait	2015-01-16
+9958966	The Courtyard By Marriott Kuwait City	The Courtyard By Marriott Kuwait City		29.37705	47.99041	S	HTL	KW		02				0		17	Asia/Kuwait	2015-01-16
+9966218	Holiday Inn Kuwait	Holiday Inn Kuwait		29.34666	48.09372	S	HTL	KW						0		11	Asia/Kuwait	2015-01-20
+9966233	Four Points By Sheraton	Four Points By Sheraton		29.36168	47.96266	S	HTL	KW		02				0		19	Asia/Kuwait	2015-01-20
+9969086	Symphony Style Hotel Kuwait Formerly Hotel Missoni	Symphony Style Hotel Kuwait Formerly Hotel Missoni		29.34624	48.08474	S	HTL	KW						0		4	Asia/Kuwait	2015-01-22
+9969169	Le Royal Tower Kuwait	Le Royal Tower Kuwait		29.3731	48.00523	S	HTL	KW						0		13	Asia/Kuwait	2015-01-22
+9969309	Swiss Belhotel Plaza	Swiss Belhotel Plaza		29.36655	47.96769	S	HTL	KW		02				0		22	Asia/Kuwait	2015-01-22
+9969648	Radisson Blu Hotel	Radisson Blu Hotel		29.30134	48.0866	S	HTL	KW						0		7	Asia/Kuwait	2015-01-22
+10055457	Continental Kuwait	Continental Kuwait		29.3741	47.9976	S	HTL	KW		02				0		9	Asia/Kuwait	2015-02-09
+10055459	Spice Boutique	Spice Boutique		29.34764	48.09391	S	HTL	KW						0		9	Asia/Kuwait	2015-02-09
+10055460	Ritz Salmiya	Ritz Salmiya		29.372	47.981	S	HTL	KW		02				0		18	Asia/Kuwait	2015-02-09
+10055462	The Regency	The Regency		29.31661	48.0891	S	HTL	KW						0		8	Asia/Kuwait	2015-02-09
+10055464	Al Manshar Rotana	Al Manshar Rotana		29.07796	48.13904	S	HTL	KW						0		11	Asia/Kuwait	2015-02-09
+10055466	Mirage Suites Hotel	Mirage Suites Hotel		29.3695	48.0106	S	HTL	KW						0		8	Asia/Kuwait	2015-02-09
+10055467	Holiday Inn Downtown Kuwait	Holiday Inn Downtown Kuwait		29.386	47.99	S	HTL	KW						0		11	Asia/Kuwait	2015-02-09
+10055469	Halawi Continental	Halawi Continental		29.38132	48.00071	S	HTL	KW						0		8	Asia/Kuwait	2015-02-09
+10055471	Plaza Athenee Kuwait	Plaza Athenee Kuwait		29.38149	47.98885	S	HTL	KW		02				0		12	Asia/Kuwait	2015-02-09
+10055473	Kuwait Hyatt Hotel & Suites	Kuwait Hyatt Hotel & Suites		29.28476	48.05883	S	HTL	KW		08				0		12	Asia/Kuwait	2025-10-10
+10055474	Gulf Casa Suites	Gulf Casa Suites		29.37416	47.99775	S	HTL	KW		02				0		9	Asia/Kuwait	2015-02-09
+10055476	Missoni	Missoni		29.36972	47.97833	S	HTL	KW		02				0		16	Asia/Kuwait	2015-02-09
+10055478	Continental Farwaniya	Continental Farwaniya		29.29767	47.97965	S	HTL	KW						0		35	Asia/Kuwait	2015-02-09
+10055480	Costa Del Sol	Costa Del Sol		29.34985	48.03221	S	HTL	KW						0		10	Asia/Kuwait	2015-02-09
+10055482	Carlton Tower Kuwait	Carlton Tower Kuwait		29.3668	47.9656	S	HTL	KW		02				0		18	Asia/Kuwait	2015-02-09
+10055484	Sheraton Kuwait Hotel & Towers	Sheraton Kuwait Hotel & Towers		29.3612	47.9626	S	HTL	KW		02				0		11	Asia/Kuwait	2015-02-09
+10055486	Arinza Tower	Arinza Tower		29.34276	48.07919	S	HTL	KW						0		11	Asia/Kuwait	2015-02-09
+10055487	Crowne Plaza Kuwait City	Crowne Plaza Kuwait City		29.2726	47.9491	S	HTL	KW						0		34	Asia/Kuwait	2015-02-09
+10055489	Al Jahra Copthorne Hotel And Resort	Al Jahra Copthorne Hotel And Resort		29.32945	47.69987	S	HTL	KW						0		26	Asia/Kuwait	2015-02-09
+10055491	Le Royal Palace	Le Royal Palace		29.37302	48.00564	S	HTL	KW						0		14	Asia/Kuwait	2015-02-09
+10055493	Hussa House	Hussa House		29.36907	48.01077	S	HTL	KW						0		8	Asia/Kuwait	2015-02-09
+10055494	Jw Marriott Hotel Kuwait City	Jw Marriott Hotel Kuwait City		29.365	47.967	S	HTL	KW		02				0		29	Asia/Kuwait	2015-02-09
+10055496	Royal Residence	Royal Residence		29.37038	48.0048	S	HTL	KW						0		11	Asia/Kuwait	2015-02-09
+10055498	Boudl	Boudl		29.37161	47.98221	S	HTL	KW		02				0		16	Asia/Kuwait	2015-02-09
+10055499	Ghani Palace	Ghani Palace		29.34248	48.04614	S	HTL	KW						0		9	Asia/Kuwait	2015-02-09
+10055500	Ibis Sharq	Ibis Sharq		29.37852	47.99291	S	HTL	KW		02				0		12	Asia/Kuwait	2015-02-09
+10055502	Safir Fintas	Safir Fintas		29.18495	48.11734	S	HTL	KW						0		6	Asia/Kuwait	2015-02-09
+10055505	Moevenpick Hotel & Resort Al Bida'a	Moevenpick Hotel & Resort Al Bida'a		29.31881	48.08842	S	HTL	KW						0		9	Asia/Kuwait	2015-02-09
+10055506	Corniche Kuwait	Corniche Kuwait		29.34283	47.09614	S	HTL	KW						0		226	Asia/Kuwait	2015-02-09
+10055507	Safir Bastaki	Safir Bastaki		29.377	47.999	S	HTL	KW						0		10	Asia/Kuwait	2015-02-09
+10055509	Times Square Suite Hotel	Times Square Suite Hotel		29.33074	48.01124	S	HTL	KW		08				0		29	Asia/Kuwait	2015-02-09
+10055511	Ritz Sharq	Ritz Sharq		29.372	47.981	S	HTL	KW		02				0		18	Asia/Kuwait	2015-02-09
+10055513	Oasis Kuwait	Oasis Kuwait		29.30317	48.06479	S	HTL	KW						0		14	Asia/Kuwait	2015-02-09
+10056718	Ibis Salmiya Hotel	Ibis Salmiya Hotel		29.34305	48.0767	S	HTL	KW						0		7	Asia/Kuwait	2015-02-09
+10086722	Best Western Hotel	Best Western Hotel		29.238	48.109	S	HTL	KW						0		-9999	Asia/Kuwait	2015-02-12
+10086723	Jumeirah Messilah Beach Hotel	Jumeirah Messilah Beach Hotel		29.269	48.089	S	HTL	KW						0		7	Asia/Kuwait	2015-02-12
+10086724	Le Royal Express Hotel Salmiy	Le Royal Express Hotel Salmiy		29.37271	47.98017	S	HTL	KW		02				0		18	Asia/Kuwait	2015-02-12
+10086725	Le Royal Express Sharq	Le Royal Express Sharq		29.3784	47.9903	S	HTL	KW		02				0		14	Asia/Kuwait	2015-02-12
+10086726	Le Royal Arabia Kuwait	Le Royal Arabia Kuwait		29.3821	47.98266	S	HTL	KW		02				0		9	Asia/Kuwait	2015-02-12
+10086727	Symphony Style Hotel Ex Miss	Symphony Style Hotel Ex Miss		29.34618	48.08492	S	HTL	KW						0		4	Asia/Kuwait	2015-02-12
+10086728	Hawthorn Hotel & Suites	Hawthorn Hotel & Suites		29.34333	48.0119	S	HTL	KW		08				0		22	Asia/Kuwait	2015-02-12
+10086729	Hawali Continental	Hawali Continental		29.29504	48.08655	S	HTL	KW						0		6	Asia/Kuwait	2015-02-12
+10086730	Corniche	Corniche		29.34283	48.09614	S	HTL	KW						0		6	Asia/Kuwait	2015-02-12
+10104358	Terrace Furnished Apartments Salmiya	Terrace Furnished Apartments Salmiya		29.32735	48.04356	S	HTL	KW						0		15	Asia/Kuwait	2015-02-18
+10104359	Terrace Furnished Apartments Hawally	Terrace Furnished Apartments Hawally		29.36972	47.97833	S	HTL	KW		02				0		16	Asia/Kuwait	2015-02-18
+10104361	Terrace Furnished Apartments Fintas 2	Terrace Furnished Apartments Fintas 2		29.36972	47.97833	S	HTL	KW		02				0		16	Asia/Kuwait	2015-02-18
+10104363	Terrace Furnished Apartments Fintas 1	Terrace Furnished Apartments Fintas 1		29.36972	47.97833	S	HTL	KW		02				0		16	Asia/Kuwait	2015-02-18
+10104365	Palazzo Kuwait Hotel	Palazzo Kuwait Hotel		29.33961	48.00587	S	HTL	KW		08				0		24	Asia/Kuwait	2015-02-18
+10104366	Leaders Plaza	Leaders Plaza		29.1751	48.10547	S	HTL	KW		04				0		19	Asia/Kuwait	2015-02-18
+10104371	Leader Apartments	Leader Apartments		29.15628	48.11883	S	HTL	KW						0		12	Asia/Kuwait	2015-02-18
+10104373	Flora Park Apartment	Flora Park Apartment		29.37065	48.00414	S	HTL	KW						0		12	Asia/Kuwait	2015-02-18
+10104375	Best Western Kuwait	Best Western Kuwait		29.13863	48.13352	S	HTL	KW						0		1	Asia/Kuwait	2015-02-18
+10113157	Intercontinental Kuwait	Intercontinental Kuwait		29.34339	48.07616	S	HTL	KW						0		6	Asia/Kuwait	2015-02-23
+10113309	Jumeirah Messilah Beach Hotel And Spa	Jumeirah Messilah Beach Hotel And Spa		29.2688	48.08887	S	HTL	KW						0		7	Asia/Kuwait	2015-02-23
+10117717	Kempinski Julai'a Hotel And Resort	Kempinski Julai'a Hotel And Resort		29.0372	48.0628	S	HTL	KW		04				0		107	Asia/Kuwait	2015-02-25
+10117718	Ai Jahra Copthone Hotel & Resort	Ai Jahra Copthone Hotel & Resort		29.36423	47.64624	S	HTL	KW						0		43	Asia/Kuwait	2015-02-25
+10120897	Symphony Style Hotel Kuwait	Symphony Style Hotel Kuwait		29.36972	47.97833	S	HTL	KW		02				0		16	Asia/Kuwait	2015-02-26
+10121596	Towneplace Suites	Towneplace Suites		29.36607	47.96948	S	HTL	KW		02				0		20	Asia/Kuwait	2015-02-26
+10128663	Movenpick Hotel Kuwait	Movenpick Hotel Kuwait		29.34744	47.91405	S	HTL	KW		02				0		-1	Asia/Kuwait	2015-03-06
+10128664	New Park Hotel	New Park Hotel		29.3425	48.0362	S	HTL	KW						0		9	Asia/Kuwait	2015-03-06
+10129296	Hawthorn Hotel & Suites Hawally	Hawthorn Hotel & Suites Hawally		29.34325	48.01187	S	HTL	KW		08				0		22	Asia/Kuwait	2015-03-09
+10129297	Movenpick Hotel & Resort Al Bida'a Kuwait	Movenpick Hotel & Resort Al Bida'a Kuwait		29.32053	48.08613	S	HTL	KW						0		6	Asia/Kuwait	2015-03-09
+10172606	Al Jahra Copthorne Hotel &Amp Resort	Al Jahra Copthorne Hotel &Amp Resort		29.36224	47.68413	S	HTL	KW						0		3	Asia/Kuwait	2015-03-14
+10173853	Safat	Safat		29.37136	47.97298	P	PPLX	KW		02				0		12	Asia/Kuwait	2015-03-25
+10176924	Movenpick Resort	Movenpick Resort		29.34698	47.9145	S	HTL	KW		02				0		-9999	Asia/Kuwait	2015-04-01
+10176927	Mövenpick Hotel Kuwait	Moevenpick Hotel Kuwait		29.34744	47.91405	S	HTL	KW		02				0		-1	Asia/Kuwait	2015-04-01
+10228847	Jumeirah Messilah Beach Hotel & Spa	Jumeirah Messilah Beach Hotel & Spa		29.26895	48.08893	S	HTL	KW						0		7	Asia/Kuwait	2015-04-20
+10229302	Oasis Hotel Kuwait	Oasis Hotel Kuwait		29.37479	47.97729	S	HTL	KW		02				0		19	Asia/Kuwait	2015-04-20
+10231176	Mövenpick Hotel And Residence Al Bidaa	Moevenpick Hotel And Residence Al Bidaa		29.32384	48.08875	S	HTL	KW						0		18	Asia/Kuwait	2015-04-21
+10231177	Le Meridien Tower	Le Meridien Tower		29.36127	47.96322	S	HTL	KW		02				0		14	Asia/Kuwait	2015-04-21
+10238362	Al Bstaki International Hotel	Al Bstaki International Hotel		29.37456	47.99773	S	HTL	KW		02				0		9	Asia/Kuwait	2015-04-28
+10238911	Arinza Tower Quality Suites	Arinza Tower Quality Suites		29.34276	48.07919	S	HTL	KW						0		11	Asia/Kuwait	2015-04-28
+10238922	Times Square Suites	Times Square Suites		29.3307	48.01127	S	HTL	KW		08				0		29	Asia/Kuwait	2015-04-28
+10245563	Residence Inn Kuwait City	Residence Inn Kuwait City		29.38677	47.98915	S	HTL	KW						0		12	Asia/Kuwait	2015-05-07
+10279692	Sheraton Hotel and Towers	Sheraton Hotel and Towers		29.36146	47.96258	S	HTL	KW		02				0		19	Asia/Kuwait	2015-05-15
+10280200	Sheraton Kuwait Hotel Andamp Towers	Sheraton Kuwait Hotel Andamp Towers		29.36219	47.96236	S	HTL	KW		02				0		16	Asia/Kuwait	2015-05-15
+10281210	Crowne Plaza Hotel	Crowne Plaza Hotel		29.3698	47.9784	S	HTL	KW		02				0		16	Asia/Kuwait	2015-05-18
+10281362	Hilton Kuwait Resort	Hilton Kuwait Resort		29.11642	48.13623	S	HTL	KW		04				0		4	Asia/Kuwait	2022-03-26
+10285334	Ibis Salmiya and Sharq	Ibis Salmiya and Sharq		29.3423	48.0762	S	HTL	KW						0		8	Asia/Kuwait	2015-05-22
+10289920	Salmiya Palace	Salmiya Palace		29.3756	47.81657	S	HTL	KW						0		3	Asia/Kuwait	2015-05-27
+10289921	Grand Hyatt Kuwait	Grand Hyatt Kuwait		29.26674	47.99556	S	HTL	KW		02				0		43	Asia/Kuwait	2025-09-05
+10289922	Crown Suites	Crown Suites		29.35059	47.96161	S	HTL	KW		02				0		8	Asia/Kuwait	2015-05-27
+10289923	Al Bastaki Int’L	Al Bastaki Int'L		29.377	47.999	S	HTL	KW						0		10	Asia/Kuwait	2015-05-27
+10340629	Times Square Residence	Times Square Residence		29.33074	48.01124	S	HTL	KW		08				0		29	Asia/Kuwait	2015-06-12
+10340630	Moevenpick Hotel and Resort Al Bida A	Moevenpick Hotel and Resort Al Bida A		29.34698	47.9145	S	HTL	KW		02				0		-9999	Asia/Kuwait	2015-06-12
+10344802	Safir Hotel and Residences Fintas Kuwait	Safir Hotel and Residences Fintas Kuwait		29.18413	48.11827	S	HTL	KW						0		6	Asia/Kuwait	2015-06-18
+11427343	Sawabir	Sawabir		29.37549	47.98254	P	PPLX	KW		02				0		24	Asia/Kuwait	2017-01-10
+11550722	Camp Buehring	Camp Buehring		29.69898	47.43309	S	AIRB	KW		05				0		132	Asia/Kuwait	2017-06-05
+11579278	Mazāri‘ al ‘Abdalī	Mazari' al 'Abdali	Abdali,Al `Abdali Farms,Al ‘Abdalī Farms,Mazari` al `Abdali,Mazāri‘ al ‘Abdalī,مزارع العبدلي	30.04219	47.72205	P	PPL	KW		05				6835		20	Asia/Kuwait	2024-06-15
+11579279	Markaz Ḩudūd al ‘Abdalī	Markaz Hudud al `Abdali	Al `Abdali Border Post,Al ‘Abdalī Border Post,Markaz Hudud al `Abdali,Markaz Ḩudūd al ‘Abdalī,مركز حدود العبدلي	30.08295	47.70253	S	PSTB	KW		05				0		15	Asia/Kuwait	2017-06-08
+11584609	Al ‘Abdalī	Al `Abdali	Al `Abdali,Al ‘Abdalī,العبدلي	30.06975	47.68541	L	AREA	KW		05				0		23	Asia/Kuwait	2017-06-08
+11593497	Al-Masayel	Al-Masayel		29.2393	48.08862	P	PPL	KW		09				2458		7	Asia/Kuwait	2017-06-22
+11593499	Abu Fatira	Abu Fatira		29.19746	48.10278	P	PPL	KW		09				1240		13	Asia/Kuwait	2017-06-22
+11593501	Abu Al Hasaniya	Abu Al Hasaniya		29.19076	48.11355	P	PPL	KW		09				1350		5	Asia/Kuwait	2017-06-22
+11608770	Physical Medicine and Rehabilitation Hospital	Physical Medicine and Rehabilitation Hospital		29.30587	47.88598	S	HSP	KW		07				0		17	Asia/Kuwait	2017-07-10
+11843227	Kuwait Naval Base	Kuwait Naval Base	Kuwait Naval Base	28.86442	48.27271	S	AIRH	KW		00				0		2	Asia/Kuwait	2018-04-09
+11843228	Mityahah	Mityahah	Mityahah	29.21459	46.97787	S	AIRQ	KW		00				0		247	Asia/Kuwait	2018-04-09
+11874021	Tareq Rajab Museum	Tareq Rajab Museum		29.37444	47.96722	S	MUS	KW		02				0		9	Asia/Kuwait	2018-05-15
+11874043	Amricani Cultural Centre - Dar al-Athar al-Islamiyyah	Amricani Cultural Centre - Dar al-Athar al-Islamiyyah		29.36805	47.9624	S	MSQE	KW		02				0		4	Asia/Kuwait	2018-05-15
+12110906	Hilton Garden Inn Kuwait	Hilton Garden Inn Kuwait		29.30485	47.94136	S	HTL	KW		07				0		15	Asia/Kuwait	2022-04-04
+12216231	Ad Du‘ayyah	Ad Du`ayyah	Ad Du`ayyah,Ad Du‘ayyah,الدعية	29.36016	48.01206	A	ADM2	KW		02	12216231			0		4	Asia/Kuwait	2021-02-11
+12216232	Ad Dasmah	Ad Dasmah	Ad Dasmah,aldsmt,الدسمة	29.36434	48.00081	A	ADM2	KW		02	12216232			0		8	Asia/Kuwait	2021-02-11
+12216233	Ash Sharq	Ash Sharq	Ash Sharq,alshrq,الشرق	29.38053	47.98271	A	ADM2	KW		02	12216233			0		17	Asia/Kuwait	2021-02-11
+12216234	Murqāb	Murqab	Murqab,Murqāb,mrqab,مرقاب	29.36601	47.98277	A	ADM2	KW		02	12216234			0		14	Asia/Kuwait	2021-02-11
+12216235	Qiblah	Qiblah	Qiblah,qblt,قبلة	29.37076	47.97035	A	ADM2	KW		02	12216235			0		11	Asia/Kuwait	2021-02-11
+12216236	Al Fayḩā’	Al Fayha'	Al Fayha',Al Fayḩā’,الفيحاء	29.33709	47.98136	A	ADM2	KW		02	12216236			0		21	Asia/Kuwait	2021-02-11
+12216237	Ash Shuwaykh aş Şinā‘īyah Wāḩid	AshShuwaykhasSina`iyahWahid	Ash Shuwaykh aş Şinā‘īyah Wāḩid,AshShuwaykhasSina`iyahWahid,الشويخ الصناعية واحد	29.33718	47.93922	A	ADM2	KW		02	12216237			0		7	Asia/Kuwait	2021-04-17
+12216238	Ash Shuwaykh aş Şinā‘īyah Ithnān	AshShuwaykhasSina`iyahIthnan	Ash Shuwaykh aş Şinā‘īyah Ithnān,AshShuwaykhasSina`iyahIthnan,الشويخ الصناعية إثنان	29.32338	47.95055	A	ADM2	KW		02	12216238			0		11	Asia/Kuwait	2021-04-17
+12216239	Ash Shuwaykh aş Şinā‘īyah Thalāthah	AshShuwaykhasSina`iyahThalathah	Ash Shuwaykh aş Şinā‘īyah Thalāthah,AshShuwaykhasSina`iyahThalathah,الشويخ الصناعية ثلاثة	29.32091	47.93098	A	ADM2	KW		02	12216239			0		12	Asia/Kuwait	2021-04-17
+12216240	Ash Shuwaykh at Ta‘līmīyah	Ash Shuwaykh at Ta`limiyah	Ash Shuwaykh at Ta`limiyah,Ash Shuwaykh at Ta‘līmīyah,الشويخ التعليمية	29.33695	47.91897	A	ADM2	KW		02	12216240			0		4	Asia/Kuwait	2021-02-11
+12216323	Ar Rawḑah	Ar Rawdah	Ar Rawdah,Ar Rawḑah,alrwdt,الروضة	29.33047	47.99075	A	ADM2	KW		02	12216323			0		15	Asia/Kuwait	2021-02-11
+12216328	Mīnā’ ash Shuwaykh	Mina' ash Shuwaykh	Mina' ash Shuwaykh,Mīnā’ ash Shuwaykh,ميناء الشويخ	29.35125	47.91333	A	ADM2	KW		02	12216328			0		1	Asia/Kuwait	2021-02-11
+12216329	Mu‘askarāt al Mubārakīyah	Mu`askarat al Mubarakiyah	Mu`askarat al Mubarakiyah,Mu‘askarāt al Mubārakīyah,معسكرة المباركية	29.31574	47.91332	A	ADM2	KW		02	12216329			0		11	Asia/Kuwait	2021-02-11
+12216330	Mīnā’ ad Dawḩah	Mina' ad Dawhah	Mina' ad Dawhah,Mīnā’ ad Dawḩah,ميناء الدوحة	29.35243	47.78131	A	ADM2	KW		02	12216330			0		4	Asia/Kuwait	2021-02-11
+12216331	Jazīrat Umm an Namal	Jazirat Umm an Namal	Jazirat Umm an Namal,Jazīrat Umm an Namal,jzyrt am alnml,جزيرة أم النمل	29.38289	47.86789	A	ADM2	KW		02	12216331			0		5	Asia/Kuwait	2021-02-11
+12216332	Al Maqwa‘	Al Maqwa`	Al Maqwa`,Al Maqwa‘,المقوع	29.14045	48.04426	A	ADM2	KW		04	12216332			0		100	Asia/Kuwait	2021-02-11
+12216333	Janūb aş Şabāḩīyah	Janub as Sabahiyah	Janub as Sabahiyah,Janūb aş Şabāḩīyah,jnwb alsbahyt,جنوب الصباحية	29.08279	48.1079	A	ADM2	KW		04	12216333			0		44	Asia/Kuwait	2021-02-11
+12216334	Shamāl ash Shu‘aybah	Shamal ash Shu`aybah	Shamal ash Shu`aybah,Shamāl ash Shu‘aybah,شمال الشعيبة	29.05925	48.1155	A	ADM2	KW		04	12216334			0		33	Asia/Kuwait	2021-02-11
+12216335	Janūb ash Shu‘aybah	Janub ash Shu`aybah	Janub ash Shu`aybah,Janūb ash Shu‘aybah,جنوب الشعيبة	29.0205	48.12817	A	ADM2	KW		04	12216335			0		35	Asia/Kuwait	2021-02-11
+12216336	Mīnā’ ‘Abd Allāh	Mina' `Abd Allah	Mina' `Abd Allah,Mīnā’ ‘Abd Allāh,ميناء عبد الله	29.00208	48.1524	A	ADM2	KW		04	12216336			0		18	Asia/Kuwait	2021-02-11
+12216337	Mu‘askarāt al Jahrā’	Mu`askarat al Jahra'	Mu`askarat al Jahra',Mu‘askarāt al Jahrā’,معسكرة الجهراء	29.35612	47.70226	A	ADM2	KW		05	12216337			0		1	Asia/Kuwait	2021-02-11
+12216338	Al Jahrā’ al Gharbīyah	Al Jahra' al Gharbiyah	Al Jahra' al Gharbiyah,Al Jahrā’ al Gharbīyah,الجهراء الغربية	29.3591	47.65078	A	ADM2	KW		05	12216338			0		33	Asia/Kuwait	2021-02-11
+12216339	Al Jahrā’ aş Şinā‘īyah	Al Jahra' as Sina`iyah	Al Jahra' as Sina`iyah,Al Jahrā’ aş Şinā‘īyah,الجهراء الصناعية	29.31513	47.65721	A	ADM2	KW		05	12216339			0		56	Asia/Kuwait	2021-02-11
+12216340	Al Maqbarah	Al Maqbarah	Al Maqbarah,almqbrt,المقبرة	29.30258	47.83252	A	ADM2	KW		05	12216340			0		9	Asia/Kuwait	2021-02-11
+12216341	Aş Şulaybīyah	As Sulaybiyah	As Sulaybiyah,Aş Şulaybīyah,alslybyt,الصليبية	29.28545	47.82631	A	ADM2	KW		05	12216341			0		21	Asia/Kuwait	2021-02-11
+12216342	Aş Şulaybīyah az Zirā‘īyah	As Sulaybiyah az Zira`iyah	As Sulaybiyah az Zira`iyah,Aş Şulaybīyah az Zirā‘īyah,الصليبية الزراعية	29.28398	47.8082	A	ADM2	KW		05	12216342			0		24	Asia/Kuwait	2021-02-11
+12216343	Aş Şulaybīyah aş Şinā‘īyah Wāḩid	AsSulaybiyahasSina`iyahWahid	AsSulaybiyahasSina`iyahWahid,Aş Şulaybīyah aş Şinā‘īyah Wāḩid,الصليبية الصناعية واحد	29.28848	47.84187	A	ADM2	KW		05	12216343			0		21	Asia/Kuwait	2021-04-17
+12216344	Aş Şulaybīyah aş Şinā‘īyah Ithnān	AsSulaybiyahasSina`iyahIthnan	AsSulaybiyahasSina`iyahIthnan,Aş Şulaybīyah aş Şinā‘īyah Ithnān,الصليبية الصناعية إثنان	29.28711	47.85632	A	ADM2	KW		05	12216344			0		15	Asia/Kuwait	2021-04-17
+12216345	Al ‘Āriḑīyah Takhzīn wa Isti‘mālāt al Ḩukūmīyah	Al `Aridiyah Takhzin wa Isti`malat al Hukumiyah	Al `Aridiyah Takhzin wa Isti`malat al Hukumiyah,Al ‘Āriḑīyah Takhzīn wa Isti‘mālāt al Ḩukūmīyah,العارضية تخزين و استعمالات الحكومية	29.2791	47.91486	A	ADM2	KW		07	12216345			0		24	Asia/Kuwait	2021-02-11
+12216346	Al ‘Āriḑīyah	Al `Aridiyah	Al `Aridiyah,Al ‘Āriḑīyah,العارضية	29.28285	47.89428	A	ADM2	KW		07	12216346			0		22	Asia/Kuwait	2021-02-11
+12216347	Al Maţār	Al Matar	Al Matar,Al Maţār,almtar,المطار	29.23818	47.97349	A	ADM2	KW		07	12216347			0		48	Asia/Kuwait	2021-02-11
+12216348	Ḍāḩiyat Mubārak al ‘Abd Allāh	Dahiyat Mubarak al `Abd Allah	Dahiyat Mubarak al `Abd Allah,ضاحية مبارك العبد الله,Ḍāḩiyat Mubārak al ‘Abd Allāh	29.27556	48.04841	A	ADM2	KW		08	12216348			0		22	Asia/Kuwait	2021-02-11
+12216349	Ḑāḩiyat Abū Fuţayrah	Dahiyat Abu Futayrah	Dahiyat Abu Futayrah,dahyt abw ftyrt,ضاحية أبو فطيرة,Ḑāḩiyat Abū Fuţayrah	29.19756	48.10301	A	ADM2	KW		09	12216349			0		8	Asia/Kuwait	2021-02-11
+12216350	Dasmān	Dasman	Dasman,Dasmān,dsman,دسمان	29.36569	48.00013	A	ADM2	KW		02	12216350			0		9	Asia/Kuwait	2021-02-11
+12216351	Bunayd al Qār	Bunayd al Qar	Bunayd al Qar,Bunayd al Qār,bnyd alqar,بنيد القار	29.37501	48.00233	A	ADM2	KW		02	12216351			0		9	Asia/Kuwait	2021-02-11
+12216352	Al Manşūrīyah	Al Mansuriyah	Al Mansuriyah,Al Manşūrīyah,almnswryt,المنصورية	29.35568	47.99527	A	ADM2	KW		02	12216352			0		15	Asia/Kuwait	2021-02-11
+12216353	Al Qādisīyah	Al Qadisiyah	Al Qadisiyah,Al Qādisīyah,alqadsyt,القادسية	29.34888	48.00586	A	ADM2	KW		02	12216353			0		13	Asia/Kuwait	2021-02-11
+12216354	Ḑāḩiyat ‘Abd Allāh as Sālim	Dahiyat `Abd Allah as Salim	Dahiyat `Abd Allah as Salim,ضاحية عبد الله السالم,Ḑāḩiyat ‘Abd Allāh as Sālim	29.35304	47.9834	A	ADM2	KW		02	12216354			0		20	Asia/Kuwait	2021-02-11
+12216355	An Nuzhah	An Nuzhah	An Nuzhah,alnzht,النزهة	29.3427	47.99159	A	ADM2	KW		02	12216355			0		21	Asia/Kuwait	2021-02-11
+12216356	Al ‘Udaylīyah	Al `Udayliyah	Al `Udayliyah,Al ‘Udaylīyah,العديلية	29.32636	47.98148	A	ADM2	KW		02	12216356			0		24	Asia/Kuwait	2021-02-11
+12216357	Qurţubah	Qurtubah	Qurtubah,Qurţubah,qrtbt,قرطبة	29.31109	47.98681	A	ADM2	KW		02	12216357			0		27	Asia/Kuwait	2021-02-11
+12216358	Al Yarmūk	Al Yarmuk	Al Yarmuk,Al Yarmūk,alyrmwk,اليرموك	29.31118	47.96946	A	ADM2	KW		02	12216358			0		26	Asia/Kuwait	2021-02-11
+12216359	Al Khālidīyah	Al Khalidiyah	Al Khalidiyah,Al Khālidīyah,alkhaldyt,الخالدية	29.3266	47.96261	A	ADM2	KW		02	12216359			0		17	Asia/Kuwait	2021-02-11
+12216360	Kayfān	Kayfan	Kayfan,Kayfān,kyfan,كيفان	29.3386	47.9618	A	ADM2	KW		02	12216360			0		14	Asia/Kuwait	2021-02-11
+12216361	Ash Shāmīyah	Ash Shamiyah	Ash Shamiyah,Ash Shāmīyah,alshamyt,الشامية	29.34902	47.96785	A	ADM2	KW		02	12216361			0		14	Asia/Kuwait	2021-02-11
+12216362	Ash Shuwaykh	Ash Shuwaykh	Ash Shuwaykh,alshwykh,الشويخ	29.35202	47.95075	A	ADM2	KW		02	12216362			0		2	Asia/Kuwait	2021-02-11
+12216363	Ash Shuwaykh aş Şiḩḩīyah	Ash Shuwaykh as Sihhiyah	Ash Shuwaykh as Sihhiyah,Ash Shuwaykh aş Şiḩḩīyah,alshwykh alshyt,الشويخ الصحية	29.3254	47.8942	A	ADM2	KW		02	12216363			0		3	Asia/Kuwait	2021-02-11
+12216364	Gharnāţah	Gharnatah	Gharnatah,Gharnāţah,ghrnatt,غرناطة	29.31538	47.87289	A	ADM2	KW		02	12216364			0		47	Asia/Kuwait	2021-02-11
+12216365	Aş Şulaybikhāt	As Sulaybikhat	As Sulaybikhat,Aş Şulaybikhāt,alslybkhat,الصليبخات	29.31479	47.84514	A	ADM2	KW		02	12216365			0		8	Asia/Kuwait	2021-02-11
+12216366	Ad Dawḩah	Ad Dawhah	Ad Dawhah,Ad Dawḩah,aldwht,الدوحة	29.32001	47.80345	A	ADM2	KW		02	12216366			0		7	Asia/Kuwait	2021-02-11
+12216367	As Surrah	As Surrah	As Surrah,alsrt,السرة	29.31376	48.00741	A	ADM2	KW		02	12216367			0		35	Asia/Kuwait	2021-02-11
+12216368	Al Finţās	Al Fintas	Al Fintas,Al Finţās,alfntas,الفنطاس	29.17045	48.11907	A	ADM2	KW		04	12216368			0		10	Asia/Kuwait	2021-02-11
+12216369	Al ‘Uqaylah	Al `Uqaylah	Al `Uqaylah,Al ‘Uqaylah,العقيلة	29.16872	48.1009	A	ADM2	KW		04	12216369			0		26	Asia/Kuwait	2021-02-11
+12216370	Jābir al ‘Alī	Jabir al `Ali	Jabir al `Ali,Jābir al ‘Alī,جابر العلى	29.17001	48.08211	A	ADM2	KW		04	12216370			0		47	Asia/Kuwait	2021-02-11
+12216371	Az̧ Z̧ahr	Az Zahr	Az Zahr,Az̧ Z̧ahr,alzhr,الظهر	29.16591	48.06463	A	ADM2	KW		04	12216371			0		73	Asia/Kuwait	2021-02-11
+12216372	Al Mahbūlah	Al Mahbulah	Al Mahbulah,Al Mahbūlah,almhbwlt,المهبولة	29.15017	48.11867	A	ADM2	KW		04	12216372			0		4	Asia/Kuwait	2021-02-11
+12216373	Ar Riqqah	Ar Riqqah	Ar Riqqah,alrqt,الرقة	29.15037	48.1053	A	ADM2	KW		04	12216373			0		28	Asia/Kuwait	2021-02-11
+12216374	Hadīyah	Hadiyah	Hadiyah,Hadīyah,hdyt,هدية	29.15009	48.09017	A	ADM2	KW		04	12216374			0		45	Asia/Kuwait	2021-02-11
+12216375	Abū Ḩalīfah	Abu Halifah	Abu Halifah,Abū Ḩalīfah,abw hlyft,أبو حليفة	29.13106	48.12766	A	ADM2	KW		04	12216375			0		10	Asia/Kuwait	2021-02-11
+12216376	Fahd al Aḩmad	Fahd al Ahmad	Fahd al Ahmad,Fahd al Aḩmad,fhd alahmd,فهد الأحمد	29.12726	48.1062	A	ADM2	KW		04	12216376			0		30	Asia/Kuwait	2021-02-11
+12216377	Al Manqaf	Al Manqaf	Al Manqaf,almnqf,المنقف	29.10716	48.12582	A	ADM2	KW		04	12216377			0		19	Asia/Kuwait	2021-02-11
+12216378	Aş Şabāḩīyah	As Sabahiyah	As Sabahiyah,Aş Şabāḩīyah,alsbahyt,الصباحية	29.10494	48.10532	A	ADM2	KW		04	12216378			0		46	Asia/Kuwait	2021-02-11
+12216379	Al Faḩaḩīl	Al Fahahil	Al Fahahil,Al Faḩaḩīl,alfhahyl,الفحاحيل	29.08318	48.1336	A	ADM2	KW		04	12216379			0		10	Asia/Kuwait	2021-02-11
+12216380	Madīnat al Aḩmadī	Madinat al Ahmadi	Madinat al Ahmadi,Madīnat al Aḩmadī,mdynt alahmdy,مدينة الأحمدي	29.08348	48.07371	A	ADM2	KW		04	12216380			0		86	Asia/Kuwait	2021-02-11
+12216381	Amgharah	Amgharah	Amgharah,amghrt,أمغرة	29.31568	47.74634	A	ADM2	KW		05	12216381			0		14	Asia/Kuwait	2021-02-11
+12216382	An Na‘īm	An Na`im	An Na`im,An Na‘īm,النعيم	29.33548	47.69677	A	ADM2	KW		05	12216382			0		12	Asia/Kuwait	2021-02-11
+12216383	Al Qaşr	Al Qasr	Al Qasr,Al Qaşr,alqsr,القصر	29.34519	47.68575	A	ADM2	KW		05	12216383			0		13	Asia/Kuwait	2021-02-11
+12216384	Al Wāḩah	Al Wahah	Al Wahah,Al Wāḩah,alwaht,الواحة	29.34244	47.6583	A	ADM2	KW		05	12216384			0		36	Asia/Kuwait	2021-02-11
+12216385	Taymā’	Tayma'	Tayma',Taymā’,تيماء	29.32891	47.68154	A	ADM2	KW		05	12216385			0		25	Asia/Kuwait	2021-02-11
+12216386	An Nasīm	An Nasim	An Nasim,An Nasīm,alnsym,النسيم	29.32438	47.68024	A	ADM2	KW		05	12216386			0		32	Asia/Kuwait	2021-02-11
+12216387	Al ‘Uyūn	Al `Uyun	Al `Uyun,Al ‘Uyūn,العيون	29.32975	47.65729	A	ADM2	KW		05	12216387			0		31	Asia/Kuwait	2021-02-11
+12216388	Al Jahrā’	Al Jahra'	Al Jahra',Al Jahrā’,الجهراء	29.34889	47.67339	A	ADM2	KW		05	12216388			0		14	Asia/Kuwait	2021-02-11
+12216389	Ar Rayy	Ar Rayy	Ar Rayy,alry,الري	29.30902	47.94357	A	ADM2	KW		07	12216389			0		16	Asia/Kuwait	2021-02-11
+12216390	Ar Raq‘ī	Ar Raq`i	Ar Raq`i,Ar Raq‘ī,الرقعي	29.3052	47.91495	A	ADM2	KW		07	12216390			0		18	Asia/Kuwait	2021-02-11
+12216391	Al Andalus	Al Andalus	Al Andalus,alandls,الاندلس	29.30302	47.8732	A	ADM2	KW		07	12216391			0		14	Asia/Kuwait	2021-02-11
+12216392	Abraq Khayţān	Abraq Khaytan	Abraq Khaytan,Abraq Khayţān,abrq khytan,أبرق خيطان	29.29053	47.97268	A	ADM2	KW		07	12216392			0		30	Asia/Kuwait	2021-02-11
+12216393	Al ‘Umarīyah	Al `Umariyah	Al `Umariyah,Al ‘Umarīyah,العمرية	29.29734	47.95335	A	ADM2	KW		07	12216393			0		27	Asia/Kuwait	2021-02-11
+12216394	Ar Rābiyah	Ar Rabiyah	Ar Rabiyah,Ar Rābiyah,alrabyt,الرابية	29.29715	47.93885	A	ADM2	KW		07	12216394			0		19	Asia/Kuwait	2021-02-11
+12216395	Al Firdaws	Al Firdaws	Al Firdaws,alfrdws,الفردوس	29.2833	47.87481	A	ADM2	KW		07	12216395			0		19	Asia/Kuwait	2021-02-11
+12216396	Şabāḩ an Nāşir	Sabah an Nasir	Sabah an Nasir,sbah alnasr,Şabāḩ an Nāşir,صباح الناصر	29.27081	47.88296	A	ADM2	KW		07	12216396			0		27	Asia/Kuwait	2021-02-11
+12216397	Ar Riḩāb	Ar Rihab	Ar Rihab,Ar Riḩāb,alrhab,الرحاب	29.28485	47.9383	A	ADM2	KW		07	12216397			0		26	Asia/Kuwait	2021-02-11
+12216398	Ishbīliyah	Ishbiliyah	Ishbiliyah,Ishbīliyah,ashbylyt,إشبيلية	29.27402	47.93925	A	ADM2	KW		07	12216398			0		30	Asia/Kuwait	2021-02-11
+12216399	Al Farwānīyah	Al Farwaniyah	Al Farwaniyah,Al Farwānīyah,alfrwanyt,الفروانية	29.28023	47.95745	A	ADM2	KW		07	12216399			0		38	Asia/Kuwait	2021-02-11
+12216400	Aḑ Ḑajīj	Ad Dajij	Ad Dajij,Aḑ Ḑajīj,aldjyj,الضجيج	29.26313	47.96305	A	ADM2	KW		07	12216400			0		41	Asia/Kuwait	2021-02-11
+12216401	Jalīb ash Shuyūkh	Jalib ash Shuyukh	Jalib ash Shuyukh,Jalīb ash Shuyūkh,jlyb alshywkh,جليب الشيوخ	29.25962	47.93363	A	ADM2	KW		07	12216401			0		41	Asia/Kuwait	2021-02-11
+12216402	Khayţān al Janūbī	Khaytan al Janubi	Khaytan al Janubi,Khayţān al Janūbī,khytan,خيطان	29.27685	47.97786	A	ADM2	KW		07	12216402			0		43	Asia/Kuwait	2021-02-11
+12216403	As Sālimīyah	As Salimiyah	As Salimiyah,As Sālimīyah,alsalmyt,السالمية	29.33483	48.06775	A	ADM2	KW		08	12216403			0		10	Asia/Kuwait	2021-02-11
+12216404	Ar Rumaythīyah	Ar Rumaythiyah	Ar Rumaythiyah,Ar Rumaythīyah,alrmythyt,الرميثية	29.31613	48.07388	A	ADM2	KW		08	12216404			0		11	Asia/Kuwait	2021-02-11
+12216405	Salwá	Salwa	Salwa,Salwá,slwy,سلوى	29.29428	48.07929	A	ADM2	KW		08	12216405			0		10	Asia/Kuwait	2021-02-11
+12216406	Mushrif	Mushrif	Mushrif,mshrf,مشرف	29.27964	48.06258	A	ADM2	KW		08	12216406			0		14	Asia/Kuwait	2021-02-11
+12216407	Bayān	Bayan	Bayan,Bayān,byan,بيان	29.29794	48.05126	A	ADM2	KW		08	12216407			0		21	Asia/Kuwait	2021-02-11
+12216408	Al Jābirīyah	Al Jabiriyah	Al Jabiriyah,Al Jabriya,Al Jābirīyah,Jabriya,aljabryt,الجابرية	29.32002	48.02563	A	ADM2	KW		08	12216408			66056		23	Asia/Kuwait	2026-04-23
+12216409	Ḩawallī	Hawalli	Hawalli,hwly,حولي,Ḩawallī	29.33783	48.02354	A	ADM2	KW		08	12216409			0		14	Asia/Kuwait	2021-02-11
+12216410	Ash Shuhadā’	Ash Shuhada'	Ash Shuhada',Ash Shuhadā’,الشهداء	29.2714	48.03364	A	ADM2	KW		08	12216410			0		40	Asia/Kuwait	2021-02-11
+12216411	Ḩaţţīn	Hattin	Hattin,htyn,حطين,Ḩaţţīn	29.28388	48.01995	A	ADM2	KW		08	12216411			0		24	Asia/Kuwait	2021-02-11
+12216412	As Salām	As Salam	As Salam,As Salām,alslam,السلام	29.29327	48.01669	A	ADM2	KW		08	12216412			0		31	Asia/Kuwait	2021-02-11
+12216413	Aş Şadīq	As Sadiq	As Sadiq,Aş Şadīq,alsdyq,الصديق	29.29443	47.99195	A	ADM2	KW		08	12216413			0		28	Asia/Kuwait	2021-02-11
+12216414	Ash Sha‘b	Ash Sha`b	Ash Sha`b,Ash Sha‘b,الشعب	29.34855	48.0276	A	ADM2	KW		08	12216414			0		7	Asia/Kuwait	2021-02-11
+12216415	Az Zahrā’	Az Zahra'	Az Zahra',Az Zahrā’,الزهراء	29.27524	47.99567	A	ADM2	KW		08	12216415			0		48	Asia/Kuwait	2021-02-11
+12216416	Şabāḩ as Sālim	Sabah as Salim	Sabah as Salim,sbah alsalm,Şabāḩ as Sālim,صباح السالم	29.25423	48.06678	A	ADM2	KW		09	12216416			0		18	Asia/Kuwait	2021-02-11
+12216417	Al Masīlah	Al Masilah	Al Masilah,Al Masīlah,almsylt,المسيلة	29.2372	48.08749	A	ADM2	KW		09	12216417			0		7	Asia/Kuwait	2021-02-11
+12216418	Al ‘Adān	Al `Adan	Al `Adan,Al ‘Adān,العدان	29.23401	48.06756	A	ADM2	KW		09	12216418			0		33	Asia/Kuwait	2021-02-11
+12216419	Al Funayţīs	Al Funaytis	Al Funaytis,Al Funayţīs,alfnytys,الفنيطيس	29.2201	48.09294	A	ADM2	KW		09	12216419			0		9	Asia/Kuwait	2021-02-11
+12216420	Al Quşūr	Al Qusur	Al Qusur,Al Quşūr,alqswr,القصور	29.21604	48.07345	A	ADM2	KW		09	12216420			0		33	Asia/Kuwait	2021-02-11
+12216421	Mubārak al Kabīr	Mubarak al Kabir	Mubarak al Kabir,Mubārak al Kabīr,mbark alkbyr,مبارك الكبير	29.18865	48.08048	A	ADM2	KW		09	12216421			0		47	Asia/Kuwait	2021-02-11
+12216422	Janūb al Wusţá	Janub al Wusta	Janub al Wusta,Janūb al Wusţá,jnwb alwsty,جنوب الوسطى	29.18704	48.03645	A	ADM2	KW		09	12216422			0		89	Asia/Kuwait	2021-02-11
+12216423	Al Wusţá	Al Wusta	Al Wusta,Al Wusţá,alwsty,الوسطى	29.23887	48.03154	A	ADM2	KW		09	12216423			0		66	Asia/Kuwait	2021-02-11
+12216424	Şabḩan	Sabhan	Sabhan,sbhan,Şabḩan,صبحان	29.23376	48.00937	A	ADM2	KW		09	12216424			0		55	Asia/Kuwait	2021-02-11
+12216425	Al Qurayn	Al Qurayn	Al Qurayn,alqryn,القرين	29.20105	48.07865	A	ADM2	KW		09	12216425			0		40	Asia/Kuwait	2021-02-11
+12451037	Kuwait Towers, Tower A	Kuwait Towers, Tower A		29.38969	48.00324	S	TOWR	KW						0		1	Asia/Kuwait	2022-04-14
+12451038	Kuwait Towers, Tower B	Kuwait Towers, Tower B		29.38972	48.00277	S	TOWR	KW						0		1	Asia/Kuwait	2022-04-14
+12451039	Kuwait Towers, Tower C	Kuwait Towers, Tower C		29.38946	48.00285	S	TOWR	KW						0		1	Asia/Kuwait	2022-04-14
+12493600	Waldorf Astoria Kuwait	Waldorf Astoria Kuwait		29.30221	47.94189	S	HTL	KW		07				0		21	Asia/Kuwait	2022-08-31
+12750495	Hampton by Hilton Kuwait Salmiya	Hampton by Hilton Kuwait Salmiya		29.33901	48.09522	S	HTL	KW		08	12216409			0		7	Asia/Kuwait	2024-04-17
+13526659	Hyatt Regency Al Kout Mall	Hyatt Regency Al Kout Mall		29.07815	48.13773	S	HTL	KW						0		14	Asia/Kuwait	2025-09-17

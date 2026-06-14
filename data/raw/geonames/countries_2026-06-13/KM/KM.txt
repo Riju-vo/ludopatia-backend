@@ -1,0 +1,1132 @@
+921654	Ouanani	Ouanani	Oanani,Ouanani,Wanani,wanani,wanany,Оуанани,وانانى,واناني,ワナニ	-12.3375	43.7975	P	PPL	KM		03				1917		217	Indian/Comoro	2023-11-29
+921655	Vouani	Vouani	Voani,Voany,Vouani	-12.24417	44.37444	P	PPL	KM		01				2513		85	Indian/Comoro	2012-01-18
+921656	Mouillage de la Ville	Mouillage de la Ville	Mouillage de la Ville,Town Anchorage	-12.15	44.38333	H	ANCH	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921660	Vassy	Vassy	Vassi,Vassy,wasy,واسی	-12.23194	44.3425	P	PPL	KM		01				944		97	Indian/Comoro	2012-01-18
+921661	Vanambouani	Vanambouani	Vanamboini,Vanambouani,fanambwyny,wnmbyny,Ванамбоуани,فانامبوينى,فانامبويني,ونمبینی	-11.61139	43.25306	P	PPL	KM		02				1654		76	Indian/Comoro	2012-01-18
+921662	Récif Vailheu	Recif Vailheu	Recif Vailheu,Récif Vailheu,Vailheu Shoal	-11.8	43.06667	H	RF	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921664	Tsimbeo	Tsimbeo	Cimbeo,Tsembehou,Tsembéhou,Tsimbeo,Tsémbehou,Tsémbéhou,symbyhw,tonbeu,Цимбео,Ցիմբեո,صيمبيهو,トンベウー	-12.20583	44.46472	P	PPL	KM		01				12590		433	Indian/Comoro	2023-11-29
+921666	Île aux Tortues	Ile aux Tortues	Ile aux Tortues,Tortues Island,Île aux Tortues	-11.4	43.41667	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921667	Sommet Tortue	Sommet Tortue		-11.36667	43.4	T	HLL	KM		00				0		-9999	Indian/Comoro	1994-01-06
+921671	Pointe Sud	Pointe Sud		-11.88333	43.48333	T	PT	KM		00				0		399	Indian/Comoro	1994-01-06
+921674	Singani	Singani	Singani	-11.84784	43.31731	P	PPL	KM		02				2309		126	Indian/Comoro	2018-11-26
+921675	Sima	Sima	Sima,shima,syma,Сима,Սիմա,سيما,シマ	-12.19556	44.27667	P	PPL	KM		01				8737		120	Indian/Comoro	2023-11-29
+921682	Îlot Sanzi	Ilot Sanzi		-12.4	43.73333	T	ISL	KM		00				0		-9999	Indian/Comoro	1994-01-06
+921683	Sanadani	Sanadani		-12.19028	44.33278	P	PPL	KM		01				0		-9999	Indian/Comoro	1998-01-12
+921684	Îlot Samia	Ilot Samia	Ilot Samia,Samia Islet,Îlot Samia	-12.35	43.88333	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921685	Sambia	Sambia	M'Tsumbia,M’Tsumbia,Sambia	-12.36694	43.79611	P	PPL	KM		03				24		88	Indian/Comoro	2012-01-18
+921686	Samba-Madi	Samba-Madi	Samba,Samba-Madi	-11.66528	43.39806	P	PPL	KM		02				93		89	Indian/Comoro	2012-01-18
+921687	Salimani	Salimani	Salimani,Selimani	-11.8115	43.26823	P	PPL	KM		02				1662		15	Indian/Comoro	2018-11-26
+921697	Havre Pomoni	Havre Pomoni	Havre Pomoni,Havre Pomony,Mouillage de Pomoni,Pomoni Harbor,Pomoni Harbour,Pomony Anchorage	-12.26667	44.41667	H	HBR	KM		00				0		276	Indian/Comoro	2012-01-18
+921698	Pomoni	Pomoni	Pomoni,Pomony	-12.28	44.40889	P	PPL	KM		01				0		38	Indian/Comoro	2012-01-18
+921699	Roches Plates	Roches Plates	Flat Rocks,Roches Plates	-12.38333	43.68333	T	RKS	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921700	Pidjani	Pidjani	Pidjani	-11.76425	43.45191	P	PPL	KM		02				0		62	Indian/Comoro	2018-11-26
+921701	Roche Percée	Roche Percee	Roche Percee,Roche Perche,Roche Percée	-12.41667	43.73333	T	RK	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921703	Patsi	Patsi	Patsi,Patsy,Wilson	-12.15556	44.43722	P	PPL	KM		01				1498		284	Indian/Comoro	2018-11-20
+921705	Rade de Papany	Rade de Papany		-12.26667	44.55	H	RDST	KM		00				0		-9999	Indian/Comoro	1994-01-06
+921706	Panda	Panda	Panda,Panda Gongoue	-11.87482	43.3931	P	PPL	KM		02				899		137	Indian/Comoro	2018-11-26
+921711	Ouzini	Ouzini	Ousini,Ouzini	-12.26722	44.47972	P	PPL	KM		01				1886		680	Indian/Comoro	2012-01-18
+921712	Ajaho	Ajaho	Ajaho,Outsa Daoueni	-12.26528	44.505	P	PPL	KM		01				0		344	Indian/Comoro	2012-01-18
+921713	Oussivo	Oussivo	Ousivo,Oussivo,Оусиво	-11.585	43.26722	P	PPL	KM		02				1708		35	Indian/Comoro	2012-01-18
+921714	Ourovéni	Ouroveni	Ouroveni,Ourovéni	-11.91375	43.49804	P	PPL	KM		02				1419		11	Indian/Comoro	2018-11-26
+921715	Pointe Ouest	Pointe Ouest	Pointe Ouest,West Point	-11.91667	43.5	T	PT	KM		00				0		7	Indian/Comoro	2012-01-18
+921717	Chissioua Ouénéfou	Chissioua Ouenefou	Chissioua Ouenefou,Chissioua Ouénéfou,Ile Ouenefou,Wenefu,Île Ouénéfou	-12.39806	43.70611	T	ISL	KM		03				0		49	Indian/Comoro	2020-06-10
+921718	Ouémani	Ouemani	Ouemani,Ouémani,Uemani	-11.38028	43.32528	P	PPL	KM		02				426		30	Indian/Comoro	2020-06-10
+921719	Ouellah	Ouellah		-11.39028	43.33194	P	PPL	KM		02				5478		140	Indian/Comoro	2017-08-09
+921721	Ouani	Ouani	AJN,Oani,Ouani,Ouany,Owani,awany,wani,Ուանի,أواني,اوانى,ワニ	-12.13554	44.42493	P	PPL	KM		01				10073		18	Indian/Comoro	2023-11-29
+921722	Ouallah	Ouallah	Luala,Ouala,Ouallah,wallh,والله	-12.32556	43.66333	P	PPL	KM		03				0		22	Indian/Comoro	2012-01-18
+921725	Ongoujou	Ongoujou	Ongodjou,Ongoijou,Ongojou,Ongoujou,Onguyu,ongoju,Օնգույու,オンゴジュ	-12.31	44.51389	P	PPL	KM		01				0		478	Indian/Comoro	2012-01-18
+921726	Ongoni	Ongoni	Ongoni,awngwny,awnjwny,awnqwny,Онгони,أونجوني,اونجونى,اونقونی,اونگونی	-12.17028	44.50694	P	PPL	KM		01				2058		19	Indian/Comoro	2013-04-03
+921727	Pointe Oani	Pointe Oani	Pointe Oani	-12.25	43.65	T	PT	KM		00				0		8	Indian/Comoro	2018-12-04
+921728	Nounga	Nounga	Nounga,Nunga	-12.34639	44.50278	P	PPL	KM		01				315		390	Indian/Comoro	2012-01-18
+921729	Ntsoudjini	Ntsoudjini	Mitsoudjini,Mitsudje,Mitsuje,Ntsoudjini,Tsudjim,Tsudjin,Tsudjini,Tsujuni	-11.66077	43.27157	P	PPL	KM		02				3559		126	Indian/Comoro	2023-11-29
+921730	Ntsazou	Ntsazou	Ntsazou,Sazu	-12.16667	44.25	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921731	Ntsaouéni	Ntsaoueni	Mitsaoueni,Mtsaoueni,Ntsaoueni,Ntsaouéni,Tsaueni	-11.46583	43.26278	P	PPL	KM		02				2760		26	Indian/Comoro	2023-11-29
+921736	Pointe Nord	Pointe Nord	North Point,Pointe Nord	-11.9	43.51667	T	PT	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921737	Pointe Nord	Pointe Nord	Pointe Nord,Ras Baku	-11.36667	43.31667	T	PT	KM		00				0		17	Indian/Comoro	2012-01-18
+921738	Rocher Noir	Rocher Noir	Black Rock,Rocher Noir	-12.38333	43.7	T	RK	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921739	Rocher Noir	Rocher Noir	Black Rock,Rocher Noir	-12.25	44.53333	T	RK	KM		00				0		1	Indian/Comoro	2012-01-18
+921740	Nioumbadjou	Nioumbadjou	Nioumbadjou,Niumbadju,Niumbaju,Tohbugodunda	-11.79917	43.29722	P	PPL	KM		02				0		355	Indian/Comoro	2012-01-18
+921741	Nioumakélé	Nioumakele	Nioumakele,Nioumakélé,Pointe Nioumakele	-12.36361	44.51028	T	PT	KM		01				0		260	Indian/Comoro	2020-06-10
+921742	Chaouéni	Chaoueni	Chaoueni,Chaouéni,Nioumakele,Niumakele,Niumakélé,shawny,شاونى,شاوني	-12.35342	44.50124	P	PPL	KM		01				0		366	Indian/Comoro	2017-01-27
+921743	Nioumadzaha Mvoumbari	Nioumadzaha Mvoumbari	Nioumadzaha Mvoumbari,Nioumadzaha Voumbari,Niumadzaha	-11.83944	43.45472	P	PPL	KM		02				0		372	Indian/Comoro	2012-01-18
+921744	Port Nioumachoua	Port Nioumachoua	Numa Choa Haven,Port Nioumachoi,Port Nioumachoua,Port Numa Choa	-12.36667	43.73333	H	HBR	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921745	Nioumachoua	Nioumachoua	Niomachoi,Nioumachoi,Nioumachoua,Nioumgchoi,Numa Choa	-12.36139	43.71528	P	PPL	KM		03				2687		14	Indian/Comoro	2023-11-29
+921746	Kyo	Kyo	Kyo,Niambahamoro	-12.33222	44.51917	P	PPL	KM		01				2209		319	Indian/Comoro	2012-01-18
+921747	Ndzaouze	Ndzaouze	Draure,Ndzaouze	-11.40611	43.26694	P	PPL	KM		02				0		59	Indian/Comoro	2012-01-18
+921752	Mouillage de Mutsamudu	Mouillage de Mutsamudu	Matsamudu Road,Mouillage de Mutsamudu,Mutsamudu Road	-12.16667	44.38333	H	RDST	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921753	Moutsamoudou	Moutsamoudou	Matsamudu,Moutsamoudou,Mucomodu,Mutsamudu,Mutsomodu,mautasamaudau,mutisamudu,mutsamaudau,mutsusamudou,mwtsamwdw,Мутсамуду,Муцомоду,موتسامودو,मुत्समौदौ,মৌটসামৌদৌ,ਮੌਤਸਾਮੌਦੌ,ሙትሳሙዱ,ムツサムドゥ	-12.16672	44.39944	P	PPLA	KM		01				26313		61	Indian/Comoro	2026-04-14
+921754	Îlot Muchaco	Ilot Muchaco	Ilot Muchaco,Muchaco Island,Muchaco Islet,Rocher Blanc,White Rock,Îlot Muchaco	-12.35	43.93333	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921756	Mtsamdou	Mtsamdou	Mcamdou,Mtsamdou,Мцамдоу	-11.60694	43.38056	P	PPL	KM		02				1171		147	Indian/Comoro	2012-01-18
+921758	Ntingui	Ntingui	Johanna Peak,M'Tingue,M’Tingue,Ntingui,Pic Mtingui,Pic d'Anjouan,Pic d’Anjouan	-12.21487	44.42468	T	PK	KM		01				0		1584	Indian/Comoro	2018-01-09
+921762	Mrémani	Mremani	Mremani,Mrenani,Mrémani,mrmany,muremani,مرمانی,ムレマニ	-12.30833	44.49861	P	PPL	KM		01				5470		652	Indian/Comoro	2023-11-29
+921763	Mramani	Mramani	M'Ramoni,Mramani,M’Ramoni,muramani,Мрамани,Մրամանի,ムラマニ	-12.34639	44.52861	P	PPL	KM		01				5126		83	Indian/Comoro	2026-05-11
+921764	Moya	Moya	Moya	-12.30967	44.43685	P	PPL	KM		01				7529		51	Indian/Comoro	2019-08-07
+921765	Mouroumouli	Mouroumouli		-12.2	44.31667	P	PPL	KM		00				0		133	Indian/Comoro	1994-01-06
+921770	Moujou	Moujou		-12.15	44.48333	P	PPL	KM		00				0		409	Indian/Comoro	1994-01-06
+921772	Moroni	Moroni	Maroni,Moroni,Moronio,Moronis,Morony,Moròni,Muruni,Móróní,YVA,mo luo ni,mo ro ni,moloni,moroni,muruni,mwrwny,Μορονί,Мароні,Морони,Мороні,Մորոնի,מורוני,موروني,مورونی,مۆرۆنی,मोरोनी,ਮੋਰੋਨੀ,மூறூனீ,โมโรนี,མོ་རོ་ནི།,მორონი,ሞሮኒ,モロニ,莫洛尼,莫羅尼,모로니	-11.70216	43.25506	P	PPLC	KM		02				74749		27	Indian/Comoro	2023-11-29
+921774	Mouandzaza	Mouandzaza	Cratere de Mondzaza,Cratère de Mondzaza,Mouandzaza	-11.76389	43.23389	T	CRTR	KM		02				0		21	Indian/Comoro	2012-01-18
+921776	Mouahani	Mouahani	Moihani,Mouahani	-12.36167	43.78083	P	PPL	KM		03				0		166	Indian/Comoro	2012-01-18
+921777	Mohoro	Mohoro	Mohoro	-11.82701	43.45436	P	PPL	KM		02				2014		253	Indian/Comoro	2018-11-26
+921779	Mohéli Island	Moheli Island	Ile Moheli,Jazirat Muhayli,Jazirat Muwayli,Jazīrat Mūhaylī,Jazīrat Mūwaylī,Moheli,Moheli Island,Mohéli,Mohéli Island,Mwali,NWA,jzyrt mwhyly,jzyrt mwyly,mo-elli seom,moheri,Île Mohéli,جزيرة موهيلي,جزيرة مويلي,モヘリ,모엘리 섬	-12.32441	43.74378	T	ISL	KM		03				0		502	Indian/Comoro	2020-12-28
+921780	Mohéli	Moheli	Ile Autonome de Moheli,Moali,Moaly,Moeli,Moheli,Mohelis,Mohéli,Mokheli,Muhayli,Muwayli,Mvali,Mwali,Mwali ou Moheli,Mūhaylī,Mūwaylī,Vostrau Mvali,mo ai li dao,mo-elliseom,mohali,moheli,moheri dao,mohili,muheli,mvali,mwaly,mwhly,mwhyly,mwyly,mx xe li,Île Autonome de Mohéli,Μοελί,Востраў Мвалі,Мвали,Мохели,Мохелі,מוהלי,موالي,موحيلي,موهلی,موهيلي,موهیلي,مويلي,موہیلی,मोहली,मोहीलि,মুহেলি,ਮੋਹੇਲੀ,મોહેલી,மொஹெலி,మోహేలీ,ಮೊಹೆಲಿ,මොහේලි,มอเอลี,მვალი,ሞሄሊ,モヘリ島,莫埃利岛,莫埃利島,모엘리섬	-12.34268	43.73623	A	ADM1	KM		03				38000		169	Indian/Comoro	2026-04-16
+921782	Îlot Moa	Ilot Moa	Choa Moa,Ile Choa Moa,Ilot Moa,Moa Island,Îlot Moa	-12.36667	43.75	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921783	Mjimandra	Mjimandra	M'Jimanda,Mjimandra,Moujimada,M’Jimanda	-12.19167	44.37028	P	PPL	KM		01				3114		145	Indian/Comoro	2012-01-18
+921784	Mjamaoué	Mjamaoue	Jamaue,Jamaué,Mjamaoue,Mjamaoué	-12.19361	44.31	P	PPL	KM		01				1490		12	Indian/Comoro	2012-01-18
+921785	Mitsoudjé	Mitsoudje	Mitsoudje,Mitsoudjé	-11.81209	43.28043	P	PPL	KM		02				3129		47	Indian/Comoro	2023-11-29
+921786	Mitsamiouli	Mitsamiouli	Mitsamihouh,Mitsamiouli,Mitsumiuli,Mtamuhuli	-11.38472	43.28444	P	PPL	KM		02				4811		48	Indian/Comoro	2023-11-29
+921787	Mirondoni	Mirondoni	Mirondoni,Miroudoni	-12.32222	44.52111	P	PPL	KM		01				0		322	Indian/Comoro	2012-01-18
+921788	Pointe Miringoni	Pointe Miringoni	Miringoni Point,Pointe Miringoni	-12.26667	43.63333	T	PT	KM		00				0		156	Indian/Comoro	2012-01-18
+921789	Mro Chikoni	Mro Chikoni	Miringoni,Mro Chikoni	-12.28333	43.63333	H	STM	KM		03				0		59	Indian/Comoro	2012-01-18
+921790	Miringoni	Miringoni	Miringoni,myrynkwny,ميرينكونى,ميرينكوني	-12.29667	43.63528	P	PPL	KM		03				834		53	Indian/Comoro	2012-01-18
+921792	Miréréni	Mirereni		-11.69028	43.40806	P	PPL	KM		02				0		401	Indian/Comoro	1998-01-12
+921793	Milévani	Milevani		-11.5549	43.29762	P	PPL	KM		02				729		238	Indian/Comoro	2020-03-15
+921794	Mifoni	Mifoni	Mifoni,Mifoni Sangani	-12.26389	43.62917	P	PPL	KM		03				0		85	Indian/Comoro	2012-01-18
+921795	Îlot Miangoni	Ilot Miangoni	Ilot Miangoni,Miahgoni Island,Miangoni Islet,Îlot Miangoni	-12.4	43.86667	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921796	Îlot Mianga	Ilot Mianga	Ilot Mianga,Mianga Islet,Îlot Mianga	-12.36667	43.9	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921800	Membéni	Membeni		-11.77389	43.43306	P	PPL	KM		02				0		636	Indian/Comoro	1998-01-12
+921801	Mdjoyézi	Mdjoyezi	Mdjoyezi,Mdjoyézi	-11.83642	43.31388	P	PPL	KM		02				957		287	Indian/Comoro	2018-11-26
+921802	Mdjoizema	Mdjoizema		-11.71667	43.46667	P	PPL	KM		00				0		-9999	Indian/Comoro	1994-01-06
+921803	Mdé	Mde		-11.73611	43.24056	P	PPL	KM		02				0		36	Indian/Comoro	1998-01-12
+921804	Îlot Mbuhu	Ilot Mbuhu	Choambouhou,Ile M. Bouhou,Ilot Mbuhu,Mbuhu Islet,Îlot Mbuhu	-12.36667	43.75	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921805	Mboudé	Mboude		-11.69417	43.41972	P	PPL	KM		02				0		225	Indian/Comoro	1998-01-12
+921806	Mbéni	Mbeni	Mbeni,Mbéni,ambyny,mubeni,إمبيني,امبينى,ムベニ	-11.50139	43.3775	P	PPL	KM		02				5128		480	Indian/Comoro	2023-11-29
+921807	M’Batse	M'Batse	Batse,Batsé,M'Batse,M’Batse	-12.25	43.71667	H	STM	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921808	Mbatsé	Mbatse	Batse,Batsé,Mbatse,Mbatsé	-12.25944	43.69778	P	PPL	KM		03				0		39	Indian/Comoro	2012-01-18
+921809	Mbachilé	Mbachile	Mbachile,Mbachilé,Mtachite	-11.74718	43.23818	P	PPL	KM		02				0		52	Indian/Comoro	2023-12-02
+921812	Îlot Maussi	Ilot Maussi	Ile Marosi,Ilot Maussi,Maoussi,Maussi Island,Îlot Maussi	-12.38333	43.66667	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921813	Mrijou	Mrijou	Marijou,Mrijou	-12.33194	44.49306	P	PPL	KM		01				0		546	Indian/Comoro	2012-01-18
+921814	Maraharé	Marahare	Marahabe,Marahabé,Marahare,Maraharé,marahary,ماراهارى,ماراهاري	-12.23083	44.31333	P	PPL	KM		01				1415		81	Indian/Comoro	2012-01-18
+921816	Malhani	Malhani		-12.35	43.78333	P	PPL	KM		00				0		268	Indian/Comoro	1994-01-06
+921817	Male	Male	Mahale,Mahalé,Male	-11.88417	43.4975	P	PPL	KM		02				0		175	Indian/Comoro	2012-01-18
+921819	Îlot Magnuni	Ilot Magnuni	Ile Magnonni,Ilot Magnuni,Magnuni Island,Îlot Magnuni	-12.38333	43.65	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921820	Madjoumadjou	Madjoumadjou		-11.72833	43.42278	P	PPL	KM		02				0		523	Indian/Comoro	1998-01-12
+921826	Longoni	Longoni		-12.25	44.41667	P	PPL	KM		00				0		448	Indian/Comoro	1994-01-06
+921827	Île de La Selle	Ile de La Selle	Ile de La Selle,Ilot de La Selle,La Selle,Saddle Island,Île de La Selle,Îlot de La Selle	-12.16028	44.20389	T	ISL	KM		01				0		-9999	Indian/Comoro	2020-06-10
+921829	La Grotte	La Grotte		-11.6	43.31667	P	PPL	KM		00				0		529	Indian/Comoro	1994-01-06
+921830	La Grille	La Grille		-11.45	43.33333	P	PPL	KM		00				0		792	Indian/Comoro	1994-01-06
+921832	Labanda	Labanda		-12.31667	43.81667	P	PPL	KM		00				0		1	Indian/Comoro	1994-01-06
+921833	Kouhani	Kouhani	Kouhani,Kounani	-11.5675	43.38722	P	PPL	KM		02				432		201	Indian/Comoro	2012-01-18
+921834	Koni-Djodjo	Koni-Djodjo	Koni,Koni Djodjo,Koni-Djodjo,Koni-Jojo,koni=jojo,kwny,kwny jwjw,Կոնի-Ջոջո,كونى جوجو,كوني,كوني جوجو,コニ＝ジョジョ	-12.22972	44.48167	P	PPL	KM		01				8109		662	Indian/Comoro	2020-06-14
+921835	Koni-Ngani	Koni-Ngani	Kone N'Goni,Kone N’Goni,Koni-Ngani	-12.21583	44.48	P	PPL	KM		01				3288		814	Indian/Comoro	2018-11-20
+921836	Kondroni	Kondroni	Kondoni,Kondroni	-12.16861	44.44722	P	PPL	KM		01				0		453	Indian/Comoro	2012-01-18
+921837	Kouambani	Kouambani	Combani,Kombani,Kouambani	-11.85583	43.47333	P	PPL	KM		02				0		291	Indian/Comoro	2018-11-23
+921838	Koki	Koki	Koki	-12.17139	44.44167	P	PPL	KM		01				4929		380	Indian/Comoro	2018-12-04
+921839	Koimbani	Koimbani	Combani,Koimbani,Kombani	-11.62306	43.35667	P	PPL	KM		02				2054		456	Indian/Comoro	2023-11-29
+921841	Karthala	Karthala	Comoro Mountain,Cratere Karatala,Cratere Karthala,Cratère Karatala,Cratère Karthala,Kartala,Karthala,Le Kartala,Massif du Karthala,Mont Kartala,Mont Karthala,Mount Karthala,Sommet Kartala,alqrtalt,alqrtwly,jbl alqrtalt,ka er ta la huo shan,kaleutalla san,Картала,קרתאלה,القرطالة,القرطولى,جبل القرطالة,კართალა,卡尔塔拉火山,카르탈라 산	-11.76028	43.35306	T	VLC	KM		02				0	2361	2344	Indian/Comoro	2020-06-14
+921846	Kangani	Kangani	Kangam,Kangani	-12.34278	43.82	P	PPL	KM		03				856		303	Indian/Comoro	2012-01-18
+921847	Kangani	Kangani	Kangani	-12.32102	44.4727	P	PPL	KM		01				3711		370	Indian/Comoro	2019-08-07
+921850	Jiroudain	Jiroudain	Djiandro,Jiandro,Jiroudain	-12.31667	43.78333	P	PPL	KM		00				0		131	Indian/Comoro	2012-01-18
+921851	Jimilimé	Jimilime	Jamilime,Jamilimé,Jimilime,Jimilimé,jimurime,jymylym,Ջիմիլիմե,جيميليم,ジムリメ	-12.09709	44.4642	P	PPL	KM		01				0		313	Indian/Comoro	2018-11-26
+921852	Ivouani	Ivouani	Inani,Iuani,Ivoini,Ivouani	-11.39157	43.39454	P	PPL	KM		02				1317		21	Indian/Comoro	2014-03-26
+921853	Ivembeni	Ivembeni		-11.47778	43.31806	P	PPL	KM		02				0		627	Indian/Comoro	1998-01-12
+921854	Itsoadjou	Itsoadjou	Dude,Itsoadjou	-11.41667	43.41667	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921855	Itsikoudi	Itsikoudi	Itsikoudi,Itsinkoudi	-11.58361	43.37583	P	PPL	KM		02				0		361	Indian/Comoro	2012-01-18
+921856	Itsandra	Itsandra	Icandra,Itsandha,Itsandra,Itsandra Mdjini,Ицандра	-11.67638	43.26466	P	PPL	KM		02				2684		21	Indian/Comoro	2023-11-29
+921857	Itsamia	Itsamia	Itsamia	-12.36417	43.86778	P	PPL	KM		03				611		53	Indian/Comoro	2018-12-04
+921858	Héroumbili	Heroumbili	Heroumbili,Héroumbili,Iroumbili,Irumbilli	-11.54389	43.37972	P	PPL	KM		02				1463		396	Indian/Comoro	2020-06-10
+921864	Ifoundihé Chambouani	Ifoundihe Chambouani	Ifoundihe Amboini,Ifoundihe Chambouani,Ifoundihé Chambouani	-11.90028	43.41222	P	PPL	KM		02				0		35	Indian/Comoro	2020-06-10
+921865	Ifoundihé	Ifoundihe	Ifoundihe,Ifoundihé,Ifundihe	-11.53444	43.37667	P	PPL	KM		02				356		478	Indian/Comoro	2020-06-10
+921866	Idjikoundzi	Idjikoundzi	Idjikoundji,Idjikoundzi	-11.71056	43.41389	P	PPL	KM		02				0		581	Indian/Comoro	2018-11-20
+921870	Hoani	Hoani	Hoani,Khoani,hwany,Хоани,هوانى,هواني	-12.25083	43.67472	P	PPL	KM		03				1114		19	Indian/Comoro	2012-01-18
+921871	Hetsa	Hetsa	Djuaezi,Hetsa,Juaezi,Mdjohezi	-11.84472	43.31583	P	PPL	KM		02				785		162	Indian/Comoro	2012-01-18
+921872	Helendjé	Helendje	Helendje,Helendjé,Hetanje	-11.43667	43.305	P	PPL	KM		02				0		402	Indian/Comoro	2020-06-10
+921873	Hantzinzi	Hantzinzi	Hantxinxi,Hantzinzi,Hatsinze	-12.43333	43.41667	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921875	Hambo	Hambo		-11.58333	43.38333	P	PPL	KM		00				0		237	Indian/Comoro	1994-01-06
+921876	Hahaya	Hahaya	HAH,Hahaia,Hahaia-Aeroport,Hahaya,Hahaya-Aeroport,Hahaïa,Hahaïa-Aéroport	-11.56223	43.27214	P	PPL	KM		02				0		10	Indian/Comoro	2023-08-21
+921877	Hagniamada	Hagniamada	Agniamouada,Agniamuada,Hagniamada	-12.31667	43.85	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921878	Hadjambo	Hadjambo	Hadjambo,Hadjumbo,Hajumbo	-11.45	43.41667	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921879	Ras Habu	Ras Habu	Ras Habou,Ras Habu	-11.35	43.4	T	CAPE	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921880	Guamarumbo	Guamarumbo	Guamarombu,Guamarumbo	-12.25	43.68333	P	PPL	KM		00				0		5	Indian/Comoro	2012-01-18
+921881	Grande Comore	Grande Comore	Angaziga,Comoro Island,Grande Comore,Ile de la Grande Comore,Jazirat Inghaziga,Jazīrat Inghāzīgā,N'gazidja,Njazidja,N’gazidja,jzyrt anghazyja,جزيرة انغازيجا	-11.58611	43.33306	T	ISL	KM		02				0		516	Indian/Comoro	2020-12-28
+921882	Grande Comore	Grande Comore	Babbar Komor,Boeyuek Komor,Böyük Komor,Choң Komor,Comore Guddaa,Comore Weyn,Gran Comora,Grand Komoras,Granda Comora,Granda Comòra,Granda Komoro,Grande Comore,Grut Komoare,Ile Autonome de Grande Comore,Inghazija,Inghāzījā,Katta Komor,Komora Handia,Komori Buzurg,Komoro Besar,Megali Komora,N'gazidja,Ngazidja,Ngazidja ou Grande Comore,Ngazidzha,Ngazija,N’gazidja,Velikij Komor,Vostrau Ngazidzha,Wielki Komor,Zur Komore,alqmr alkbry,anghazyja,da ke mo luo dao,geulangdeukomoleu seom,grainda komore,grand kwmwr,granda komore,gurandokomoro dao,lwyh kwmwr,njazyjya,qmr alkbry,Île Autonome de Grande Comore,Μεγάλη Κομόρα,Великий Комор,Востраў Нгазіджа,Зур Коморе,Комори Бузург,Нгазиджа,Чоң Комор,Ұly Komoro,Ұлы Коморо,القمر الكبرى,انغازيجا,قمر الکبری,لویه کومور,نجازيجيا,گراند کومور,গ্রান্ড কোমোরে,ਗ੍ਰੈਂਡ ਕੋਮੋਰੇ,ግranidi kwemore,ግራንድ ኮሞሬ,グランドコモロ島,大科摩罗岛,그랑드코모르 섬	-11.58333	43.33333	A	ADM1	KM		02				399919		514	Indian/Comoro	2026-04-16
+921884	Foumbouni	Foumbouni	Fomboni,Foumbouni,Mbagini,Mbajini	-11.86537	43.49529	P	PPL	KM		02				3386		14	Indian/Comoro	2023-11-29
+921885	Chissioua Foro	Chissioua Foro	Chissioua Foro,Foro Islet,Ilot Foro,Îlot Foro	-12.37306	43.76139	T	ISL	KM		03				0		-9999	Indian/Comoro	2012-01-18
+921886	Mouillage de la Fontaine	Mouillage de la Fontaine	Fontaine Anchorage,Mouillage de la Fontaine	-12.16667	44.38333	H	ANCH	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921887	Fongapepo	Fongapepo		-12.25	43.65	P	PPL	KM		00				0		8	Indian/Comoro	1994-01-06
+921888	Baie Fomboni	Baie Fomboni	Baie Fomboni,Fomboni Road,Fumboni Road,Mouillage de Fomboni	-12.26667	43.76667	H	ANCH	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921889	Fomboni	Fomboni	Fomboni,Fumboni,fonboni,fwmbwny,phomboni,Фомбони,Фомбонӣ,فومبوني,فومبونی,फोम्बोनी,ফোম্বোনি,ਫੋਮ੍ਬੋਨੀ,ፎምboni,ፎምቦኒ,フォンボーニ	-12.28759	43.74344	P	PPLA	KM		03				17291		18	Indian/Comoro	2026-04-14
+921890	Fombani	Fombani	Afombani,Afombany,Fombani	-12.18333	44.3	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921893	Baie des Essarts	Baie des Essarts	Baie des Essarts,Baie des Esserts	-11.86667	43.5	H	BAY	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921897	Dziani	Dziani	Dziani,dzyany,دزيانى,دزياني	-12.18333	44.48333	P	PPL	KM		01				1754		289	Indian/Comoro	2018-02-22
+921901	Dzahadjou	Dzahadjou	Dzahadjou	-11.90778	43.44444	P	PPL	KM		02				0		118	Indian/Comoro	2018-12-04
+921902	Dzahadjou	Dzahadjou	Dzahadjou,Dzahadju,Dzahaja	-11.85287	43.34987	P	PPL	KM		02				2000		91	Indian/Comoro	2018-11-26
+921904	Anse Doueny	Anse Doueny	Anse Douemi,Anse Doueny,Anse Douémi,Doueni Cove	-12.26667	43.75	H	ANCH	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921906	Domoni	Domoni	Deumoni,Domoni,Domonis,domoni,duo mo ni shi,dwmwny,Домони,Դոմոնի,دومونى,دوموني,ドモニ,多摩尼市	-12.26067	44.52947	P	PPL	KM		01				12262		1	Indian/Comoro	2023-11-29
+921907	Domoni	Domoni		-12.25194	43.64222	P	PPL	KM		03				309		157	Indian/Comoro	2006-01-17
+921908	Domoni	Domoni		-11.48694	43.26917	P	PPL	KM		02				0		60	Indian/Comoro	1998-01-12
+921909	Îlot Djumadjini	Ilot Djumadjini	Choa Djoumadjini,Chumadini,Chumadini Island,Ile Djoumadjini,Ile Djumadjim,Ile Djumadjini,Ilot Djumadjini,Jumajini Island,Îlot Djumadjini	-12.38333	43.71667	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921910	Djoumbe	Djoumbe	Djoumbe,Mondzaza-Djumbe,Montzeza Jumbe	-11.75	43.26667	P	PPL	KM		00				0		185	Indian/Comoro	2012-01-18
+921911	Djoumadounia	Djoumadounia		-12.28333	43.75	P	PPL	KM		00				0		-9999	Indian/Comoro	1994-01-06
+921912	Djomani	Djomani	Djomani,Jomani	-11.43028	43.25944	P	PPL	KM		02				0		50	Indian/Comoro	2012-01-18
+921913	Djoyézi	Djoyezi	Djoiezi,Djoyezi,Djoyézi,Mudjiauesi,Mujiauesi	-12.30587	43.77425	P	PPL	KM		03				2096		15	Indian/Comoro	2023-11-29
+921914	Dindi	Dindi	Dindi	-12.21	44.4525	P	PPL	KM		01				0		490	Indian/Comoro	2018-12-04
+921915	Dibouani	Dibouani	Diboani,Diboini,Dibouani	-11.55694	43.31444	P	PPL	KM		02				0		355	Indian/Comoro	2012-01-18
+921916	Demeani	Demeani	Demeani,Deneami	-12.38333	43.75	P	PPL	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921918	Dembéni	Dembeni	Debeni,Dembeni,Dembéni,Djembeni	-11.87361	43.39778	P	PPL	KM		02				2657		280	Indian/Comoro	2023-11-29
+921922	Damou	Damou	Damou,Riviere Damu,Riviére Damu	-12.31417	43.64778	H	STM	KM		03				0		94	Indian/Comoro	2012-01-18
+921923	Damou	Damou		-12.3	43.65	P	PPL	KM		00				0		196	Indian/Comoro	1994-01-06
+921926	La Convalescence	La Convalescence	Convalescence,La Convalescence	-11.755	43.31972	P	PPL	KM		02				0		1555	Indian/Comoro	2012-01-18
+921927	Rocher Conique	Rocher Conique	Conical Rock,Rocher Conique	-12.23333	44.53333	T	RK	KM		00				0		1	Indian/Comoro	2012-01-18
+921929	Union of the Comoros	Union of the Comoros	Al Qumur,Bizinga by'eKomoro,Bizinga by’eKomoro,Co-mo,Co-mo (Comoros),Comor-szigetek,Comoras,Comore,Comore-eilande,Comore-szigetek,Comoren,Comorerne,Comores,Comores (Archipel),Comoro Islands,Comoros,Comorosu,Comòras,Comòros,Cô-mô,Cô-mô (Comoros),Etat Comorien,Federal Islamic Republic of the Comoros,Ilhas Comores,Insulae Comorianae,Ittihad al Qamar,Ittiḩad al Qamar,Izinga rya Komore,Jumhuriyat Juzur al Qamar al Ittihadiyah al Islamiyah,Jumhuriyat Juzur al Qamar al Muttahidah,Jumhuriyat al Qamar al Muttahidah,Jumhuriyat al Qumur al Ittihadiyah al Islamiyah,Jumhūrīyat Juzur al Qamar al Ittiḩādīyah al Islāmīyah,Jumhūrīyat Juzur al Qamar al Muttaḩidah,Jumhūrīyat al Qamar al Muttaḩidah,Jumhūrīyat al Qumur al Ittiḩādīyah al Islāmīyah,Juzur al Qamar,Kamorskia Astravy,Khomoro,Koemoro,Komaoro,Komolosi,Komoor,Komoorid,Komooros,Komor,Komor adalari,Komor adalary,Komor adaları,Komor araldary,Komor orollari,Komor utraulary,Komorai,Komorane,Komorash,Komore,Komoreak,Komoren,Komorene,Komorerna,Komores,Komoret,Komoreyjar,Komorez,Komori,Komorit,Komorlar,Komoro,Komoroj,Komoros,Komoros nutome,Komorosi,Komorot,Komoroyggjar,Komors'ki Ostrovi,Komorska Ostrva,Komorski Ostrovi,Komorski o-vi,Komorski ostrovi,Komorskie o-va,Komoru,Komoru salas,Komoruaens,Komoruäns,Komory,Komoryan kgziner,Komoryn arluud,Komorys,Komorɛ,Komɔri,Kwamoras,Kòmòrósì,Kómoreyjar,Kômaoro,Kömôro,Kɔmɔrɔs,Las Comoras,Oileain Chomora,Oileáin Chomóra,Republic of the Comoros,Republique Federale Islamique des Comores,Republique Federale et Islamique des Comores,Republique des Comores,République Fédérale Islamique des Comores,République Fédérale et Islamique des Comores,République des Comores,Territoire des Comores,Territory of the Comoro Islands,Udzima wa Komori,Unija Komora,Union des Comores,Union of the Comoros,Visiwa vya Komoro,atahad aalqamar,athad jzr alqmr,ge mo,i-Comoros,jmhwryt alqmr almthdt,jmhwryt jzr alqmr alathadyt alaslamyt,jmhwryt jzralqmr almthdt,jzr alqmr,kamorosa,kamwras,ke mo luo,keameareas,khx mo ros,kmwrs,komaros,komolo,komoloseu,komoraoja,komoras,komorasa,komoro,komoroit,komoroja,komoros,komorosa,kwemorosi,kwmwr,kwmwr yarallyry,kwmwrw,kwmwrws,kʼomoris kʼundzulebi,qwmwrw,qwmwrws,qʼmʼrʼs,État Comorien,Κομόρες,Κομόρος,Каморскія Астравы,Комор,Комор аралдары,Комор утраулары,Комораш,Комори,Коморос,Коморска Острва,Коморски Острови,Коморски о-ви,Коморски острови,Коморские о-ва,Коморскі острови,Коморські Острови,Коморы,Коморын арлууд,Ҷазираҳои Комор,Կոմորյան կղզիներ,קאמאראס,קומורו,קומורוס,إتَّحَاد اَلْقَمَر,اتحاد جزر القمر,جزر القمر,جمهورية القمر المتحدة,جمهورية جزر القمر الاتحادية الإسلامية,جمهورية جزرالقمر المتحدة,كومور ئاراللىرى,كومورو,کمورس,کومور,کومورو,کوموروس,کَمورَس,ڪwmwrws,ڪوموروس,कोमोरस,कोमोरोज,कोमोरोस,কমোরোস,কোমোরোস,কোমোৰোজ,ਕੋਮੋਰੋਸ,કોમોરસ,କୋମୋରସ୍,கோமரோஸ்,కొమొరోస్,ಕೊಮೊರೊಸ್,കോമൊറോസ്,කොමොරොස,කොමොරෝස්,คอโมโรส,ໂຄໂມໂຣສ,ཀ་མ་རས,ཀོ་མོ་རོས,ကိုမိုရိုစ်,კომორის კუნძულები,ኮሞሮስ,កមរ,កូម័រ,コモロ,コモロ・イスラム連邦共和国,科摩罗,葛摩,코모로,코모로스	-12.23333	44.44553	A	PCLI	KM		00				832322		1136	Indian/Comoro	2023-11-28
+921930	Comoro Islands	Comoro Islands	Archipel des Comores,Arkhabil Juzur al Qamar,Arkhabīl Juzur al Qamar,Comores,Comores Archipelago,Comoro Islands,Iles Comores,Iles de la Lune,arkhbyl jzr alqmr,Îles Comores,Îles de la Lune,ارخبيل جزر القمر	-12	44.25	T	ISLS	KM		00				0		-9999	Indian/Comoro	2022-05-04
+921935	Chomoni	Chomoni	Chamro,Chomoni	-11.64306	43.38583	P	PPL	KM		02				807		87	Indian/Comoro	2012-01-18
+921939	Chironkamba	Chironkamba	Chironkamba,bandorani=shironkanba,chyrwn kamba,tshyrwnkamba,تشيرونكامبا,چیرون کامبا,バンドラニ＝シロンカンバ	-12.19111	44.3525	P	PPL	KM		01				2391		158	Indian/Comoro	2012-01-18
+921942	Chindini	Chindini	Chendini,Chindini,Shendini	-11.92328	43.49109	P	PPL	KM		02				1471		7	Indian/Comoro	2018-11-26
+921943	Roches Chiconi	Roches Chiconi	Chiconi,Chiconi Rocks,Roches Chiconi	-12.26667	43.61667	T	RKS	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921944	Chezani	Chezani	Cezani,Chezani	-11.4314	43.39625	P	PPL	KM		02				2322		182	Indian/Comoro	2014-03-26
+921945	Chissioua Chandzi	Chissioua Chandzi	Chissioua Chandzi,Choa Sanzi,Ile Chandzi,Ile Sanzi,Ilot Sanzi,Sanzi Islet,Îlot Sanzi	-12.40306	43.71833	T	ISL	KM		03				0		12	Indian/Comoro	2012-01-18
+921946	Chandra	Chandra	Chanda,Chandra	-12.195	44.46472	P	PPL	KM		01				5645		469	Indian/Comoro	2012-01-18
+921948	Chouani	Chouani	Chadjouni,Chouani	-11.8233	43.29429	P	PPL	KM		02				2615		162	Indian/Comoro	2018-11-26
+921949	Sommet Carré	Sommet Carre	Sommet Carre,Sommet Carré,Square Top	-12.31667	43.81667	T	HLL	KM		00				0		1	Indian/Comoro	2020-06-10
+921951	Chissioua Kanzoni	Chissioua Kanzoni	Canzuni Island,Chissioua Canzoni,Chissioua Kanzoni,Choa Canzouni,Ile Canzouni,Ile Canzuni,Ile Maoussi,Kanzuni Island,Nosy Canzouni	-12.39806	43.66944	T	ISL	KM		00				0		138	Indian/Comoro	2012-01-18
+921953	Buanitonque	Buanitonque		-12.33333	43.71667	P	PPL	KM		00				0		361	Indian/Comoro	1994-01-06
+921956	Bouni	Bouni	Bouni	-11.48694	43.38833	P	PPL	KM		02				1104		241	Indian/Comoro	2012-01-18
+921957	Boungouéni	Boungoueni	Boungoueni,Boungouéni	-12.20556	44.29944	P	PPL	KM		01				2465		412	Indian/Comoro	2012-01-18
+921959	Bouéjou	Bouejou		-12.34889	44.51167	P	PPL	KM		01				0		405	Indian/Comoro	1998-01-12
+921964	Boboni	Boboni	Boboni	-11.7525	43.28028	P	PPL	KM		02				105		445	Indian/Comoro	2018-12-04
+921967	Bimbini	Bimbini	Bimbini,bymbyny,Бимбини,بيمبينى,بيمبيني,بیمبینی	-12.18833	44.23556	P	PPL	KM		01				2052		151	Indian/Comoro	2013-03-28
+921969	Bazimini	Bazimini	Bazimini,Bazmini,bajimini,bazymyny,Базимини,Բազիմինի,بازيمينى,بازيميني,بازیمینی,バジミニ	-12.17917	44.44889	P	PPL	KM		01				0		485	Indian/Comoro	2012-01-18
+921971	Rochers Bateau	Rochers Bateau	Rochers Bateau,Rochers Bateaux,Sail Rocks	-12.38333	43.65	T	RKS	KM		00				0		-9999	Indian/Comoro	2012-01-18
+921972	Barakani	Barakani	Barakani	-11.83333	43.41667	P	PPL	KM		00				0		1034	Indian/Comoro	2018-12-04
+921973	Bangoma	Bangoma		-12.28389	43.75139	P	PPL	KM		03				0		39	Indian/Comoro	1998-01-12
+921974	Bangoua Kouni	Bangoua Kouni	Bangoi Kouni,Bangoua,Bangoua Kouni,Bangua	-11.3675	43.35278	P	PPL	KM		02				0		6	Indian/Comoro	2012-01-18
+921975	Bangoi	Bangoi		-11.81667	43.3	P	PPL	KM		00				0		305	Indian/Comoro	1994-01-06
+921981	Bandani	Bandani		-12.33333	43.81667	P	PPL	KM		00				0		129	Indian/Comoro	1994-01-06
+921982	Bandani-Vouani	Bandani-Vouani	Bandani,Bandani-Vouani	-12.24472	44.38556	P	PPL	KM		01				0		129	Indian/Comoro	2012-01-18
+921984	Bandamadji-Domba	Bandamadji-Domba	Bandamadji,Bandamadri,Bandamadxi,Bandamadzi,Bandamaji	-11.78788	43.45356	P	PPLR	KM		02				1929		15	Indian/Comoro	2022-03-22
+921992	Bambao	Bambao	Bambao,Bambao M'Sanga,Bambao M’Sanga	-12.20325	44.51638	P	PPL	KM		01				2699		25	Indian/Comoro	2018-11-26
+921994	Babani	Babani		-12.3	43.8	P	PPL	KM		00				0		-9999	Indian/Comoro	1994-01-06
+921995	Île Avourina	Ile Avourina	Ile Avourina,Ile Luala,ilot Luala,Île Avourina,îlot Luala	-12.3	43.63333	T	ISL	KM		00				0		-9999	Indian/Comoro	2020-06-10
+921996	Assimpao	Assimpao	Asimpao,Assimpao,asymbaw,asympayw,Асимпао,آسیمپائو,أسيمباو,اسيمباو	-12.23306	44.31972	P	PPL	KM		01				1112		125	Indian/Comoro	2012-01-18
+921998	Antsahé	Antsahe	Antsahe,Antsahé,antsahy,أنتساهي,انتساهى	-12.35639	44.5225	P	PPL	KM		01				1180		177	Indian/Comoro	2012-01-18
+921999	Baie d’Anjouan	Baie d'Anjouan		-12.11667	44.41667	H	BAY	KM		00				0		-9999	Indian/Comoro	2014-10-01
+922000	Anjouan	Anjouan	AJN,Anjouan,Anjouan Island,Ile Anjouan,Jazirat Anjwan,Jazirat Hanzwan,Jazīrat Anjwān,Jazīrat Hanzwān,Johanna,Johanna Island,Ndzuwani,Nzwani,angjuang seom,anjuan,jzyrt anjwan,jzyrt hnzwan,Île Anjouan,جزيرة أنجوان,جزيرة هنزوان,アンジュアン,앙주앙 섬	-12.21999	44.4421	T	ISL	KM		01				0		723	Indian/Comoro	2018-01-09
+922001	Ndzuwani	Ndzuwani	Anjon,Anjouan,Anjwan,Anjwān,Anuan,Anzhuan,Hanzwan,Hanzwān,Ile Autonome d'Anjouan,Ndzuwani,Ndzuwani ou Anjouan,anaju'ana,anajuyana,anjuan,anjwan,anzwany,hnzwan,Île Autonome d'Anjouan,Əncan,Ənzhuan,ʿeniጁwani,Анжуан,Ањуан,Әнжуан,أنجوان,أنزواني,انجوان,حنزوان,هنزوان,অনজুয়ান,ਅਨਜੁਆਨ,አንጁዋን,アンジュアン	-12.25	44.41667	A	ADM1	KM		01				270255		448	Indian/Comoro	2026-04-16
+1090503	Bandani	Bandani		-12.25167	43.63722	H	STMI	KM		03				0		129	Indian/Comoro	1998-01-12
+1090504	Kaoué	Kaoue		-12.25833	43.64472	T	SPUR	KM		03				0		35	Indian/Comoro	1998-01-12
+1090505	Tsantzani	Tsantzani		-12.25833	43.63472	T	SPUR	KM		03				0		37	Indian/Comoro	1998-01-12
+1090506	Kobela	Kobela		-12.26806	43.63417	P	PPL	KM		03				0		105	Indian/Comoro	1998-01-12
+1090507	Hamba	Hamba		-12.27444	43.63194	P	PPL	KM		03				585		119	Indian/Comoro	2006-01-17
+1090508	Haouaché	Haouache		-12.27861	43.6325	H	STM	KM		03				0		168	Indian/Comoro	1998-01-12
+1090509	Poneha	Poneha		-12.27917	43.63361	H	STM	KM		03				0		198	Indian/Comoro	1998-01-12
+1090510	Nkagnani	Nkagnani		-12.27972	43.63778	H	STM	KM		03				0		92	Indian/Comoro	1998-01-12
+1090511	Chikoni	Chikoni		-12.28583	43.63167	P	PPL	KM		03				0		45	Indian/Comoro	1998-01-12
+1090512	Djirani	Djirani	Djirani	-12.28722	43.62861	T	CLF	KM		03				0		28	Indian/Comoro	2018-12-05
+1090513	Ntsaoueni	Ntsaoueni		-12.28333	43.63639	T	SLP	KM		03				0		90	Indian/Comoro	1998-01-12
+1090514	Chissioua Bouélachamba	Chissioua Bouelachamba		-12.28361	43.61639	T	ISL	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090515	Amadzi	Amadzi		-12.29667	43.63472	H	STM	KM		03				0		53	Indian/Comoro	1998-01-12
+1090516	Mro Ouabouchi	Mro Ouabouchi		-12.29889	43.63361	H	STM	KM		03				0		5	Indian/Comoro	1998-01-12
+1090517	Damou	Damou		-12.31444	43.63472	T	PK	KM		03				0		1	Indian/Comoro	1998-01-12
+1090518	Bandahari	Bandahari		-12.30778	43.6375	H	STM	KM		03				0		60	Indian/Comoro	1998-01-12
+1090519	Avourouni	Avourouni		-12.30583	43.64778	T	SLP	KM		03				0		168	Indian/Comoro	1998-01-12
+1090520	Ladjoumbé	Ladjoumbe		-12.30194	43.65472	H	STMX	KM		03				0		230	Indian/Comoro	1998-01-12
+1090521	Mihonkoni	Mihonkoni		-12.31556	43.65139	H	STM	KM		03				0		70	Indian/Comoro	1998-01-12
+1090522	Chissioua Magnougni	Chissioua Magnougni	Chissioua Magnougni	-12.39472	43.64222	T	ISL	KM		03				0		-9999	Indian/Comoro	2018-12-05
+1090523	Chissioua Dzaha	Chissioua Dzaha	Chissioua Dzaha	-12.39972	43.65694	T	ISL	KM		03				0		-9999	Indian/Comoro	2018-12-05
+1090524	Chissioua Mbouzi	Chissioua Mbouzi		-12.39111	43.69583	T	ISL	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090525	Chissioua Mbougo	Chissioua Mbougo	Chissioua Mbougo	-12.395	43.72861	T	ISL	KM		03				0		-9999	Indian/Comoro	2018-12-05
+1090526	Chissioua Méa	Chissioua Mea		-12.37889	43.73667	T	ISL	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090527	Tsandzahale	Tsandzahale	Tsandzahale	-12.25222	43.65389	T	SPUR	KM		03				0		8	Indian/Comoro	2018-12-05
+1090528	Mro Kaoué	Mro Kaoue		-12.25167	43.65972	H	STMI	KM		03				0		3	Indian/Comoro	1998-01-12
+1090529	Haouabouchi	Haouabouchi	Haouabouchi	-12.26889	43.64833	T	SPUR	KM		03				0		272	Indian/Comoro	2018-12-05
+1090530	Voundrouvou	Voundrouvou		-12.28694	43.66028	T	SPUR	KM		03				0		516	Indian/Comoro	1998-01-12
+1090531	Châlet Saint Antoine	Chalet Saint Antoine		-12.28222	43.66333	S	BCN	KM		03				0		546	Indian/Comoro	1998-01-12
+1090532	Tranou	Tranou		-12.27222	43.66722	T	SPUR	KM		03				0		244	Indian/Comoro	1998-01-12
+1090533	Ouongoatili	Ouongoatili		-12.29306	43.66528	T	SLP	KM		03				0		456	Indian/Comoro	1998-01-12
+1090534	Madjingouéni	Madjingoueni		-12.31889	43.65583	H	STM	KM		03				0		110	Indian/Comoro	1998-01-12
+1090535	Akomodjou	Akomodjou		-12.32222	43.66056	H	STM	KM		03				0		88	Indian/Comoro	1998-01-12
+1090536	Améré	Amere		-12.31583	43.66694	H	STM	KM		03				0		185	Indian/Comoro	1998-01-12
+1090537	Baoura	Baoura		-12.31611	43.66806	H	STM	KM		03				0		117	Indian/Comoro	1998-01-12
+1090538	Miréréni	Mirereni		-12.32111	43.65972	P	PPL	KM		03				0		83	Indian/Comoro	1998-01-12
+1090554	Moudjaouaché	Moudjaouache		-12.32639	43.66861	T	HLL	KM		03				0		41	Indian/Comoro	1998-01-12
+1090555	Ouamdjaouaché	Ouamdjaouache		-12.32722	43.67278	T	SPUR	KM		03				0		50	Indian/Comoro	1998-01-12
+1090556	Mro Mihonkoni	Mro Mihonkoni		-12.33361	43.66611	H	STM	KM		03				0		13	Indian/Comoro	1998-01-12
+1090557	Mouaro	Mouaro		-12.3325	43.67194	T	SLP	KM		03				0		72	Indian/Comoro	1998-01-12
+1090558	Mirémani	Miremani		-12.33972	43.66833	P	PPL	KM		03				0		21	Indian/Comoro	1998-01-12
+1090559	Sambadjou	Sambadjou		-12.34083	43.67361	L	LCTY	KM		03				0		83	Indian/Comoro	1998-01-12
+1090560	Mirémani	Miremani		-12.34694	43.6675	T	HLL	KM		03				0		17	Indian/Comoro	1998-01-12
+1090561	Béramou	Beramou		-12.34472	43.67556	T	HLL	KM		03				0		73	Indian/Comoro	1998-01-12
+1090562	Drondroni	Drondroni		-12.35278	43.67361	H	STM	KM		03				0		53	Indian/Comoro	1998-01-12
+1090563	Trandrama	Trandrama	Trandrama	-12.35444	43.67667	T	HLL	KM		03				0		63	Indian/Comoro	2018-12-05
+1090564	Ndrondroni	Ndrondroni	Ndrondroni,ndrwndrwny,ندروندرونى,ندروندروني	-12.34278	43.68222	P	PPL	KM		03				0		115	Indian/Comoro	2012-01-19
+1090565	Foungué	Foungue		-12.34139	43.68361	H	STMX	KM		03				0		116	Indian/Comoro	1998-01-12
+1090566	Mavadjadjou	Mavadjadjou	Mavadjadjou	-12.34361	43.69083	T	HLL	KM		03				0		89	Indian/Comoro	2018-12-05
+1090567	Ouongokounou	Ouongokounou	Ouongokounou	-12.32944	43.68778	T	HLL	KM		03				0		256	Indian/Comoro	2018-12-05
+1090568	Mbouanifoungué	Mbouanifoungue		-12.35167	43.7	H	STM	KM		03				0		47	Indian/Comoro	1998-01-12
+1090569	Mlima Baoura	Mlima Baoura	Mlima Baoura	-12.31056	43.68639	T	MT	KM		03				0		593	Indian/Comoro	2018-12-05
+1090570	Mzé Koukoulé Bandalankoua	Mze Koukoule Bandalankoua		-12.30667	43.69417	T	RDGE	KM		03				0		676	Indian/Comoro	1998-01-12
+1090571	Ndiouin-Dioui	Ndiouin-Dioui		-12.30889	43.67528	T	SPUR	KM		03				0		369	Indian/Comoro	1998-01-12
+1090572	Mihogoni	Mihogoni	Mihogoni	-12.28389	43.68972	T	GRGE	KM		03				0		374	Indian/Comoro	2018-12-05
+1090573	Ouongobabounou	Ouongobabounou	Ouongobabounou	-12.28889	43.67583	T	MT	KM		03				0		442	Indian/Comoro	2018-12-05
+1090574	Bouémoudou	Bouemoudou		-12.27917	43.67722	T	SPUR	KM		03				0		251	Indian/Comoro	1998-01-12
+1090575	Mbouérani	Mbouerani		-12.27611	43.69528	T	PK	KM		03				0		131	Indian/Comoro	2014-11-06
+1090576	Mouhoudzoundzou	Mouhoudzoundzou		-12.26333	43.68389	T	HLL	KM		03				0		57	Indian/Comoro	1998-01-12
+1090577	Ngamaroumbo	Ngamaroumbo	Ngamaroumbo	-12.26167	43.67306	P	PPL	KM		03				316		25	Indian/Comoro	2018-12-05
+1090578	Mro oua Bouéni	Mro oua Boueni		-12.25611	43.67056	H	STM	KM		03				0		10	Indian/Comoro	1998-01-12
+1090579	Chongodjoua	Chongodjoua		-12.25583	43.67694	T	HLL	KM		03				0		5	Indian/Comoro	1998-01-12
+1090580	Hakodini	Hakodini	Hakodini	-12.25417	43.6675	T	HLL	KM		03				0		19	Indian/Comoro	2018-12-05
+1090581	Gnambo Yamaoré	Gnambo Yamaore		-12.25083	43.66917	P	PPL	KM		03				0		19	Indian/Comoro	1998-01-12
+1090582	Mouhoudzoundzou	Mouhoudzoundzou		-12.25667	43.69361	H	STMI	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090583	Mtakoudja	Mtakoudja	Mtakoudja	-12.26111	43.70361	P	PPL	KM		03				1410		39	Indian/Comoro	2012-01-19
+1090584	Mro Infanté	Mro Infante		-12.26361	43.7075	H	STMI	KM		03				0		39	Indian/Comoro	1998-01-12
+1090585	Bandani	Bandani		-12.28028	43.70694	T	MESA	KM		03				0		171	Indian/Comoro	1998-01-12
+1090586	Singani	Singani		-12.26639	43.71611	H	STMI	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090587	Badjo	Badjo		-12.29444	43.7	T	PK	KM		03				0		317	Indian/Comoro	1998-01-12
+1090588	Dzitsoni	Dzitsoni	Dzitsoni	-12.2975	43.71306	T	MT	KM		03				0		381	Indian/Comoro	2018-12-05
+1090589	Mro Oualembini	Mro Oualembini		-12.26611	43.73	H	STM	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090590	Terme Ouest	Terme Ouest		-12.265	43.73278	S	BCN	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090591	Namaloungou	Namaloungou	Namaloungou	-12.31167	43.71833	T	MT	KM		03				0		658	Indian/Comoro	2018-12-05
+1090592	Kibouana	Kibouana		-12.31833	43.71111	T	PK	KM		03				0		681	Indian/Comoro	2014-11-06
+1090593	Mkirini	Mkirini		-12.32528	43.70528	T	PK	KM		03				0		524	Indian/Comoro	1998-01-12
+1090594	Banda	Banda		-12.32417	43.71472	T	SPUR	KM		03				0		688	Indian/Comoro	1998-01-12
+1090595	Barakani	Barakani		-12.33	43.70917	L	LCTY	KM		03				0		491	Indian/Comoro	1998-01-12
+1090596	Beramou	Beramou		-12.34444	43.70278	T	HLL	KM		03				0		101	Indian/Comoro	1998-01-12
+1090597	Bandrakou	Bandrakou	Bandrakou	-12.33972	43.71389	T	HLL	KM		03				0		201	Indian/Comoro	2018-12-05
+1090598	Chongoé	Chongoe		-12.34056	43.72139	T	HLL	KM		03				0		206	Indian/Comoro	1998-01-12
+1090599	Mro Chikoni	Mro Chikoni		-12.35361	43.71056	H	STM	KM		03				0		68	Indian/Comoro	1998-01-12
+1090600	Mbo Mbili	Mbo Mbili		-12.35694	43.66111	T	ISLS	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090601	Chissioua Bouélamiradji	Chissioua Bouelamiradji		-12.36361	43.72306	T	ISL	KM		03				0		11	Indian/Comoro	1998-01-12
+1090602	Bandani	Bandani		-12.3525	43.72389	L	LCTY	KM		03				0		88	Indian/Comoro	1998-01-12
+1090603	Mro Mledjélé	Mro Mledjele		-12.35528	43.72583	H	STM	KM		03				0		30	Indian/Comoro	1998-01-12
+1090604	Biani	Biani		-12.355	43.73389	H	STM	KM		03				0		89	Indian/Comoro	1998-01-12
+1090605	Mnaïbouna	Mnaibouna		-12.32167	43.72417	T	MT	KM		03				0		622	Indian/Comoro	1998-01-12
+1090606	Mlédjélé	Mledjele		-12.31583	43.72917	T	RDGE	KM		03				0		592	Indian/Comoro	1998-01-12
+1090607	Col de Mlédjélé	Col de Mledjele		-12.33278	43.74389	T	PASS	KM		03				0		471	Indian/Comoro	1998-01-12
+1090608	Bichara	Bichara	Bichara	-12.31056	43.72972	T	MT	KM		03				0		445	Indian/Comoro	2018-12-05
+1090609	Djitoni	Djitoni		-12.30611	43.73639	H	STM	KM		03				0		440	Indian/Comoro	1998-01-12
+1090610	Bandani	Bandani		-12.30194	43.73111	L	LCTY	KM		03				0		315	Indian/Comoro	1998-01-12
+1090611	Doubouni	Doubouni		-12.28278	43.74028	H	STMI	KM		03				0		11	Indian/Comoro	1998-01-12
+1090612	Nkouahini	Nkouahini		-12.28083	43.75028	H	STMI	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090613	Déoua	Deoua		-12.27778	43.73806	H	STM	KM		03				0		4	Indian/Comoro	1998-01-12
+1090614	Bonovo	Bonovo		-12.28806	43.75167	V	GRSLD	KM		03				0		9	Indian/Comoro	1998-01-12
+1090615	Bandaressalam	Bandaressalam	Bandaressalam,NWA	-12.29845	43.75854	P	PPL	KM		03				0		56	Indian/Comoro	2016-07-27
+1090616	Mnadzi Modja	Mnadzi Modja		-12.27861	43.74583	P	PPLX	KM		03				0		8	Indian/Comoro	1998-01-12
+1090618	Djoumadounia	Djoumadounia	Djoumadounia	-12.30417	43.74889	T	HLL	KM		03				0		119	Indian/Comoro	2018-12-05
+1090619	Bandahoungoué	Bandahoungoue		-12.31361	43.75194	L	LCTY	KM		03				0		317	Indian/Comoro	1998-01-12
+1090620	Chioué	Chioue		-12.31889	43.76194	T	MT	KM		03				0		358	Indian/Comoro	1998-01-12
+1090621	Mro Chioué	Mro Chioue		-12.32417	43.76972	H	STMI	KM		03				0		202	Indian/Comoro	1998-01-12
+1090622	Ouatoro	Ouatoro		-12.32167	43.75444	H	STMI	KM		03				0		425	Indian/Comoro	1998-01-12
+1090623	Pondoni	Pondoni		-12.33167	43.75167	T	MT	KM		03				0		366	Indian/Comoro	1998-01-12
+1090624	Col de Gaouani	Col de Gaouani	Col de Gaouani	-12.34056	43.75583	T	PASS	KM		03				0		308	Indian/Comoro	2018-12-05
+1090625	Maodjani	Maodjani		-12.32972	43.76611	H	STM	KM		03				0		187	Indian/Comoro	1998-01-12
+1090626	Gaouani	Gaouani		-12.3375	43.74528	L	LCTY	KM		03				0		433	Indian/Comoro	1998-01-12
+1090627	Goudjoudai	Goudjoudai	Goudjoudai	-12.34556	43.76222	T	MTS	KM		03				0		298	Indian/Comoro	2018-12-05
+1090628	Mirovouni	Mirovouni	Mirovouni	-12.35028	43.74694	T	HLL	KM		03				0		118	Indian/Comoro	2018-12-05
+1090629	Ndréméani	Ndremeani		-12.35083	43.75194	P	PPL	KM		03				147		123	Indian/Comoro	2006-01-17
+1090630	Hachéli	Hacheli		-12.3525	43.74972	L	LCTY	KM		03				0		70	Indian/Comoro	1998-01-12
+1090631	Mbouemdou	Mbouemdou	Mbouemdou	-12.35806	43.74083	T	HLL	KM		03				0		76	Indian/Comoro	2018-12-05
+1090632	Mapiachingo	Mapiachingo		-12.35833	43.76	H	STMI	KM		03				0		142	Indian/Comoro	1998-01-12
+1090633	Mihoungouni	Mihoungouni		-12.35833	43.7675	P	PPL	KM		03				0		317	Indian/Comoro	1998-01-12
+1090634	Domodé	Domode		-12.36833	43.775	T	PEN	KM		03				0		37	Indian/Comoro	1998-01-12
+1090635	Magnohani	Magnohani	Magnohani	-12.35083	43.78083	T	SPUR	KM		03				0		314	Indian/Comoro	2018-12-05
+1090636	Mda Mvoulé	Mda Mvoule		-12.34694	43.77611	S	BCN	KM		03				0		290	Indian/Comoro	1998-01-12
+1090637	Hamouanahedja	Hamouanahedja		-12.34389	43.76972	T	SLP	KM		03				0		294	Indian/Comoro	1998-01-12
+1090638	Chira Mhamba	Chira Mhamba	Chira Mhamba	-12.33639	43.77389	T	MT	KM		03				0		279	Indian/Comoro	2018-12-05
+1090639	Siri	Siri		-12.33417	43.78056	P	PPL	KM		03				0		321	Indian/Comoro	1998-01-12
+1090640	Ziroudani	Ziroudani	Ziroudani,zyrwdany,Зироудани,زيرودانى,زيروداني	-12.3325	43.7775	P	PPL	KM		03				1197		268	Indian/Comoro	2012-01-19
+1090641	Ouhoni	Ouhoni		-12.32278	43.785	V	GROVE	KM		03				0		248	Indian/Comoro	2017-11-08
+1090642	Mizidjou	Mizidjou		-12.33056	43.78417	L	LCTY	KM		03				0		268	Indian/Comoro	1998-01-12
+1090643	Cocorico	Cocorico	Cocorico	-12.33972	43.79306	T	MT	KM		03				0		266	Indian/Comoro	2018-12-05
+1090644	Maïadjou	Maiadjou		-12.32111	43.77972	T	MTS	KM		03				0		179	Indian/Comoro	1998-01-12
+1090645	Gnombéni	Gnombeni		-12.30056	43.77806	P	PPL	KM		03				0		1	Indian/Comoro	1998-01-12
+1090646	Mro Gnombéni	Mro Gnombeni		-12.30028	43.78028	H	STM	KM		03				0		1	Indian/Comoro	1998-01-12
+1090647	Kahioua	Kahioua		-12.30333	43.78722	H	STMI	KM		03				0		1	Indian/Comoro	1998-01-12
+1090648	Oua Madji	Oua Madji		-12.31639	43.8025	H	STM	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090674	Tanaraki	Tanaraki	Tanaraki	-12.32583	43.80611	T	HLL	KM		03				0		45	Indian/Comoro	2018-12-05
+1090675	Goulagnoundi	Goulagnoundi	Goulagnoundi	-12.33417	43.80528	T	MT	KM		03				0		191	Indian/Comoro	2018-12-05
+1090676	Hamnobi	Hamnobi		-12.31889	43.81472	H	STMI	KM		03				0		2	Indian/Comoro	1998-01-12
+1090677	Mlabanda	Mlabanda		-12.33139	43.81139	P	PPL	KM		03				0		234	Indian/Comoro	1998-01-12
+1090678	Kirimani	Kirimani		-12.34056	43.79917	P	PPLX	KM		03				0		240	Indian/Comoro	1998-01-12
+1090679	Ouangani	Ouangani		-12.35611	43.79222	H	STM	KM		03				0		213	Indian/Comoro	1998-01-12
+1090680	Binga	Binga		-12.36694	43.78861	H	STM	KM		03				0		84	Indian/Comoro	1998-01-12
+1090681	Mzé Palé	Mze Pale		-12.36278	43.79056	T	SPUR	KM		03				0		114	Indian/Comoro	1998-01-12
+1090682	Bandani	Bandani		-12.35556	43.8025	T	HLL	KM		03				0		212	Indian/Comoro	1998-01-12
+1090683	Koungouni	Koungouni		-12.3675	43.79111	H	STM	KM		03				0		54	Indian/Comoro	1998-01-12
+1090684	Hamangoulou	Hamangoulou		-12.34778	43.80528	L	LCTY	KM		03				0		269	Indian/Comoro	1998-01-12
+1090685	Hamvou	Hamvou		-12.36722	43.80778	H	STMI	KM		03				0		56	Indian/Comoro	1998-01-12
+1090686	Sirkalini	Sirkalini		-12.36806	43.81	H	STMI	KM		03				0		46	Indian/Comoro	1998-01-12
+1090687	Cascade Souloulouni	Cascade Souloulouni		-12.34972	43.78778	H	FLLS	KM		03				0		268	Indian/Comoro	1998-01-12
+1090688	Hamouagnoumbé	Hamouagnoumbe		-12.37361	43.81472	T	PT	KM		03				0		45	Indian/Comoro	1998-01-12
+1090689	Ouanaziboundouni	Ouanaziboundouni		-12.36639	43.82583	T	HLLS	KM		03				0		217	Indian/Comoro	1998-01-12
+1090690	Kove	Kove	Kove	-12.36028	43.82361	T	HLL	KM		03				0		283	Indian/Comoro	2019-02-22
+1090691	Hagnengélé	Hagnengele		-12.375	43.83083	P	PPL	KM		03				0		146	Indian/Comoro	1998-01-12
+1090692	Hataouala	Hataouala	Hataouala	-12.35111	43.81917	T	MT	KM		03				0		246	Indian/Comoro	2018-12-05
+1090693	Habomo	Habomo	Habomo	-12.345	43.82806	T	MT	KM		03				0		278	Indian/Comoro	2018-12-05
+1090694	Dziani Mlabanda	Dziani Mlabanda		-12.33861	43.80889	H	LKI	KM		03				0		271	Indian/Comoro	1998-01-12
+1090695	Tendéni	Tendeni		-12.33528	43.81889	T	SPUR	KM		03				0		98	Indian/Comoro	1998-01-12
+1090696	Katsouni	Katsouni	Katsouni	-12.33528	43.82611	T	RDGE	KM		03				0		196	Indian/Comoro	2018-12-05
+1090697	Tembeani	Tembeani		-12.31944	43.81861	H	STMI	KM		03				0		1	Indian/Comoro	1998-01-12
+1090698	Goudjouboueni	Goudjouboueni	Goudjouboueni,Montagne Carree,Montagne Carrée	-12.32389	43.82194	T	HLL	KM		03				0		1	Indian/Comoro	2012-01-19
+1090699	Msangararou	Msangararou	Msangararou	-12.32556	43.83222	T	HLL	KM		03				0		6	Indian/Comoro	2018-12-05
+1090831	Mouhou	Mouhou		-12.33972	43.83139	P	PPL	KM		03				0		174	Indian/Comoro	1998-01-12
+1090832	Hamavouna	Hamavouna	Hamavouna	-12.37306	43.83833	P	PPL	KM		03				778		91	Indian/Comoro	2018-12-05
+1090833	Kadoni	Kadoni	Kadoni	-12.37889	43.84694	T	HLL	KM		03				0		20	Indian/Comoro	2018-12-05
+1090834	Dziani Boundouni	Dziani Boundouni		-12.3725	43.84722	H	LK	KM		03				0		138	Indian/Comoro	1998-01-12
+1090835	Boundouni	Boundouni	Boundouni	-12.36472	43.84917	T	HLL	KM		03				0		103	Indian/Comoro	2018-12-05
+1090836	Moutrou	Moutrou	Moutrou	-12.37306	43.85833	T	HLL	KM		03				0		55	Indian/Comoro	2018-12-05
+1090837	Tsinavouni	Tsinavouni	Tsinavouni	-12.38194	43.86278	T	HLL	KM		03				0		76	Indian/Comoro	2018-12-05
+1090838	Mro Ikoni	Mro Ikoni		-12.37556	43.83778	H	STM	KM		03				0		65	Indian/Comoro	1998-01-12
+1090839	Chissioua Chikoundou	Chissioua Chikoundou	Chissioua Chikoundou	-12.38389	43.87111	T	ISL	KM		03				0		-9999	Indian/Comoro	2018-12-05
+1090840	Chissioua Bouélamanga	Chissioua Bouelamanga		-12.37833	43.86889	T	ISLT	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090841	Chissioua Mbouzi	Chissioua Mbouzi		-12.36972	43.87556	T	ISL	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090842	Hamada Ali	Hamada Ali	Hamada Ali	-12.36722	43.86861	T	PK	KM		03				0		38	Indian/Comoro	2018-12-05
+1090843	Mro Itsamia	Mro Itsamia		-12.36611	43.86861	H	STMI	KM		03				0		39	Indian/Comoro	1998-01-12
+1090844	Chomari	Chomari		-12.36361	43.85556	H	STMI	KM		03				0		101	Indian/Comoro	1998-01-12
+1090845	Kibéléléni	Kibeleleni		-12.35778	43.8425	S	BCN	KM		03				0		244	Indian/Comoro	1998-01-12
+1090846	Minadzini	Minadzini		-12.36194	43.86417	H	STMI	KM		03				0		15	Indian/Comoro	1998-01-12
+1090847	Mtrouni	Mtrouni		-12.35444	43.86306	H	STMI	KM		03				0		1	Indian/Comoro	1998-01-12
+1090848	Mkirini	Mkirini		-12.35833	43.83667	H	STM	KM		03				0		113	Indian/Comoro	1998-01-12
+1090849	Chongodjoua	Chongodjoua		-12.3475	43.84139	T	SPUR	KM		03				0		166	Indian/Comoro	1998-01-12
+1090850	Hagnoungou	Hagnoungou		-12.34417	43.85694	H	STMI	KM		03				0		1	Indian/Comoro	1998-01-12
+1090851	Chissioua Bouélamahombé	Chissioua Bouelamahombe		-12.33361	43.85139	T	ISLS	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090852	Hagnamouada	Hagnamouada		-12.33333	43.8425	P	PPL	KM		03				0		-9999	Indian/Comoro	1998-01-12
+1090853	Mro Habomo	Mro Habomo		-12.33222	43.84111	H	STMI	KM		03				0		1	Indian/Comoro	1998-01-12
+1090854	Chissioua Gnandza	Chissioua Gnandza	Chissioua Gnandza	-12.37472	43.89389	T	ISL	KM		03				0		-9999	Indian/Comoro	2018-12-05
+1090855	Chissioua Mchaco	Chissioua Mchaco	Chissioua Mchaco	-12.36583	43.91806	T	ISL	KM		03				0		-9999	Indian/Comoro	2018-12-05
+1090856	Chissouani	Chissouani		-12.16917	44.21361	T	HLLS	KM		01				0		22	Indian/Comoro	1998-01-12
+1090857	Mamariam	Mamariam		-12.17389	44.21222	H	STMI	KM		01				0		91	Indian/Comoro	1998-01-12
+1090858	Ntakoudja	Ntakoudja		-12.16861	44.22278	P	PPL	KM		01				0		9	Indian/Comoro	1998-01-12
+1090859	Mkirijou	Mkirijou		-12.17778	44.22028	T	SLP	KM		01				0		103	Indian/Comoro	1998-01-12
+1090860	Mro Dziani	Mro Dziani		-12.18167	44.2225	H	STMI	KM		01				0		126	Indian/Comoro	1998-01-12
+1090861	Dziani	Dziani		-12.17806	44.22889	V	GROVE	KM		01				0		167	Indian/Comoro	2017-11-08
+1090862	Bangouélamvouéra	Bangouelamvouera		-12.17139	44.22639	P	PPL	KM		01				0		79	Indian/Comoro	1998-01-12
+1090863	Hachélafo	Hachelafo		-12.17667	44.23833	T	HLL	KM		01				0		118	Indian/Comoro	1998-01-12
+1090864	Baheri	Baheri		-12.17972	44.23306	T	HLL	KM		01				0		191	Indian/Comoro	1998-01-12
+1090865	Koumahamé	Koumahame		-12.18667	44.23083	H	STMI	KM		01				0		107	Indian/Comoro	1998-01-12
+1090866	Ntsajou	Ntsajou		-12.17778	44.23667	P	PPL	KM		01				0		180	Indian/Comoro	1998-01-12
+1090867	Foundroni	Foundroni	Foundroni	-12.18167	44.24278	T	HLL	KM		01				0		67	Indian/Comoro	2018-12-05
+1090868	Bangouéni	Bangoueni		-12.18139	44.25	T	HLL	KM		01				0		8	Indian/Comoro	1998-01-12
+1090869	Souni	Souni		-12.19556	44.24583	P	PPL	KM		01				0		129	Indian/Comoro	1998-01-12
+1090870	Mirongani	Mirongani	Mirongani,Миронгани	-12.19056	44.2525	P	PPL	KM		01				882		148	Indian/Comoro	2013-04-05
+1090915	Hakozi	Hakozi		-12.19417	44.25472	L	LCTY	KM		01				0		196	Indian/Comoro	1998-01-12
+1090916	Ngnongagnombé	Ngnongagnombe		-12.19	44.26	S	BCN	KM		01				0		224	Indian/Comoro	1998-01-12
+1090917	Hachimpanga	Hachimpanga		-12.20028	44.25611	H	STM	KM		01				0		115	Indian/Comoro	1998-01-12
+1090918	Milembéni	Milembeni	Milembeni,Milembéni	-12.19806	44.26389	P	PPL	KM		01				885		199	Indian/Comoro	2018-12-05
+1090919	Kavani	Kavani		-12.19194	44.26944	P	PPL	KM		01				2160		160	Indian/Comoro	2006-01-17
+1090920	Hagnankahé	Hagnankahe		-12.18944	44.26778	L	LCTY	KM		01				0		96	Indian/Comoro	1998-01-12
+1090921	Majouani	Majouani		-12.18583	44.27472	P	PPL	KM		01				0		1	Indian/Comoro	1998-01-12
+1090922	Mtsangamléni	Mtsangamleni		-12.18111	44.25778	P	PPL	KM		01				0		8	Indian/Comoro	1998-01-12
+1090923	Hampimbé	Hampimbe		-12.20806	44.265	H	STMI	KM		01				0		105	Indian/Comoro	1998-01-12
+1090924	Hamsogno	Hamsogno	Hamsogno	-12.20528	44.26861	T	GRGE	KM		01				0		146	Indian/Comoro	2018-12-05
+1090925	Hachéla	Hachela		-12.21111	44.275	H	STM	KM		01				0		78	Indian/Comoro	1998-01-12
+1090926	Mro Haré	Mro Hare		-12.21194	44.27639	H	STM	KM		01				0		98	Indian/Comoro	1998-01-12
+1090927	Biantrondro	Biantrondro		-12.18472	44.27722	H	STM	KM		01				0		18	Indian/Comoro	1998-01-12
+1090928	Tsandzoni	Tsandzoni		-12.18806	44.28139	T	HLL	KM		01				0		71	Indian/Comoro	1998-01-12
+1090929	Hamilia	Hamilia		-12.18333	44.28222	L	LCTY	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1090930	Bandajou	Bandajou	Bandajou	-12.19167	44.28694	P	PPL	KM		01				1816		40	Indian/Comoro	2012-01-19
+1090931	Bouékouni	Bouekouni		-12.19611	44.28944	T	VAL	KM		01				0		128	Indian/Comoro	1998-01-12
+1090932	Pointe de Bouékouni	Pointe de Bouekouni		-12.18889	44.29306	T	PT	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1090933	Mchakojou	Mchakojou	Mchakojou	-12.18639	44.3025	T	ISL	KM		01				0		-9999	Indian/Comoro	2018-12-05
+1090934	Champajou	Champajou		-12.19278	44.30389	H	STMI	KM		01				0		223	Indian/Comoro	1998-01-12
+1090935	Rassijou	Rassijou	Rassijou	-12.18972	44.31194	T	CLF	KM		01				0		-9999	Indian/Comoro	2018-12-05
+1090936	Dzindzanoni Bajoni	Dzindzanoni Bajoni	Dzindzanoni Bajoni	-12.20361	44.30944	T	RDGE	KM		01				0		192	Indian/Comoro	2018-12-05
+1090937	Miréréni	Mirereni		-12.19333	44.31028	H	STM	KM		01				0		12	Indian/Comoro	1998-01-12
+1090938	Pajé	Paje		-12.21583	44.28278	H	STMI	KM		01				0		91	Indian/Comoro	1998-01-12
+1090939	Mtsangani Sima	Mtsangani Sima	Mtsangani Sima	-12.21556	44.28194	T	BCH	KM		01				0		112	Indian/Comoro	2018-12-05
+1090940	Lamboué	Lamboue		-12.21889	44.28944	P	PPL	KM		01				0		135	Indian/Comoro	1998-01-12
+1090941	Kokozéna	Kokozena		-12.21944	44.28861	H	STM	KM		01				0		110	Indian/Comoro	1998-01-12
+1090942	Kangamia	Kangamia		-12.21583	44.28556	H	STMI	KM		01				0		159	Indian/Comoro	1998-01-12
+1090943	Ngouyaézi	Ngouyaezi		-12.21139	44.30611	T	MT	KM		01				0		384	Indian/Comoro	1998-01-12
+1090944	Iméré	Imere		-12.21833	44.30111	P	PPL	KM		01				0		316	Indian/Comoro	1998-01-12
+1090945	Mro Mouhouli	Mro Mouhouli		-12.225	44.30306	P	PPL	KM		01				0		110	Indian/Comoro	1998-01-12
+1090946	Mro Mouhouli	Mro Mouhouli		-12.22444	44.30222	H	STM	KM		01				0		167	Indian/Comoro	1998-01-12
+1090947	Mitréni	Mitreni		-12.22917	44.31	H	STM	KM		01				0		116	Indian/Comoro	1998-01-12
+1090948	Mitréni	Mitreni		-12.22917	44.31028	P	PPL	KM		01				0		116	Indian/Comoro	1998-01-12
+1090949	Maraharé	Marahare		-12.23083	44.31389	H	STM	KM		01				0		61	Indian/Comoro	1998-01-12
+1090950	Ouimbi	Ouimbi		-12.23167	44.31556	H	STM	KM		01				0		103	Indian/Comoro	1998-01-12
+1090951	Mro Assimpao	Mro Assimpao		-12.23444	44.31972	H	STM	KM		01				0		81	Indian/Comoro	1998-01-12
+1090952	Chitsangachélé	Chitsangachele		-12.23556	44.32306	P	PPL	KM		01				148		80	Indian/Comoro	2006-01-17
+1090953	Vindjajou	Vindjajou		-12.20722	44.30972	P	PPL	KM		01				0		408	Indian/Comoro	1998-01-12
+1090954	Mkirijou	Mkirijou		-12.19444	44.31778	P	PPL	KM		01				0		41	Indian/Comoro	1998-01-12
+1090955	Sombé	Sombe		-12.19222	44.32056	P	PPL	KM		01				0		7	Indian/Comoro	1998-01-12
+1090956	Chongochahari	Chongochahari		-12.19056	44.31861	P	PPL	KM		01				0		9	Indian/Comoro	1998-01-12
+1090957	Sombé	Sombe		-12.19139	44.32083	H	STM	KM		01				0		7	Indian/Comoro	1998-01-12
+1090958	Baloulhaïr	Baloulhair		-12.19222	44.32389	H	STMI	KM		01				0		264	Indian/Comoro	1998-01-12
+1090959	Mtsangoni	Mtsangoni		-12.19278	44.32639	H	STMI	KM		01				0		264	Indian/Comoro	1998-01-12
+1090960	Chitrouni	Chitrouni	Chitrouni,chytrwny,shtrwny,Читроуни,شترونى,شتروني,چیترونی	-12.18583	44.33556	P	PPL	KM		01				1081		39	Indian/Comoro	2012-01-19
+1090961	Hayadé	Hayade		-12.18889	44.33111	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1090962	Bangoué-Marovéni	Bangoue-Maroveni		-12.20639	44.33056	T	RDGE	KM		01				0		491	Indian/Comoro	1998-01-12
+1090963	Msakijou	Msakijou	Msakijou	-12.21139	44.34083	T	SPUR	KM		01				0		585	Indian/Comoro	2018-12-05
+1090964	Hadongo	Hadongo		-12.22694	44.33083	T	RDGE	KM		01				0		336	Indian/Comoro	1998-01-12
+1090965	Hadongo	Hadongo		-12.23639	44.33111	P	PPL	KM		01				16		118	Indian/Comoro	2006-01-17
+1090966	Hamaré	Hamare		-12.23528	44.33361	H	STMI	KM		01				0		180	Indian/Comoro	1998-01-12
+1090967	Vassi	Vassi		-12.23361	44.34306	H	STM	KM		01				0		35	Indian/Comoro	1998-01-12
+1090968	Mbérina	Mberina		-12.22417	44.34806	H	STM	KM		01				0		233	Indian/Comoro	1998-01-12
+1090969	Hataouilou	Hataouilou		-12.21444	44.36	T	MT	KM		01				0		654	Indian/Comoro	1998-01-12
+1090970	Padzani	Padzani		-12.23694	44.35639	H	STM	KM		01				0		141	Indian/Comoro	1998-01-12
+1090971	Dzindri Mtsangani	Dzindri Mtsangani		-12.235	44.36194	P	PPL	KM		01				0		301	Indian/Comoro	1998-01-12
+1090972	Salamani	Salamani	Salamani,slamany,Саламани,سلامانى,سلاماني	-12.23278	44.36222	P	PPL	KM		01				320		339	Indian/Comoro	2013-04-05
+1090973	Dzindri	Dzindri	Dindri,Dzindri	-12.23028	44.35361	P	PPL	KM		01				0		301	Indian/Comoro	2012-01-19
+1090974	Col de Pochélé	Col de Pochele		-12.20861	44.35778	T	PASS	KM		01				0		583	Indian/Comoro	1998-01-12
+1090975	Bamba Dzoni	Bamba Dzoni	Bamba Dzoni	-12.20222	44.34806	T	MTS	KM		01				0		372	Indian/Comoro	2018-12-05
+1090976	Bandani Mtsangani	Bandani Mtsangani		-12.18944	44.34194	P	PPL	KM		01				0		32	Indian/Comoro	1998-01-12
+1090977	Biangomé	Biangome		-12.185	44.34611	S	HSPC	KM		01				0		39	Indian/Comoro	1998-01-12
+1090978	Maouéni	Maoueni		-12.19611	44.34472	P	PPL	KM		01				0		184	Indian/Comoro	1998-01-12
+1090979	Hamaranga	Hamaranga		-12.18556	44.34778	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1090980	Hangoué	Hangoue		-12.18333	44.35917	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1090981	Ankibani	Ankibani		-12.19333	44.36167	P	PPL	KM		01				0		133	Indian/Comoro	1998-01-12
+1090982	Mpouzini	Mpouzini		-12.18278	44.36444	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1090983	Jongoni	Jongoni		-12.20139	44.36667	H	STM	KM		01				0		187	Indian/Comoro	1998-01-12
+1090984	Mro Mouhouli	Mro Mouhouli		-12.19944	44.36833	H	STMI	KM		01				0		250	Indian/Comoro	1998-01-12
+1090985	Digo	Digo		-12.21278	44.36833	T	MESA	KM		01				0		633	Indian/Comoro	1998-01-12
+1090986	Zikéléni	Zikeleni		-12.22056	44.36583	T	VAL	KM		01				0		648	Indian/Comoro	1998-01-12
+1090987	Agogo	Agogo		-12.23167	44.36583	H	STM	KM		01				0		361	Indian/Comoro	1998-01-12
+1090988	Marontronii	Marontronii		-12.23889	44.36694	P	PPL	KM		01				0		218	Indian/Comoro	1998-01-12
+1090989	Iméré	Imere		-12.23611	44.36778	P	PPL	KM		01				0		305	Indian/Comoro	1998-01-12
+1090990	Mro oua Vouani	Mro oua Vouani		-12.24361	44.37194	H	STM	KM		01				0		45	Indian/Comoro	1998-01-12
+1090991	Mro Bouéni	Mro Boueni		-12.24611	44.375	H	STMI	KM		01				0		57	Indian/Comoro	1998-01-12
+1090992	Mamboué	Mamboue		-12.24083	44.37611	H	STMI	KM		01				0		189	Indian/Comoro	1998-01-12
+1090993	Tsingoyagnora	Tsingoyagnora		-12.23944	44.38194	T	RDGE	KM		01				0		261	Indian/Comoro	1998-01-12
+1090994	Bouboni	Bouboni		-12.23611	44.38833	H	STM	KM		01				0		194	Indian/Comoro	1998-01-12
+1090995	Mro Bandani	Mro Bandani		-12.24806	44.38194	H	STM	KM		01				0		65	Indian/Comoro	1998-01-12
+1090996	Dar Salam	Dar Salam	Dar Salam	-12.25083	44.38806	P	PPL	KM		01				1059		56	Indian/Comoro	2026-01-13
+1090997	Choungoui	Choungoui		-12.25194	44.39694	P	PPL	KM		01				0		82	Indian/Comoro	1998-01-12
+1090998	Trontoni	Trontoni		-12.22083	44.38861	T	SLP	KM		01				0		885	Indian/Comoro	1998-01-12
+1090999	Panki	Panki		-12.07111	44.46056	T	HLL	KM		01				0		57	Indian/Comoro	1998-01-12
+1091000	Bandani	Bandani		-12.07306	44.47056	T	SLP	KM		01				0		81	Indian/Comoro	1998-01-12
+1091001	Banda Mtsanga	Banda Mtsanga		-12.07667	44.48111	P	PPL	KM		01				0		39	Indian/Comoro	1998-01-12
+1091002	Dziani	Dziani		-12.08028	44.46556	T	MT	KM		01				0		223	Indian/Comoro	1998-01-12
+1091003	Mro oua Hari	Mro oua Hari		-12.06833	44.45583	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091004	Joumbi	Joumbi		-12.07972	44.455	T	MT	KM		01				0		256	Indian/Comoro	1998-01-12
+1091005	Mro oua Moroni	Mro oua Moroni		-12.07556	44.48056	H	STM	KM		01				0		39	Indian/Comoro	1998-01-12
+1091006	Hantsandzi	Hantsandzi	Hantsandzi	-12.08639	44.47611	T	HLL	KM		01				0		223	Indian/Comoro	2018-12-05
+1091007	Hangamani	Hangamani		-12.08556	44.4875	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1091008	Pangani	Pangani		-12.09444	44.47667	S	BCN	KM		01				0		290	Indian/Comoro	1998-01-12
+1091009	Hanka	Hanka	Hanka	-12.09417	44.49194	H	STMI	KM		01				0		-9999	Indian/Comoro	2019-02-22
+1091010	Ivali	Ivali		-12.09722	44.49222	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091011	Bandagnouma	Bandagnouma		-12.08778	44.45917	H	STM	KM		01				0		229	Indian/Comoro	1998-01-12
+1091012	Trontroni	Trontroni		-12.08833	44.46028	H	STM	KM		01				0		259	Indian/Comoro	1998-01-12
+1091013	Chironkamba	Chironkamba		-12.07889	44.44472	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1091014	Ndrémajo	Ndremajo		-12.08111	44.43833	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091015	Bandani	Bandani		-12.08806	44.42917	H	STMI	KM		01				0		11	Indian/Comoro	1998-01-12
+1091016	Dziani	Dziani		-12.10056	44.44028	S	BCN	KM		01				0		448	Indian/Comoro	1998-01-12
+1091017	Mboy	Mboy		-12.10611	44.44583	T	MT	KM		01				0		456	Indian/Comoro	1998-01-12
+1091018	Hambondro	Hambondro		-12.09306	44.46917	H	STMI	KM		01				0		249	Indian/Comoro	1998-01-12
+1091019	Hanikora	Hanikora	Hanikora	-12.10694	44.47111	T	MT	KM		01				0		451	Indian/Comoro	2018-12-05
+1091020	Bandralabakoussoufou	Bandralabakoussoufou		-12.09917	44.49194	H	STMI	KM		01				0		40	Indian/Comoro	1998-01-12
+1091071	Hadongo	Hadongo		-12.12333	44.435	T	HLL	KM		01				0		22	Indian/Comoro	1998-01-12
+1091072	Tsoulini	Tsoulini		-12.12056	44.47528	H	STMI	KM		01				0		149	Indian/Comoro	1998-01-12
+1091073	Mro oua Chidza	Mro oua Chidza		-12.11444	44.47111	H	STMI	KM		01				0		418	Indian/Comoro	1998-01-12
+1091074	Foréni	Foreni		-12.11611	44.48083	H	STMI	KM		01				0		137	Indian/Comoro	1998-01-12
+1091075	Mogné-Alloui	Mogne-Alloui		-12.1125	44.48556	H	STMI	KM		01				0		32	Indian/Comoro	1998-01-12
+1091076	Hajoho	Hajoho	Hajoho	-12.12434	44.48881	P	PPL	KM		01				2505		28	Indian/Comoro	2018-11-26
+1091077	Ndrangani	Ndrangani		-12.11917	44.49417	P	PPL	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091078	Dempou	Dempou		-12.13167	44.48056	H	STMI	KM		01				0		203	Indian/Comoro	1998-01-12
+1091079	Chagnoungouni	Chagnoungouni		-12.13472	44.49444	T	RDGE	KM		01				0		47	Indian/Comoro	1998-01-12
+1091080	Bouéni	Boueni		-12.11667	44.48917	H	STM	KM		01				0		103	Indian/Comoro	1998-01-12
+1091081	Kangani	Kangani		-12.13028	44.48444	H	STMI	KM		01				0		91	Indian/Comoro	1998-01-12
+1091082	Chirontsini	Chirontsini		-12.12944	44.48722	H	STMI	KM		01				0		37	Indian/Comoro	1998-01-12
+1091083	Mzingajo	Mzingajo	Mzingajo	-12.12917	44.46444	T	RDGE	KM		01				0		487	Indian/Comoro	2018-12-05
+1091084	Boungouéni	Boungoueni		-12.12806	44.45861	L	LCTY	KM		01				0		458	Indian/Comoro	1998-01-12
+1091085	Mdzihé	Mdzihe		-12.13778	44.46556	T	MT	KM		01				0		499	Indian/Comoro	1998-01-12
+1091086	Tsantsani	Tsantsani		-12.12222	44.43056	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091087	Gnantranga	Gnantranga		-12.13886	44.43656	P	PPL	KM		01				0		83	Indian/Comoro	2013-10-12
+1091088	Barakani	Barakani	Barakani	-12.13861	44.43026	P	PPLX	KM		01				6089		57	Indian/Comoro	2013-10-12
+1091089	Mtsangamouthoum	Mtsangamouthoum		-12.14111	44.42917	L	LCTY	KM		01				0		91	Indian/Comoro	1998-01-12
+1091090	Hamlindi	Hamlindi		-12.1525	44.4275	T	MT	KM		01				0		306	Indian/Comoro	1998-01-12
+1091091	Mroni Koki	Mroni Koki		-12.15694	44.43361	H	STMI	KM		01				0		264	Indian/Comoro	1998-01-12
+1091092	Bandrakouni	Bandrakouni		-12.15639	44.46667	T	MT	KM		01				0		828	Indian/Comoro	1998-01-12
+1091093	Massinguijou	Massinguijou		-12.15806	44.47833	H	STMI	KM		01				0		519	Indian/Comoro	1998-01-12
+1091094	Mroni Moantsi Troni	Mroni Moantsi Troni		-12.16194	44.50361	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1091095	Isséni	Isseni		-12.15028	44.49444	H	STMI	KM		01				0		144	Indian/Comoro	1998-01-12
+1091096	Bouédou	Bouedou		-12.14806	44.50083	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091097	Dzialandzé	Dzialandze		-12.15167	44.50056	H	STMI	KM		01				0		10	Indian/Comoro	1998-01-12
+1091098	Mlima Roujou	Mlima Roujou		-12.16389	44.48972	T	MT	KM		01				0		239	Indian/Comoro	1998-01-12
+1091099	Hamboga	Hamboga		-12.14333	44.49361	H	STMI	KM		01				0		132	Indian/Comoro	1998-01-12
+1091100	Hassanga	Hassanga		-12.14444	44.49306	H	STMI	KM		01				0		127	Indian/Comoro	1998-01-12
+1091101	Tsantsani	Tsantsani		-12.14833	44.48556	H	STMI	KM		01				0		341	Indian/Comoro	1998-01-12
+1091102	Harembo	Harembo	Harembo,Kharembo,harmbw,Харембо,هارمبو	-12.15108	44.49828	P	PPL	KM		01				1698		54	Indian/Comoro	2018-11-26
+1091103	Lamahalé	Lamahale		-12.14722	44.49889	P	PPL	KM		01				0		36	Indian/Comoro	1998-01-12
+1091104	Madziamahili	Madziamahili		-12.16917	44.5025	H	STMI	KM		01				0		35	Indian/Comoro	1998-01-12
+1091105	Kavelé	Kavele		-12.16778	44.5025	H	STMI	KM		01				0		40	Indian/Comoro	1998-01-12
+1091106	Marahani	Marahani		-12.17472	44.5125	T	SHOR	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091107	Kavélé	Kavele		-12.17694	44.48583	T	SPUR	KM		01				0		253	Indian/Comoro	1998-01-12
+1091108	Mahotani	Mahotani		-12.1725	44.48528	H	STMI	KM		01				0		412	Indian/Comoro	1998-01-12
+1091109	Trouliani	Trouliani		-12.17111	44.48306	H	STMI	KM		01				0		477	Indian/Comoro	1998-01-12
+1091110	Ngouniyagnombe	Ngouniyagnombe	Ngouniyagnombe	-12.17944	44.46917	T	MT	KM		01				0		742	Indian/Comoro	2018-12-05
+1091111	Hamogné-Panga	Hamogne-Panga		-12.17056	44.4725	T	SPUR	KM		01				0		796	Indian/Comoro	1998-01-12
+1091112	Miouni	Miouni	Miouni	-12.16806	44.48361	T	MT	KM		01				0		414	Indian/Comoro	2018-12-05
+1091113	Hamouanaïssa	Hamouanaissa		-12.17167	44.50944	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091114	Djadjana	Djadjana	Djadjana	-12.16639	44.46056	T	MTS	KM		01				0		1010	Indian/Comoro	2018-12-05
+1091115	Mlima Patsi	Mlima Patsi	Mlima Patsi	-12.16583	44.43167	T	MTS	KM		01				0		446	Indian/Comoro	2018-12-05
+1091116	Goungouamoué	Goungouamoue		-12.15972	44.4025	P	PPLX	KM		01				0		29	Indian/Comoro	1998-01-12
+1091117	Mirontsi	Mirontsi	Mirontsi,myrwntsy,ميرونتسي	-12.1604	44.40986	P	PPL	KM		01				11955		213	Indian/Comoro	2023-11-29
+1091118	Chtisangani	Chtisangani	Chtisangani	-12.15306	44.40694	T	PT	KM		01				0		-9999	Indian/Comoro	2018-12-05
+1091119	Hombo	Hombo		-12.16917	44.40139	P	PPL	KM		01				0		107	Indian/Comoro	1998-01-12
+1091120	Sangani	Sangani		-12.17333	44.40667	P	PPL	KM		01				0		258	Indian/Comoro	1998-01-12
+1091121	Pajé	Paje		-12.16972	44.38806	P	PPL	KM		01				1894		-9999	Indian/Comoro	2006-01-17
+1091122	Moujimouvia	Moujimouvia		-12.17444	44.3875	P	PPL	KM		01				0		12	Indian/Comoro	1998-01-12
+1091123	Bandrankoa	Bandrankoa		-12.17639	44.3975	L	LCTY	KM		01				0		198	Indian/Comoro	1998-01-12
+1091124	Mahavouli	Mahavouli		-12.15333	44.41417	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091125	Mlima Sadaka	Mlima Sadaka		-12.18944	44.51278	T	HLL	KM		01				0		60	Indian/Comoro	1998-01-12
+1091126	Mro Tatinga	Mro Tatinga		-12.17528	44.51361	H	STM	KM		01				0		31	Indian/Comoro	1998-01-12
+1091127	Habouzi	Habouzi		-12.18528	44.45722	S	BCN	KM		01				0		722	Indian/Comoro	1998-01-12
+1091128	Col de Patsi	Col de Patsi	Col de Patsi	-12.18361	44.45778	T	PASS	KM		01				0		669	Indian/Comoro	2018-12-05
+1091129	Bamboa Mtouni	Bamboa Mtouni	Bamboa Mtouni	-12.20083	44.45806	T	MT	KM		01				0		452	Indian/Comoro	2018-12-05
+1091130	Houngouni	Houngouni		-12.18833	44.42417	T	MTS	KM		01				0		726	Indian/Comoro	1998-01-12
+1091131	Mro oua Moutsamoudou	Mro oua Moutsamoudou		-12.16361	44.39389	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091132	Kovéni	Koveni		-12.18694	44.40889	T	MT	KM		01				0		339	Indian/Comoro	1998-01-12
+1091133	Mouamoua	Mouamoua		-12.18	44.37833	P	PPL	KM		01				0		32	Indian/Comoro	1998-01-12
+1091134	Mro Amabala	Mro Amabala		-12.17389	44.38472	H	STM	KM		01				0		4	Indian/Comoro	1998-01-12
+1091135	Mro oua Bouénidouari	Mro oua Bouenidouari		-12.17417	44.38361	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091136	Mro oua Chikoni	Mro oua Chikoni		-12.18139	44.37083	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091137	Mro oua Jou	Mro oua Jou		-12.20528	44.39417	H	STM	KM		01				0		643	Indian/Comoro	1998-01-12
+1091138	Pajé	Paje		-12.17139	44.38639	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091139	Mromagi	Mromagi		-12.20361	44.51056	P	PPL	KM		01				0		65	Indian/Comoro	1998-01-12
+1091140	Habakari	Habakari		-12.20639	44.47944	T	MT	KM		01				0		958	Indian/Comoro	1998-01-12
+1091141	Ntingui	Ntingui		-12.21361	44.4175	T	MTS	KM		01				0		1089	Indian/Comoro	1998-01-12
+1091142	Paharoni	Paharoni	Paharoni	-12.21778	44.41417	T	RDGE	KM		01				0		1291	Indian/Comoro	2018-12-05
+1091143	Béléa	Belea	Belea,Béléa,Oreilles de Chat	-12.22306	44.42694	T	MT	KM		01				0		1219	Indian/Comoro	2020-06-11
+1091144	Dongojou	Dongojou	Dongojou	-12.21889	44.43611	T	MT	KM		01				0		747	Indian/Comoro	2018-12-05
+1091145	Dzialandée	Dzialandee		-12.22111	44.43278	H	LK	KM		01				0		888	Indian/Comoro	1998-01-12
+1091146	Mchakojour	Mchakojour	Mchakojour	-12.22278	44.44194	T	GRGE	KM		01				0		727	Indian/Comoro	2018-12-05
+1091147	Dzialaoutsounga	Dzialaoutsounga	Dzialaoutsounga	-12.22417	44.45611	T	CRTR	KM		01				0		797	Indian/Comoro	2018-12-05
+1091148	Ngani	Ngani		-12.21583	44.46778	T	SLP	KM		01				0		617	Indian/Comoro	1998-01-12
+1091149	Hachombo	Hachombo	Hachombo	-12.21694	44.48972	T	MT	KM		01				0		637	Indian/Comoro	2018-12-05
+1091150	Houngouni	Houngouni		-12.22194	44.49528	T	MESA	KM		01				0		504	Indian/Comoro	1998-01-12
+1091151	Hakolozi	Hakolozi	Hakolozi	-12.21583	44.50139	T	RDGE	KM		01				0		261	Indian/Comoro	2018-12-05
+1091152	Jéjé	Jeje		-12.22333	44.5225	P	PPL	KM		01				0		53	Indian/Comoro	1998-01-12
+1091153	Mro Jéjé	Mro Jeje		-12.22389	44.52861	H	STM	KM		01				0		1	Indian/Comoro	1998-01-12
+1091154	Hacharifou	Hacharifou	Hacharifou	-12.23111	44.51722	T	VAL	KM		01				0		118	Indian/Comoro	2018-12-05
+1091155	Toumpi	Toumpi		-12.23139	44.50944	T	SPUR	KM		01				0		203	Indian/Comoro	1998-01-12
+1091156	Mlima Hachougou	Mlima Hachougou	Mlima Hachougou	-12.225	44.50139	T	MT	KM		01				0		335	Indian/Comoro	2018-12-05
+1091157	Pamsanzé	Pamsanze		-12.22389	44.51139	H	STM	KM		01				0		157	Indian/Comoro	1998-01-12
+1091158	Hambazi	Hambazi		-12.23194	44.49472	T	SLP	KM		01				0		405	Indian/Comoro	1998-01-12
+1091159	Limbi	Limbi	Limbi,lymby,ليمبى,ليمبي,لیمبی	-12.23944	44.50528	P	PPL	KM		01				1037		380	Indian/Comoro	2013-04-05
+1091160	Trondroni	Trondroni		-12.23778	44.50333	H	STM	KM		01				0		428	Indian/Comoro	1998-01-12
+1091161	Haïko	Haiko		-12.22778	44.45278	T	PK	KM		01				0		824	Indian/Comoro	1998-01-12
+1091162	Mro Choungoui	Mro Choungoui		-12.25528	44.38861	H	STM	KM		01				0		21	Indian/Comoro	1998-01-12
+1091163	Choungoui	Choungoui	Choungoui	-12.24278	44.41056	T	RDGE	KM		01				0		440	Indian/Comoro	2018-12-05
+1091164	Madzirikini	Madzirikini		-12.24306	44.41778	T	SLP	KM		01				0		763	Indian/Comoro	1998-01-12
+1091165	Haytsori	Haytsori		-12.24444	44.42306	H	STM	KM		01				0		468	Indian/Comoro	1998-01-12
+1091166	Hamkolo	Hamkolo		-12.24417	44.42222	H	STM	KM		01				0		428	Indian/Comoro	1998-01-12
+1091167	Digo	Digo		-12.23444	44.42583	T	VAL	KM		01				0		624	Indian/Comoro	1998-01-12
+1091168	Marontroni	Marontroni	Marontroni	-12.23861	44.44861	T	RDGE	KM		01				0		1211	Indian/Comoro	2018-12-05
+1091169	Trindrini	Trindrini		-12.24847	44.45008	T	MT	KM		01				0		1459	Indian/Comoro	2018-01-09
+1091170	Mroni Jomani	Mroni Jomani		-12.24417	44.5325	H	STM	KM		01				0		10	Indian/Comoro	1998-01-12
+1091171	Mahindini	Mahindini		-12.24806	44.51889	V	GROVE	KM		01				0		91	Indian/Comoro	2017-11-08
+1091172	Mro Chironi	Mro Chironi		-12.24806	44.53083	H	STMI	KM		01				0		28	Indian/Comoro	1998-01-12
+1091365	Kogoni	Kogoni		-12.2525	44.51333	H	STMI	KM		01				0		94	Indian/Comoro	1998-01-12
+1091366	Majidzoni	Majidzoni		-12.25528	44.51111	H	STMI	KM		01				0		207	Indian/Comoro	1998-01-12
+1091367	Hamjantro	Hamjantro	Hamjantro	-12.24722	44.4675	T	MT	KM		01				0		888	Indian/Comoro	2018-12-05
+1091368	Hasiaka	Hasiaka	Hasiaka	-12.25333	44.43611	T	RDGE	KM		01				0		656	Indian/Comoro	2018-12-05
+1091369	Démedza	Demedza		-12.25472	44.42056	H	STM	KM		01				0		253	Indian/Comoro	1998-01-12
+1091370	Lingoni	Lingoni	Lingoni,lyngwny,lynkny,lynqwny,Лингони,لينكنى,لينكني,لینقونی,لینگونی	-12.25583	44.41833	P	PPL	KM		01				3583		208	Indian/Comoro	2018-07-23
+1091371	Source Bako-Chikélé	Source Bako-Chikele		-12.26056	44.39806	H	SPNG	KM		01				0		103	Indian/Comoro	1998-01-12
+1091372	Hamamboua	Hamamboua		-12.26556	44.39778	P	PPL	KM		01				0		14	Indian/Comoro	1998-01-12
+1091373	Bamikakou	Bamikakou		-12.26417	44.39583	H	STM	KM		01				0		20	Indian/Comoro	1998-01-12
+1091374	Mro Pomoni	Mro Pomoni		-12.27861	44.40528	H	STM	KM		01				0		15	Indian/Comoro	1998-01-12
+1091375	Mro Bouni	Mro Bouni		-12.27111	44.41306	H	STMI	KM		01				0		119	Indian/Comoro	1998-01-12
+1091376	Chindrini	Chindrini		-12.26694	44.43333	T	RDGE	KM		01				0		666	Indian/Comoro	1998-01-12
+1091377	Hamazia	Hamazia		-12.26972	44.5225	H	STMI	KM		01				0		66	Indian/Comoro	1998-01-12
+1091378	Mro Ajaho	Mro Ajaho		-12.27139	44.52917	H	STM	KM		01				0		1	Indian/Comoro	1998-01-12
+1091379	Mbouéladoungou	Mboueladoungou		-12.27444	44.52639	P	PPL	KM		01				0		21	Indian/Comoro	1998-01-12
+1091380	Hassinka	Hassinka		-12.27389	44.52639	H	STMI	KM		01				0		21	Indian/Comoro	1998-01-12
+1091381	Papani	Papani		-12.28222	44.5225	T	SLP	KM		01				0		103	Indian/Comoro	1998-01-12
+1091382	Miani	Miani		-12.28389	44.52472	H	STMI	KM		01				0		301	Indian/Comoro	1998-01-12
+1091383	Haytsounga	Haytsounga		-12.2875	44.52556	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091384	Outsa	Outsa	Outsa	-12.27861	44.49778	P	PPL	KM		01				489		535	Indian/Comoro	2018-12-05
+1091385	Dindi Dzamoe	Dindi Dzamoe	Dindi Dzamoe	-12.27833	44.49222	T	DPR	KM		01				0		509	Indian/Comoro	2018-12-05
+1091386	Dindi Mtse	Dindi Mtse	Dindi Mtse	-12.28139	44.49028	T	DPR	KM		01				0		704	Indian/Comoro	2018-12-05
+1091387	Forêt de Moya	Foret de Moya		-12.28278	44.46056	V	FRST	KM		01				0		967	Indian/Comoro	1998-01-12
+1091388	Mouavou	Mouavou		-12.28222	44.40944	H	STM	KM		01				0		33	Indian/Comoro	1998-01-12
+1091389	Gnavivi	Gnavivi		-12.28278	44.41528	H	STM	KM		01				0		43	Indian/Comoro	1998-01-12
+1091390	Magnassini-Nindri	Magnassini-Nindri	Magnassini-Nindri,majnasyny nyndry,ماجناسينى نيندرى,ماجناسيني نيندري	-12.27806	44.41583	P	PPL	KM		01				2213		93	Indian/Comoro	2013-04-05
+1091391	Koué	Koue		-12.28222	44.41944	P	PPL	KM		01				0		77	Indian/Comoro	1998-01-12
+1091392	Simani	Simani		-12.28306	44.41694	H	STMI	KM		01				0		42	Indian/Comoro	1998-01-12
+1091393	Kotchi	Kotchi		-12.28528	44.42639	H	STM	KM		01				0		173	Indian/Comoro	1998-01-12
+1091394	Ankoubou	Ankoubou		-12.28667	44.42528	H	STM	KM		01				0		158	Indian/Comoro	1998-01-12
+1091395	Satsoumou	Satsoumou	Satsoumou	-12.28583	44.43333	T	SPUR	KM		01				0		188	Indian/Comoro	2018-12-05
+1091396	Hadjidaoué	Hadjidaoue		-12.29167	44.42889	H	STM	KM		01				0		143	Indian/Comoro	1998-01-12
+1091397	Nkozini	Nkozini		-12.28889	44.43944	P	PPL	KM		01				0		319	Indian/Comoro	1998-01-12
+1091398	Koundré	Koundre		-12.29611	44.43139	H	STM	KM		01				0		140	Indian/Comoro	1998-01-12
+1091399	Bouélaouvanga	Bouelaouvanga	Bouelaouvanga,Bouélaouvanga,Roche Moya	-12.28972	44.4275	T	RK	KM		01				0		72	Indian/Comoro	2020-06-11
+1091400	Issou	Issou		-12.2975	44.44083	H	STMI	KM		01				0		259	Indian/Comoro	1998-01-12
+1091401	Adda-Douéni	Adda-Doueni	Adda Daoueni,Adda Daouéni,Adda-Daoueni,Adda-Daouéni,Adda-Doueni,Adda-Douéni,Adda-Dueni,ada dwyny,ada-dwyny,Ադդա-Դուենի,أدا دويني,ادا دوينى,ادا-دوئنی,アッドア・ダウエニ	-12.2925	44.49722	P	PPL	KM		01				10858		706	Indian/Comoro	2020-06-14
+1091402	Jandza	Jandza		-12.29917	44.49722	P	PPL	KM		01				0		699	Indian/Comoro	1998-01-12
+1091403	Gnouma	Gnouma		-12.29972	44.50889	H	STMI	KM		01				0		539	Indian/Comoro	1998-01-12
+1091404	Ouyoni	Ouyoni		-12.30056	44.50944	H	STM	KM		01				0		563	Indian/Comoro	1998-01-12
+1091405	Chouroungou	Chouroungou		-12.29722	44.52889	H	STM	KM		01				0		39	Indian/Comoro	1998-01-12
+1091406	Tsantsajou	Tsantsajou		-12.29361	44.52694	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1091407	Simani	Simani		-12.28972	44.52611	H	STMI	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091408	Haki	Haki		-12.30306	44.52444	L	LCTY	KM		01				0		157	Indian/Comoro	1998-01-12
+1091409	Bandracouni	Bandracouni		-12.31306	44.49556	P	PPL	KM		01				0		742	Indian/Comoro	2023-12-28
+1091410	Magouni-Dindi	Magouni-Dindi		-12.30861	44.49361	T	DPR	KM		01				0		750	Indian/Comoro	1998-01-12
+1091411	Plateau de Mrémani	Plateau de Mremani		-12.31417	44.50444	T	PLAT	KM		01				0		627	Indian/Comoro	1998-01-12
+1091412	T’Santsa	T'Santsa		-12.37222	44.52889	H	STM	KM		01				0		30	Indian/Comoro	1998-01-12
+1091413	Gouhantsahé	Gouhantsahe		-12.36194	44.52444	T	HLL	KM		01				0		136	Indian/Comoro	1998-01-12
+1091414	Bandamaji	Bandamaji		-12.36222	44.52	P	PPL	KM		01				0		173	Indian/Comoro	1998-01-12
+1091415	Manadia	Manadia	Manadia	-12.37	44.52306	T	HLL	KM		01				0		66	Indian/Comoro	2018-12-05
+1091416	Gnignijo	Gnignijo	Gnignijo	-12.3725	44.52167	T	HLL	KM		01				0		125	Indian/Comoro	2018-12-05
+1091417	Ankongoua	Ankongoua		-12.37972	44.51333	H	STMI	KM		01				0		68	Indian/Comoro	1998-01-12
+1091418	Bakomatsatsi	Bakomatsatsi		-12.38	44.51278	H	STMI	KM		01				0		75	Indian/Comoro	1998-01-12
+1091419	Hamchako	Hamchako	Hamchako	-12.37083	44.51278	T	HLL	KM		01				0		135	Indian/Comoro	2012-05-06
+1091420	Mouana Mtanga	Mouana Mtanga		-12.35917	44.51667	H	DTCHI	KM		01				0		241	Indian/Comoro	1998-01-12
+1091421	Gomajou	Gomajou		-12.34361	44.53667	H	COVE	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091422	Gani	Gani		-12.30639	44.52972	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1091423	Ouangoni	Ouangoni		-12.31694	44.52444	H	STM	KM		01				0		172	Indian/Comoro	1998-01-12
+1091424	Kohoa	Kohoa		-12.31472	44.53139	H	STM	KM		01				0		163	Indian/Comoro	1998-01-12
+1091425	Hankombé	Hankombe		-12.32611	44.53056	H	STM	KM		01				0		42	Indian/Comoro	1998-01-12
+1091426	Hamlimba	Hamlimba		-12.32389	44.52056	H	STM	KM		01				0		332	Indian/Comoro	1998-01-12
+1091427	Hamazia	Hamazia		-12.32889	44.53	H	STM	KM		01				0		18	Indian/Comoro	1998-01-12
+1091428	Mkirini	Mkirini		-12.33972	44.5325	H	STMI	KM		01				0		39	Indian/Comoro	1998-01-12
+1091429	Ounzouni	Ounzouni		-12.325	44.515	H	STM	KM		01				0		402	Indian/Comoro	1998-01-12
+1091430	Haygnouni	Haygnouni		-12.34083	44.53444	H	STM	KM		01				0		-9999	Indian/Comoro	1998-01-12
+1091431	Mnazichoumoué	Mnazichoumoue		-12.3425	44.50194	P	PPL	KM		01				0		450	Indian/Comoro	1998-01-12
+1091432	Patsoani	Patsoani	Patsoani	-12.33139	44.49944	T	HLL	KM		01				0		529	Indian/Comoro	2018-12-05
+1091433	Louara	Louara		-12.32528	44.50167	L	LCTY	KM		01				0		614	Indian/Comoro	1998-01-12
+1091434	Daji Mroni	Daji Mroni		-12.34167	44.48528	H	STMI	KM		01				0		249	Indian/Comoro	1998-01-12
+1091435	Agnochi	Agnochi		-12.34	44.48167	H	STMI	KM		01				0		116	Indian/Comoro	1998-01-12
+1091436	Daji	Daji	Daji	-12.32583	44.48861	P	PPL	KM		01				2676		562	Indian/Comoro	2014-04-06
+1091437	Bouémoutou	Bouemoutou		-12.32639	44.48472	T	MT	KM		01				0		539	Indian/Comoro	1998-01-12
+1091438	Itsahou	Itsahou		-12.32722	44.47222	H	STM	KM		01				0		114	Indian/Comoro	1998-01-12
+1091439	Amohoa	Amohoa		-12.32028	44.47528	H	STM	KM		01				0		314	Indian/Comoro	1998-01-12
+1091440	Ngoya Mbouzi	Ngoya Mbouzi	Ngoya Mbouzi	-12.32083	44.49333	T	MTS	KM		01				0		685	Indian/Comoro	2018-12-05
+1091441	Chirombigo	Chirombigo		-12.30917	44.47917	H	STM	KM		01				0		646	Indian/Comoro	1998-01-12
+1091442	Col de Moya	Col de Moya	Col de Moya	-12.29944	44.47194	T	PASS	KM		01				0		1040	Indian/Comoro	2018-12-05
+1091443	Hayja	Hayja		-12.305	44.4725	S	BLDG	KM		01				0		824	Indian/Comoro	1998-01-12
+1091444	Bandajou Bangoueni	Bandajou Bangoueni		-12.32	44.46833	L	LCTY	KM		01				0		222	Indian/Comoro	1998-01-12
+1091445	Assomaï	Assomai		-12.32028	44.46472	H	STM	KM		01				0		154	Indian/Comoro	1998-01-12
+1091446	Chindrini	Chindrini		-12.31694	44.46306	P	PPL	KM		01				0		239	Indian/Comoro	1998-01-12
+1091447	Maouéni	Maoueni		-12.31948	44.45688	P	PPL	KM		01				0		70	Indian/Comoro	2019-08-07
+1091448	Bouégnombé	Bouegnombe		-12.31861	44.45972	H	COVE	KM		01				0		119	Indian/Comoro	1998-01-12
+1091449	Msimoukoundrou	Msimoukoundrou		-12.31611	44.455	H	STM	KM		01				0		164	Indian/Comoro	1998-01-12
+1091450	Kombajou	Kombajou		-12.31139	44.45028	H	STM	KM		01				0		307	Indian/Comoro	1998-01-12
+1091451	Bamboujou	Bamboujou		-12.31028	44.44056	H	STMI	KM		01				0		95	Indian/Comoro	1998-01-12
+1091452	Hajindza	Hajindza		-12.30917	44.44	H	STM	KM		01				0		82	Indian/Comoro	1998-01-12
+1091453	Apaji	Apaji		-12.29917	44.44861	H	STMI	KM		01				0		503	Indian/Comoro	1998-01-12
+1091454	Bouijou	Bouijou		-12.35639	44.50306	P	PPL	KM		01				0		322	Indian/Comoro	1998-01-12
+1091455	Abakambouni	Abakambouni	Abakambouni	-12.35778	44.50056	T	MT	KM		01				0		344	Indian/Comoro	2018-12-05
+1091456	Agnachindra	Agnachindra	Agnachindra	-12.36722	44.49833	T	SPUR	KM		01				0		230	Indian/Comoro	2018-12-05
+1091457	Salapouani	Salapouani		-12.37111	44.50694	P	PPL	KM		01				0		148	Indian/Comoro	1998-01-12
+1091458	Chiroroni	Chiroroni	Chiroroni	-12.37694	44.50111	T	BCH	KM		01				0		77	Indian/Comoro	2018-12-05
+1091586	Mtsizambé	Mtsizambe		-11.37028	43.36361	T	HLL	KM		02				0		1	Indian/Comoro	1998-01-12
+1091587	Niamaoui	Niamaoui	Lac Sale,Lac Salé,Niamaoui	-11.37194	43.36361	H	LK	KM		02				0		14	Indian/Comoro	2012-01-19
+1091588	Dindé	Dinde		-11.37583	43.36111	T	HLL	KM		02				0		26	Indian/Comoro	1998-01-12
+1091589	Ouangani	Ouangani		-11.38194	43.35944	T	HLL	KM		02				0		63	Indian/Comoro	1998-01-12
+1091590	Ouemani	Ouemani		-11.38028	43.32056	T	DPR	KM		02				0		26	Indian/Comoro	1998-01-12
+1091666	Idjijini	Idjijini		-11.37333	43.31722	L	LCTY	KM		02				0		17	Indian/Comoro	1998-01-12
+1091667	Trou du Prophète	Trou du Prophete		-11.37722	43.305	P	PPL	KM		02				0		5	Indian/Comoro	1998-01-12
+1091668	Memboua Bouani	Memboua Bouani		-11.38056	43.30667	P	PPL	KM		02				0		11	Indian/Comoro	1998-01-12
+1091669	Nkourani	Nkourani	Nkourani,Nkourani Sima,Nkourani ya Sima	-11.38972	43.28806	P	PPL	KM		02				10000		48	Indian/Comoro	2026-01-13
+1091670	Songomani	Songomani	Songomani	-11.39222	43.29083	P	PPL	KM		02				409		17	Indian/Comoro	2018-12-05
+1091671	Bangouamafsakoa	Bangouamafsakoa		-11.39639	43.29389	P	PPL	KM		02				0		74	Indian/Comoro	1998-01-12
+1091672	Ntsadjéni	Ntsadjeni	Ntsadjeni,Ntsadjéni	-11.39861	43.28472	P	PPL	KM		02				0		37	Indian/Comoro	2013-04-05
+1091673	Fâssi	Fassi		-11.39861	43.26806	P	PPL	KM		02				490		36	Indian/Comoro	2006-01-17
+1091674	Ouhozi	Ouhozi	Ouhozi,Oukhozi,Оухози	-11.405	43.28222	P	PPL	KM		02				1930		59	Indian/Comoro	2013-04-05
+1091675	Founga	Founga		-11.41194	43.28778	P	PPL	KM		02				0		155	Indian/Comoro	1998-01-12
+1091676	Anihani	Anihani		-11.41083	43.29528	P	PPL	KM		02				0		225	Indian/Comoro	1998-01-12
+1091678	Toyifa	Toyifa		-11.40528	43.30528	P	PPL	KM		02				0		239	Indian/Comoro	1998-01-12
+1091679	Mahoni	Mahoni		-11.39806	43.30528	T	SLP	KM		02				0		146	Indian/Comoro	1998-01-12
+1091680	Maéle	Maele		-11.41139	43.29972	S	FRM	KM		02				0		266	Indian/Comoro	1998-01-12
+1091681	Membouadjou	Membouadjou		-11.40028	43.31361	P	PPL	KM		02				0		212	Indian/Comoro	1998-01-12
+1091682	Kandahani	Kandahani	Kandahani	-11.40694	43.33306	T	HLL	KM		02				0		381	Indian/Comoro	2018-12-05
+1091683	Koua	Koua		-11.40222	43.33833	P	PPL	KM		02				0		298	Indian/Comoro	1998-01-12
+1091684	Kandah	Kandah		-11.40611	43.35139	T	MT	KM		02				0		330	Indian/Comoro	1998-01-12
+1091685	Mahangani	Mahangani		-11.39917	43.34694	T	MT	KM		02				0		231	Indian/Comoro	1998-01-12
+1091686	Mbarichiani	Mbarichiani	Mbarichiani	-11.39472	43.34833	T	SPUR	KM		02				0		151	Indian/Comoro	2018-12-05
+1091687	Djoumoua Ilima	Djoumoua Ilima	Djoumoua Ilima	-11.3925	43.35722	T	PK	KM		02				0		144	Indian/Comoro	2018-12-05
+1091688	Balsa	Balsa		-11.39804	43.37209	P	PPL	KM		02				0		250	Indian/Comoro	2014-03-26
+1091689	Ouzio	Ouzio		-11.40364	43.37565	P	PPL	KM		02				0		248	Indian/Comoro	2014-03-26
+1091690	Bandani Kandzouani	Bandani Kandzouani	Bandani Kandzouani	-11.40167	43.37361	T	HLL	KM		02				0		256	Indian/Comoro	2018-12-05
+1091691	Bingouni	Bingouni	Bingouni	-11.40944	43.36861	T	MT	KM		02				0		355	Indian/Comoro	2018-12-05
+1091693	Choua-Chandroudé	Choua-Chandroude	Choua-Chandroude,Choua-Chandroudé,Ile aux Tortues,Île aux Tortues	-11.40639	43.40417	T	ISL	KM		02				0		22	Indian/Comoro	2012-01-19
+1091694	Ndroudé	Ndroude		-11.42143	43.40921	P	PPL	KM		02				0		29	Indian/Comoro	2014-03-26
+1091695	Hitsouadjou	Hitsouadjou	Hitsouadjou	-11.41194	43.38556	T	HLL	KM		02				0		231	Indian/Comoro	2018-12-05
+1091696	Tretezini	Tretezini		-11.41139	43.37917	S	BLDG	KM		02				0		433	Indian/Comoro	1998-01-12
+1091697	Mrouadjou	Mrouadjou		-11.41333	43.38056	P	PPL	KM		02				0		347	Indian/Comoro	1998-01-12
+1091698	Massihini	Massihini		-11.41833	43.38278	P	PPL	KM		02				0		314	Indian/Comoro	1998-01-12
+1091699	Salimani	Salimani		-11.42	43.38306	P	PPL	KM		02				0		295	Indian/Comoro	1998-01-12
+1091700	Bandamadji	Bandamadji	Bandamadji	-11.41833	43.38222	P	PPL	KM		02				374		314	Indian/Comoro	2018-12-05
+1091701	Maoré	Maore		-11.42111	43.38417	P	PPL	KM		02				0		285	Indian/Comoro	1998-01-12
+1091702	Maholéni	Maholeni		-11.425	43.38722	S	BLDG	KM		02				0		250	Indian/Comoro	1998-01-12
+1091703	Djimbili	Djimbili	Djimbili	-11.42472	43.36667	T	MT	KM		02				0		610	Indian/Comoro	2018-12-05
+1091704	Hotsao	Hotsao		-11.41472	43.35083	L	LCTY	KM		02				0		543	Indian/Comoro	1998-01-12
+1091705	Koua	Koua		-11.41361	43.34139	T	HLL	KM		02				0		493	Indian/Comoro	1998-01-12
+1091706	Habouantsi	Habouantsi	Habouantsi	-11.42278	43.3475	T	MT	KM		02				0		615	Indian/Comoro	2018-12-05
+1091707	Kafouni	Kafouni		-11.41944	43.33111	T	MT	KM		02				0		552	Indian/Comoro	1998-01-12
+1091708	Mro oua Membouadjou	Mro oua Membouadjou		-11.41889	43.31833	H	STMI	KM		02				0		505	Indian/Comoro	1998-01-12
+1091709	Ivili	Ivili	Ivili	-11.41778	43.3075	T	HLL	KM		02				0		395	Indian/Comoro	2018-12-05
+1091710	Kafouni	Kafouni		-11.41583	43.30056	T	MT	KM		02				0		290	Indian/Comoro	1998-01-12
+1091711	Mandza	Mandza	Mandza	-11.41806	43.29528	P	PPL	KM		02				1602		271	Indian/Comoro	2012-01-19
+1091712	Douniani	Douniani	Douniani,dwnyany,Доуниани,دونیانی	-11.42111	43.28889	P	PPL	KM		02				1778		239	Indian/Comoro	2012-01-19
+1091713	Koua	Koua		-11.40514	43.34713	P	PPL	KM		02				1391		314	Indian/Comoro	2021-02-04
+1091714	Mchénazi	Mchenazi		-11.43028	43.26778	P	PPL	KM		02				0		115	Indian/Comoro	1998-01-12
+1091715	Ouagombé	Ouagombe		-11.42972	43.28139	T	SLP	KM		02				0		118	Indian/Comoro	1998-01-12
+1091716	Booni	Booni		-11.44222	43.25694	H	COVE	KM		02				0		-9999	Indian/Comoro	1998-01-12
+1091717	Djongoue	Djongoue	Djongoue	-11.42722	43.29306	T	MT	KM		02				0		268	Indian/Comoro	2018-12-05
+1091718	Zouda	Zouda		-11.43	43.29833	P	PPL	KM		02				0		333	Indian/Comoro	1998-01-12
+1091719	Magobani	Magobani	Magobani	-11.435	43.29917	T	MT	KM		02				0		330	Indian/Comoro	2018-12-05
+1091720	Dounda	Dounda	Dounda	-11.44	43.29833	T	MT	KM		02				0		316	Indian/Comoro	2018-12-05
+1091721	Haïgnandrama	Haignandrama		-11.44222	43.29361	P	PPL	KM		02				0		242	Indian/Comoro	1998-01-12
+1091722	Mahatsandjé	Mahatsandje		-11.43694	43.31333	T	MT	KM		02				0		471	Indian/Comoro	1998-01-12
+1091723	Souou	Souou		-11.43806	43.31389	H	SPNG	KM		02				0		476	Indian/Comoro	1998-01-12
+1091724	Mahoundini	Mahoundini	Mahoundini	-11.43694	43.32333	T	HLL	KM		02				0		666	Indian/Comoro	2018-12-05
+1091725	Chioundi	Chioundi	Chioundi	-11.42778	43.31806	T	MT	KM		02				0		602	Indian/Comoro	2018-12-05
+1091726	Mouyani	Mouyani	Mouyani	-11.42639	43.32667	T	MT	KM		02				0		728	Indian/Comoro	2018-12-05
+1091727	Tandradroni	Tandradroni	Tandradroni	-11.42972	43.335	T	MT	KM		02				0		774	Indian/Comoro	2018-12-05
+1091728	Chirabouigouhou	Chirabouigouhou	Chirabouigouhou	-11.43833	43.33	T	HLL	KM		02				0		790	Indian/Comoro	2018-12-05
+1091729	Pandé	Pande		-11.43361	43.36667	T	MT	KM		02				0		595	Indian/Comoro	1998-01-12
+1091730	Hamounda	Hamounda	Hamounda	-11.44139	43.3575	T	MT	KM		02				0		761	Indian/Comoro	2018-12-05
+1091731	Bedja	Bedja		-11.42917	43.3925	T	HLL	KM		02				0		225	Indian/Comoro	1998-01-12
+1091827	Kongoni	Kongoni		-11.43722	43.40028	T	HLL	KM		02				0		164	Indian/Comoro	1998-01-12
+1091828	Hantsindzi	Hantsindzi	Hantsindzi	-11.43178	43.41102	P	PPL	KM		02				2004		19	Indian/Comoro	2014-03-26
+1091829	Nioumamilina	Nioumamilina		-11.44297	43.40479	P	PPL	KM		02				0		115	Indian/Comoro	2018-11-23
+1091830	Boélamtéléza	Boelamteleza		-11.44333	43.38833	T	SLP	KM		02				0		369	Indian/Comoro	1998-01-12
+1091831	Hambaharo	Hambaharo	Hambaharo	-11.44583	43.38444	T	MT	KM		02				0		446	Indian/Comoro	2018-12-05
+1091832	Hamboudzi	Hamboudzi	Hamboudzi	-11.43639	43.38667	T	MT	KM		02				0		372	Indian/Comoro	2018-12-05
+1091833	Milembeni	Milembeni		-11.45111	43.37333	S	CAVE	KM		02				0		680	Indian/Comoro	1998-01-12
+1091834	Véza	Veza		-11.44972	43.36972	T	MT	KM		02				0		714	Indian/Comoro	1998-01-12
+1091835	Igomani	Igomani	Igomani	-11.45444	43.35806	T	MT	KM		02				0		867	Indian/Comoro	2018-12-05
+1091836	Koumbouni	Koumbouni	Koumbouni	-11.44944	43.3525	T	MT	KM		02				0		824	Indian/Comoro	2018-12-05
+1091837	Sirouankafou	Sirouankafou	Sirouankafou	-11.45139	43.33889	T	MT	KM		02				0		853	Indian/Comoro	2018-12-05
+1091838	Mavangani	Mavangani	Mavangani	-11.44361	43.33194	T	MT	KM		02				0		798	Indian/Comoro	2018-12-05
+1091839	Irandzani	Irandzani	Irandzani	-11.45083	43.32111	T	SPUR	KM		02				0		574	Indian/Comoro	2018-12-05
+1091840	Trouangama	Trouangama	Trouangama	-11.45306	43.33194	T	MT	KM		02				0		793	Indian/Comoro	2018-12-05
+1091841	Minoungouni	Minoungouni		-11.44167	43.30167	P	PPL	KM		02				0		362	Indian/Comoro	1998-01-12
+1091842	Mahourani	Mahourani		-11.44528	43.29111	L	LCTY	KM		02				0		209	Indian/Comoro	1998-01-12
+1091843	Manda	Manda		-11.44972	43.29194	P	PPL	KM		02				0		215	Indian/Comoro	1998-01-12
+1091844	Miréréni	Mirereni		-11.4475	43.27694	P	PPL	KM		02				0		68	Indian/Comoro	1998-01-12
+1091845	Chamle	Chamle	Chamle	-11.44472	43.26694	P	PPL	KM		02				0		2	Indian/Comoro	2012-01-19
+1091846	Goudjoulachamlé	Goudjoulachamle		-11.44444	43.26444	T	HLL	KM		02				0		53	Indian/Comoro	1998-01-12
+1091847	Djoulouni	Djoulouni		-11.44972	43.26639	L	LCTY	KM		02				0		20	Indian/Comoro	1998-01-12
+1091848	Kilamalavandé	Kilamalavande		-11.46083	43.26083	H	STMI	KM		02				0		26	Indian/Comoro	1998-01-12
+1091849	Djoengoé	Djoengoe		-11.46361	43.27778	P	PPL	KM		02				0		57	Indian/Comoro	1998-01-12
+1091850	Simboussa	Simboussa	Simboussa	-11.46806	43.27778	P	PPL	KM		02				0		53	Indian/Comoro	2018-12-05
+1091851	Mouadja	Mouadja		-11.46806	43.28694	P	PPL	KM		02				0		153	Indian/Comoro	1998-01-12
+1091852	Founga	Founga		-11.47194	43.295	P	PPL	KM		02				0		269	Indian/Comoro	1998-01-12
+1091853	Marondroni	Marondroni	Marondroni	-11.47694	43.3025	T	MT	KM		02				0		393	Indian/Comoro	2018-12-05
+1091854	Bandadjou	Bandadjou		-11.45806	43.29639	T	SLP	KM		02				0		290	Indian/Comoro	1998-01-12
+1091855	Mboungou	Mboungou		-11.45972	43.30611	T	SLP	KM		02				0		404	Indian/Comoro	1998-01-12
+1091856	Maouéni	Maoueni	Maoueni,Maouéni	-11.46333	43.31611	P	PPL	KM		02				0		542	Indian/Comoro	2016-03-10
+1091857	Hamhori	Hamhori	Hamhori	-11.47056	43.32083	T	MT	KM		02				0		624	Indian/Comoro	2018-12-05
+1091858	Hankadoho	Hankadoho	Hankadoho	-11.46083	43.33056	T	RDGE	KM		02				0		830	Indian/Comoro	2018-12-05
+1091859	Siroulagoé	Siroulagoe		-11.46167	43.33417	T	PK	KM		02				0		949	Indian/Comoro	2014-11-06
+1091860	Ilimantso	Ilimantso	Ilimantso	-11.46722	43.35111	T	MT	KM		02				0		866	Indian/Comoro	2018-12-05
+1091861	Bandamadji	Bandamadji		-11.46278	43.35639	L	LCTY	KM		02				0		825	Indian/Comoro	1998-01-12
+1091862	Mazouanga	Mazouanga	Mazouanga	-11.46389	43.36222	T	HLL	KM		02				0		795	Indian/Comoro	2018-12-05
+1091863	Dimadjou	Dimadjou	Dimadjou,dymadjw,دیمادجو	-11.47361	43.36444	P	PPL	KM		02				0		820	Indian/Comoro	2012-05-06
+1091864	Mbatsé	Mbatse		-11.45667	43.39167	P	PPL	KM		02				123		324	Indian/Comoro	2006-01-17
+1091865	Mouadja	Mouadja		-11.46333	43.37917	P	PPL	KM		02				0		575	Indian/Comoro	1998-01-12
+1091866	Ngolé	Ngole		-11.46528	43.38806	P	PPL	KM		02				306		340	Indian/Comoro	2006-01-17
+1091867	Niadoumbouéni	Niadoumboueni		-11.46778	43.37667	P	PPL	KM		02				0		653	Indian/Comoro	1998-01-12
+1091868	Itsandzéni	Itsandzeni	Itsandzeni,Itsandzéni	-11.47278	43.38444	P	PPL	KM		02				1382		435	Indian/Comoro	2012-01-19
+1091869	Ouéla	Ouela		-11.475	43.39278	P	PPL	KM		02				0		197	Indian/Comoro	1998-01-12
+1091870	Bambadjani	Bambadjani	Bambadjani,bmbadjany,بمبادجانی	-11.47861	43.37722	P	PPL	KM		02				1355		577	Indian/Comoro	2012-01-19
+1091871	Mdjibari	Mdjibari		-11.48389	43.37333	P	PPL	KM		02				0		635	Indian/Comoro	1998-01-12
+1091872	Handzimbé	Handzimbe		-11.47944	43.35667	T	SLP	KM		02				0		896	Indian/Comoro	1998-01-12
+1091873	Zembadjou	Zembadjou	Zembadjou	-11.48417	43.33472	T	MT	KM		02				0		918	Indian/Comoro	2018-12-05
+1091874	Isonko	Isonko		-11.475	43.33139	L	LCTY	KM		02				0		834	Indian/Comoro	1998-01-12
+1091875	Mahangani	Mahangani		-11.48778	43.30306	T	PK	KM		02				0		399	Indian/Comoro	1998-01-12
+1091876	Hamnaradjabou	Hamnaradjabou	Hamnaradjabou	-11.49028	43.30861	T	MT	KM		02				0		475	Indian/Comoro	2018-12-05
+1091877	Mdirini	Mdirini	Mdirini	-11.48361	43.28972	T	PK	KM		02				0		158	Indian/Comoro	2018-12-05
+1091878	Domoni Adjou	Domoni Adjou		-11.48361	43.27778	P	PPL	KM		02				0		22	Indian/Comoro	1998-01-12
+1091879	Domoni Ambouani	Domoni Ambouani		-11.48806	43.26889	P	PPLX	KM		02				0		60	Indian/Comoro	1998-01-12
+1091880	Tsoussi	Tsoussi	Tsoussi	-11.51083	43.2975	T	PK	KM		02				0		121	Indian/Comoro	2018-12-05
+1091881	Magoudjou	Magoudjou	Magoudjou	-11.505	43.31167	T	MT	KM		02				0		408	Indian/Comoro	2018-12-05
+1091882	Bangohozi	Bangohozi	Bangohozi	-11.5025	43.31944	T	MT	KM		02				0		629	Indian/Comoro	2018-12-05
+1091883	Sangani	Sangani		-11.52139	43.32694	T	PK	KM		02				0		636	Indian/Comoro	1998-01-12
+1091884	Hagnéoi	Hagneoi		-11.51167	43.32	T	PK	KM		02				0		632	Indian/Comoro	1998-01-12
+1091885	Irondroni	Irondroni	Irondroni	-11.50833	43.32417	T	MT	KM		02				0		725	Indian/Comoro	2018-12-05
+1091984	Mkouloussi	Mkouloussi		-11.49333	43.31833	L	LCTY	KM		02				0		565	Indian/Comoro	1998-01-12
+1091985	Banda Samlimi	Banda Samlimi	Banda Samlimi	-11.5	43.32972	T	MT	KM		02				0		848	Indian/Comoro	2018-12-05
+1091986	Trouantsonga	Trouantsonga	Trouantsonga	-11.49083	43.32528	T	RDGE	KM		02				0		748	Indian/Comoro	2018-12-05
+1091987	Saondzou	Saondzou		-11.49278	43.34028	T	MT	KM		02				0		949	Indian/Comoro	1998-01-12
+1091988	Niéoua	Nieoua		-11.50139	43.34139	L	LCTY	KM		02				0		938	Indian/Comoro	1998-01-12
+1091989	Batou	Batou		-11.49861	43.3575	P	PPL	KM		02				562		924	Indian/Comoro	2006-01-17
+1091990	Touaïfa	Touaifa		-11.4975	43.3575	P	PPLX	KM		02				0		928	Indian/Comoro	1998-01-12
+1091991	Kourani	Kourani		-11.49361	43.36833	P	PPL	KM		02				0		699	Indian/Comoro	1998-01-12
+1091992	Sada Mouamboua	Sada Mouamboua		-11.49556	43.37167	P	PPL	KM		02				0		591	Indian/Comoro	1998-01-12
+1091993	Séléyani	Seleyani		-11.49944	43.39028	P	PPL	KM		02				0		205	Indian/Comoro	1998-01-12
+1091994	Salémani	Salemani		-11.50861	43.37778	P	PPL	KM		02				0		486	Indian/Comoro	1998-01-12
+1091995	Sada-Chihoué	Sada-Chihoue		-11.50944	43.37611	P	PPL	KM		02				551		510	Indian/Comoro	2006-01-17
+1091996	Mnoungou	Mnoungou	Mnoungou	-11.51778	43.37389	P	PPL	KM		02				1013		515	Indian/Comoro	2018-12-05
+1091997	Saoundzou	Saoundzou	Saoundzou	-11.52	43.36333	T	PK	KM		02				0		736	Indian/Comoro	2018-12-05
+1091998	Chindini	Chindini		-11.51	43.36	T	SLP	KM		02				0		830	Indian/Comoro	1998-01-12
+1091999	Touadzaha	Touadzaha	Touadzaha	-11.51278	43.34667	T	MT	KM		02				0		852	Indian/Comoro	2018-12-05
+1092000	Bouélahiri	Bouelahiri		-11.52056	43.34139	T	MT	KM		02				0		787	Indian/Comoro	1998-01-12
+1092001	Hamiri	Hamiri	Hamiri	-11.50917	43.35417	T	CLF	KM		02				0		872	Indian/Comoro	2018-12-05
+1092002	Mirontsi	Mirontsi		-11.53417	43.29028	T	HLL	KM		02				0		101	Indian/Comoro	1998-01-12
+1092003	Mbaléni	Mbaleni		-11.55	43.27417	P	PPL	KM		02				137		20	Indian/Comoro	2006-01-17
+1092004	Zidjomazadjou	Zidjomazadjou	Zidjomazadjou	-11.53389	43.34083	T	MT	KM		02				0		673	Indian/Comoro	2018-12-05
+1092005	Hamalengo	Hamalengo	Hamalengo	-11.54028	43.33472	T	MT	KM		02				0		603	Indian/Comoro	2018-12-05
+1092006	Dingarani	Dingarani	Dingarani	-11.54472	43.34639	T	MT	KM		02				0		719	Indian/Comoro	2018-12-05
+1092007	Kafouni	Kafouni		-11.55528	43.33083	T	MT	KM		02				0		530	Indian/Comoro	1998-01-12
+1092008	Gozibi	Gozibi	Gozibi	-11.55722	43.33722	T	MT	KM		02				0		591	Indian/Comoro	2018-12-05
+1092009	Hamoyli	Hamoyli	Hamoyli	-11.53417	43.35222	T	MT	KM		02				0		734	Indian/Comoro	2018-12-05
+1092010	Hagnando	Hagnando	Hagnando	-11.55333	43.35333	T	MT	KM		02				0		609	Indian/Comoro	2018-12-05
+1092011	Isimogné	Isimogne		-11.54528	43.3675	T	MT	KM		02				0		552	Indian/Comoro	1998-01-12
+1092012	Daouni	Daouni		-11.53083	43.36667	V	GROVE	KM		02				0		629	Indian/Comoro	2017-11-08
+1092013	Mbahara	Mbahara	Mbahara	-11.52944	43.36944	T	MT	KM		02				0		603	Indian/Comoro	2018-12-05
+1092014	Dodjo	Dodjo	Dodjo	-11.53139	43.3725	T	PK	KM		02				0		552	Indian/Comoro	2018-12-05
+1092015	Kangalinda	Kangalinda		-11.53806	43.38861	P	PPL	KM		02				0		288	Indian/Comoro	1998-01-12
+1092016	Zilimani	Zilimani	Zilimani	-11.56611	43.36139	T	PK	KM		02				0		530	Indian/Comoro	2018-12-05
+1092017	Trindini	Trindini	Trindini	-11.56306	43.33944	T	MT	KM		02				0		580	Indian/Comoro	2018-12-05
+1092018	Pangaleralédjou	Pangaleraledjou		-11.56139	43.33306	H	SPNG	KM		02				0		527	Indian/Comoro	1998-01-12
+1092019	Koudjouni	Koudjouni	Koudjouni	-11.57167	43.34389	T	MT	KM		02				0		551	Indian/Comoro	2018-12-05
+1092020	Gadjou-Lamdjahala	Gadjou-Lamdjahala		-11.56861	43.32639	L	LCTY	KM		02				0		489	Indian/Comoro	1998-01-12
+1092021	Dzahadjou	Dzahadjou		-11.55278	43.31167	P	PPL	KM		02				0		329	Indian/Comoro	1998-01-12
+1092022	Koua	Koua		-11.55611	43.27889	V	SCRB	KM		02				0		66	Indian/Comoro	1998-01-12
+1092023	Bouenindi	Bouenindi		-11.56568	43.28725	P	PPL	KM		02				0		176	Indian/Comoro	2020-03-15
+1092024	Bibavou	Bibavou	Bibavou	-11.57916	43.28776	P	PPL	KM		02				733		207	Indian/Comoro	2020-03-15
+1092025	Mlima Hahaïa	Mlima Hahaia		-11.55139	43.26778	T	HLL	KM		02				0		12	Indian/Comoro	1998-01-12
+1092026	Bangahani	Bangahani		-11.58	43.27917	P	PPL	KM		02				0		105	Indian/Comoro	1998-01-12
+1092027	Hadzimou	Hadzimou		-11.57639	43.30361	T	MT	KM		02				0		366	Indian/Comoro	1998-01-12
+1092028	Ntsodéhi	Ntsodehi		-11.58056	43.30139	V	SCRB	KM		02				0		358	Indian/Comoro	1998-01-12
+1092029	Hadzimou	Hadzimou		-11.58278	43.31083	L	LCTY	KM		02				0		437	Indian/Comoro	1998-01-12
+1092030	Maziouani Bouani	Maziouani Bouani		-11.57417	43.31917	L	LCTY	KM		02				0		461	Indian/Comoro	1998-01-12
+1092031	Djambaba	Djambaba	Djambaba	-11.57528	43.33139	T	MT	KM		02				0		523	Indian/Comoro	2018-12-05
+1092032	Mhoubizi	Mhoubizi	Mhoubizi	-11.575	43.33611	T	MT	KM		02				0		533	Indian/Comoro	2018-12-05
+1092033	Dimamaoé	Dimamaoe		-11.57556	43.34444	H	WLL	KM		02				0		541	Indian/Comoro	1998-01-12
+1092034	Dzaheni	Dzaheni		-11.5825	43.3625	P	PPL	KM		02				0		491	Indian/Comoro	1998-01-12
+1092035	Zironi	Zironi		-11.58444	43.38111	T	SLP	KM		02				0		274	Indian/Comoro	1998-01-12
+1092036	Ankafa	Ankafa	Ankafa	-11.58694	43.35278	T	PK	KM		02				0		506	Indian/Comoro	2018-12-05
+1092037	Ouamlamaélé	Ouamlamaele		-11.59306	43.35139	T	PK	KM		02				0		502	Indian/Comoro	1998-01-12
+1092038	Maziouani Adjou	Maziouani Adjou	Maziouani Adjou	-11.58972	43.32278	T	PASS	KM		02				0		493	Indian/Comoro	2018-12-05
+1092039	Ouvembé	Ouvembe		-11.59778	43.33667	H	WLL	KM		02				0		525	Indian/Comoro	2014-11-06
+1092040	Vounambadani	Vounambadani		-11.61083	43.26222	P	PPL	KM		02				0		19	Indian/Comoro	1998-01-12
+1092041	Vanadjou	Vanadjou	Vanadjou	-11.6075	43.27611	P	PPL	KM		02				1830		182	Indian/Comoro	2013-04-05
+1092042	Itsoundzou	Itsoundzou		-11.6075	43.31278	T	MT	KM		02				0		572	Indian/Comoro	1998-01-12
+1092043	Oichilidjou	Oichilidjou	Oichilidjou	-11.60167	43.33361	T	PK	KM		02				0		534	Indian/Comoro	2018-12-05
+1092044	Hassendjé	Hassendje		-11.61778	43.38222	P	PPL	KM		02				417		129	Indian/Comoro	2006-01-17
+1092045	Sima	Sima		-11.61	43.37028	P	PPL	KM		02				0		385	Indian/Comoro	1998-01-12
+1092046	Déméza	Demeza		-11.61556	43.34528	T	PK	KM		02				0		553	Indian/Comoro	1998-01-12
+1092047	Ntchendjéléni	Ntchendjeleni		-11.60944	43.34389	L	LCTY	KM		02				0		547	Indian/Comoro	1998-01-12
+1092048	Sanga	Sanga		-11.61861	43.32694	T	PK	KM		02				0		657	Indian/Comoro	1998-01-12
+1092049	Ilimadjaha	Ilimadjaha	Ilimadjaha	-11.61556	43.32306	T	PK	KM		02				0		663	Indian/Comoro	2018-12-05
+1092050	Haboho	Haboho	Haboho	-11.61417	43.30583	T	PK	KM		02				0		550	Indian/Comoro	2018-12-05
+1092051	Batsa	Batsa	Batsa,Batsa Itsandra,batsa,باتسا	-11.62833	43.26	P	PPL	KM		02				692		168	Indian/Comoro	2012-01-19
+1092052	Dzahadjou	Dzahadjou		-11.62639	43.27472	P	PPL	KM		02				0		211	Indian/Comoro	1998-01-12
+1092053	Itsoundzou	Itsoundzou		-11.62194	43.29806	T	PK	KM		02				0		524	Indian/Comoro	1998-01-12
+1092054	Chamadani	Chamadani	Chamadani	-11.62972	43.32083	T	MT	KM		02				0		775	Indian/Comoro	2018-12-05
+1092055	Houmbédoumé	Houmbedoume		-11.62611	43.34694	T	PK	KM		02				0		606	Indian/Comoro	1998-01-12
+1092056	Bouéni	Boueni		-11.63083	43.3525	P	PPL	KM		02				0		569	Indian/Comoro	1998-01-12
+1092057	Sada	Sada		-11.63194	43.35778	P	PPL	KM		02				185		503	Indian/Comoro	2006-01-17
+1092058	Sadani	Sadani		-11.62472	43.36139	P	PPLX	KM		02				0		423	Indian/Comoro	1998-01-12
+1092059	Irouhé	Irouhe		-11.63306	43.35222	P	PPL	KM		02				0		593	Indian/Comoro	1998-01-12
+1092060	Dzahadjou	Dzahadjou		-11.64583	43.35972	P	PPL	KM		02				0		540	Indian/Comoro	1998-01-12
+1092061	Hantibé	Hantibe		-11.63917	43.325	V	FRST	KM		00				0		842	Indian/Comoro	1998-01-12
+1092062	Grotte du Capitaine Dubois	Grotte du Capitaine Dubois	Grotte du Capitaine Dubois	-11.64194	43.30806	S	CAVE	KM		02				0		759	Indian/Comoro	2018-12-05
+1092063	Djagno-Ladjoua	Djagno-Ladjoua		-11.64361	43.31778	T	MT	KM		02				0		847	Indian/Comoro	1998-01-12
+1092064	Hilimandsodé	Hilimandsode		-11.64	43.31139	L	LCTY	KM		02				0		794	Indian/Comoro	1998-01-12
+1092065	Bahani	Bahani	Bahani,Bakhani,bahany,Бахани,باهانی	-11.63972	43.28417	P	PPL	KM		02				1272		350	Indian/Comoro	2012-01-19
+1092066	Sima	Sima		-11.645	43.28361	P	PPL	KM		02				0		336	Indian/Comoro	1998-01-12
+1092067	Zivandani	Zivandani	Zivandani,zywandany,Зивандани,زیواندانی	-11.64583	43.26583	P	PPL	KM		02				976		68	Indian/Comoro	2013-04-05
+1092068	Vouadjou	Vouadjou		-11.63694	43.25444	P	PPL	KM		02				0		66	Indian/Comoro	1998-01-12
+1092069	Goulaïvouani	Goulaivouani		-11.38778	43.39167	T	PT	KM		02				0		36	Indian/Comoro	1998-01-12
+1092149	Sambakouni	Sambakouni	Samba-Kouni,Sambakouni	-11.64806	43.27361	P	PPL	KM		02				0		192	Indian/Comoro	2018-12-05
+1092150	Gouni	Gouni		-11.65361	43.25667	P	PPL	KM		02				0		27	Indian/Comoro	1998-01-12
+1092151	Hantsambou	Hantsambou	Hantsambou	-11.66395	43.26569	P	PPL	KM		02				0		20	Indian/Comoro	2019-11-03
+1092152	Milembéni	Milembeni		-11.66167	43.26639	P	PPL	KM		02				790		44	Indian/Comoro	2006-01-17
+1092153	Bandamadji	Bandamadji		-11.66611	43.26028	P	PPL	KM		02				0		139	Indian/Comoro	1998-01-12
+1092154	Samba	Samba		-11.66833	43.26889	P	PPL	KM		02				0		78	Indian/Comoro	1998-01-12
+1092155	Minassini	Minassini		-11.66278	43.27333	P	PPL	KM		02				0		151	Indian/Comoro	1998-01-12
+1092156	Dzahani	Dzahani	Dzahani	-11.65722	43.27556	P	PPL	KM		02				523		219	Indian/Comoro	2012-05-06
+1092157	Wela	Wela		-11.65361	43.28056	P	PPL	KM		02				1000		300	Indian/Comoro	2017-08-09
+1092158	Dima Kora	Dima Kora		-11.65389	43.32333	T	PK	KM		02				0		977	Indian/Comoro	1998-01-12
+1092159	Iralé Djou	Irale Djou		-11.64833	43.32583	V	SCRB	KM		02				0		1001	Indian/Comoro	1998-01-12
+1092160	Hantsongoma	Hantsongoma		-11.65278	43.33222	H	LK	KM		02				0		1032	Indian/Comoro	1998-01-12
+1092161	Chamro	Chamro		-11.65444	43.39139	P	PPL	KM		02				0		56	Indian/Comoro	1998-01-12
+1092162	Sidjou	Sidjou	Sidjou	-11.67139	43.405	P	PPL	KM		02				555		130	Indian/Comoro	2018-12-05
+1092163	Ntsoralé	Ntsorale	Ntsorale,Ntsoralé	-11.68667	43.405	P	PPL	KM		02				476		393	Indian/Comoro	2013-04-05
+1092164	Mdé	Mde		-11.67167	43.27389	P	PPL	KM		02				0		170	Indian/Comoro	1998-01-12
+1092165	Dimadjou	Dimadjou	Dimadjou	-11.67306	43.27528	P	PPL	KM		02				0		182	Indian/Comoro	2018-12-05
+1092167	Itsambouni	Itsambouni		-11.67861	43.26361	P	PPL	KM		02				0		26	Indian/Comoro	1998-01-12
+1092168	Salimani	Salimani		-11.68415	43.27504	P	PPL	KM		02				0		202	Indian/Comoro	2019-11-03
+1092169	Tsidjé	Tsidje	Tsidje,Tsidjé	-11.70137	43.27057	P	PPL	KM		02				4600		344	Indian/Comoro	2023-12-02
+1092170	Dimani	Dimani		-11.69	43.41556	T	SCRP	KM		02				0		250	Indian/Comoro	1998-01-12
+1092171	Chaâni Hadaba	Chaani Hadaba		-11.69	43.41944	H	STMI	KM		02				0		191	Indian/Comoro	1998-01-12
+1092172	Hadaba	Hadaba		-11.705	43.40194	H	STMI	KM		02				0		769	Indian/Comoro	1998-01-12
+1092173	Troni	Troni		-11.70583	43.40194	H	STMI	KM		02				0		790	Indian/Comoro	1998-01-12
+1092174	Kozini	Kozini		-11.69806	43.42278	H	STMI	KM		02				0		234	Indian/Comoro	1998-01-12
+1092175	Itsoundji	Itsoundji		-11.69944	43.42306	H	STMI	KM		02				0		224	Indian/Comoro	1998-01-12
+1092176	Ntsingoni	Ntsingoni	Ntsingoni	-11.70583	43.41222	T	PK	KM		02				0		570	Indian/Comoro	2018-12-05
+1092177	Foumboudzivouni	Foumboudzivouni		-11.70583	43.42417	P	PPL	KM		02				0		284	Indian/Comoro	1998-01-12
+1092178	Tsangadjou	Tsangadjou		-11.715	43.425	P	PPL	KM		02				0		370	Indian/Comoro	1998-01-12
+1092337	Ibou Chambo	Ibou Chambo		-11.71778	43.42694	S	SHRN	KM		02				0		380	Indian/Comoro	1998-01-12
+1092338	Idjouandradja	Idjouandradja		-11.72194	43.42667	P	PPL	KM		02				0		383	Indian/Comoro	1998-01-12
+1092339	Mloidjou	Mloidjou		-11.72694	43.43222	H	STMI	KM		02				0		140	Indian/Comoro	1998-01-12
+1092340	Mlima Manda	Mlima Manda	Mlima Manda	-11.70833	43.29722	T	PK	KM		02				0		775	Indian/Comoro	2018-12-05
+1092341	Mvouni	Mvouni	Mvouni,muvuni,ムヴニ	-11.71965	43.2752	P	PPL	KM		02				4791		636	Indian/Comoro	2023-12-02
+1092342	Daché	Dache		-11.7125	43.25139	P	PPL	KM		02				0		28	Indian/Comoro	1998-01-12
+1092343	Mavingouni	Mavingouni	Mavingouni	-11.71953	43.26233	P	PPL	KM		02				1390		315	Indian/Comoro	2023-12-02
+1092344	Itsambouni	Itsambouni		-11.72583	43.25528	P	PPL	KM		02				0		99	Indian/Comoro	1998-01-12
+1092345	Chezani	Chezani		-11.72	43.23944	T	HLL	KM		02				0		9	Indian/Comoro	1998-01-12
+1092346	Sahani	Sahani		-11.72972	43.24361	P	PPL	KM		02				0		32	Indian/Comoro	1998-01-12
+1092347	Mahaouini	Mahaouini	Mahaouini	-11.73111	43.235	T	HLL	KM		02				0		29	Indian/Comoro	2018-12-05
+1092348	Hadjambou	Hadjambou	Hadjambou	-11.73583	43.23333	T	HLL	KM		02				0		47	Indian/Comoro	2012-05-06
+1092349	Ngouni	Ngouni		-11.73444	43.22444	T	BUTE	KM		02				0		12	Indian/Comoro	1998-01-12
+1092350	Mkazi	Mkazi		-11.73415	43.26622	P	PPL	KM		02				0		306	Indian/Comoro	2023-12-02
+1092351	Issimadjou	Issimadjou		-11.72528	43.27028	H	SPNG	KM		02				0		306	Indian/Comoro	1998-01-12
+1092352	Bandamréhori	Bandamrehori		-11.72944	43.26861	S	SCHC	KM		02				0		274	Indian/Comoro	1998-01-12
+1092353	Troni	Troni		-11.72861	43.41444	H	STMI	KM		02				0		785	Indian/Comoro	1998-01-12
+1092354	Habondo	Habondo		-11.72861	43.42333	H	STMI	KM		02				0		496	Indian/Comoro	1998-01-12
+1092355	Hamaouia	Hamaouia		-11.73667	43.43361	L	LCTY	KM		02				0		207	Indian/Comoro	1998-01-12
+1092356	Hamlémba	Hamlemba		-11.73722	43.41306	L	LCTY	KM		02				0		975	Indian/Comoro	1998-01-12
+1092357	Ngama-Mouia	Ngama-Mouia		-11.74139	43.42278	H	STMI	KM		02				0		641	Indian/Comoro	1998-01-12
+1092358	Itsoundji	Itsoundji		-11.74083	43.42556	H	STMI	KM		02				0		491	Indian/Comoro	1998-01-12
+1092359	Banda Mhamba	Banda Mhamba		-11.74694	43.42917	H	STMI	KM		02				0		391	Indian/Comoro	1998-01-12
+1092360	Choungou-Chahalé	Choungou-Chahale		-11.76	43.36333	L	LCTY	KM		02				0		2263	Indian/Comoro	1998-01-12
+1092361	Choungou-Chagnoumari	Choungou-Chagnoumari		-11.75139	43.35056	L	LCTY	KM		02				0		2235	Indian/Comoro	1998-01-12
+1092362	Le Belvedere	Le Belvedere		-11.73944	43.27111	S	BLDG	KM		02				0		309	Indian/Comoro	1998-01-12
+1092363	Habonga	Habonga		-11.74361	43.26944	H	STMI	KM		02				0		266	Indian/Comoro	1998-01-12
+1092364	Chahaboué	Chahaboue		-11.74833	43.26861	H	STMI	KM		02				0		232	Indian/Comoro	1998-01-12
+1092366	Djitaché	Djitache		-11.75722	43.27861	P	PPL	KM		02				0		391	Indian/Comoro	1998-01-12
+1092367	Lahimdidji	Lahimdidji		-11.75389	43.27139	H	STMI	KM		02				0		274	Indian/Comoro	1998-01-12
+1092368	Vouvouni	Vouvouni	Vouvouni,wwwwny,Воувоуни,وووونی	-11.75	43.24333	P	PPL	KM		02				311		17	Indian/Comoro	2013-04-05
+1092369	Ikoni	Ikoni		-11.74487	43.2371	P	PPL	KM		02				5474		52	Indian/Comoro	2023-12-02
+1092370	Mchimani	Mchimani	Mchimani	-11.74972	43.22972	T	HLL	KM		02				0		24	Indian/Comoro	2018-12-05
+1092372	Bandani	Bandani		-11.75444	43.23111	T	HLL	KM		02				0		13	Indian/Comoro	1998-01-12
+1092373	Séréhini	Serehini		-11.75639	43.23472	P	PPL	KM		02				407		10	Indian/Comoro	2006-01-17
+1092374	Djivani	Djivani		-11.76583	43.23528	V	GROVE	KM		02				0		21	Indian/Comoro	2017-11-08
+1092375	Ndroini	Ndroini		-11.76748	43.25345	P	PPL	KM		02				0		68	Indian/Comoro	2023-12-02
+1092376	Trohoye	Trohoye		-11.76583	43.24278	L	LCTY	KM		02				0		194	Indian/Comoro	1998-01-12
+1092377	Mlimadjou	Mlimadjou		-11.77056	43.24361	T	HLL	KM		02				0		106	Indian/Comoro	1998-01-12
+1092378	Mouandzaza Ambouani	Mouandzaza Ambouani		-11.77487	43.24371	P	PPL	KM		02				0		28	Indian/Comoro	2023-12-02
+1092379	Mlimani	Mlimani	Mlimani	-11.77611	43.23917	T	HLL	KM		02				0		3	Indian/Comoro	2018-12-05
+1092380	Kafouni	Kafouni		-11.77083	43.24667	H	STMI	KM		02				0		86	Indian/Comoro	1998-01-12
+1092381	Daouéni	Daoueni		-11.7675	43.26361	P	PPL	KM		02				308		59	Indian/Comoro	2006-01-17
+1092383	Boudé-Adjou	Boude-Adjou		-11.77139	43.265	P	PPL	KM		02				0		45	Indian/Comoro	1998-01-12
+1092384	Mouandzaza Djoumbé	Mouandzaza Djoumbe		-11.7771	43.2647	P	PPL	KM		02				0		88	Indian/Comoro	2023-12-02
+1092385	Simani	Simani		-11.77694	43.26917	L	LCTY	KM		02				0		73	Indian/Comoro	1998-01-12
+1092386	Oungoni	Oungoni		-11.75306	43.44389	H	STMI	KM		02				0		126	Indian/Comoro	1998-01-12
+1092387	Mdzidou	Mdzidou		-11.75167	43.42833	H	STMI	KM		02				0		496	Indian/Comoro	1998-01-12
+1092388	Ngnantchendje	Ngnantchendje		-11.75389	43.42889	H	STMI	KM		02				0		519	Indian/Comoro	1998-01-12
+1092389	Oungoni	Oungoni		-11.75444	43.43611	P	PPL	KM		02				765		269	Indian/Comoro	2006-01-17
+1092390	Itsambou	Itsambou		-11.76167	43.44583	H	STMI	KM		02				0		134	Indian/Comoro	1998-01-12
+1092391	Banda Daouéni	Banda Daoueni		-11.7725	43.43861	P	PPL	KM		02				0		450	Indian/Comoro	1998-01-12
+1092392	Maoundini	Maoundini		-11.77194	43.43306	H	STMI	KM		02				0		599	Indian/Comoro	1998-01-12
+1092393	Outroni	Outroni		-11.76694	43.43944	H	STMI	KM		02				0		408	Indian/Comoro	1998-01-12
+1092394	Mahavani	Mahavani		-11.78722	43.42472	P	PPL	KM		02				0		1072	Indian/Comoro	1998-01-12
+1092395	Djalalao	Djalalao		-11.78111	43.24417	L	LCTY	KM		02				0		11	Indian/Comoro	1998-01-12
+1092396	Séléa	Selea	Selea,Séléa	-11.78756	43.27036	P	PPL	KM		02				1662		96	Indian/Comoro	2023-12-02
+1092397	Mlima Séléa	Mlima Selea		-11.78722	43.26139	T	HLL	KM		02				0		22	Indian/Comoro	1998-01-12
+1092398	Itsambouni	Itsambouni		-11.79194	43.26917	H	STMI	KM		02				0		49	Indian/Comoro	1998-01-12
+1092399	Pessini	Pessini		-11.79389	43.26639	H	STMI	KM		02				0		39	Indian/Comoro	1998-01-12
+1092400	Denga-Denga	Denga-Denga		-11.79028	43.27861	H	STMI	KM		02				0		112	Indian/Comoro	1998-01-12
+1092401	Torrent de l’Hôpital	Torrent de l'Hopital		-11.795	43.26667	H	STMI	KM		02				0		33	Indian/Comoro	2014-10-02
+1092402	Mna	Mna		-11.7975	43.25472	H	STMI	KM		02				0		1	Indian/Comoro	1998-01-12
+1092403	Nioumadzaha	Nioumadzaha		-11.79449	43.27602	P	PPL	KM		02				0		147	Indian/Comoro	2023-12-02
+1092404	Tsinimouapanga	Tsinimouapanga		-11.79714	43.43552	P	PPL	KM		02				0		687	Indian/Comoro	2018-11-26
+1092405	Miambani	Miambani		-11.79333	43.42611	H	STMI	KM		02				0		1042	Indian/Comoro	1998-01-12
+1092406	Mrondadjou	Mrondadjou		-11.79556	43.42611	P	PPL	KM		02				0		1046	Indian/Comoro	1998-01-12
+1092407	Itsangoué	Itsangoue		-11.81028	43.44278	P	PPL	KM		02				0		544	Indian/Comoro	1998-01-12
+1092408	Djoungouni	Djoungouni		-11.80611	43.42944	L	LCTY	KM		02				0		945	Indian/Comoro	1998-01-12
+1092409	Dima Mironga	Dima Mironga	Dima Mironga	-11.82111	43.40778	T	PK	KM		02				0		1205	Indian/Comoro	2018-12-05
+1092410	Forêt du Kartala	Foret du Kartala		-11.81917	43.38417	V	FRST	KM		02				0		1210	Indian/Comoro	1998-01-12
+1092411	Komioni	Komioni		-11.80722	43.28083	P	PPL	KM		02				0		55	Indian/Comoro	1998-01-12
+1092412	Djoumouachongo	Djoumouachongo		-11.80979	43.2951	P	PPL	KM		02				0		395	Indian/Comoro	2023-12-02
+1092413	Magaridjou	Magaridjou		-11.80111	43.285	P	PPL	KM		02				0		129	Indian/Comoro	1998-01-12
+1092414	Zikaledjou	Zikaledjou		-11.80222	43.26917	P	PPL	KM		02				0		38	Indian/Comoro	1998-01-12
+1092415	Bandani	Bandani		-11.80972	43.30333	T	PK	KM		02				0		397	Indian/Comoro	1998-01-12
+1092416	Kounoudjou	Kounoudjou		-11.80806	43.27278	H	STMI	KM		02				0		36	Indian/Comoro	1998-01-12
+1092417	Mizidjou	Mizidjou		-11.81722	43.29944	T	SLP	KM		02				0		282	Indian/Comoro	1998-01-12
+1092418	Trondoni	Trondoni		-11.80694	43.25806	H	STMI	KM		02				0		-9999	Indian/Comoro	1998-01-12
+1092515	Torrent de Bandani	Torrent de Bandani		-11.82056	43.26917	H	STMI	KM		02				0		5	Indian/Comoro	1998-01-12
+1092516	Madjeouéni	Madjeoueni	Madjeoueni,Madjeouéni	-11.82167	43.27806	P	PPL	KM		02				1320		35	Indian/Comoro	2012-01-19
+1092517	Hamsaoua	Hamsaoua		-11.83139	43.28444	P	PPL	KM		02				0		33	Indian/Comoro	1998-01-12
+1092518	Ouraléni	Ouraleni		-11.82667	43.29639	V	GROVE	KM		02				0		166	Indian/Comoro	2017-11-08
+1092519	Igorini	Igorini	Igorini	-11.81861	43.30861	T	PK	KM		02				0		414	Indian/Comoro	2018-12-05
+1092520	Bandalamadji	Bandalamadji		-11.82278	43.31611	T	SLP	KM		02				0		499	Indian/Comoro	1998-01-12
+1092521	Mlima Mani	Mlima Mani	Mlima Mani	-11.82806	43.40944	T	PK	KM		02				0		1118	Indian/Comoro	2018-12-05
+1092522	Diouaro	Diouaro		-11.82389	43.42944	L	LCTY	KM		02				0		994	Indian/Comoro	1998-01-12
+1092523	Dréréni	Drereni		-11.83	43.45611	L	LCTY	KM		02				0		259	Indian/Comoro	1998-01-12
+1092524	Traléni	Traleni		-11.84056	43.46306	L	LCTY	KM		02				0		269	Indian/Comoro	1998-01-12
+1092525	Pihini	Pihini		-11.83361	43.45861	V	GRSLD	KM		02				0		261	Indian/Comoro	1998-01-12
+1092526	Djimbili	Djimbili		-11.83528	43.44444	T	SLP	KM		02				0		589	Indian/Comoro	1998-01-12
+1092527	Irondrouabouani	Irondrouabouani		-11.84194	43.44917	V	GRSLD	KM		02				0		509	Indian/Comoro	1998-01-12
+1092528	Mouazini	Mouazini		-11.8375	43.42944	V	GRSLD	KM		02				0		940	Indian/Comoro	1998-01-12
+1092529	Nioumamilima	Nioumamilima	Nioumamilima	-11.85461	43.44607	P	PPL	KM		02				1068		661	Indian/Comoro	2018-11-26
+1092530	Kourani	Kourani		-11.85068	43.42624	P	PPL	KM		02				0		787	Indian/Comoro	2018-11-26
+1092531	Trondje	Trondje	Trondje	-11.84972	43.42361	T	PK	KM		02				0		793	Indian/Comoro	2018-12-05
+1092532	Didjoni	Didjoni		-11.83528	43.41417	T	PK	KM		02				0		1013	Indian/Comoro	2014-11-06
+1092533	Gounzini	Gounzini	Gounzini	-11.855	43.39583	T	PK	KM		02				0		567	Indian/Comoro	2018-12-05
+1092534	Mdjoua Hahia	Mdjoua Hahia		-11.85556	43.38861	P	PPL	KM		02				0		386	Indian/Comoro	1998-01-12
+1092535	Kanzilé	Kanzile		-11.85895	43.39164	P	PPL	KM		02				0		410	Indian/Comoro	2018-11-26
+1092536	Tsinimouachongo	Tsinimouachongo		-11.84993	43.37882	P	PPL	KM		02				0		283	Indian/Comoro	2018-11-26
+1092537	Djoumamilima	Djoumamilima	Djoumamilima	-11.83889	43.36083	T	VAL	KM		02				0		586	Indian/Comoro	2018-12-05
+1092538	Makorani	Makorani	Makorani	-11.85111	43.35833	P	PPL	KM		02				137		120	Indian/Comoro	2018-12-05
+1092539	Djivani	Djivani		-11.84917	43.3575	P	PPL	KM		02				0		205	Indian/Comoro	1998-01-12
+1092540	Dzouadjou	Dzouadjou		-11.83333	43.37389	V	GRSLD	KM		02				0		870	Indian/Comoro	1998-01-12
+1092541	Djoumouamdji	Djoumouamdji		-11.84028	43.34194	V	GRSLD	KM		02				0		396	Indian/Comoro	1998-01-12
+1092542	Mbambani	Mbambani		-11.8524	43.3416	P	PPL	KM		02				521		107	Indian/Comoro	2018-11-26
+1092543	Samba	Samba		-11.84722	43.32944	P	PPL	KM		02				0		182	Indian/Comoro	1998-01-12
+1092544	Mohandadjou	Mohandadjou	Mohandadjou	-11.83667	43.30944	T	HLL	KM		02				0		229	Indian/Comoro	2018-12-05
+1092545	Bangoua	Bangoua		-11.84221	43.29225	P	PPL	KM		02				0		43	Indian/Comoro	2018-11-26
+1092546	Dzinquizouani	Dzinquizouani	Dzinquizouani	-11.8375	43.2975	T	HLL	KM		02				0		65	Indian/Comoro	2018-12-05
+1092547	Tsinimouamidji	Tsinimouamidji		-11.84806	43.29833	V	GROVE	KM		02				0		29	Indian/Comoro	2017-11-08
+1092548	Mnayvanga	Mnayvanga	Mnayvanga	-11.82944	43.305	T	SPUR	KM		02				0		233	Indian/Comoro	2018-12-05
+1092549	Mdji Diakagnoa	Mdji Diakagnoa		-11.87889	43.40389	P	PPL	KM		02				0		244	Indian/Comoro	1998-01-12
+1092550	Domoni	Domoni		-11.87869	43.41893	P	PPL	KM		02				0		449	Indian/Comoro	2018-11-26
+1092551	Dzouadjou	Dzouadjou		-11.87694	43.42222	P	PPL	KM		02				0		507	Indian/Comoro	1998-01-12
+1092552	Samba	Samba		-11.86111	43.42167	T	PK	KM		02				0		682	Indian/Comoro	1998-01-12
+1092553	Famaré	Famare		-11.85861	43.42333	P	PPL	KM		02				352		730	Indian/Comoro	2006-01-17
+1092554	Chalani	Chalani		-11.86667	43.40917	T	PK	KM		02				0		547	Indian/Comoro	1998-01-12
+1092555	Bandakouni	Bandakouni	Bandakouni	-11.86	43.40361	T	PK	KM		02				0		595	Indian/Comoro	2018-12-05
+1092556	Banda-Bigouni	Banda-Bigouni		-11.865	43.43528	T	PK	KM		02				0		636	Indian/Comoro	1998-01-12
+1092557	Baoua	Baoua		-11.85722	43.43056	T	PK	KM		02				0		722	Indian/Comoro	1998-01-12
+1092558	Ouralé-Ouandaoé	Ourale-Ouandaoe		-11.8525	43.42972	T	PK	KM		02				0		756	Indian/Comoro	1998-01-12
+1092559	Mlalouankoudjou	Mlalouankoudjou		-11.86528	43.45889	P	PPL	KM		02				0		520	Indian/Comoro	1998-01-12
+1092560	Mboudé	Mboude		-11.85139	43.46222	V	GRSLD	KM		02				0		406	Indian/Comoro	1998-01-12
+1092561	Missouiri	Missouiri		-11.8525	43.47028	P	PPL	KM		02				0		290	Indian/Comoro	1998-01-12
+1092562	Dzahani	Dzahani		-11.84722	43.47333	T	SCRP	KM		02				0		177	Indian/Comoro	1998-01-12
+1092563	Mdjouambi	Mdjouambi		-11.84583	43.45417	L	CLG	KM		02				0		477	Indian/Comoro	1998-01-12
+1092564	Vouazissia	Vouazissia		-11.86806	43.48889	H	STMI	KM		02				0		128	Indian/Comoro	1998-01-12
+1092565	Ngomani	Ngomani		-11.87	43.49333	H	STMI	KM		02				0		30	Indian/Comoro	1998-01-12
+1092566	Mrétsa	Mretsa		-11.87333	43.47	H	SPNG	KM		02				0		437	Indian/Comoro	1998-01-12
+1092567	Kové	Kove		-11.87583	43.47222	P	PPL	KM		02				690		424	Indian/Comoro	2006-01-17
+1092568	Pimba	Pimba		-11.87806	43.46111	T	PLAT	KM		02				0		532	Indian/Comoro	1998-01-12
+1092569	Simboussa	Simboussa		-11.87944	43.45222	P	PPL	KM		02				0		555	Indian/Comoro	1998-01-12
+1092570	Hamchéma	Hamchema		-11.88306	43.42889	T	PK	KM		02				0		476	Indian/Comoro	1998-01-12
+1092571	Singa	Singa		-11.88417	43.41944	T	PK	KM		02				0		357	Indian/Comoro	1998-01-12
+1092572	Mindralou	Mindralou		-11.88	43.38917	P	PPL	KM		02				0		73	Indian/Comoro	1998-01-12
+1092573	Ourondroni	Ourondroni		-11.88111	43.3925	P	PPL	KM		02				0		19	Indian/Comoro	1998-01-12
+1092574	Mandzissani	Mandzissani	Mandzissani	-11.88389	43.39667	P	PPL	KM		02				497		31	Indian/Comoro	2018-12-05
+1092575	Mlimani	Mlimani		-11.88528	43.39889	P	PPL	KM		02				0		32	Indian/Comoro	1998-01-12
+1092576	Ouziouani	Ouziouani	Ouziouani	-11.88861	43.41528	P	PPL	KM		02				0		202	Indian/Comoro	2018-12-05
+1092577	Dima	Dima		-11.88639	43.41083	P	PPL	KM		02				698		128	Indian/Comoro	2006-01-17
+1092578	Djoha	Djoha	Djoha	-11.89194	43.42556	T	PK	KM		02				0		285	Indian/Comoro	2018-12-05
+1092579	Kourani-Mkanga	Kourani-Mkanga		-11.88667	43.44417	P	PPL	KM		02				0		439	Indian/Comoro	1998-01-12
+1092580	Ahibambo	Ahibambo	Ahibambo	-11.88583	43.45333	T	MT	KM		02				0		493	Indian/Comoro	2018-12-05
+1092581	Hamdaoéni	Hamdaoeni		-11.90083	43.45333	T	SPUR	KM		02				0		268	Indian/Comoro	1998-01-12
+1092582	Bandamadji	Bandamadji		-11.8925	43.46111	P	PPL	KM		02				0		516	Indian/Comoro	1998-01-12
+1092583	Maroni	Maroni		-11.89333	43.46389	T	PK	KM		02				0		562	Indian/Comoro	1998-01-12
+1092584	Hatringoé	Hatringoe		-11.88944	43.46917	T	PK	KM		02				0		524	Indian/Comoro	2014-11-06
+1092585	Inané	Inane		-11.88778	43.46611	P	PPL	KM		02				0		532	Indian/Comoro	1998-01-12
+1092586	Mlima-Kori	Mlima-Kori		-11.88361	43.46889	T	MT	KM		02				0		520	Indian/Comoro	1998-01-12
+1092587	Ngnambéni	Ngnambeni		-11.89444	43.47056	P	PPL	KM		02				0		473	Indian/Comoro	1998-01-12
+1092588	Didjoni	Didjoni		-11.88083	43.48111	P	PPL	KM		02				490		384	Indian/Comoro	2006-01-17
+1092589	Tsongoua	Tsongoua		-11.89278	43.4825	V	GRSLD	KM		02				0		501	Indian/Comoro	1998-01-12
+1092590	Simadjou-Ngnambéni	Simadjou-Ngnambeni		-11.89639	43.48111	V	MDW	KM		02				0		416	Indian/Comoro	1998-01-12
+1092591	Ndzouani	Ndzouani	Ndzouani	-11.90139	43.47722	P	PPL	KM		02				160		357	Indian/Comoro	2018-12-05
+1092592	Irouankaya	Irouankaya		-11.90556	43.48861	H	STMI	KM		02				0		151	Indian/Comoro	1998-01-12
+1092593	Trokou	Trokou		-11.905	43.48861	H	STMI	KM		02				0		163	Indian/Comoro	1998-01-12
+1092594	Simouni	Simouni		-11.89944	43.49611	H	STMI	KM		02				0		156	Indian/Comoro	1998-01-12
+1092595	Mvouni	Mvouni		-11.88778	43.49778	T	HLL	KM		02				0		191	Indian/Comoro	1998-01-12
+1092596	Oulangani	Oulangani		-11.88194	43.50056	H	STMI	KM		02				0		107	Indian/Comoro	1998-01-12
+1092597	Mouhadjouni	Mouhadjouni		-11.88611	43.50222	H	STMI	KM		02				0		71	Indian/Comoro	1998-01-12
+1092598	Chimadjou	Chimadjou		-11.89611	43.50083	H	STMI	KM		02				0		115	Indian/Comoro	1998-01-12
+1092599	Dzioualamembo	Dzioualamembo		-11.90889	43.48944	H	STMI	KM		02				0		75	Indian/Comoro	1998-01-12
+1092600	Midjendjéni	Midjendjeni		-11.91249	43.48495	P	PPL	KM		02				426		104	Indian/Comoro	2018-11-26
+1092601	Chimadjou	Chimadjou		-11.91444	43.48028	T	HLL	KM		02				0		207	Indian/Comoro	1998-01-12
+1092602	Mahomani	Mahomani	Mahomani	-11.91667	43.46972	T	HLL	KM		02				0		68	Indian/Comoro	2018-12-05
+1092603	Mouadja	Mouadja	Mouadja	-11.90806	43.46667	T	PK	KM		02				0		228	Indian/Comoro	2018-12-05
+1092604	Tsoundzou	Tsoundzou		-11.90972	43.46028	T	SLP	KM		02				0		151	Indian/Comoro	1998-01-12
+1092605	Sima Ambouani	Sima Ambouani		-11.91556	43.46167	P	PPL	KM		02				0		56	Indian/Comoro	1998-01-12
+1092606	Hada-Haïa	Hada-Haia		-11.90972	43.45278	P	PPL	KM		02				0		131	Indian/Comoro	1998-01-12
+1092607	Hainsanza	Hainsanza	Hainsanza	-11.91194	43.44583	T	HLL	KM		02				0		94	Indian/Comoro	2018-12-05
+6297031	Prince Said Ibrahim International Airport	Prince Said Ibrahim International Airport	AIMPSI,Aeroport Internacional Princep Said Ibrahim,Aeroport Internacional Príncep Said Ibrahim,Aeroport international Moroni Prince Said Ibrahim,Aeroport international Prince Said Ibrahim,Aeroporto di Moroni-Principe Said Ibrahim,Aeroporto di Moroni-Principe Saïd Ibrahim,Aeropuerto Internacional Principe Said Ibrahim,Aeropuerto Internacional Príncipe Said Ibrahim,Aéroport international Moroni Prince Saïd Ibrahim,Aéroport international Prince Saïd Ibrahim,Bandar Udara Internasional Prince Said Ibrahim,FMCH,HAH,Lapangan Terbang Prince Said Ibrahim,Luchthaven Prins Said Ibrahim,Moroni Hahaya International Airport,Port lotniczy Moroni,Prince Said Ibrahim International Airport,Prins Said Ibrahim internasjonale lufthavn,San bay quoc te Prince Said Ibrahim,Sân bay quốc tế Prince Said Ibrahim,mtar alamyr sʿyd abrahym aldwly,mtar jzr alqmr,mtar mwrwny alamyr sʿyd abrahym aldwly,mtar mwrwny aldwly,Фурудгоҳи бин‌алмилалӣ шоҳзода саъдӣ оброҳим,فرودگاه بین‌المللی شاهزاده سعید ابراهیم,مطار الأمير سعيد إبراهيم الدولي,مطار جزر القمر,مطار موروني الأمير سعيد إبراهيم الدولي,مطار موروني الدولي,プリンス・サイード・イブラヒーム国際空港,赛义德·易卜拉欣王子国际机场	-11.53591	43.2742	S	AIRP	KM		02				0	28	30	Indian/Comoro	2020-06-14
+6297032	Ouani Airport	Ouani Airport	AJN,Aeroportul Ouani,Anjouan Ouani Airport,FMCV,Flughafen Ouani,Lapangan Terbang Ouani,Ouani Airport,Ouani Anjouan,Port lotniczy Anjouan,aerodrome d'Anjouan-Ouani,ang ru ang ji chang,ani kong gang,aérodrome d'Anjouan-Ouani,frwdgah awany,mtar awany,Фурудгоҳи овон,فرودگاه اوانی,مطار أواني,アニー空港,昂儒昂機場	-12.13167	44.43028	S	AIRP	KM		01				0	18	18	Indian/Comoro	2020-06-14
+6453431	Moroni Iconi Airport	Moroni Iconi Airport	Aeroport de Moroni Iconi,Aéroport de Moroni Iconi,FMCN,Moroni Iconi Airport,YVA	-11.71263	43.2427	S	AIRQ	KM		02				0	10	10	Indian/Comoro	2020-03-15
+7668244	Mohéli Bandar Es Eslam Airport	Moheli Bandar Es Eslam Airport	Aeroportul Moheli Bandar Es Eslam,Aeroportul Mohéli Bandar Es Eslam,FMCI,Flughafen Moheli Bandar Es Eslam,Flughafen Mohéli Bandar Es Eslam,Lapangan Terbang Moheli,Maes Awyr Moheli Bandar Es Eslam,Maes Awyr Mohéli Bandar Es Eslam,Moheli Bandar Es Eslam Airport,Mohelin lentokenttae,Mohéli Bandar Es Eslam Airport,Mohélin lentokenttä,NWA,Port lotniczy Moheli,aerodrome de Moheli,aeroporto di Moheli-Bandar Es Eslam,aeroporto di Mohéli-Bandar Es Eslam,aérodrome de Mohéli,frwdgah mwhly bndr alslam,mo ai li dao ji chang,moheri,mtar mwhyly bndr alslam,Фурудгоҳи муҳли Бандар ассалом,فرودگاه موهلی بندر السلام,مطار موهيلي بندر السلام,モヘリ,莫埃利島機場	-12.2981	43.7664	S	AIRP	KM		03				0		21	Indian/Comoro	2020-06-14
+7732123	Sima Oichili	Sima Oichili		-11.61428	43.3808	P	PPL	KM						0		123	Indian/Comoro	2011-03-25
+8030182	Hajanio	Hajanio		-12.30932	44.43468	H	BAY	KM						235	200	32	Indian/Comoro	2011-09-27
+8030183	Maenrifa	Maenrifa		-12.31667	44.44362	H	BAY	KM						23	100	0	Indian/Comoro	2011-09-27
+8030184	Marani	Marani		-12.31296	44.44121	L	FLD	KM						200	200	48	Indian/Comoro	2011-09-27
+8030186	Ngnombeni	Ngnombeni		-12.30433	44.4358	L	FLD	KM						300	400	113	Indian/Comoro	2011-09-27
+8533104	Presidential Palace	Presidential Palace		-11.67596	43.26215	S	PAL	KM						0		13	Indian/Comoro	2013-05-30
+10401684	Mohéli Marine Park	Moheli Marine Park		-12.41669	43.69538	L	RESN	KM						0		-9999	Indian/Comoro	2015-08-03
+11592266	University of Comores	University of Comores		-12.16127	43.36905	S	UNIV	KM		01				0		-9999		2017-06-29
+11593547	El Marouf Hospital	El Marouf Hospital		-11.69582	43.25498	S	HSP	KM		02				0		35	Indian/Comoro	2017-06-22
+11593549	Hospital Center De Fomboni	Hospital Center De Fomboni		-12.28782	43.74745	S	HSP	KM		03				0		11	Indian/Comoro	2017-06-22
+11873933	Foyer ADM (Djao)	Foyer ADM (Djao)		-11.39111	43.28902	H	WHRL	KM		02				0		6	Indian/Comoro	2018-05-14

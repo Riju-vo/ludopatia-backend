@@ -1,0 +1,133 @@
+3578267	Morne de Vitet	Morne de Vitet	Morne de Vitet,Morne du Vitet	17.89867	-62.80665	T	HLL	BL		00				0	286	228	America/St_Barthelemy	2024-09-30
+3578335	Pointe à Toiny	Pointe a Toiny	Pointe Toiny,Pointe a Toigny,Pointe a Toiny,Pointe à Toigny,Pointe à Toiny	17.89498	-62.79292	T	PT	BL		00				0		23	America/St_Barthelemy	2020-06-10
+3578336	Anse Toiny	Anse Toiny	Anse Toiny,Anse a Toigny,Anse à Toigny,Grand Fond	17.89557	-62.79715	H	COVE	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3578337	Toiny	Toiny	Quartier de Toiny,Toigny,Toiny,twanh  sn bartlmy,توانه، سن بارتلمی	17.89744	-62.79965	P	PPL	BL		00				0		36	America/St_Barthelemy	2018-06-08
+3578338	Île Toc Vers	Ile Toc Vers	Ile Toc Vers,Ilot Toc Vers,Toc Verte,Île Toc Vers,Îlot Toc Vers	17.94264	-62.81845	T	ISL	BL		00				0		12	America/St_Barthelemy	2011-12-28
+3578359	Roche Plate	Roche Plate	Roche Plate,Roche Table,Rocher Table,Table,Table a Diable,Table à Diable	17.97352	-62.92602	T	ISL	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3578362	Canal du Sud-Est	Canal du Sud-Est	Canal du Sud-Est,Southeast Channel	17.9	-62.85	H	CHN	BL		00				0		43	America/St_Barthelemy	2012-01-18
+3578365	Canal du Sud	Canal du Sud	Canal du Sud,South Channel	17.9	-62.86667	H	CHN	BL		00				0		-9999	America/St_Barthelemy	2012-01-18
+3578432	Baie de Saint-Jean	Baie de Saint-Jean	Baie Saint Jean,Baie de Saint-Jean	17.90556	-62.83718	H	BAY	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3578433	Saint-Jean	Saint-Jean	Quartier Saint-Jean	17.89871	-62.83699	P	PPL	BL		00				0		23	America/St_Barthelemy	2018-12-03
+3578475	Île Saint-Barthélemy	Ile Saint-Barthelemy	Ile Saint-Barthelemy,Isla de San Bartolome,Isla de San Bartolomé,Saint Barthelemy,Saint Bartholomew,Saint Bartholomew Island,Saint Barthélemy,Saint Barts,Saint-Barthelemy,Saint-Barthélemy,Sen Bartelemi,St Barts,St. Bartholomew,Île Saint-Barthélemy,Сен Бартелеми,サン・バルテルミー島,サン・バルテルミ島	17.89697	-62.83065	T	ISL	BL		00				0		65	America/St_Barthelemy	2021-02-20
+3578476	Saint Barthelemy	Saint Barthelemy	Agios Vartholomaios,Barthelemy Di nso,Barthélemy Dị nsọ,Collectivite territoriale de Saint-Barthelemy,Collectivité territoriale de Saint-Barthélemy,Ostriv Svjatogo Bartolomeja,Ostrov Svjatogo Bartolomeja,Ostrvo Sveti Bartolomej,Ouanalao,S:t Barthelemy,S:t Barthélemy,SBH,Sa Patelemi,Saint Barthelemi,Saint Barthelemy,Saint Barthelemy nutome,Saint Barthélemy,Saint Barthélemy nutome,Saint Barthélémi,Saint-Barthelemy,Saint-Barthélemy,San Bartalemi,San Barthelemy,San Barthélemy,San Bartolome,San Bartolomeo,San Bartolomé,Sankt Bartholomaeus,Sankt Bartholomäus,Sankti Bartolomeusareyjar,Sankti Bartólómeusareyjar,Sant Bartomieu,Santu Barthelemy,Sao Bartolomeu,Saŋ Bartalemi,Sejnt Bartolomej,Sen Bartelemi,Sen Bartelmi,Sen-Bartehl'mi,Sen-Bartel'mi,Sen-Bartelemi,Sen-Bartelmi,Senbartelmi,Senbartelmī,Sent Bartelemi,Sent Bartolomej,Sent-Bartel'mi,Sent-Bartelemi,Sent-Bartelmi,Shen Barthelemy,Shën Barthélemy,Sint Barthelemy,Sint Barthélemy,Son Barthelemy,Son Barthélemy,St-Barth,St. Baathelemiy,St. Barthelemy,St. Barths,St. Barthélemy,St. Barts,Surb Bardugimeos,Surb Bardugimeosi kgzi,Sv. Bartolomej,Sv. Bartolomejaus sala,Svaety Bartolomej,Svaty Bartolomej,Svatý Bartoloměj,Sveti Bartolomej,Sveti Vartolomej,Svätý Bartolomej,Sántu Barthélemy,São Bartolomeu,Sā Patēlemi,Territorial collectivity of Saint-Barthelemy,Territorial collectivity of Saint-Barthélemy,ceyint partelemi,che'inta barthaleme,hcinbharsaallme,i-Saint Barthelemy,i-Saint Barthélemy,qidusi baritelemiyi,saeng baleutelleumi,saengbaleutellemi,san bartlymy,saynt bartېlېmy,sen-bartelmi,senr baർttalami,sent bare thle mi,sent barthelemi,senta barathelemi,senta barathelimi,senta barthelemi,seyint barthelimi,sheng ba se mi,sheng ba tai lei mi,sheng ba tai lei mi dao,sn bartlmy,sn brtlmy,snt barthlmy,synٹ bartaھylmy,synټ bartylmy,synٽ brٿlymy,Šv. Bartolomėjaus sala,Άγιος Βαρθολομαίος,Острво Свети Бартоломеј,Остров Святого Бартоломея,Острів Святого Бартоломея,Свети Бартоломеј,Свети Вартоломеј,Сейнт Бартоломей,Сен Бартелеми,Сен Бартелми,Сен-Бартелеми,Сен-Бартельми,Сен-Бартельмі,Сен-Бартэльмі,Сент Бартелеми,Сент Бартоломеј,Сент-Бартелми,Сент-Бартельми,Սուրբ Բարդուղիմեոս,Սուրբ Բարդուղիմեոսի կղզի,סן ברתלמי,סנט ברתולומיאו,سان بارتليمي,ساينت بارتېلېمى,سن بارتلمی,سنت بارثلمی,سينټ بارتيلمي,سینٹ بارتَھیلمی,سینٹ بارتھلمی,سینٹ برتھلیمی,سینٽ برٿلیمی,سېنت بارتھېلەمي ئاراللىرى,सेंट बार्थेलेमी,सेन्ट बार्थेलेमी,ছেইণ্ট বাৰ্থলেমে,সেন্ট বারথেলিমি,ਸੇਂਟ ਬਾਰਥੇਲੇਮੀ,સેંટ બાર્થેલેમી,ସେଣ୍ଟ ବାର୍ଥେଲେମି,செயின்ட் பார்தேலெமி,సెయింట్ బర్థెలిమి,ಸೇಂಟ್ ಬಾರ್ಥೆಲೆಮಿ,സെന്റ് ബാർത്തലമി,ශානත බරතලෙම,ශාන්ත බර්තලෙමි,เซนต์บาร์เธเลมี,ເຊນ ບາເທເລມ,ເຊນ ບາເທເລມີ,སནཊ་ བར་ཐ་ལམ་མའ,སེནཊ་ བར་ཐོ་ལོམ་མིའུ,စိန့်ဘာသယ်လ်မီ,სენ-ბართელმი,ቅዱስ በርቴሎሜ,ቅዱስ ባርተለሚይ,សាង​បាថេឡេម,សាំង​បាថេឡេមី,サン・バルテルミー,サン・バルテルミー島,圣巴泰勒米,聖巴泰勒米島,聖巴瑟米,생 바르텔르미,생바르텔레미	17.9	-62.8257	A	PCLIX	BL	FR	00				8450		57	America/St_Barthelemy	2026-01-27
+3578477	Gustaf III Airport	Gustaf III Airport	Aehroport Gustav III,Aerodrome de St Jean,Aeroport Remy de Haenen,Aeroport Saint‑Jean–Gustave III,Aeroport de Saint-Barthelemy,Aeroporto di Saint Jean Gustaf III,Aeroportul Gustaf III,Aeropuerto Gustaf III,Aérodrome de St Jean,Aéroport Rémy de Haenen,Aéroport Saint‑Jean–Gustave III,Aéroport de Saint-Barthélemy,Bandar Udara Gustaf III,Gustaf III Airport,Gustav III flygplats,Gustav III lufthavn,Kustaa III - Saint-Jean - Saint-Barthelemy lentoasema,Kustaa III – Saint-Jean – Saint-Barthélemy lentoasema,Lapangan Terbang St Barthelemy I,Luchthaven Gustaf III,Port lotniczy Gustaw III,Remy de Haenen repueloter,Rémy de Haenen repülőtér,SBH,Saint Barthelemy Airport,Saint Barthélemy Airport,St. Jean Airport,TFFJ,frwdgah gwstaf 3,guseutapeu III gonghang,gusutafu3shi fei xing chang,jwstaf ay ayrpwrt,sheng ba tai lei mi,Аэропорт Густав III,Фурудгоҳи густоф 3,جوستاف اى ايرپورت,فرودگاه گوستاف ۳,グスタフ3世飛行場,聖巴泰勒米,구스타프 III 공항	17.90443	-62.84392	S	AIRP	BL	FR	00				0		11	America/St_Barthelemy	2019-05-09
+3578499	Roches Roubes	Roches Roubes	Petite Tortues,Roches Roubes,Roches Rouges,Roques	17.8722	-62.79728	T	RKS	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3578547	Anse de Reine	Anse de Reine	Anse Reine,Anse de Raine,Anse de Reine	17.91062	-62.86373	H	COVE	BL		00				0		18	America/St_Barthelemy	2018-06-08
+3578555	Quartier du Roi	Quartier du Roi	Quartier du Roi,krtyh dw rwa,کرتیه دو روا	17.9095	-62.8458	P	PPL	BL		00				0		68	America/St_Barthelemy	2018-06-08
+3578558	Quartier de Lorient	Quartier de Lorient	Lorient,Quartier Lorient	17.90516	-62.82257	P	PPL	BL		00				0		33	America/St_Barthelemy	2018-12-02
+3578561	Anse de Public	Anse de Public	Anse de Public,Anse du Public,Baie Publiken	17.90361	-62.85336	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3578562	Public	Public	Public,Quartier de Public	17.9059	-62.85144	P	PPL	BL		00				0		26	America/St_Barthelemy	2018-12-03
+3578600	Île de la Pointe	Ile de la Pointe	Ile Petit Jean,Ile de la Pointe,Île Petit Jean,Île de la Pointe	17.92035	-62.87606	T	ISL	BL		00				0		10	America/St_Barthelemy	2017-01-14
+3578645	Anse de Petit Jean	Anse de Petit Jean	Anse de Petit Jean,Anse du Petit Jean	17.91667	-62.88333	H	COVE	BL		00				0		-9999	America/St_Barthelemy	2012-01-18
+3578671	Anse Petit Galet	Anse Petit Galet	Anse Petit Galet,Anse du Petit Galet,Petite Anse de Galet	17.89605	-62.85418	H	COVE	BL		00				0		7	America/St_Barthelemy	2018-06-08
+3578678	Petit Cul-de-Sac	Petit Cul-de-Sac	Petit Cul de Sac,Petit Cul-de-Sac	17.90256	-62.79639	P	PPL	BL		00				0		62	America/St_Barthelemy	2018-12-03
+3578679	Anse du Petit Cul-de-Sac	Anse du Petit Cul-de-Sac	Anse du Petit Cul-de-Sac,Petit Cul-de-Sac	17.90657	-62.79568	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3578698	Île Pelé	Ile Pele	Ile Pele,Ilet Naviro,Ilot Navire,Île Pelé,Îlet Naviro,Îlot Navire	17.95579	-62.87339	T	ISL	BL		00				0		22	America/St_Barthelemy	2018-06-08
+3578710	Anse Paschal	Anse Paschal	Anse Paschal	17.92495	-62.86647	H	COVE	BL		00				0		5	America/St_Barthelemy	2018-06-08
+3578722	Pain de Sucre	Pain de Sucre	Le Pain de Sucre,Pain de Sucre,Sugarloaf	17.89696	-62.8763	T	ISL	BL		00				0		17	America/St_Barthelemy	2018-06-08
+3578726	Canal de l'Ouest	Canal de l'Ouest	Canal de l'Ouest,West Channel	17.9	-62.86667	H	CHN	BL		00				0		-9999	America/St_Barthelemy	2012-01-18
+3578729	Fort Oscar	Fort Oscar	Fort Octave,Fort Oscar	17.89795	-62.8532	S	FT	BL		00				0		7	America/St_Barthelemy	2018-06-08
+3578755	Pointe de Nègre	Pointe de Negre	Pointe Negre,Pointe Nègre,Pointe de Negre,Pointe de Nègre	17.88008	-62.83989	T	PT	BL		00				0		15	America/St_Barthelemy	2018-06-08
+3578849	Anse de Marigot	Anse de Marigot	Anse de Marigot	17.91161	-62.8081	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3578852	Marigot	Marigot	Marigot,Quartier du Marigot	17.90985	-62.81468	P	PPL	BL		00				0		77	America/St_Barthelemy	2018-12-02
+3578902	Morne Lurin	Morne Lurin	Morne Lurin	17.89143	-62.83507	T	HLL	BL		00				0		162	America/St_Barthelemy	2018-06-08
+3578903	Lurin	Lurin	Lurin,lwrn  sn bartlmy,لورن، سن بارتلمی	17.89372	-62.84319	P	PPL	BL		00				0		125	America/St_Barthelemy	2018-06-08
+3578910	Pointe Lorient	Pointe Lorient	Pointe Lorient,Pointe d'Orient,Pointe de Lorient	17.91833	-62.81472	T	PT	BL		00				0		24	America/St_Barthelemy	2019-12-03
+3578911	Anse de Lorient	Anse de Lorient	Anse de Lorient	17.9083	-62.82415	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3578921	Pointe Lézarde	Pointe Lezarde	Pointe Lezarde,Pointe Lézarde	17.91661	-62.84479	T	PT	BL		00				0		16	America/St_Barthelemy	2018-06-08
+3578933	Les Petits Saints	Les Petits Saints	Les Petits Saints,Les Saintes	17.89485	-62.85636	T	ISLS	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3578947	Les Gros Îlets	Les Gros Ilets	Gros Ilets,Gros Îlets,Ilots Syndare,Les Gros Ilets,Les Gros Islets,Les Gros Îlets,Les Islettes,Îlots Syndare	17.89961	-62.86059	T	ISLS	BL		00				0		-9999	America/St_Barthelemy	2017-01-14
+3578948	Les Grenadins	Les Grenadins	Grenadiers,Les Grenadiers,Les Grenadins,Les Rochers Grenadiers	17.92379	-62.79518	T	RKS	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3578956	Les Baleines du Pain de Sucre	Les Baleines du Pain de Sucre	Les Baleines,Les Baleines du Pain de Sucre	17.89954	-62.87681	T	RKS	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3578974	Le Gouverneur	Le Gouverneur	Le Gouverneur,Quartier du Gouverneur	17.88777	-62.83867	P	PPL	BL		00				0		140	America/St_Barthelemy	2018-12-02
+3578986	Le Carénage	Le Carenage	Carenage,Carénage,Le Carenage,Le Carénage	17.9	-62.85	H	BAY	BL		00				0		43	America/St_Barthelemy	2012-01-18
+3578992	La Tortue	La Tortue	Ile Tortue,Ilet Tortue,Ilot Tortue,La Tortue,Île Tortue,Îlet Tortue,Îlot Tortue	17.91953	-62.79781	T	ISL	BL		00				0		16	America/St_Barthelemy	2017-01-14
+3579000	La Grande Saline	La Grande Saline	La Grande Saline,La Saline,Quartier de la Grande Saline	17.89472	-62.827	P	PPL	BL		00				0		11	America/St_Barthelemy	2018-12-02
+3579011	Mancel	Mancel	La Poule et les Poussins,Mancel	17.95195	-62.94688	T	ISLS	BL		00				0		8	America/St_Barthelemy	2018-06-08
+3579014	Petite Anse	Petite Anse	Galet Creek,La Petite Anse,Petite Anse	17.92126	-62.86343	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3579070	La Baleine	La Baleine	La Baleine,Roche Baleine	17.9	-62.86667	T	RK	BL		00				0		-9999	America/St_Barthelemy	2012-01-18
+3579073	Fort Karl	Fort Karl	Fort Karl	17.89325	-62.84985	S	FT	BL		00				0		18	America/St_Barthelemy	2018-06-08
+3579131	Fort Gustave	Fort Gustave	Fort Gustave,Fort Gustavia	17.90145	-62.85209	S	FT	BL		00				0		18	America/St_Barthelemy	2018-06-08
+3579132	Gustavia	Gustavia	Goustavia,Gustaf,Gustavi,Gustavia,Gustavija,Gustavio,Gustávia,Guthavia,Qustaviya,guseutabia,gustavhiya,gusutabia,gwiseutabia,gwstawya,ju si ta wei ya,ku s ta wi ya,kucutaviya,Γουσταβία,Густави,Густавия,Густавија,Густавія,گوستاویا,گوسٹاویا,गुस्ताव्हिया,குசுதாவியா,กุสตาวียา,გუსტავია,グスタビア,居斯塔维亚,구스타비아,귀스타비아	17.89618	-62.84978	P	PPLC	BL		00				5988		6	America/St_Barthelemy	2019-09-05
+3579145	Groupers	Groupers		17.95167	-62.94693	T	ISLS	BL		00				0		8	America/St_Barthelemy	2017-01-13
+3579166	Anse Gros Jean	Anse Gros Jean	Anse Gros Jean,Anse de Gros Jean,Anse du Gros Jean	17.91857	-62.87118	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3579196	Morne de Grand Fond	Morne de Grand Fond	Morne de Grand Fond	17.89574	-62.81702	T	HLL	BL		00				0		175	America/St_Barthelemy	2018-06-08
+3579197	Anse de Grand Fond	Anse de Grand Fond	Anse de Grand Fond,Anse du Grand Fond	17.8905	-62.80801	H	COVE	BL		00				0		3	America/St_Barthelemy	2018-06-08
+3579199	Grand Fond	Grand Fond	Grand Fond,Quartier du Grand Fond,ge lang feng,grnd fwnd,گرند فوند,格朗丰	17.89523	-62.81198	P	PPL	BL		00				0		18	America/St_Barthelemy	2018-06-08
+3579209	Anse de Grande Saline	Anse de Grande Saline	Anse de Grande Saline,Baie de la Grande Saline	17.88562	-62.82061	H	COVE	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3579210	Grande Saline	Grande Saline	Grande Saline,La Grande Saline	17.89144	-62.82487	H	PNDN	BL		00				0		6	America/St_Barthelemy	2018-06-08
+3579215	Grande Pointe	Grande Pointe	Grande Pointe	17.8785	-62.83724	T	PT	BL		00				0		11	America/St_Barthelemy	2018-06-08
+3579242	Anse du Grand Cul-de-Sac	Anse du Grand Cul-de-Sac	Anse de Grand Cul-de-Sac,Anse du Grand Cul-de-Sac,Grand Cul-de-Sac	17.91006	-62.80147	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3579243	Grand Cul-de-Sac	Grand Cul-de-Sac	Grand Cul-De-Sac,Grand Cul-de-Sac,gran kwl-dw-sk,گران کول-دو-سک	17.90962	-62.80427	P	PPL	BL		00				0		11	America/St_Barthelemy	2011-03-16
+3579260	Pointe du Gouverneur	Pointe du Gouverneur	Pointe du Gouverneur,Pointe du Gouvernour	17.88084	-62.82794	T	PT	BL		00				0		16	America/St_Barthelemy	2018-06-08
+3579261	Anse du Gouverneur	Anse du Gouverneur	Anse du Gouverneur	17.88193	-62.83224	H	COVE	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3579285	Anse de Gascon	Anse de Gascon	Anse Gascon,Anse de Gascogne,Anse de Gascon	17.91395	-62.8671	H	COVE	BL		00				0		3	America/St_Barthelemy	2018-06-08
+3579296	Anse à Galets	Anse a Galets	Anse Galet,Anse a Galets,Anse à Galets,Grande Anse de Galet	17.91764	-62.84751	H	COVE	BL		00				0		-9999	America/St_Barthelemy	2020-06-10
+3579312	Île Frégate	Ile Fregate	Ile Fregate,Ile Fregatte,Ilet Fregate,Ilot de la Fregate,Isla Fregate,Isla Frégate,ile Fregate,Île Frégate,Île Frégatte,Îlet Frégate,Îlot de la Frégate,île Frégate	17.93954	-62.83364	T	ISL	BL		00				0		8	America/St_Barthelemy	2011-12-28
+3579317	Fourmis	Fourmis	Fourmis,Islands Fourmis,Les Fourmis	17.88005	-62.80634	T	RKS	BL		00				0		-9999	America/St_Barthelemy	2018-06-08
+3579318	Île Fourchue	Ile Fourchue	Fourche,Ile Fourche,Ile Fourchue,Ile Fourchure,Ile de la Fourche,Île Fourche,Île Fourchue,Île Fourchure,Île de la Fourche	17.95836	-62.90362	T	ISL	BL		00				0		54	America/St_Barthelemy	2011-03-16
+3579340	Anse des Flamands	Anse des Flamands	Anse des Flamands	17.92003	-62.8571	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3579366	Pointe à Étages	Pointe a Etages	Pointe a Etages,Pointe à Étages	17.92144	-62.85079	T	PT	BL		00				0		29	America/St_Barthelemy	2018-06-08
+3579469	Anse à Corossol	Anse a Corossol	Anse Corossol,Anse a Corossol,Anse à Corossol,Baie Curasol	17.90741	-62.85707	H	BAY	BL		00				0		7	America/St_Barthelemy	2020-06-10
+3579470	Corossol	Corossol	Corossol,Quartier du Corossol,krwswl,کروسول	17.90857	-62.85563	P	PPL	BL		00				0		11	America/St_Barthelemy	2018-06-08
+3579482	Pointe à Colombier	Pointe a Colombier	Pointe Colombier,Pointe a Colombier,Pointe du Colombier,Pointe à Colombier	17.92701	-62.87206	T	PT	BL		00				0		10	America/St_Barthelemy	2020-06-10
+3579483	Anse de Colombier	Anse de Colombier	Anse de Colombier,Anse du Colombier,Baie du Colombier	17.92411	-62.87003	H	ANCH	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3579485	Colombier	Colombier	Colombier,Quartier de Colombier	17.91436	-62.85949	P	PPL	BL		00				0		97	America/St_Barthelemy	2018-12-02
+3579505	Île Coco	Ile Coco		17.87433	-62.8127	T	ISL	BL		00				0		16	America/St_Barthelemy	2017-01-14
+3579520	Île Chevreau	Ile Chevreau	Goat Island,Ile Bonhomme,Ile Chevreau,Ilot du Chevreau,Île Bonhomme,Île Chevreau,Îlot du Chevreau	17.93349	-62.85092	T	ISL	BL		00				0		87	America/St_Barthelemy	2020-06-10
+3579528	Anse de Chauvette	Anse de Chauvette	Anse de Chauvette	17.88261	-62.8262	H	COVE	BL		00				0		5	America/St_Barthelemy	2018-06-08
+3579551	Anse des Cayes	Anse des Cayes	Anse des Cayes	17.91237	-62.84321	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-08
+3579636	Île le Boulanger	Ile le Boulanger	Ile le Boulanger,Ilot Boulanger,Le Boulanger,Île le Boulanger,Îlot Boulanger	17.9563	-62.86781	T	ISL	BL		00				0		8	America/St_Barthelemy	2020-06-10
+3579677	Le Boeuf	Le Boeuf	Barrel of Beef,Beef-Barrel,Ilot Baril de Boeuf,Le Boeuf,Recif Barrel,Roche le Boeuf,Roche le Bœuf,Récif Barrel,Îlot Baril de Boeuf	17.93007	-62.8949	T	RK	BL	FR	00				0		-9999	America/St_Barthelemy	2017-01-14
+3579785	Anse des Flamands	Anse des Flamands	Quartier des Flamands	17.91774	-62.8575	P	PPL	BL		00				0		9	America/St_Barthelemy	2018-12-02
+3579787	Anse des Cayes	Anse des Cayes	Anse des Cayes,ans d kay,آنس د کای	17.91667	-62.85	P	PPL	BL	FR	00				0		67	America/St_Barthelemy	2016-01-07
+3740072	Pointe du Précipice	Pointe du Precipice	Pointe du Precipice,Pointe du Précipice	17.90657	-62.85525	T	PT	BL		00				0		47	America/St_Barthelemy	2018-06-09
+3740073	Pointe à Corossol	Pointe a Corossol	Pointe a Corossol,Pointe à Corossol	17.90853	-62.86038	T	PT	BL		00				0		29	America/St_Barthelemy	2018-06-09
+3740074	L'Âne Rouge	L'Ane Rouge	L'Ane Rouge,L'Âne Rouge	17.92031	-62.87796	T	ISLS	BL		00				0		-9999	America/St_Barthelemy	2019-12-04
+6482639	Tropical Hotel	TROPICAL HOTEL		17.9	-62.85	S	HTL	BL						0		43	America/St_Barthelemy	2008-03-02
+6497040	Manapany Cottage	Manapany Cottage		17.921	-62.8532	S	HTL	BL						0		36	America/St_Barthelemy	2008-03-02
+6497316	Christopher Hotel	Christopher Hotel		17.9183	-62.8157	S	HTL	BL						0		10	America/St_Barthelemy	2008-03-02
+6512023	Hotel Le Christopher	HOTEL LE CHRISTOPHER		17.9	-62.85	S	HTL	BL						0		43	America/St_Barthelemy	2008-03-02
+6513963	Residence St Barth	RESIDENCE ST BARTH		17.9	-62.85	S	HTL	BL						0		43	America/St_Barthelemy	2008-03-02
+6516727	Saint Barth S Beach Hotel	SAINT BARTH S BEACH HOTEL		17.9	-62.85	S	HTL	BL						0		43	America/St_Barthelemy	2008-03-02
+6524979	Le Sereno	LE SERENO		17.9138	-62.804	S	HTL	BL						0		1	America/St_Barthelemy	2008-03-02
+6532592	Eden Rock	EDEN ROCK		17.9	-62.85	S	HTL	BL						0		43	America/St_Barthelemy	2008-03-02
+6532604	Le Tom Beach Hotel	LE TOM BEACH HOTEL		17.9	-62.85	S	HTL	BL						0		43	America/St_Barthelemy	2008-03-02
+6619267	Pointe Milou	Pointe Milou		17.9161	-62.8091	T	PT	BL						0		31	America/St_Barthelemy	2008-03-02
+7289493	Baie des Flamands	Baie des Flamands		17.92023	-62.85729	H	BAY	BL						0		1	America/St_Barthelemy	2010-12-14
+10115105	Le Toiny	Le Toiny		17.89942	-62.79731	S	HTL	BL						0		19	America/St_Barthelemy	2015-02-24
+10115106	Guanahani & Spa	Guanahani & Spa		17.91241	-62.80382	S	HTL	BL						0		7	America/St_Barthelemy	2015-02-24
+11879334	Mont Jean	Mont Jean	Mont Jean	17.91385	-62.80975	P	PPL	BL		00				0		65	America/St_Barthelemy	2018-12-02
+11879335	Pointe Milou	Pointe Milou	Pointe Milou	17.91568	-62.81574	P	PPL	BL		00				0		56	America/St_Barthelemy	2018-12-03
+11879336	Pointe Mangin	Pointe Mangin	Pointe Mangin	17.91739	-62.80862	T	PT	BL		00				0		8	America/St_Barthelemy	2018-06-11
+11879337	Anse Maréchal	Anse Marechal	Anse Marechal,Anse Maréchal	17.91318	-62.80413	H	COVE	BL		00				0		1	America/St_Barthelemy	2018-06-11
+11879338	Grand Étang	Grand Etang	Grand Etang,Grand Étang	17.90697	-62.80223	H	LGN	BL		00				0		4	America/St_Barthelemy	2018-06-11
+11879339	Rade de Gustavia	Rade de Gustavia	Rade de Gustavia	17.89651	-62.84998	H	RDST	BL		00				0		7	America/St_Barthelemy	2018-06-11
+11879340	La Petite Islette	La Petite Islette	La Petite Islette	17.95669	-62.91089	T	ISL	BL		00				0		11	America/St_Barthelemy	2018-06-11
+11879341	Îlet au Vent	Ilet au Vent	Ilet au Vent,Îlet au Vent	17.95703	-62.89668	T	ISL	BL		00				0		10	America/St_Barthelemy	2018-06-11
+11879342	Grotte Mobars	Grotte Mobars	Grotte Mobars,Grottes Monbars	17.88002	-62.83652	S	CAVE	BL		00				0		27	America/St_Barthelemy	2018-06-11
+11879343	Fort Anglais	Fort Anglais	Fort Anglais	17.90094	-62.84873	S	FT	BL		00				0		85	America/St_Barthelemy	2018-06-11
+11879344	Carénage	Carenage	Carenage,Carénage	17.89761	-62.83791	P	PPL	BL		00				0		14	America/St_Barthelemy	2018-12-02
+11879345	Morne de Dépoudré	Morne de Depoudre	Morne de Depoudre,Morne de Dépoudré	17.89649	-62.83292	T	HLL	BL		00				0		113	America/St_Barthelemy	2018-06-11
+11879346	Col Tourterelle	Col Tourterelle	Col Tourterelle	17.89403	-62.83166	T	PASS	BL		00				0		60	America/St_Barthelemy	2018-06-11
+11879347	Anse de Grand Galet	Anse de Grand Galet	Anse de Grand Galet	17.89176	-62.84866	H	COVE	BL		00				0		9	America/St_Barthelemy	2018-06-11
+11879348	Le Château	Le Chateau	Le Chateau,Le Château	17.90587	-62.8456	T	HLL	BL		00				0		40	America/St_Barthelemy	2018-06-11
+11879349	Le Palidor	Le Palidor	Le Palidor	17.9115	-62.84848	T	HLL	BL		00				0		77	America/St_Barthelemy	2018-06-11
+11879350	La Grande Vigie	La Grande Vigie	La Grande Vigie	17.91393	-62.86356	T	HLL	BL		00				0		99	America/St_Barthelemy	2018-06-11
+11879351	Terre Neuve	Terre Neuve	Terre Neuve	17.9154	-62.85522	P	PPL	BL		00				0		80	America/St_Barthelemy	2018-12-03
+11879352	Merlette	Merlette	Merlette	17.91391	-62.85176	P	PPL	BL		00				0		93	America/St_Barthelemy	2018-12-02
+11879353	Grande Montagne	Grande Montagne	Grande Montagne,La Grande Montagne	17.91541	-62.85117	T	HLL	BL		00				0		137	America/St_Barthelemy	2018-06-11
+11879354	Anse des Lézards	Anse des Lezards	Anse des Lezards,Anse des Lézards	17.91578	-62.84508	P	PPL	BL		00				0		18	America/St_Barthelemy	2018-12-02
+11879355	Col de la Tourmente	Col de la Tourmente	Col de la Tourmente	17.90439	-62.84803	T	PASS	BL		00				0		38	America/St_Barthelemy	2018-06-11
+11879356	Morne Criquet	Morne Criquet	Morne Criquet	17.90432	-62.82883	T	HLL	BL		00				0		116	America/St_Barthelemy	2018-06-11
+11879357	La Petite Saline	La Petite Saline	La Petite Saline	17.90092	-62.82282	P	PPL	BL		00				0		30	America/St_Barthelemy	2018-12-03
+11879358	Les Baleines de Grand Fond	Les Baleines de Grand Fond	Les Baleines de Grand Fond	17.88406	-62.80487	T	RKS	BL		00				0		-9999	America/St_Barthelemy	2018-06-11
+11879359	Morne Rouge	Morne Rouge	Morne Rouge	17.88494	-62.813	T	HLL	BL		00				0		116	America/St_Barthelemy	2018-06-11
+11879971	Vitet	Vitet	Vitet	17.90436	-62.80977	P	PPL	BL		00				0		119	America/St_Barthelemy	2018-12-03
+11879972	Devet	Devet	Devet	17.90015	-62.80227	P	PPL	BL		00				0		116	America/St_Barthelemy	2018-12-02
+11879973	La Chaloupe	La Chaloupe	La Chaloupe	17.87791	-62.83658	T	ISL	BL		00				0		4	America/St_Barthelemy	2018-06-11
+11879974	Camaruche	Camaruche	Camaruche	17.90713	-62.81936	P	PPL	BL		00				0		51	America/St_Barthelemy	2018-12-02
+11879975	La Barrière des Quatre Vents	La Barriere des Quatre Vents	La Barriere des Quatre Vents,La Barrière des Quatre Vents	17.9083	-62.81784	T	HLL	BL		00				0		94	America/St_Barthelemy	2018-06-11
+11879976	La Pointe	La Pointe	La Pointe	17.89757	-62.85252	P	PPLX	BL		00				0		10	America/St_Barthelemy	2018-12-02
+11879977	Petites Anses	Petites Anses	Les Petites Anses,Petites Anses	17.90356	-62.78954	H	COVE	BL		00				0		7	America/St_Barthelemy	2018-06-11
+12902639	Caribe Frances	Caribe Frances		17.89589	-62.85207	P	PPL	BL						0		-9999	America/St_Barthelemy	2024-05-29
