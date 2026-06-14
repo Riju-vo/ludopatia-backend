@@ -1,3 +1,4 @@
+import logging
 from contextlib import asynccontextmanager
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -36,11 +37,19 @@ from predictor.presentation.api.schemas import (
     TeamProfileResponse,
 )
 
+logger = logging.getLogger(__name__)
+
 
 def create_app() -> FastAPI:
     settings = get_settings()
+    backend = settings.effective_repository_backend
     engine = None
-    if settings.api_repository_backend == "database" and settings.database_url:
+
+    if backend == "database":
+        if not settings.database_url:
+            raise RuntimeError(
+                "effective_repository_backend resolved to 'database' but DATABASE_URL is missing"
+            )
         engine = create_database_engine(settings)
         repository = DatabasePredictionRepository(
             factory=create_session_factory_from_engine(engine),
@@ -50,6 +59,14 @@ def create_app() -> FastAPI:
             data_dir=settings.data_dir,
             model_dir=settings.model_dir,
         )
+
+    logger.warning(
+        "API repository backend selected: %s | configured=%s | has_database_url=%s | app_env=%s",
+        backend,
+        settings.api_repository_backend,
+        bool(settings.database_url),
+        settings.app_env,
+    )
 
     @asynccontextmanager
     async def lifespan(_: FastAPI):
@@ -64,6 +81,7 @@ def create_app() -> FastAPI:
         version="0.1.0",
         lifespan=lifespan,
     )
+    app.state.repository_backend = backend
     app.add_middleware(
         CORSMiddleware,
         allow_origins=settings.cors_allowed_origins,

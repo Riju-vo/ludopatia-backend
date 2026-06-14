@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from functools import lru_cache
 from pathlib import Path
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
@@ -26,12 +28,19 @@ class Settings(BaseSettings):
         ]
     )
 
+    @field_validator("api_repository_backend", mode="before")
+    @classmethod
+    def normalize_api_repository_backend(cls, value: object) -> object:
+        if isinstance(value, str):
+            return value.strip().lower()
+        return value
+
     @field_validator("database_url", mode="before")
     @classmethod
     def normalize_database_url(cls, value: object) -> object:
         if not isinstance(value, str) or not value:
             return value
-        normalized = value
+        normalized = value.strip()
         if normalized.startswith("postgres://"):
             normalized = normalized.replace("postgres://", "postgresql+asyncpg://", 1)
         elif normalized.startswith("postgresql://"):
@@ -57,6 +66,12 @@ class Settings(BaseSettings):
         if isinstance(value, str):
             return [item.strip() for item in value.split(",") if item.strip()]
         return value
+
+    @property
+    def effective_repository_backend(self) -> str:
+        if self.database_url:
+            return "database"
+        return self.api_repository_backend
 
 
 @lru_cache
