@@ -6,7 +6,6 @@ build-backend = "hatchling.build"
 name = "world-cup-predictor"
 version = "0.1.0"
 description = "Trainable and auditable football probability model."
-readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "alembic>=1.14,<2",
@@ -53,4 +52,3 @@ select = ["E", "F", "I", "UP", "B", "SIM"]
 
 [tool.ruff.format]
 quote-style = "double"
-
